@@ -30,7 +30,7 @@ $.getJSON(eventListURL, function(data) {
     $.each(data.incitems, function(index, value) {
 
         //evblacklist//
-        var evBlacklist = ['trait', 'removetrait', 'pawn', 'replacetrait', 'backpack'];
+        var evBlacklist = ['torytalkervote', 'hodlbotvote', 'trait', 'removetrait', 'pawn', 'replacetrait', 'backpack'];
         if (evBlacklist.indexOf(value["abr"]) != -1){
             return;
         } 
@@ -60,8 +60,8 @@ $.getJSON(shopExtURL, function(data) {
     traitList = new List('traits', options, traitData);
 
     options = {
-        valueNames: ['defName', 'price'],
-        item: '<tr><td class="defName" scope="row"></td><td class="price"></td>'
+        valueNames: ['name', 'defName', 'price'],
+        item: '<tr><td class="name" scope="row"></td><td class="defName" scope="row"></td><td class="price"></td>'
     };
     var racesData = [];
     $.each(data.races, function(index, value) {
