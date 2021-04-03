@@ -1,6 +1,6 @@
-const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons-Shop/master/StoreItems.json";
-const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons-Shop/master/StoreIncidents.json";
-const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons-Shop/master/ShopExt.json";
+const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreIncidents.json";
+const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreIncidents.json";
+const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/ShopExt.json";
 
 let itemList = null;
 $.getJSON(itemListURL, function(data) {
@@ -33,7 +33,7 @@ $.getJSON(eventListURL, function(data) {
         var evBlacklist = ['trait', 'removetrait', 'pawn', 'replacetrait', 'backpack'];
         if (evBlacklist.indexOf(value["abr"]) != -1){
             return;
-        }
+        } 
 
         if (value["price"] > 0) {
             eventData.push(value);
