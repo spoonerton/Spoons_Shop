@@ -1,4 +1,4 @@
-const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreIncidents.json";
+const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreItems.json";
 const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreIncidents.json";
 const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/ShopExt.json";
 
