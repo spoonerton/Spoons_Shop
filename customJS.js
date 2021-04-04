@@ -60,8 +60,8 @@ $.getJSON(shopExtURL, function(data) {
     traitList = new List('traits', options, traitData);
 
     options = {
-        valueNames: ['name', 'defName', 'price'],
-        item: '<tr><td class="name" scope="row"></td><td class="defName" scope="row"></td><td class="price"></td>'
+        valueNames: ['name', 'price'],
+        item: '<tr><td class="name" scope="row"></td><td class="price"></td>'
     };
     var racesData = [];
     $.each(data.races, function(index, value) {
