@@ -185,7 +185,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!installedmods",
+    "usage": "!modlist",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -586,6 +586,14 @@
     "description": "It's like unstick, but safe for viewers to use.",
     "name": "Unstick me",
     "usage": "!unstickme",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "usage": "!",
     "userLevel": "Anyone",
     "shortcut": false
   },

@@ -1,0 +1,10 @@
+{
+	"defName":"Kindword",
+	"command":"",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"False",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"True"
+}
