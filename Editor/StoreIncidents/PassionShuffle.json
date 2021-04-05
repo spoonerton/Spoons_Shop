@@ -1,0 +1,9 @@
+{
+	"defName":"PassionShuffle",
+	"abbreviation":"passionshuffle",
+	"cost":"2000",
+	"eventCap":"4",
+	"karmaType":"Neutral",
+	"minPointsToFire":"0",
+	"maxWager":"0",
+}

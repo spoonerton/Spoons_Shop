@@ -1,0 +1,10 @@
+{
+	"defName":"FixAllPawns",
+	"command":"fixallpawns",
+	"enabled":"True",
+	"shouldBeInSeparateRoom":"False",
+	"requiresMod":"True",
+	"requiresAdmin":"False",
+	"outputMessage":"",
+	"isCustomMessage":"False"
+}
