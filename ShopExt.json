@@ -1664,18 +1664,18 @@
     },
     {
       "price": 3000,
-      "defName": "FoxMan",
+      "defName": "MG_Foxgirl",
       "enabled": true,
-      "name": "foxman",
+      "name": "foxgirl",
       "data": {
         "customName": false
       }
     },
     {
       "price": 3000,
-      "defName": "MG_Foxgirl",
+      "defName": "FoxMan",
       "enabled": true,
-      "name": "foxgirl",
+      "name": "foxman",
       "data": {
         "customName": false
       }
@@ -1790,18 +1790,18 @@
     },
     {
       "price": 3000,
-      "defName": "WolfMan",
+      "defName": "MG_Wolfgirl",
       "enabled": true,
-      "name": "wolfman",
+      "name": "wolfgirl",
       "data": {
         "customName": false
       }
     },
     {
       "price": 3000,
-      "defName": "MG_Wolfgirl",
+      "defName": "WolfMan",
       "enabled": true,
-      "name": "wolfgirl",
+      "name": "wolfman",
       "data": {
         "customName": false
       }
