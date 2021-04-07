@@ -14,6 +14,9 @@
     <!-- this my script-->
     <script src="customJS.js"></script>
     <style>
+        body {
+            background-color:#14202c;
+        }
         .jumbotron {
             background-image: url("monstergirls.png");
             background-repeat: no-repeat;
@@ -21,7 +24,39 @@
         }
         div.jumbotron div.container p, div.jumbotron div.container h1 {
             color: #FFFDEB;
+            text-shadow:1px 1px 3px #191829;
         }
+        div.form-group {
+            margin-top: 16px;
+        }
+        .btn-success {
+            background-color: #343a40;
+            border: 0px;
+            box-shadow: 0 0 0 0 #FFFDEB;
+        }
+        .btn-success:hover {
+            background-color: #343a40;
+        }
+        .btn-success:not(:disabled):not(.disabled).active, .btn-success:not(:disabled):not(.disabled):active, .show>.btn-success.dropdown-toggle {
+            background-color: #49525a;
+            box-shadow: 0 0 0 0 #FFFDEB;
+            border: 0px;
+        }
+        .btn-success:not(:disabled):not(.disabled).active:focus, .btn-success:not(:disabled):not(.disabled):active:focus, .show>.btn-success.dropdown-toggle:focus{
+            background-color: #49525a;
+            box-shadow: 0 0 0 0 #FFFDEB;
+            border: 0px;
+        }
+        .ng-scope {
+            background-color: #8e95af;
+        }
+        .list {
+            background-color: #99a0bb;
+        }
+        .list>tr:nth-child(odd) {
+            background-color: #a3abc7;
+        }​
+
     </style>
     <title>Spoon's Item List</title>
 </head>
