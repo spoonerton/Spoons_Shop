@@ -1573,7 +1573,7 @@
   ],
   "races": [
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "baphomet",
@@ -1582,7 +1582,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "BearMan",
       "enabled": true,
       "name": "bearman",
@@ -1591,7 +1591,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "CamelMan",
       "enabled": true,
       "name": "camelman",
@@ -1600,7 +1600,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Catgirl",
       "enabled": true,
       "name": "catgirl",
@@ -1609,7 +1609,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "centaur",
@@ -1618,7 +1618,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "cowgirl",
@@ -1627,7 +1627,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "dragon",
@@ -1636,7 +1636,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "ElephantMan",
       "enabled": true,
       "name": "elephantman",
@@ -1645,7 +1645,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "ElkMan",
       "enabled": true,
       "name": "elkman",
@@ -1654,7 +1654,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "forestfairy",
@@ -1663,7 +1663,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "foxgirl",
@@ -1672,7 +1672,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "FoxMan",
       "enabled": true,
       "name": "foxman",
@@ -1681,7 +1681,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "GazelleMan",
       "enabled": true,
       "name": "gazelleman",
@@ -1690,7 +1690,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "Fantasy_Goblin",
       "enabled": true,
       "name": "goblin",
@@ -1699,7 +1699,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "harpy",
@@ -1708,7 +1708,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -1717,7 +1717,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "icefairy",
@@ -1726,7 +1726,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "Alien_Kijin",
       "enabled": true,
       "name": "kijin",
@@ -1735,7 +1735,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "kurin",
@@ -1744,7 +1744,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "LynxMan",
       "enabled": true,
       "name": "lynxman",
@@ -1753,7 +1753,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "PigMan",
       "enabled": true,
       "name": "pigman",
@@ -1762,7 +1762,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "RaccoonMan",
       "enabled": true,
       "name": "raccoonman",
@@ -1771,7 +1771,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Slime",
       "enabled": true,
       "name": "slime",
@@ -1780,7 +1780,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "thrumbogirl",
@@ -1789,7 +1789,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "wolfgirl",
@@ -1798,7 +1798,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2000,
       "defName": "WolfMan",
       "enabled": true,
       "name": "wolfman",

@@ -282,7 +282,7 @@
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{

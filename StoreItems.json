@@ -452,7 +452,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 201,
+		"price": 83,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -1574,7 +1574,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 200,
+		"price": 117,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -2318,7 +2318,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 82,
+		"price": 58,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -2486,73 +2486,73 @@
 	},
 	{
 		"abr": "skilltrainer(animals)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "skilltrainer(construction)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "skilltrainer(medical)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "skilltrainer(melee)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "skilltrainer(mining)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "skilltrainer(plants)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "skilltrainer(shooting)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "skilltrainer(social)",
-		"price": 45000,
+		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -2636,7 +2636,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 200,
+		"price": 58,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -3440,13 +3440,13 @@
 	},
 	{
 		"abr": "infernoarmor",
-		"price": 5200,
+		"price": 8333,
 		"category": "Apparel",
 		"defname": "Kijin_EpicArmor"
 	},
 	{
 		"abr": "infernoheadgear",
-		"price": 1242,
+		"price": 8333,
 		"category": "Headgear",
 		"defname": "Kijin_EpicHelm"
 	},
@@ -4385,7 +4385,7 @@
 		"price": 221,
 		"category": "Furniture",
 		"defname": "WrestlingPit"
-	}
+	},
 	],
 	"total": 731
 }
