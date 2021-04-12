@@ -73,59 +73,6 @@ $.getJSON(shopExtURL, function(data) {
     racesList = new List('races', options, racesData);
 });
 
-$("#item-price-min").keyup(function() {
-    updateItemFilter();
-});
-
-$("#item-price-max").keyup(function() {
-    updateItemFilter();
-});
-
-function updateItemFilter() {
-    var minPrice = $("#item-price-min").val();
-    var maxPrice = $("#item-price-max").val();
-    itemList.filter(function(item) {
-        var allow = true;
-        if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-            allow = false;
-        }
-        if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-            allow = false;
-        }
-        return allow;
-    });
-    eventList.filter(function(item) {
-        var allow = true;
-        if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-            allow = false;
-        }
-        if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-            allow = false;
-        }
-        return allow;
-    });
-    traitList.filter(function(item) {
-        var allow = true;
-        if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-            allow = false;
-        }
-        if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-            allow = false;
-        }
-        return allow;
-    });
-    raceList.filter(function(item) {
-        var allow = true;
-        if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-            allow = false;
-        }
-        if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-            allow = false;
-        }
-        return allow;
-    });
-}
-
 var tabs = angular.module('tabs', [])
     .controller('tabCtrl', function($scope) {
         $scope.selected = "1";

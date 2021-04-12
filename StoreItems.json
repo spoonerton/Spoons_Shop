@@ -460,7 +460,7 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 12
+      "price": 15
     },
     {
       "abr": "chickenegg(unfert.)",
@@ -724,7 +724,7 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12
+      "price": 15
     },
     {
       "abr": "duckegg(unfert.)",
@@ -1030,7 +1030,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 83
+      "price": 200
     },
     {
       "abr": "gloomlight",
@@ -1576,7 +1576,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": 117
+      "price": 200
     },
     {
       "abr": "lung",
@@ -2320,7 +2320,7 @@
       "abr": "rat",
       "category": "Animal",
       "defname": "Rat",
-      "price": 58
+      "price": 580
     },
     {
       "abr": "ratmeat",
@@ -2488,73 +2488,73 @@
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": 1250
+      "price": 7500
     },
     {
       "abr": "slateblocks",
@@ -4480,19 +4480,19 @@
       "abr": "angelmothegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AngelMothEggFertilized",
-      "price": 1
+      "price": 15
     },
     {
       "abr": "angelmothlarva",
       "category": "Animal",
       "defname": "AA_AngelMothLarva",
-      "price": 25
+      "price": 250
     },
     {
       "abr": "animacolossus",
       "category": "Animal",
       "defname": "AA_AnimaColossus",
-      "price": 1083
+      "price": 3083
     },
     {
       "abr": "animalisk",
@@ -4558,7 +4558,7 @@
       "abr": "atispecegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AtispecEggFertilized",
-      "price": 1
+      "price": 15
     },
     {
       "abr": "atispecmeat",
@@ -4696,7 +4696,7 @@
       "abr": "bumbledroneegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BumbledroneQueenEggFertilized",
-      "price": 10
+      "price": 15
     },
     {
       "abr": "bumbledronehierophant",
@@ -4918,13 +4918,13 @@
       "abr": "draineregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DrainerEggFertilized",
-      "price": 1
+      "price": 15
     },
     {
       "abr": "drainerlarva",
       "category": "Animal",
       "defname": "AA_DrainerLarva",
-      "price": 25
+      "price": 250
     },
     {
       "abr": "dunealisk",
@@ -5020,7 +5020,7 @@
       "abr": "fissionmouse",
       "category": "Animal",
       "defname": "AA_FissionMouse",
-      "price": 58
+      "price": 580
     },
     {
       "abr": "fissionmousemeat",
@@ -5032,13 +5032,13 @@
       "abr": "fissionmouse,secondgeneration",
       "category": "Animal",
       "defname": "AA_FissionMouseSecond",
-      "price": 58
+      "price": 580
     },
     {
       "abr": "fissionmouse,thirdgeneration",
       "category": "Animal",
       "defname": "AA_FissionMouseThird",
-      "price": 58
+      "price": 580
     },
     {
       "abr": "flamingophoenix",
@@ -5236,7 +5236,7 @@
       "abr": "hugeanimapearl",
       "category": "Manufactured",
       "defname": "AA_HugeAnimaPearl",
-      "price": 83
+      "price": 5000
     },
     {
       "abr": "infectedaerofleet",
@@ -5308,7 +5308,7 @@
       "abr": "larvalatispec",
       "category": "Animal",
       "defname": "AA_LarvalAtispec",
-      "price": 25
+      "price": 250
     },
     {
       "abr": "lizardmeat",

@@ -42,6 +42,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PorqueNoLosDos",
+    "name": "Color Coded Mood Bar"
+  },
+  {
     "author": "Alias",
     "name": "De-generalize Work"
   },
@@ -98,16 +108,18 @@
     "name": "Character Editor"
   },
   {
-    "author": "wagon",
-    "name": "More Monster Girls",
-    "steamId": "2014838309",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men"
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women "
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -120,5 +132,27 @@
     "name": "Alpha Animals",
     "steamId": "1541721856",
     "version": "1.0.7.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Hatti",
+    "name": "CleaningArea"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
   }
 ]
