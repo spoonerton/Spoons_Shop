@@ -2320,7 +2320,7 @@
       "abr": "rat",
       "category": "Animal",
       "defname": "Rat",
-      "price": 580
+      "price": 58
     },
     {
       "abr": "ratmeat",
@@ -4486,7 +4486,7 @@
       "abr": "angelmothlarva",
       "category": "Animal",
       "defname": "AA_AngelMothLarva",
-      "price": 250
+      "price": 25
     },
     {
       "abr": "animacolossus",
@@ -4924,7 +4924,7 @@
       "abr": "drainerlarva",
       "category": "Animal",
       "defname": "AA_DrainerLarva",
-      "price": 250
+      "price": 25
     },
     {
       "abr": "dunealisk",
@@ -5308,7 +5308,7 @@
       "abr": "larvalatispec",
       "category": "Animal",
       "defname": "AA_LarvalAtispec",
-      "price": 250
+      "price": 25
     },
     {
       "abr": "lizardmeat",
