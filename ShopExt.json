@@ -1714,9 +1714,27 @@
   "races": [
     {
       "price": 2000,
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "baphomet",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
       "data": {
         "customName": false
       }
@@ -1771,6 +1789,15 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "dragon",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
       "data": {
         "customName": false
       }
@@ -1894,6 +1921,15 @@
     },
     {
       "price": 2000,
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
       "defName": "PigMan",
       "enabled": true,
       "name": "pigman",
@@ -1906,6 +1942,24 @@
       "defName": "RaccoonMan",
       "enabled": true,
       "name": "raccoonman",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Ratkin_Su",
+      "enabled": true,
+      "name": "Ratkin subject",
       "data": {
         "customName": false
       }
@@ -1942,60 +1996,6 @@
       "defName": "WolfMan",
       "enabled": true,
       "name": "wolfman",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Ratkin",
-      "enabled": true,
-      "name": "Ratkin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Ratkin_Su",
-      "enabled": true,
-      "name": "Ratkin subject",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1417,
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3167,
-      "defName": "ChjBattleDroid",
-      "enabled": true,
-      "name": "Battle droid",
       "data": {
         "customName": false
       }
