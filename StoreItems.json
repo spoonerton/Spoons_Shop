@@ -6307,11 +6307,1289 @@
       "price": 15
     },
     {
+      "abr": "air-conindoorunit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": 82
+    },
+    {
+      "abr": "air-conoutdoorunit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": 458
+    },
+    {
+      "abr": "android",
+      "category": "Animal",
+      "defname": "ChjAndroid",
+      "price": -10
+    },
+    {
+      "abr": "androidleather",
+      "category": "Leathers",
+      "defname": "Leather_ChJAndroid",
+      "price": 9
+    },
+    {
+      "abr": "androidmeat",
+      "category": "Meat",
+      "defname": "Meat_ChjAndroid",
+      "price": 3
+    },
+    {
+      "abr": "androidprinter",
+      "category": "Production",
+      "defname": "ChJAndroidPrinter",
+      "price": 7183
+    },
+    {
+      "abr": "ballista",
+      "category": "Security",
+      "defname": "RK_Ballista_Strait_Body",
+      "price": 1117
+    },
+    {
+      "abr": "ballistabolt(ap)",
+      "category": "Ballista bolt",
+      "defname": "BallistaBolt_AP",
+      "price": 92
+    },
+    {
+      "abr": "ballistabolt(he)",
+      "category": "Ballista bolt",
+      "defname": "BallistaBolt_Heavy",
+      "price": 92
+    },
+    {
+      "abr": "ballistabolt(normal)",
+      "category": "Ballista bolt",
+      "defname": "BallistaBolt_Normal",
+      "price": 92
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": 52
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": 124
+    },
+    {
+      "abr": "battledress",
+      "category": "Apparel",
+      "defname": "ChjAndroidMaidBattleDress",
+      "price": 1458
+    },
+    {
+      "abr": "battledroid",
+      "category": "Animal",
+      "defname": "ChjBattleDroid",
+      "price": -10
+    },
+    {
+      "abr": "battledroidassemblykit",
+      "category": "Items",
+      "defname": "ChjAndroidBattleDroidAssemblyKit",
+      "price": 3958
+    },
+    {
+      "abr": "battlemaidhat",
+      "category": "Headgear",
+      "defname": "ChjAndroidBattleMaidHat",
+      "price": 450
+    },
+    {
+      "abr": "bfr3000",
+      "category": "Ranged weapons",
+      "defname": "RK_BFR",
+      "price": 3133
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "bioniccattail",
+      "category": "Bionic",
+      "defname": "Nr_BioCatTail",
+      "price": 1717
+    },
+    {
+      "abr": "bionictail",
+      "category": "Bionic",
+      "defname": "RK_BionicTail",
+      "price": 1717
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": 146
+    },
+    {
+      "abr": "builder(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_I",
+      "price": 833
+    },
+    {
+      "abr": "builder(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_II",
+      "price": 2058
+    },
+    {
+      "abr": "builder(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_III",
+      "price": 4533
+    },
+    {
+      "abr": "builder(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_IV",
+      "price": 9417
+    },
+    {
+      "abr": "builder(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Builder_V",
+      "price": 19092
+    },
+    {
+      "abr": "cathoodie",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatHoodie",
+      "price": 181
+    },
+    {
+      "abr": "ceilingfan1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": 184
+    },
+    {
+      "abr": "ceilingfan2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": 184
+    },
+    {
+      "abr": "chatoyansniperrifle",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_ChRifle",
+      "price": 1783
+    },
+    {
+      "abr": "clawbar",
+      "category": "Melee weapons",
+      "defname": "Nr_Clawbar",
+      "price": 183
+    },
+    {
+      "abr": "cleanerbasestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner",
+      "price": 833
+    },
+    {
+      "abr": "cleaner(ii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_II",
+      "price": 2058
+    },
+    {
+      "abr": "cleaner(iii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_III",
+      "price": 4533
+    },
+    {
+      "abr": "cleaner(iv)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_IV",
+      "price": 9417
+    },
+    {
+      "abr": "cleaner(v)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner_V",
+      "price": 19092
+    },
+    {
+      "abr": "corelauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_ChjCoreLauncher",
+      "price": 2283
+    },
+    {
+      "abr": "crafter(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_I",
+      "price": 833
+    },
+    {
+      "abr": "crafter(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_II",
+      "price": 2058
+    },
+    {
+      "abr": "crafter(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_III",
+      "price": 4533
+    },
+    {
+      "abr": "crafter(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_IV",
+      "price": 9417
+    },
+    {
+      "abr": "crafter(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Crafter_V",
+      "price": 19092
+    },
+    {
+      "abr": "cribitepistol",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_CriPistol",
+      "price": 367
+    },
+    {
+      "abr": "crossback",
+      "category": "Ratkin apparel",
+      "defname": "RK_CrossBack",
+      "price": 187
+    },
+    {
+      "abr": "droid",
+      "category": "Animal",
+      "defname": "ChjDroid",
+      "price": -10
+    },
+    {
+      "abr": "droidassemblykit",
+      "category": "Items",
+      "defname": "ChjAndroidDroidAssemblyKit",
+      "price": 1775
+    },
+    {
+      "abr": "droidbattery",
+      "category": "Manufactured",
+      "defname": "ChjAndroidBattery",
+      "price": 17
+    },
+    {
+      "abr": "droidchemfuelgeneratorbelt",
+      "category": "Apparel",
+      "defname": "ChjAndroid_ChemfuelGenerator",
+      "price": 327
+    },
+    {
+      "abr": "droidfabricator",
+      "category": "Misc",
+      "defname": "ChJDroidPrinter",
+      "price": 1825
+    },
+    {
+      "abr": "droidrepairkit",
+      "category": "Manufactured",
+      "defname": "ChjDroidRepairKit",
+      "price": 367
+    },
+    {
+      "abr": "droidrepairparts",
+      "category": "Manufactured",
+      "defname": "ChjDroidRepairParts",
+      "price": 28
+    },
+    {
+      "abr": "droidsolarpanelduster",
+      "category": "Apparel",
+      "defname": "ChjAndroid_SolarDuster",
+      "price": 650
+    },
+    {
+      "abr": "electricboiler",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": 425
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": 316
+    },
+    {
+      "abr": "empbomb",
+      "category": "Special",
+      "defname": "RK_EmpBomb",
+      "price": 858
+    },
+    {
+      "abr": "er(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_I",
+      "price": 833
+    },
+    {
+      "abr": "er(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_II",
+      "price": 2058
+    },
+    {
+      "abr": "er(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_III",
+      "price": 4533
+    },
+    {
+      "abr": "er(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_IV",
+      "price": 9417
+    },
+    {
+      "abr": "er(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_ER_V",
+      "price": 19092
+    },
+    {
+      "abr": "fakeear",
+      "category": "Prosthetic",
+      "defname": "RK_FakeEar",
+      "price": 152
+    },
+    {
+      "abr": "faketail",
+      "category": "Prosthetic",
+      "defname": "RK_FakeTail",
+      "price": 240
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": 104
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": 52
+    },
+    {
+      "abr": "gasboiler",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": 425
+    },
+    {
+      "abr": "haulerbasestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler",
+      "price": 833
+    },
+    {
+      "abr": "hauler(ii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_II",
+      "price": 2058
+    },
+    {
+      "abr": "hauler(iii)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_III",
+      "price": 4533
+    },
+    {
+      "abr": "hauler(iv)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_IV",
+      "price": 9417
+    },
+    {
+      "abr": "hauler(v)basestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler_V",
+      "price": 19092
+    },
+    {
+      "abr": "hibernationpad",
+      "category": "Production",
+      "defname": "ChjDroidHibernationPad",
+      "price": 104
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": 800
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": 245
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "irrigationsprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
+      "price": 102
+    },
+    {
+      "abr": "karambit",
+      "category": "Melee weapons",
+      "defname": "Nr_Karambit",
+      "price": 98
+    },
+    {
+      "abr": "kinghamster",
+      "category": "Animal",
+      "defname": "RK_KingHamster",
+      "price": 750
+    },
+    {
+      "abr": "kinghamsterfur",
+      "category": "Leathers",
+      "defname": "RK_Leather_KingHamster",
+      "price": 4
+    },
+    {
+      "abr": "kinghamstermeat",
+      "category": "Meat",
+      "defname": "Meat_RK_KingHamster",
+      "price": 3
+    },
+    {
+      "abr": "kinghamsterwool",
+      "category": "Textiles",
+      "defname": "RK_Wool_KingHamster",
+      "price": 4
+    },
+    {
+      "abr": "kitchensink",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": 167
+    },
+    {
+      "abr": "kitchen(i)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_I",
+      "price": 833
+    },
+    {
+      "abr": "kitchen(ii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_II",
+      "price": 2058
+    },
+    {
+      "abr": "kitchen(iii)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_III",
+      "price": 4533
+    },
+    {
+      "abr": "kitchen(iv)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_IV",
+      "price": 9417
+    },
+    {
+      "abr": "kitchen(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Kitchen_V",
+      "price": 19092
+    },
+    {
+      "abr": "largeradiator",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": 252
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": 55
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": 52
+    },
+    {
+      "abr": "logboiler",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": 642
+    },
+    {
+      "abr": "machairodus",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_FlakCaster",
+      "price": 7000
+    },
+    {
+      "abr": "maiddress",
+      "category": "Apparel",
+      "defname": "ChjAndroidMaidOutfit",
+      "price": 517
+    },
+    {
+      "abr": "minifoldpdw",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_MfoldPdw",
+      "price": 625
+    },
+    {
+      "abr": "minisword",
+      "category": "Special melee weapons",
+      "defname": "Nr_MiniSword",
+      "price": 1667
+    },
+    {
+      "abr": "n.p.crifle",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_NpcRifle",
+      "price": 1483
+    },
+    {
+      "abr": "nyaron",
+      "category": "Animal",
+      "defname": "Alien_Nyaron",
+      "price": -10
+    },
+    {
+      "abr": "nyaroncombatjacket",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatJacket",
+      "price": 933
+    },
+    {
+      "abr": "nyaronleather",
+      "category": "Leathers",
+      "defname": "Leather_Nyaron",
+      "price": 7
+    },
+    {
+      "abr": "nyaronmaidcostume",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatMaid",
+      "price": 322
+    },
+    {
+      "abr": "nyaronmaidhairband",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatMaidBand",
+      "price": 93
+    },
+    {
+      "abr": "nyaronmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Nyaron",
+      "price": 3
+    },
+    {
+      "abr": "nyaronpowerarmor",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_PowerArmor",
+      "price": 2633
+    },
+    {
+      "abr": "nyaronsimpleuniform",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_SUniform",
+      "price": 34
+    },
+    {
+      "abr": "omni(v)basestation",
+      "category": "Furniture",
+      "defname": "RPP_RechargeStation_Omni_V",
+      "price": 19092
+    },
+    {
+      "abr": "plasmsword",
+      "category": "Special melee weapons",
+      "defname": "Nr_PlasmSword",
+      "price": 1667
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": 50
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170
+    },
+    {
+      "abr": "pulpit",
+      "category": "Furniture",
+      "defname": "RK_Pulpit",
+      "price": 202
+    },
+    {
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": 85
+    },
+    {
+      "abr": "ratkin",
+      "category": "Animal",
+      "defname": "Ratkin",
+      "price": -10
+    },
+    {
+      "abr": "ratkinapronskirt",
+      "category": "Ratkin apparel",
+      "defname": "RK_ApronSkirt",
+      "price": 248
+    },
+    {
+      "abr": "ratkinautocrossbow",
+      "category": "Ranged weapons",
+      "defname": "RK_AutoCrossBow",
+      "price": 550
+    },
+    {
+      "abr": "ratkinaxe",
+      "category": "Melee weapons",
+      "defname": "RK_Axe",
+      "price": 283
+    },
+    {
+      "abr": "ratkinbackpack",
+      "category": "Ratkin apparel",
+      "defname": "RK_Backpack",
+      "price": 215
+    },
+    {
+      "abr": "ratkinbattlesuit",
+      "category": "Ratkin apparel",
+      "defname": "RK_BattleSuit",
+      "price": 1767
+    },
+    {
+      "abr": "ratkincannon",
+      "category": "Security",
+      "defname": "RK_Cannon_Strait_Body",
+      "price": 1058
+    },
+    {
+      "abr": "ratkincannonshell",
+      "category": "Ratkin Cannon Shell",
+      "defname": "Big_mouse",
+      "price": 92
+    },
+    {
+      "abr": "ratkincardigan",
+      "category": "Ratkin apparel",
+      "defname": "RK_Cardigan",
+      "price": 283
+    },
+    {
+      "abr": "ratkinchefhat",
+      "category": "Ratkin apparel",
+      "defname": "RK_ChefHat",
+      "price": 162
+    },
+    {
+      "abr": "ratkinchefsuit",
+      "category": "Ratkin apparel",
+      "defname": "RK_ChefSuit",
+      "price": 375
+    },
+    {
+      "abr": "ratkincleaver",
+      "category": "Melee weapons",
+      "defname": "RK_Cleaver",
+      "price": 247
+    },
+    {
+      "abr": "ratkincoif",
+      "category": "Ratkin apparel",
+      "defname": "RK_Coif",
+      "price": 121
+    },
+    {
+      "abr": "ratkincrossbow",
+      "category": "Ranged weapons",
+      "defname": "RK_Crossbow",
+      "price": 158
+    },
+    {
+      "abr": "ratkindagger",
+      "category": "Melee weapons",
+      "defname": "RK_Dagger",
+      "price": 128
+    },
+    {
+      "abr": "ratkinearcostume",
+      "category": "Ratkin apparel",
+      "defname": "RK_EarCostume",
+      "price": 342
+    },
+    {
+      "abr": "ratkinelectricsmithy",
+      "category": "Production",
+      "defname": "RK_ElectricSmithy",
+      "price": 533
+    },
+    {
+      "abr": "ratkinelectrictailorbench",
+      "category": "Production",
+      "defname": "RK_ElectricTailoringBench",
+      "price": 542
+    },
+    {
+      "abr": "ratkinenhancedcrossbow",
+      "category": "Ranged weapons",
+      "defname": "RK_EnhanceCrossBow",
+      "price": 263
+    },
+    {
+      "abr": "ratkinexplorerhat",
+      "category": "Ratkin apparel",
+      "defname": "RK_ExplorerHat",
+      "price": 141
+    },
+    {
+      "abr": "ratkinexplorerwear",
+      "category": "Ratkin apparel",
+      "defname": "RK_ExplorerWear",
+      "price": 358
+    },
+    {
+      "abr": "ratkinflatcolorcoat",
+      "category": "Ratkin apparel",
+      "defname": "RK_FlatColorCoat",
+      "price": 742
+    },
+    {
+      "abr": "ratkinflechetterifle",
+      "category": "Ranged weapons",
+      "defname": "RK_FlechetteRifle",
+      "price": 658
+    },
+    {
+      "abr": "ratkinflechettesniperrifle",
+      "category": "Ranged weapons",
+      "defname": "RK_FlechetteSniperRifle",
+      "price": 775
+    },
+    {
+      "abr": "ratkinfork",
+      "category": "Melee weapons",
+      "defname": "RK_Fork",
+      "price": 283
+    },
+    {
+      "abr": "ratkinfrillonepiece",
+      "category": "Ratkin apparel",
+      "defname": "RK_FrillOnepiece",
+      "price": 742
+    },
+    {
+      "abr": "ratkinfueledsmithy",
+      "category": "Production",
+      "defname": "RK_FueledSmithy",
+      "price": 367
+    },
+    {
+      "abr": "ratkinglasses",
+      "category": "Ratkin apparel",
+      "defname": "RK_ResearchGlasses",
+      "price": 103
+    },
+    {
+      "abr": "ratkinguardeneruniform",
+      "category": "Ratkin apparel",
+      "defname": "RK_GaurdenUniform",
+      "price": 442
+    },
+    {
+      "abr": "ratkingunlance(normal)",
+      "category": "Melee weapons",
+      "defname": "RK_Gunlance_NormalType",
+      "price": 1283
+    },
+    {
+      "abr": "ratkingunlance(spread)",
+      "category": "Melee weapons",
+      "defname": "RK_Gunlance_SpreadType",
+      "price": 1283
+    },
+    {
+      "abr": "ratkinhaircorsage",
+      "category": "Ratkin apparel",
+      "defname": "RK_HairCorsage",
+      "price": 358
+    },
+    {
+      "abr": "ratkinhandtailorbench",
+      "category": "Production",
+      "defname": "RK_HandTailoringBench",
+      "price": 225
+    },
+    {
+      "abr": "ratkinheadband",
+      "category": "Ratkin apparel",
+      "defname": "RK_HeadBand",
+      "price": 383
+    },
+    {
+      "abr": "ratkinheavylance",
+      "category": "Melee weapons",
+      "defname": "RK_HeavyLance",
+      "price": 875
+    },
+    {
+      "abr": "ratkinheavyshield",
+      "category": "Ratkin apparel",
+      "defname": "RK_HeavyShield",
+      "price": 800
+    },
+    {
+      "abr": "ratkinhoe",
+      "category": "Melee weapons",
+      "defname": "RK_Hockey",
+      "price": 283
+    },
+    {
+      "abr": "ratkinlongsword",
+      "category": "Melee weapons",
+      "defname": "RK_LongSword",
+      "price": 383
+    },
+    {
+      "abr": "ratkinmagicwand",
+      "category": "Melee weapons",
+      "defname": "RK_MagicWand",
+      "price": 104
+    },
+    {
+      "abr": "ratkinmaskhelmet",
+      "category": "Ratkin apparel",
+      "defname": "RK_Mask",
+      "price": 1092
+    },
+    {
+      "abr": "ratkinmaskhelmet",
+      "category": "Ratkin apparel",
+      "defname": "RK_MaskB",
+      "price": 1092
+    },
+    {
+      "abr": "ratkinmeat",
+      "category": "Meat",
+      "defname": "Meat_Ratkin",
+      "price": 3
+    },
+    {
+      "abr": "ratkinmilitaryhelmet",
+      "category": "Ratkin apparel",
+      "defname": "RK_BulletProofHelmet",
+      "price": 525
+    },
+    {
+      "abr": "ratkinmuffler",
+      "category": "Ratkin apparel",
+      "defname": "RK_Muffler",
+      "price": 132
+    },
+    {
+      "abr": "ratkinnundress",
+      "category": "Ratkin apparel",
+      "defname": "RK_SistersDerss",
+      "price": 775
+    },
+    {
+      "abr": "ratkinonehandedsword",
+      "category": "Melee weapons",
+      "defname": "RK_OneHanded",
+      "price": 450
+    },
+    {
+      "abr": "ratkinorderuniform",
+      "category": "Ratkin apparel",
+      "defname": "RK_OrderUniform",
+      "price": 1100
+    },
+    {
+      "abr": "ratkinoutdoorbackpack",
+      "category": "Ratkin apparel",
+      "defname": "RK_OutdoorBackpack",
+      "price": 311
+    },
+    {
+      "abr": "ratkinpackage",
+      "category": "Ratkin apparel",
+      "defname": "RK_Sack",
+      "price": 683
+    },
+    {
+      "abr": "ratkinplatearmor",
+      "category": "Ratkin apparel",
+      "defname": "RK_Plate",
+      "price": 733
+    },
+    {
+      "abr": "ratkinplatehelma",
+      "category": "Ratkin apparel",
+      "defname": "RK_PlateHelmA",
+      "price": 320
+    },
+    {
+      "abr": "ratkinplatehelmb",
+      "category": "Ratkin apparel",
+      "defname": "RK_PlateHelmB",
+      "price": 320
+    },
+    {
+      "abr": "ratkinplatehelmc",
+      "category": "Ratkin apparel",
+      "defname": "RK_PlateHelmC",
+      "price": 320
+    },
+    {
+      "abr": "ratkinprototypepulserifle",
+      "category": "Ranged weapons",
+      "defname": "RK_PrototypePulseRifle",
+      "price": 2150
+    },
+    {
+      "abr": "ratkinresearchgown",
+      "category": "Ratkin apparel",
+      "defname": "RK_ResearchGown",
+      "price": 375
+    },
+    {
+      "abr": "ratkinribbonhairband",
+      "category": "Ratkin apparel",
+      "defname": "RK_RibbonHairBand",
+      "price": 358
+    },
+    {
+      "abr": "ratkinrifle",
+      "category": "Ranged weapons",
+      "defname": "RK_Rifle",
+      "price": 467
+    },
+    {
+      "abr": "ratkinroyalcrown",
+      "category": "Ratkin apparel",
+      "defname": "RK_RoyalCrown",
+      "price": 400
+    },
+    {
+      "abr": "ratkinshotgun",
+      "category": "Ranged weapons",
+      "defname": "RK_Rifle_line",
+      "price": 324
+    },
+    {
+      "abr": "ratkinsniperrifle",
+      "category": "Ranged weapons",
+      "defname": "RK_SniperRifle",
+      "price": 592
+    },
+    {
+      "abr": "ratkinstrawhat",
+      "category": "Ratkin apparel",
+      "defname": "RK_StrawHat",
+      "price": 41
+    },
+    {
+      "abr": "ratkinsubject",
+      "category": "Animal",
+      "defname": "Ratkin_Su",
+      "price": -10
+    },
+    {
+      "abr": "ratkinsubjectmeat",
+      "category": "Meat",
+      "defname": "Meat_Ratkin_Su",
+      "price": 3
+    },
+    {
+      "abr": "ratkinsummerdress",
+      "category": "Ratkin apparel",
+      "defname": "RK_SummerDress",
+      "price": 267
+    },
+    {
+      "abr": "ratkintwohandedsword",
+      "category": "Melee weapons",
+      "defname": "RK_TwoHanded",
+      "price": 817
+    },
+    {
+      "abr": "ratkinveil",
+      "category": "Ratkin apparel",
+      "defname": "RK_SistersVeil",
+      "price": 392
+    },
+    {
+      "abr": "ratkinwinterrobe",
+      "category": "Ratkin apparel",
+      "defname": "RK_WinterRobe",
+      "price": 342
+    },
+    {
+      "abr": "ratkinwoodenlance",
+      "category": "Melee weapons",
+      "defname": "RK_LightLance",
+      "price": 400
+    },
+    {
+      "abr": "ratkinwoodenshield",
+      "category": "Ratkin apparel",
+      "defname": "RK_WoodenShield",
+      "price": 392
+    },
+    {
+      "abr": "ratkinwoolenhat",
+      "category": "Ratkin apparel",
+      "defname": "RK_WoolenHat",
+      "price": 98
+    },
+    {
+      "abr": "ratkinworkerwear",
+      "category": "Ratkin apparel",
+      "defname": "RK_WorkerWear",
+      "price": 325
+    },
+    {
+      "abr": "rebelpistol",
+      "category": "Ranged weapons",
+      "defname": "ChjAndroidGun_Rebelpistol",
+      "price": 323
+    },
+    {
+      "abr": "rebelrifle",
+      "category": "Ranged weapons",
+      "defname": "ChjAndroidGun_RebelRifle",
+      "price": 925
+    },
+    {
+      "abr": "roboticcomponent",
+      "category": "Items",
+      "defname": "RPP_Component",
+      "price": 333
+    },
+    {
+      "abr": "roboticmatrix(advanced)",
+      "category": "Items",
+      "defname": "RPP_Matrix_IV",
+      "price": 8817
+    },
+    {
+      "abr": "roboticmatrix(anti-logic)",
+      "category": "Items",
+      "defname": "RPP_Matrix_V",
+      "price": 17967
+    },
+    {
+      "abr": "roboticmatrix(basic)",
+      "category": "Items",
+      "defname": "RPP_Matrix_II",
+      "price": 1825
+    },
+    {
+      "abr": "roboticmatrix(intermediate)",
+      "category": "Items",
+      "defname": "RPP_Matrix_III",
+      "price": 4158
+    },
+    {
+      "abr": "roboticmatrix(simple)",
+      "category": "Items",
+      "defname": "RPP_Matrix_I",
+      "price": 775
+    },
+    {
+      "abr": "roboticsworkbench",
+      "category": "Production",
+      "defname": "Table_RPP_RoboticsBench",
+      "price": 1475
+    },
+    {
+      "abr": "rotti",
+      "category": "Animal",
+      "defname": "Rotti",
+      "price": 667
+    },
+    {
+      "abr": "rottihat",
+      "category": "Ratkin apparel",
+      "defname": "RK_RottiHat",
+      "price": 57
+    },
+    {
+      "abr": "rottimeat",
+      "category": "Meat",
+      "defname": "Meat_Rotti",
+      "price": 3
+    },
+    {
+      "abr": "royalrobe",
+      "category": "Ratkin apparel",
+      "defname": "RK_RoyalRobe",
+      "price": 458
+    },
+    {
+      "abr": "santahat",
+      "category": "Ratkin apparel",
+      "defname": "RK_SantaHat",
+      "price": 98
+    },
+    {
+      "abr": "santapackage",
+      "category": "Ratkin apparel",
+      "defname": "RK_SantaSack",
+      "price": 683
+    },
+    {
+      "abr": "santarobe",
+      "category": "Ratkin apparel",
+      "defname": "RK_SantaRobe",
+      "price": 342
+    },
+    {
+      "abr": "series-epcontainer",
+      "category": "Nyaron stuffs",
+      "defname": "Nr_EPC",
+      "price": 1000
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182
+    },
+    {
+      "abr": "strawberrybeer",
+      "category": "Drugs",
+      "defname": "RK_StrawberryBeer",
+      "price": 25
+    },
+    {
+      "abr": "thermalwrapping",
+      "category": "Apparel",
+      "defname": "ChJAndroidThermalBandages",
+      "price": 62
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": 86
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": 153
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": 433
+    },
+    {
+      "abr": "waterbutt",
+      "category": "Furniture",
+      "defname": "WaterButt",
+      "price": 89
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52
+    },
+    {
+      "abr": "whitecoat",
+      "category": "Ratkin apparel",
+      "defname": "RK_WhiteCoat",
+      "price": 2600
+    },
+    {
+      "abr": "wyvernammo(normal)",
+      "category": "Manufactured",
+      "defname": "RK_WyvernAmmo_NormalType",
+      "price": 92
+    },
+    {
+      "abr": "wyvernammo(spread)",
+      "category": "Manufactured",
+      "defname": "RK_WyvernAmmo_SpreadType",
+      "price": 92
+    },
+    {
+      "abr": "xeushammer",
+      "category": "Special melee weapons",
+      "defname": "Nr_Xeushammer",
+      "price": 1667
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 1052
+  "total": 1265
 }
