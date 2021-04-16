@@ -6,40 +6,10 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "8.0.1"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "the_heye",
-    "name": "Twitch Chat",
-    "steamId": "2075845400",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "5.0.3.2"
   },
   {
     "author": "erdelf",
@@ -48,8 +18,102 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "void",
+    "name": "Character Editor"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Faction Blender"
+  },
+  {
     "author": "Alias",
     "name": "De-generalize Work"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.9.2035"
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest",
+    "steamId": "2263021260",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "CleaningArea"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.14"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Rimhair"
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women "
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men"
   },
   {
     "author": "ssulunge",
@@ -62,15 +126,17 @@
     "name": "FemaleBB BodyType for Alien Races "
   },
   {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1204079337",
-    "version": "1.0.0.0"
+    "author": "Haplo",
+    "name": "Misc. Robots"
   },
   {
-    "author": "wagon",
-    "name": "More Monster Girls",
-    "steamId": "2014838309",
+    "author": "Alaestor",
+    "name": "Misc. Robots++"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
     "version": "1.0.0.0"
   },
   {
@@ -81,12 +147,6 @@
     "author": "ssulunge",
     "name": "Kijin Race 2.0",
     "steamId": "1918120749",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
     "version": "1.0.0.0"
   },
   {
@@ -102,64 +162,6 @@
     "name": "Fantasy Goblins Updated"
   },
   {
-    "author": "void",
-    "name": "Character Editor"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
-  },
-  {
-    "author": "JI_Won",
-    "name": "Won hair_men"
-  },
-  {
-    "author": "JI_Won",
-    "name": "Won hair_women "
-  },
-  {
-    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.7.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.14"
-  },
-  {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.9.2035"
-  },
-  {
     "author": "Gloomylynx Nukafrog",
     "name": "NewRatkinPlus"
   },
@@ -168,33 +170,45 @@
     "name": "Nyaron race"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
     "version": "1.0.0.0"
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Rimhair"
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.7.0"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
     "version": "1.0.0.0"
   },
   {
-    "author": "YAYO",
-    "name": "Real Faction Guest",
-    "steamId": "2263021260",
-    "version": "0.5.0.0"
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
   },
   {
-    "author": "Alaestor",
-    "name": "Misc. Robots++"
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
   }
 ]
