@@ -1723,6 +1723,15 @@
     },
     {
       "price": 2000,
+      "defName": "Arachne",
+      "enabled": true,
+      "name": "arachne",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
@@ -1744,6 +1753,33 @@
       "defName": "BearMan",
       "enabled": true,
       "name": "bear man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Alien_Bunlander",
+      "enabled": true,
+      "name": "Bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Alien_BunTribeNew",
+      "enabled": true,
+      "name": "Bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "Bun",
       "data": {
         "customName": false
       }
@@ -1933,6 +1969,15 @@
       "defName": "PigMan",
       "enabled": true,
       "name": "pig man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2000,
+      "defName": "Rabbie",
+      "enabled": true,
+      "name": "Rabbie",
       "data": {
         "customName": false
       }

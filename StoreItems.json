@@ -3298,7 +3298,7 @@
       "abr": "fakehorn",
       "category": "Prosthetic",
       "defname": "MG_FakeHorn",
-      "price": 17
+      "price": 152
     },
     {
       "abr": "fakekurintail",
@@ -7597,11 +7597,455 @@
       "price": 1667
     },
     {
+      "abr": "abasicshirt",
+      "category": "Arachne apparel",
+      "defname": "Arachne_Shirt",
+      "price": 211
+    },
+    {
+      "abr": "arachne",
+      "category": "Animal",
+      "defname": "Arachne",
+      "price": -10
+    },
+    {
+      "abr": "arachneassassinarmor",
+      "category": "Arachne power armor",
+      "defname": "Arachne_Power_Armor",
+      "price": 2808
+    },
+    {
+      "abr": "arachneassassinhelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Power_Helmet",
+      "price": 1008
+    },
+    {
+      "abr": "arachnebattlearmor",
+      "category": "Arachne battle armor",
+      "defname": "Arachne_Armor",
+      "price": 783
+    },
+    {
+      "abr": "arachnebattlehelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Armor_Helmet",
+      "price": 215
+    },
+    {
+      "abr": "arachneleather",
+      "category": "Leathers",
+      "defname": "Leather_Arachne",
+      "price": 7
+    },
+    {
+      "abr": "arachnemeat",
+      "category": "Meat",
+      "defname": "Meat_Arachne",
+      "price": 1
+    },
+    {
+      "abr": "arachnescoutarmor",
+      "category": "Arachne power armor",
+      "defname": "Arachne_Scout_Armor",
+      "price": 2808
+    },
+    {
+      "abr": "arachnescouthelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Scout_Helmet",
+      "price": 1008
+    },
+    {
+      "abr": "arachnescythe",
+      "category": "Melee weapons",
+      "defname": "Arachne_Scythe",
+      "price": 525
+    },
+    {
+      "abr": "arachnesmg",
+      "category": "Ranged weapons",
+      "defname": "ArachnePninety",
+      "price": 2667
+    },
+    {
+      "abr": "arachnesword",
+      "category": "Melee weapons",
+      "defname": "Arachne_Sword",
+      "price": 475
+    },
+    {
+      "abr": "arachnevalkyriearmor",
+      "category": "Arachne battle armor",
+      "defname": "Arachne_Valkyrie",
+      "price": 783
+    },
+    {
+      "abr": "arachnevalkyriehelmet",
+      "category": "Headgear",
+      "defname": "Arachne_Valkyrie_Helmet",
+      "price": 215
+    },
+    {
+      "abr": "bionicbuntail",
+      "category": "Bionic",
+      "defname": "Bun_BionicTail",
+      "price": 967
+    },
+    {
+      "abr": "bun",
+      "category": "Animal",
+      "defname": "Alien_BunTribe",
+      "price": -10
+    },
+    {
+      "abr": "bun",
+      "category": "Animal",
+      "defname": "Alien_BunTribeNew",
+      "price": -10
+    },
+    {
+      "abr": "bun",
+      "category": "Animal",
+      "defname": "Alien_Bunlander",
+      "price": -10
+    },
+    {
+      "abr": "bunfloof",
+      "category": "Textiles",
+      "defname": "BunFloof",
+      "price": 4
+    },
+    {
+      "abr": "bun-dog",
+      "category": "Animal",
+      "defname": "Cynobun",
+      "price": 750
+    },
+    {
+      "abr": "bun-dogmeat",
+      "category": "Meat",
+      "defname": "Meat_Cynobun",
+      "price": 3
+    },
+    {
+      "abr": "prostheticbuntail",
+      "category": "Prosthetic",
+      "defname": "Bun_ProstheticTail",
+      "price": 225
+    },
+    {
+      "abr": "shaggybun-dog",
+      "category": "Animal",
+      "defname": "CynobunHirsutus",
+      "price": 500
+    },
+    {
+      "abr": "braincrystal",
+      "category": "Drugs",
+      "defname": "RB_Braincrystal",
+      "price": 33
+    },
+    {
+      "abr": "moonmachiningtable",
+      "category": "Production",
+      "defname": "RB_MoonTableMachining",
+      "price": 758
+    },
+    {
+      "abr": "moontailorbench",
+      "category": "Production",
+      "defname": "RB_MoonTailoringBench",
+      "price": 517
+    },
+    {
+      "abr": "moonthread",
+      "category": "Textiles",
+      "defname": "Moonthread",
+      "price": 8
+    },
+    {
+      "abr": "planetarium",
+      "category": "Drugs",
+      "defname": "RefinedPlanetarium",
+      "price": 100
+    },
+    {
+      "abr": "planetariumtea",
+      "category": "Drugs",
+      "defname": "PlanetariumTea",
+      "price": 100
+    },
+    {
+      "abr": "rabbie",
+      "category": "Animal",
+      "defname": "Rabbie",
+      "price": -10
+    },
+    {
+      "abr": "rabbieblazer",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Blazer",
+      "price": 330
+    },
+    {
+      "abr": "rabbiecamisole",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Camisole",
+      "price": 39
+    },
+    {
+      "abr": "rabbiecasualtshirts",
+      "category": "Rabbie Apparel",
+      "defname": "RB_CasualTshirt",
+      "price": 286
+    },
+    {
+      "abr": "rabbiecommandercap",
+      "category": "Rabbie Apparel",
+      "defname": "RB_SeniorOfficerhat",
+      "price": 392
+    },
+    {
+      "abr": "rabbiecommandercloak",
+      "category": "Rabbie Apparel",
+      "defname": "RB_HighCloak",
+      "price": 508
+    },
+    {
+      "abr": "rabbiecommanderuniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_SeniorOfficer",
+      "price": 900
+    },
+    {
+      "abr": "rabbiecooktuque",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Cookhat",
+      "price": 206
+    },
+    {
+      "abr": "rabbiecookwear",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Cookwear",
+      "price": 750
+    },
+    {
+      "abr": "rabbiedept.energygown",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Energygown",
+      "price": 500
+    },
+    {
+      "abr": "rabbiedept.energysplyuniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Energymanager",
+      "price": 625
+    },
+    {
+      "abr": "rabbiedoctorgown",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Inteligown",
+      "price": 508
+    },
+    {
+      "abr": "rabbieearhoodjacket",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Earjacket",
+      "price": 392
+    },
+    {
+      "abr": "rabbiefashionhat",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Fashionhat",
+      "price": 113
+    },
+    {
+      "abr": "rabbiefieldarmyflakvest",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryvest",
+      "price": 783
+    },
+    {
+      "abr": "rabbiefieldarmyhelmet",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Infantryhelmet",
+      "price": 583
+    },
+    {
+      "abr": "rabbiefieldarmysuittypea",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryuniform",
+      "price": 1225
+    },
+    {
+      "abr": "rabbiefieldarmysuittypeb",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantrynewuniform",
+      "price": 1225
+    },
+    {
+      "abr": "rabbiehairribbon",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Headribbon",
+      "price": 59
+    },
+    {
+      "abr": "rabbiehandyapron",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Apron",
+      "price": 209
+    },
+    {
+      "abr": "rabbieintelliglasses",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Glasses",
+      "price": 105
+    },
+    {
+      "abr": "rabbiemeat",
+      "category": "Meat",
+      "defname": "Meat_Rabbie",
+      "price": 3
+    },
+    {
+      "abr": "rabbiemetalpot",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Metalpot",
+      "price": 62
+    },
+    {
+      "abr": "rabbienecktieshirts",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Casualtieshirt",
+      "price": 342
+    },
+    {
+      "abr": "rabbieofficerberet",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Subofficerhat",
+      "price": 260
+    },
+    {
+      "abr": "rabbieofficeruniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Subofficer",
+      "price": 633
+    },
+    {
+      "abr": "rabbiepdw",
+      "category": "Ranged weapons",
+      "defname": "RB_F_PDW",
+      "price": 458
+    },
+    {
+      "abr": "rabbieregularamrypowerhelmet",
+      "category": "Rabbie Headgear",
+      "defname": "RB_RegularInfantryhelmet",
+      "price": 1758
+    },
+    {
+      "abr": "rabbieregulararmypowerarmor",
+      "category": "Rabbie Apparel",
+      "defname": "RB_RegularInfantrySuit",
+      "price": 4583
+    },
+    {
+      "abr": "rabbieribbonshirts",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Casualribbonshirt",
+      "price": 342
+    },
+    {
+      "abr": "rabbiesafehelmet",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Safehelmet",
+      "price": 152
+    },
+    {
+      "abr": "rabbiestarjacket",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Starjacket",
+      "price": 392
+    },
+    {
+      "abr": "rabbiesummercardigan",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerouter",
+      "price": 683
+    },
+    {
+      "abr": "rabbiesummerhat",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Summerhat",
+      "price": 617
+    },
+    {
+      "abr": "rabbiesummerfit",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerfit",
+      "price": 342
+    },
+    {
+      "abr": "rabbietechnicianjumpsuit",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Technician",
+      "price": 533
+    },
+    {
+      "abr": "rabbiewinterflockhat",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Winterhat",
+      "price": 110
+    },
+    {
+      "abr": "rabbiewintermuffler",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Neckscarf",
+      "price": 130
+    },
+    {
+      "abr": "rabbiewinterparka",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterouter",
+      "price": 425
+    },
+    {
+      "abr": "rabbiewintersweater",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterknit",
+      "price": 375
+    },
+    {
+      "abr": "rabbieworkergirlwear",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Handygirl",
+      "price": 533
+    },
+    {
+      "abr": "shaggybun-dogmeat",
+      "category": "Meat",
+      "defname": "Meat_CynobunHirsutus",
+      "price": 3
+    },
+    {
+      "abr": "달비단",
+      "category": "Textiles",
+      "defname": "Moonsilk",
+      "price": 20
+    },
+    {
+      "abr": "생체공학래비꼬리",
+      "category": "Bionic",
+      "defname": "RB_BionicTail",
+      "price": 1717
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 1267
+  "total": 1341
 }
