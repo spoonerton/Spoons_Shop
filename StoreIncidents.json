@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -327,7 +327,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 9999,
 		"karmatype": "Good"
 	},
 	{
@@ -337,12 +337,12 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1523,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
