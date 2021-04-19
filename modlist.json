@@ -48,12 +48,6 @@
     "version": "1.0.2.1"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.9.2035"
-  },
-  {
     "author": "YAYO",
     "name": "Real Faction Guest",
     "steamId": "2263021260",
@@ -228,5 +222,9 @@
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
+  },
+  {
+    "author": "overlordsos",
+    "name": "Rabbie The Moonrabbit - English Patch"
   }
 ]
