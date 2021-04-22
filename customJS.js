@@ -52,6 +52,11 @@ $.getJSON(shopExtURL, function(data) {
     };
     var traitData = [];
     $.each(data.traits, function(index, value) {
+        var traitBlacklist = ['robot'];
+        if (traitBlacklist.indexOf(value["name"]) != -1){
+            return;
+        } 
+
         if (value["addPrice"] > 0) {
             traitData.push(value);
         }
