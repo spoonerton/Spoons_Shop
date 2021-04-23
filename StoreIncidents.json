@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1200,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 3000,
+		"price": 4300,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,7 +162,7 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -227,27 +227,27 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -317,37 +317,37 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 350,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 20000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 9999,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healall",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
-		"price": 1523,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{

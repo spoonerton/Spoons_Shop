@@ -1637,7 +1637,7 @@
   ],
   "races": [
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "Android",
@@ -1646,7 +1646,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Arachne",
       "enabled": true,
       "name": "arachne",
@@ -1655,7 +1655,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
@@ -1664,7 +1664,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "ChjBattleDroid",
       "enabled": true,
       "name": "Battle droid",
@@ -1673,7 +1673,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "BearMan",
       "enabled": true,
       "name": "bear man",
@@ -1682,7 +1682,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
@@ -1691,7 +1691,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Alien_Bunlander",
       "enabled": true,
       "name": "Bun",
@@ -1700,7 +1700,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Alien_BunTribeNew",
       "enabled": true,
       "name": "Bun",
@@ -1709,7 +1709,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "CamelMan",
       "enabled": true,
       "name": "camel man",
@@ -1718,7 +1718,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Catgirl",
       "enabled": true,
       "name": "Catgirl",
@@ -1727,7 +1727,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
@@ -1736,7 +1736,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
@@ -1745,7 +1745,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
@@ -1754,7 +1754,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "ChjDroid",
       "enabled": true,
       "name": "Droid",
@@ -1763,7 +1763,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "ElephantMan",
       "enabled": true,
       "name": "elephant man",
@@ -1772,7 +1772,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "ElkMan",
       "enabled": true,
       "name": "elk man",
@@ -1781,7 +1781,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "ForestFairy",
@@ -1790,7 +1790,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "FoxMan",
       "enabled": true,
       "name": "fox man",
@@ -1799,7 +1799,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
@@ -1808,7 +1808,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "GazelleMan",
       "enabled": true,
       "name": "gazelle man",
@@ -1817,7 +1817,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Fantasy_Goblin",
       "enabled": true,
       "name": "Goblin",
@@ -1826,7 +1826,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
@@ -1835,7 +1835,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -1844,7 +1844,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "IceFairy",
@@ -1853,7 +1853,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Alien_Kijin",
       "enabled": true,
       "name": "Kijin",
@@ -1862,7 +1862,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
@@ -1871,7 +1871,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "LynxMan",
       "enabled": true,
       "name": "lynx man",
@@ -1880,7 +1880,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
@@ -1889,7 +1889,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "PigMan",
       "enabled": true,
       "name": "pig man",
@@ -1898,7 +1898,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Rabbie",
       "enabled": true,
       "name": "Rabbie",
@@ -1907,7 +1907,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "RaccoonMan",
       "enabled": true,
       "name": "raccoon man",
@@ -1916,7 +1916,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
@@ -1925,7 +1925,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 3000,
       "defName": "Ratkin_Su",
       "enabled": true,
       "name": "Ratkin subject",

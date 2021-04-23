@@ -30,7 +30,7 @@ $.getJSON(eventListURL, function(data) {
     $.each(data.incitems, function(index, value) {
 
         //evblacklist//
-        var evBlacklist = ['torytalkervote', 'hodlbotvote', 'trait', 'removetrait', 'pawn', 'replacetrait', 'backpack'];
+        var evBlacklist = ['trait', 'removetrait', 'pawn', 'replacetrait', 'backpack'];
         if (evBlacklist.indexOf(value["abr"]) != -1){
             return;
         } 

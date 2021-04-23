@@ -1724,7 +1724,7 @@
 	},
 	{
 		"abr": "monosword",
-		"price": 3333,
+		"price": -1,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -1784,19 +1784,19 @@
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": 2000,
+		"price": 4000,
 		"category": "Utility",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": 2000,
+		"price": 3000,
 		"category": "Utility",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
+		"price": 4000,
 		"category": "Utility",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -1886,19 +1886,19 @@
 	},
 	{
 		"abr": "personamonosword",
-		"price": 5000,
+		"price": -1,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "personaplasmasword",
-		"price": 5000,
+		"price": -1,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "personazeushammer",
-		"price": 5000,
+		"price": -1,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"abr": "plasmasword",
-		"price": 3333,
+		"price": -1,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
@@ -2078,7 +2078,7 @@
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": 2083,
 		"category": "Utility",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
@@ -2816,7 +2816,7 @@
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 2667,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -2870,7 +2870,7 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": 3333,
 		"category": "Utility",
 		"defname": "TornadoGenerator"
 	},
@@ -2954,7 +2954,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": 2667,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
@@ -2972,7 +2972,7 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": 4000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -4184,7 +4184,7 @@
 	},
 	{
 		"abr": "personaflameblade",
-		"price": 5000,
+		"price": -1,
 		"category": "Persona weapons",
 		"defname": "Kijin_FlameSword"
 	},
