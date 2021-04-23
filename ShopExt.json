@@ -1943,7 +1943,7 @@
       }
     },
     {
-      "price": 3667,
+      "price": 3000,
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
@@ -1952,7 +1952,7 @@
       }
     },
     {
-      "price": 1667,
+      "price": 3000,
       "defName": "WolfMan",
       "enabled": true,
       "name": "wolf man",
@@ -1961,7 +1961,7 @@
       }
     },
     {
-      "price": 2500,
+      "price": 3000,
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
