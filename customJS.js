@@ -45,7 +45,8 @@ $.getJSON(eventListURL, function(data) {
 
 let traitList = null;
 let raceList = null;
-$.getJSON(shopExtURL, function(data) {    
+$.getJSON(shopExtURL, function(data) {  
+    //TraitList  
     var options = {
         valueNames: ['name', 'addPrice', 'removePrice'],
         item: '<tr><td class="name" scope="row"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
@@ -64,13 +65,15 @@ $.getJSON(shopExtURL, function(data) {
 
     traitList = new List('traits', options, traitData);
 
+    //RaceList
     options = {
         valueNames: ['name', 'price'],
         item: '<tr><td class="name" scope="row"></td><td class="price"></td>'
     };
+
     var racesData = [];
     $.each(data.races, function(index, value) {
-        if (value["price"] > 0) {
+        if (value["price"] > 0 && racesData.indexOf[value["name"]] == -1) {
             racesData.push(value);
         }
     });

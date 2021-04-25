@@ -3100,7 +3100,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "100thammer",
@@ -6976,7 +6976,7 @@
       "abr": "battledroidassemblykit",
       "category": "Items",
       "defname": "ChjAndroidBattleDroidAssemblyKit",
-      "price": 3958
+      "price": 3500
     },
     {
       "abr": "battlemaidhat",
@@ -7090,7 +7090,7 @@
       "abr": "droidassemblykit",
       "category": "Items",
       "defname": "ChjAndroidDroidAssemblyKit",
-      "price": 1775
+      "price": 3000
     },
     {
       "abr": "droidbattery",

@@ -337,17 +337,17 @@
 	},
 	{
 		"abr": "healall",
-		"price": 9999,
+		"price": 4500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1523,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +372,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2500,
+		"price": 550,
 		"karmatype": "Good"
 	},
 	{
