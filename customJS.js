@@ -73,11 +73,14 @@ $.getJSON(shopExtURL, function(data) {
 
     var racesData = [];
     $.each(data.races, function(index, value) {
-        if (value["price"] > 0 && racesData.indexOf(value["name"]) != -1) {
-            console.log(racesData.indexOf(value["name"]));
+        if (value["price"] > 0) {
+            //console.log(value["name"] + " check for existing: " + racesData.indexOf(value["name"]));
             racesData.push(value);
+            //console.log(value);
         }
     });
+
+    //console.log(racesData);
 
     racesList = new List('races', options, racesData);
 });
