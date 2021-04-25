@@ -1683,15 +1683,6 @@
     },
     {
       "price": 3000,
-      "defName": "Alien_BunTribe",
-      "enabled": true,
-      "name": "Bun",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3000,
       "defName": "Alien_Bunlander",
       "enabled": true,
       "name": "Bun",
@@ -1704,6 +1695,15 @@
       "defName": "Alien_BunTribeNew",
       "enabled": true,
       "name": "Bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3000,
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "bun",
       "data": {
         "customName": false
       }
