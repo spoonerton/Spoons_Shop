@@ -48,6 +48,18 @@
     "version": "1.0.2.1"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.4.10"
+  },
+  {
     "author": "YAYO",
     "name": "Real Faction Guest",
     "steamId": "2263021260",
@@ -130,6 +142,10 @@
     "name": "FemaleBB BodyType for Alien Races "
   },
   {
+    "author": "Zylle",
+    "name": "Gemstones"
+  },
+  {
     "author": "Haplo",
     "name": "Misc. Robots"
   },
@@ -154,7 +170,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Seioch",
+    "author": "Seioch, MaroonToon",
     "name": "Kurin HAR Edition"
   },
   {
