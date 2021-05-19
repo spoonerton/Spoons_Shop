@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1200,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 3000,
+		"price": 7000,
 		"karmatype": "Bad"
 	},
 	{
@@ -117,12 +117,12 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -217,7 +217,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -352,17 +352,12 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
 		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -391,5 +386,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 77
 }

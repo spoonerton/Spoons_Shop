@@ -1,6 +1,6 @@
 {
 	"defName":"Kindword",
-	"command":"",
+	"command":"kindword",
 	"enabled":"True",
 	"shouldBeInSeparateRoom":"False",
 	"requiresMod":"False",

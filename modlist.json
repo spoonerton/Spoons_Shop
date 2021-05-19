@@ -12,6 +12,12 @@
     "version": "8.0.1"
   },
   {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
@@ -30,6 +36,10 @@
   {
     "author": "SineSwiper",
     "name": "Faction Blender"
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Storyteller pack"
   },
   {
     "author": "Alias",
@@ -72,6 +82,10 @@
     "version": "2.17.133"
   },
   {
+    "author": "Linkolas",
+    "name": "LinkableDoors (unofficial)"
+  },
+  {
     "author": "Hatti",
     "name": "CleaningArea"
   },
@@ -102,6 +116,10 @@
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Argón",
+    "name": "Argón's Tribal Medicine"
   },
   {
     "author": "Fluffy",
@@ -144,6 +162,12 @@
   {
     "author": "Zylle",
     "name": "Gemstones"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
   },
   {
     "author": "Haplo",
@@ -230,6 +254,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy"
+  },
+  {
     "author": "hodlhodl",
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
@@ -258,5 +292,19 @@
     "name": "Damage Indicators [1.2]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.117"
   }
 ]
