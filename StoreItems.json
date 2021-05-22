@@ -9344,7 +9344,7 @@
 	},
 	{
 		"abr": "bloodleech",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BloodLeech"
 	},
@@ -9356,7 +9356,7 @@
 	},
 	{
 		"abr": "borealsardine",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BorealSardine"
 	},
@@ -9428,7 +9428,7 @@
 	},
 	{
 		"abr": "duskysprat",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_DuskySprat"
 	},
@@ -9470,7 +9470,7 @@
 	},
 	{
 		"abr": "frostleaf",
-		"price": 0,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "AB_RawFrostLeaf"
 	},
@@ -9590,7 +9590,7 @@
 	},
 	{
 		"abr": "propanebag",
-		"price": 0,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_PropaneBag"
 	},
@@ -9626,7 +9626,7 @@
 	},
 	{
 		"abr": "rawdarkberries",
-		"price": 0,
+		"price": -10,
 		"category": "Medical herbs",
 		"defname": "TM_RawDarkBerries"
 	},
@@ -9656,7 +9656,7 @@
 	},
 	{
 		"abr": "shrooms",
-		"price": 0,
+		"price": -10,
 		"category": "Medical herbs",
 		"defname": "TM_RawShrooms"
 	},
@@ -9710,9 +9710,15 @@
 	},
 	{
 		"abr": "tentacularfruit",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "AB_RawTentacularFruit"
+	},
+	{
+		"abr": "whitebroots",
+		"price": 1,
+		"category": "Medical herbs",
+		"defname": "TM_RawBroots"
 	}
 	],
 	"total": 1620
