@@ -276,12 +276,6 @@
     "version": "5.0.3.2"
   },
   {
-    "author": "the_heye",
-    "name": "Twitch Chat",
-    "steamId": "2075845400",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
@@ -305,6 +299,22 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.843"
+    "version": "0.6.3.1411"
+  },
+  {
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors"
+  },
+  {
+    "author": "Mic, Iron Wolf, The Pheonix",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.10.1"
+  },
+  {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
   }
 ]

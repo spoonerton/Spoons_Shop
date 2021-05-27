@@ -9719,7 +9719,637 @@
 		"price": 1,
 		"category": "Medical herbs",
 		"defname": "TM_RawBroots"
+	},
+	{
+		"abr": "chaoboar",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "Chaoboar"
+	},
+	{
+		"abr": "chaoboom",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Chaoboom"
+	},
+	{
+		"abr": "chaobulbseedpod",
+		"price": 12,
+		"category": "Plant matter",
+		"defname": "Chaobulb"
+	},
+	{
+		"abr": "chaocow",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Chaocow"
+	},
+	{
+		"abr": "chaodino",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "Chaodino"
+	},
+	{
+		"abr": "chaofox",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "Chaofox"
+	},
+	{
+		"abr": "chaofusion",
+		"price": 8333,
+		"category": "Animal",
+		"defname": "ChaofusionRhino"
+	},
+	{
+		"abr": "chaomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chaocow"
+	},
+	{
+		"abr": "chaomeld",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "Chaomeld"
+	},
+	{
+		"abr": "chaomeld",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "ChaomeldDog"
+	},
+	{
+		"abr": "chaomeld",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "ChaomeldDragon"
+	},
+	{
+		"abr": "chaomeld",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "ChaomeldCow"
+	},
+	{
+		"abr": "chaopelt",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Chao"
+	},
+	{
+		"abr": "chookmorphegg",
+		"price": 12,
+		"category": "Animal products",
+		"defname": "TFEgg"
+	},
+	{
+		"abr": "cowmorphmilk",
+		"price": 12,
+		"category": "Animal products",
+		"defname": "TFMilk"
+	},
+	{
+		"abr": "experimentalinjector",
+		"price": 133,
+		"category": "Serums",
+		"defname": "PM_ExperimentalInjector"
+	},
+	{
+		"abr": "hellhound",
+		"price": 750,
+		"category": "Animal",
+		"defname": "EtherHellhound"
+	},
+	{
+		"abr": "hellhoundmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_EtherHellhound"
+	},
+	{
+		"abr": "iedmutagentrap",
+		"price": 192,
+		"category": "Security",
+		"defname": "TrapIED_TF"
+	},
+	{
+		"abr": "injectorlab",
+		"price": 1042,
+		"category": "Production",
+		"defname": "PM_InjectorLab"
+	},
+	{
+		"abr": "mechaniteslurry",
+		"price": 133,
+		"category": "Serums",
+		"defname": "MechaniteSlurry"
+	},
+	{
+		"abr": "morphsilk",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "Morphsilk"
+	},
+	{
+		"abr": "mutagenlab",
+		"price": 1033,
+		"category": "Production",
+		"defname": "MutagenLab"
+	},
+	{
+		"abr": "mutagenicchamber",
+		"price": 2492,
+		"category": "Production",
+		"defname": "PM_NewMutagenicChamber"
+	},
+	{
+		"abr": "mutagenicchamber(depricated)",
+		"price": 2492,
+		"category": "Production",
+		"defname": "MutagenicChamber"
+	},
+	{
+		"abr": "mutagenicchamber2x2(depricated)",
+		"price": 5117,
+		"category": "Production",
+		"defname": "BigMutagenicChamber"
+	},
+	{
+		"abr": "mutagenicgrenades",
+		"price": 800,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeTF"
+	},
+	{
+		"abr": "mutagenichealermechserum",
+		"price": 2167,
+		"category": "Items",
+		"defname": "MechSerumMutagenicHealer"
+	},
+	{
+		"abr": "mutagenicmodulator",
+		"price": 558,
+		"category": "Production",
+		"defname": "MutagenicModulator"
+	},
+	{
+		"abr": "mutagenicrocketlauncher",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "Gun_MutagenicRocketLauncher"
+	},
+	{
+		"abr": "mutagenicshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_TF"
+	},
+	{
+		"abr": "mutagenicstunstick",
+		"price": 367,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MutagenicStunStick"
+	},
+	{
+		"abr": "mutagun",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "TST_Gun_EtherGun"
+	},
+	{
+		"abr": "mutanite",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "Mutanite"
+	},
+	{
+		"abr": "mutaniteknife",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MutaniteKnife"
+	},
+	{
+		"abr": "mutanitespear",
+		"price": 658,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MutaniteSpear"
+	},
+	{
+		"abr": "mutapill,accelerator",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "MutagenAccelerator"
+	},
+	{
+		"abr": "mutapill,booster",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "UdderPill"
+	},
+	{
+		"abr": "mutapill,dry",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "DryPills"
+	},
+	{
+		"abr": "mutapill,feral",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "FeralPill"
+	},
+	{
+		"abr": "mutapill,rgb",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "ColorsPill"
+	},
+	{
+		"abr": "mutapill,stabiliser",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "MutagenStabiliser"
+	},
+	{
+		"abr": "mutapill,x-aspect",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "AspectReverterPills"
+	},
+	{
+		"abr": "mutarifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "Mutarifle"
+	},
+	{
+		"abr": "mutaserum",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomTransformer"
+	},
+	{
+		"abr": "mutaserum,arid",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomAridTransformer"
+	},
+	{
+		"abr": "mutaserum,avian",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomAvianTransformer"
+	},
+	{
+		"abr": "mutaserum,bovid",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomBovidTransformer"
+	},
+	{
+		"abr": "mutaserum,canid",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomCanineTransformer"
+	},
+	{
+		"abr": "mutaserum,cervid",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomCervidTransformer"
+	},
+	{
+		"abr": "mutaserum,cold",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomColdTransformer"
+	},
+	{
+		"abr": "mutaserum,combat",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomCombatTransformer"
+	},
+	{
+		"abr": "mutaserum,crafter",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomCrafterTransformer"
+	},
+	{
+		"abr": "mutaserum,domestic",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomDomesticTransformer"
+	},
+	{
+		"abr": "mutaserum,feline",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomFelineTransformer"
+	},
+	{
+		"abr": "mutaserum,powerful",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomPowerfulTransformer"
+	},
+	{
+		"abr": "mutaserum,production",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomProductionTransformer"
+	},
+	{
+		"abr": "mutaserum,reptilian",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomReptileTransformer"
+	},
+	{
+		"abr": "mutaserum,reverter",
+		"price": 350,
+		"category": "Serums",
+		"defname": "ReversionSyringe"
+	},
+	{
+		"abr": "mutaserum,rodent",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomRodentTransformer"
+	},
+	{
+		"abr": "mutaserum,social",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomSocialTransformer"
+	},
+	{
+		"abr": "mutaserum,temperate",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomTemperateTransformer"
+	},
+	{
+		"abr": "mutaserum,tropical",
+		"price": 200,
+		"category": "Serums",
+		"defname": "RandomTropicalTransformer"
+	},
+	{
+		"abr": "mutasyringe,alpaca",
+		"price": 833,
+		"category": "Injector",
+		"defname": "AlpacaTransformer"
+	},
+	{
+		"abr": "mutasyringe,arcticfox",
+		"price": 833,
+		"category": "Injector",
+		"defname": "ArcticFoxTransformer"
+	},
+	{
+		"abr": "mutasyringe,arcticwolf",
+		"price": 833,
+		"category": "Injector",
+		"defname": "ArcticWolfTransformer"
+	},
+	{
+		"abr": "mutasyringe,boar",
+		"price": 833,
+		"category": "Injector",
+		"defname": "BoarTransformer"
+	},
+	{
+		"abr": "mutasyringe,boomalope",
+		"price": 833,
+		"category": "Injector",
+		"defname": "BoomalopeTransformer"
+	},
+	{
+		"abr": "mutasyringe,cat",
+		"price": 833,
+		"category": "Injector",
+		"defname": "CatTransformer"
+	},
+	{
+		"abr": "mutasyringe,chicken",
+		"price": 833,
+		"category": "Injector",
+		"defname": "ChickenTransformer"
+	},
+	{
+		"abr": "mutasyringe,cobra",
+		"price": 833,
+		"category": "Injector",
+		"defname": "SnakeTransformer"
+	},
+	{
+		"abr": "mutasyringe,cougar",
+		"price": 833,
+		"category": "Injector",
+		"defname": "CougarTransformer"
+	},
+	{
+		"abr": "mutasyringe,cow",
+		"price": 833,
+		"category": "Injector",
+		"defname": "CowTransformer"
+	},
+	{
+		"abr": "mutasyringe,deer",
+		"price": 833,
+		"category": "Injector",
+		"defname": "DeerTransformer"
+	},
+	{
+		"abr": "mutasyringe,donkey",
+		"price": 833,
+		"category": "Injector",
+		"defname": "DonkeyTransformer"
+	},
+	{
+		"abr": "mutasyringe,elephant",
+		"price": 1667,
+		"category": "Injector",
+		"defname": "ElephantTransformer"
+	},
+	{
+		"abr": "mutasyringe,fennecfox",
+		"price": 833,
+		"category": "Injector",
+		"defname": "FennecFoxTransformer"
+	},
+	{
+		"abr": "mutasyringe,grizzlybear",
+		"price": 833,
+		"category": "Injector",
+		"defname": "BearTransformer"
+	},
+	{
+		"abr": "mutasyringe,hare",
+		"price": 833,
+		"category": "Injector",
+		"defname": "HareTransformer"
+	},
+	{
+		"abr": "mutasyringe,horse",
+		"price": 833,
+		"category": "Injector",
+		"defname": "HorseTransformer"
+	},
+	{
+		"abr": "mutasyringe,husky",
+		"price": 833,
+		"category": "Injector",
+		"defname": "HuskyTransformer"
+	},
+	{
+		"abr": "mutasyringe,iguana",
+		"price": 833,
+		"category": "Injector",
+		"defname": "IguanaTransformer"
+	},
+	{
+		"abr": "mutasyringe,lynx",
+		"price": 833,
+		"category": "Injector",
+		"defname": "LynxTransformer"
+	},
+	{
+		"abr": "mutasyringe,megasloth",
+		"price": 1667,
+		"category": "Injector",
+		"defname": "MegaslothTransformer"
+	},
+	{
+		"abr": "mutasyringe,monkey",
+		"price": 833,
+		"category": "Injector",
+		"defname": "MonkeyTransformer"
+	},
+	{
+		"abr": "mutasyringe,panther",
+		"price": 833,
+		"category": "Injector",
+		"defname": "PantherTransformer"
+	},
+	{
+		"abr": "mutasyringe,pig",
+		"price": 833,
+		"category": "Injector",
+		"defname": "PigTransformer"
+	},
+	{
+		"abr": "mutasyringe,polarbear",
+		"price": 833,
+		"category": "Injector",
+		"defname": "PolarBearTransformer"
+	},
+	{
+		"abr": "mutasyringe,raccoon",
+		"price": 833,
+		"category": "Injector",
+		"defname": "RaccoonTransformer"
+	},
+	{
+		"abr": "mutasyringe,rat",
+		"price": 833,
+		"category": "Injector",
+		"defname": "RatTransformer"
+	},
+	{
+		"abr": "mutasyringe,redfox",
+		"price": 833,
+		"category": "Injector",
+		"defname": "FoxTransformer"
+	},
+	{
+		"abr": "mutasyringe,rhinoceros",
+		"price": 1667,
+		"category": "Injector",
+		"defname": "RhinocerosTransformer"
+	},
+	{
+		"abr": "mutasyringe,sheep",
+		"price": 833,
+		"category": "Injector",
+		"defname": "SheepTransformer"
+	},
+	{
+		"abr": "mutasyringe,snowhare",
+		"price": 833,
+		"category": "Injector",
+		"defname": "SnowhareTransformer"
+	},
+	{
+		"abr": "mutasyringe,squirrel",
+		"price": 833,
+		"category": "Injector",
+		"defname": "SquirrelTransformer"
+	},
+	{
+		"abr": "mutasyringe,thrumbo",
+		"price": 1667,
+		"category": "Injector",
+		"defname": "ThrumboTransformer"
+	},
+	{
+		"abr": "mutasyringe,timberwolf",
+		"price": 833,
+		"category": "Injector",
+		"defname": "WolfTransformer"
+	},
+	{
+		"abr": "mutasyringe,tortoise",
+		"price": 833,
+		"category": "Injector",
+		"defname": "TortoiseTransformer"
+	},
+	{
+		"abr": "mutasyringe,warg",
+		"price": 833,
+		"category": "Injector",
+		"defname": "WargTransformer"
+	},
+	{
+		"abr": "naga",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "SnakeMorph"
+	},
+	{
+		"abr": "nagameat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_SnakeMorph"
+	},
+	{
+		"abr": "powerfulmutagenicmodulator",
+		"price": 1100,
+		"category": "Production",
+		"defname": "PowerfulMutagenicModulator"
+	},
+	{
+		"abr": "sapiostoremesh",
+		"price": 1242,
+		"category": "Prosthetic",
+		"defname": "SapientChip"
+	},
+	{
+		"abr": "taggingrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "TST_Gun_TaggingGun"
+	},
+	{
+		"abr": "transformativeresurrectormechserum",
+		"price": 2833,
+		"category": "Items",
+		"defname": "MechSerumResurrectorTf"
 	}
 	],
-	"total": 1620
+	"total": 1725
 }
