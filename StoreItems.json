@@ -1639,12 +1639,6 @@
 		"defname": "Throne"
 	},
 	{
-		"abr": "megascarab",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Megascarab"
-	},
-	{
 		"abr": "megascreentelevision",
 		"price": 2475,
 		"category": "Recreation",
@@ -1667,12 +1661,6 @@
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
-	},
-	{
-		"abr": "megaspider",
-		"price": 833,
-		"category": "Animal",
-		"defname": "Megaspider"
 	},
 	{
 		"abr": "milk",
@@ -2615,12 +2603,6 @@
 		"price": 322,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear"
-	},
-	{
-		"abr": "spelopede",
-		"price": 333,
-		"category": "Animal",
-		"defname": "Spelopede"
 	},
 	{
 		"abr": "spiketrap",
@@ -4777,12 +4759,6 @@
 		"defname": "AA_DrainerLarva"
 	},
 	{
-		"abr": "dunealisk",
-		"price": 833,
-		"category": "Animal",
-		"defname": "AA_Dunealisk"
-	},
-	{
 		"abr": "dunealiskclutchmother",
 		"price": 1500,
 		"category": "Animal",
@@ -5003,12 +4979,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_GreatDevourer"
-	},
-	{
-		"abr": "greengoo",
-		"price": 208,
-		"category": "Animal",
-		"defname": "AA_GreenGoo"
 	},
 	{
 		"abr": "greengoomeat",
@@ -10349,7 +10319,7 @@
 		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrectorTf"
-	}
+	},
 	],
-	"total": 1725
+	"total": 1749
 }

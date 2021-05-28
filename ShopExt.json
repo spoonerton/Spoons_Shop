@@ -8769,7 +8769,12 @@
       "name": "naturalhunter",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ]
       },
       "description": "Timmy is now a natural hunter.",
       "stats": [
@@ -8789,7 +8794,12 @@
       "name": "mutationaffinity",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [
+          "transhumanist",
+          "bodypurist"
+        ],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy is intrigued by the idea of becoming something other than human.",
       "stats": [],
@@ -8803,315 +8813,9 @@
   "races": [
     {
       "price": 5000,
-      "defName": "MG_Wolfgirl",
+      "defName": "ChjAndroid",
       "enabled": true,
-      "name": "Wolfgirl",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "WolfMan",
-      "enabled": true,
-      "name": "wolf man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Thrumbogirl",
-      "enabled": true,
-      "name": "Thrumbogirl",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Slime",
-      "enabled": true,
-      "name": "Slime",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Ratkin_Su",
-      "enabled": true,
-      "name": "Ratkin subject",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Ratkin",
-      "enabled": true,
-      "name": "Ratkin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "RaccoonMan",
-      "enabled": true,
-      "name": "raccoon man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Rabbie",
-      "enabled": true,
-      "name": "Rabbie",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "PigMan",
-      "enabled": true,
-      "name": "pig man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "LynxMan",
-      "enabled": true,
-      "name": "lynx man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Kurin_Race",
-      "enabled": true,
-      "name": "Kurin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Alien_Kijin",
-      "enabled": true,
-      "name": "Kijin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_IceFairy",
-      "enabled": true,
-      "name": "IceFairy",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Human",
-      "enabled": true,
-      "name": "human",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Harpy",
-      "enabled": true,
-      "name": "Harpy",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Fantasy_Goblin",
-      "enabled": true,
-      "name": "Goblin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "GazelleMan",
-      "enabled": true,
-      "name": "gazelle man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Foxgirl",
-      "enabled": true,
-      "name": "Foxgirl",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "FoxMan",
-      "enabled": true,
-      "name": "fox man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_ForestFairy",
-      "enabled": true,
-      "name": "ForestFairy",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "ElkMan",
-      "enabled": true,
-      "name": "elk man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "ElephantMan",
-      "enabled": true,
-      "name": "elephant man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Dragon",
-      "enabled": true,
-      "name": "Dragon",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Cowgirl",
-      "enabled": true,
-      "name": "Cowgirl",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Centaur",
-      "enabled": true,
-      "name": "Centaur",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Catgirl",
-      "enabled": true,
-      "name": "Catgirl",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "CamelMan",
-      "enabled": true,
-      "name": "camel man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Alien_Bunlander",
-      "enabled": true,
-      "name": "Bun",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Alien_BunTribeNew",
-      "enabled": true,
-      "name": "Bun",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Alien_BunTribe",
-      "enabled": true,
-      "name": "bun",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "BearMan",
-      "enabled": true,
-      "name": "bear man",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "ChjBattleDroid",
-      "enabled": true,
-      "name": "Battle droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "MG_Baphomet",
-      "enabled": true,
-      "name": "Baphomet",
+      "name": "Android",
       "data": {
         "customName": false
       }
@@ -9127,9 +8831,315 @@
     },
     {
       "price": 5000,
-      "defName": "ChjAndroid",
+      "defName": "MG_Baphomet",
       "enabled": true,
-      "name": "Android",
+      "name": "Baphomet",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "BearMan",
+      "enabled": true,
+      "name": "bear man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Alien_BunTribe",
+      "enabled": true,
+      "name": "bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Alien_BunTribeNew",
+      "enabled": true,
+      "name": "Bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Alien_Bunlander",
+      "enabled": true,
+      "name": "Bun",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "CamelMan",
+      "enabled": true,
+      "name": "camel man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Catgirl",
+      "enabled": true,
+      "name": "Catgirl",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Centaur",
+      "enabled": true,
+      "name": "Centaur",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Cowgirl",
+      "enabled": true,
+      "name": "Cowgirl",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Dragon",
+      "enabled": true,
+      "name": "Dragon",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "ElephantMan",
+      "enabled": true,
+      "name": "elephant man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "ElkMan",
+      "enabled": true,
+      "name": "elk man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_ForestFairy",
+      "enabled": true,
+      "name": "ForestFairy",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "FoxMan",
+      "enabled": true,
+      "name": "fox man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Foxgirl",
+      "enabled": true,
+      "name": "Foxgirl",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "GazelleMan",
+      "enabled": true,
+      "name": "gazelle man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Fantasy_Goblin",
+      "enabled": true,
+      "name": "Goblin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Harpy",
+      "enabled": true,
+      "name": "Harpy",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Human",
+      "enabled": true,
+      "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_IceFairy",
+      "enabled": true,
+      "name": "IceFairy",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Alien_Kijin",
+      "enabled": true,
+      "name": "Kijin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Kurin_Race",
+      "enabled": true,
+      "name": "Kurin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "LynxMan",
+      "enabled": true,
+      "name": "lynx man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "PigMan",
+      "enabled": true,
+      "name": "pig man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Rabbie",
+      "enabled": true,
+      "name": "Rabbie",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "RaccoonMan",
+      "enabled": true,
+      "name": "raccoon man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Ratkin_Su",
+      "enabled": false,
+      "name": "Ratkin subject",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Slime",
+      "enabled": true,
+      "name": "Slime",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Thrumbogirl",
+      "enabled": true,
+      "name": "Thrumbogirl",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "WolfMan",
+      "enabled": true,
+      "name": "wolf man",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "MG_Wolfgirl",
+      "enabled": true,
+      "name": "Wolfgirl",
       "data": {
         "customName": false
       }
