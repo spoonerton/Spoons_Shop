@@ -394,7 +394,7 @@
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "cat",
@@ -460,13 +460,13 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "chickenmeat",
@@ -538,7 +538,7 @@
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "cobrameat",
@@ -724,13 +724,13 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "duckmeat",
@@ -874,7 +874,7 @@
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "endtable",
@@ -1078,13 +1078,13 @@
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "grandmeditationthrone",
@@ -1360,7 +1360,7 @@
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "iguanameat",
@@ -1810,7 +1810,7 @@
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "packagedsurvivalmeal",
@@ -2878,7 +2878,7 @@
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "tortoisemeat",
@@ -2938,7 +2938,7 @@
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "turkeymeat",
@@ -3328,13 +3328,13 @@
       "abr": "harpyegg",
       "category": "Eggs (unfert.)",
       "defname": "MG_EggHarpyUnfertilized",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "harpyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "MG_EggHarpyFertilized",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "harpymeat",
@@ -4216,7 +4216,7 @@
       "abr": "angelmothegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AngelMothEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "angelmothlarva",
@@ -4240,7 +4240,7 @@
       "abr": "animaliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AnimaliskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "animusvox",
@@ -4294,7 +4294,7 @@
       "abr": "atispecegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_AtispecEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "atispecmeat",
@@ -4318,13 +4318,13 @@
       "abr": "bedbugegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BedBugEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "bedbugegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BedBugEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "blackhiveinsectjelly",
@@ -4366,13 +4366,13 @@
       "abr": "blizzariskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BlizzariskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "blizzariskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BlizzariskEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "bloodshrimp",
@@ -4426,7 +4426,7 @@
       "abr": "bumbledroneegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BumbledroneQueenEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "bumbledronehierophant",
@@ -4492,19 +4492,19 @@
       "abr": "chargedblizzariskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_BlizzariskSuperEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "chargeddunealiskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DunealiskSuperEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "chargedferaliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_FeraliskSuperEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "chemfuelmyrmidon",
@@ -4522,13 +4522,13 @@
       "abr": "cinderliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_CinderliskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "cinderliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_CinderliskEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "cindersilk",
@@ -4558,13 +4558,13 @@
       "abr": "crepuscularbeetleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_CrepuscularBeetleEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "crepuscularbeetleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_CrepuscularBeetleEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "crescendoanole",
@@ -4576,7 +4576,7 @@
       "abr": "crescendoanoleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggCrescendoAnoleFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "crystallinecaracal",
@@ -4612,7 +4612,7 @@
       "abr": "desertaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggDesertAveFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "desertavemeat",
@@ -4648,7 +4648,7 @@
       "abr": "draineregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DrainerEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "drainerlarva",
@@ -4672,13 +4672,13 @@
       "abr": "dunealiskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_DunealiskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "dunealiskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_DunealiskEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "duskrat",
@@ -4714,13 +4714,13 @@
       "abr": "feraliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_FeraliskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "feraliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_FeraliskEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "fermentedrottingmound",
@@ -4738,13 +4738,13 @@
       "abr": "firewaspegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_FireWaspEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "firewaspegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_FireWaspEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "fissionmouse",
@@ -4780,7 +4780,7 @@
       "abr": "flamingophoenixegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggFlamingoPhoenixFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "frostave",
@@ -4870,13 +4870,13 @@
       "abr": "greatdevoureregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_GreatDevourerEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "greatdevoureregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_GreatDevourerEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "greatdevourermeat",
@@ -4996,13 +4996,13 @@
       "abr": "ironhuskbeetleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_IronhuskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "ironhuskbeetleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_IronhuskEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "ironhuskbeetlemeat",
@@ -5020,13 +5020,13 @@
       "abr": "jungleliskegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_JungleliskEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "jungleliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_JungleliskEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "larvalatispec",
@@ -5068,13 +5068,13 @@
       "abr": "mammothwormegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_MammothWormEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "mammothwormegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_MammothWormEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "mantrap",
@@ -5104,7 +5104,7 @@
       "abr": "meadowaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggMeadowAveFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "meadowavemeat",
@@ -5128,13 +5128,13 @@
       "abr": "megalouseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_MegalouseEggFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "megalouseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_MegalouseEggUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "metallovore",
@@ -5212,7 +5212,7 @@
       "abr": "needlepost",
       "category": "Animal",
       "defname": "AA_Needlepost",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "needlepostmeat",
@@ -5242,7 +5242,7 @@
       "abr": "nightaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggNightAveFertilized",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "nightavemeat",
@@ -5266,7 +5266,7 @@
       "abr": "nightlingegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggNightlingFertilized",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "nightlingmeat",
@@ -5470,13 +5470,13 @@
       "abr": "rough-platedmonitor",
       "category": "Animal",
       "defname": "AA_RoughPlatedMonitor",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "rough-platedmonitoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggRoughPlatedMonitorFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "royalave",
@@ -5488,7 +5488,7 @@
       "abr": "royalaveegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggRoyalAveFertilized",
-      "price": 225
+      "price": -10
     },
     {
       "abr": "royalavemeat",
@@ -5578,13 +5578,13 @@
       "abr": "blackharpyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggBlackHarpyFertilized",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "blackharpyegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggBlackHarpyUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "blackharpyfeathers",
@@ -5770,13 +5770,13 @@
       "abr": "harpyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggHarpyFertilized",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "harpyegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggHarpyUnfertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "harpyfeathers",
@@ -9070,7 +9070,7 @@
       "abr": "pedigreedraptoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggPedigreedRaptorFertilized",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "skiphound",
@@ -9304,7 +9304,7 @@
       "abr": "dribblingcappoisondart",
       "category": "Grenades",
       "defname": "AB_WeaponPoisonDart",
-      "price": 7
+      "price": 200
     },
     {
       "abr": "duskysprat",
@@ -9520,7 +9520,7 @@
       "abr": "redpetals",
       "category": "Medical herbs",
       "defname": "TM_RawRedPetals",
-      "price": 1
+      "price": 3
     },
     {
       "abr": "rosequartzblocks",
@@ -9598,487 +9598,7 @@
       "abr": "whitebroots",
       "category": "Medical herbs",
       "defname": "TM_RawBroots",
-      "price": 1
-    },
-    {
-      "abr": "bloodoranges",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Oranges",
-      "price": 2
-    },
-    {
-      "abr": "blubber",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_Whale",
       "price": 3
-    },
-    {
-      "abr": "bluecrab",
-      "category": "Animal",
-      "defname": "BiomesIslands_BlueCrab",
-      "price": 183
-    },
-    {
-      "abr": "bluecrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggBlueCrabFertilized",
-      "price": 58
-    },
-    {
-      "abr": "blueseasnailegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_BlueSeaSnailFertilized",
-      "price": 33
-    },
-    {
-      "abr": "boomwhale",
-      "category": "Animal",
-      "defname": "BiomesIslands_BoomWhale",
-      "price": 3000
-    },
-    {
-      "abr": "cluttercrab",
-      "category": "Animal",
-      "defname": "BiomesIslands_ClutterCrab",
-      "price": 683
-    },
-    {
-      "abr": "cluttercrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggClutterCrabFertilized",
-      "price": 92
-    },
-    {
-      "abr": "coralblocks",
-      "category": "Stone blocks",
-      "defname": "BiomesIslands_BlocksCoral",
-      "price": 2
-    },
-    {
-      "abr": "coralcoconuts",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Coconuts",
-      "price": 7
-    },
-    {
-      "abr": "crabmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_RimCrab",
-      "price": 3
-    },
-    {
-      "abr": "crabshell",
-      "category": "Leathers",
-      "defname": "BiomesCore_CrabShell",
-      "price": 8
-    },
-    {
-      "abr": "devil'sclawleaves",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Devilsclaw",
-      "price": 2
-    },
-    {
-      "abr": "fiddlercrab",
-      "category": "Animal",
-      "defname": "BiomesIslands_FiddlerCrab",
-      "price": 183
-    },
-    {
-      "abr": "fiddlercrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggFiddlerCrabFertilized",
-      "price": 58
-    },
-    {
-      "abr": "fish",
-      "category": "Animal",
-      "defname": "BiomesIslands_BaitfishBase",
-      "price": 25
-    },
-    {
-      "abr": "fishfood",
-      "category": "Foods",
-      "defname": "BiomesIslands_FishFood",
-      "price": 2
-    },
-    {
-      "abr": "fishmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_WhiteShark",
-      "price": 3
-    },
-    {
-      "abr": "fishskin",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Fishskin",
-      "price": 3
-    },
-    {
-      "abr": "flamingo",
-      "category": "Animal",
-      "defname": "BiomesIslands_Flamingo",
-      "price": 383
-    },
-    {
-      "abr": "flamingoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggFlamingoFertilized",
-      "price": 67
-    },
-    {
-      "abr": "flamingoleather",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Flamingo",
-      "price": 5
-    },
-    {
-      "abr": "galapagostortoise",
-      "category": "Animal",
-      "defname": "BiomesIslands_GalapagosTortoise",
-      "price": 583
-    },
-    {
-      "abr": "galapagostortoiseegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggGalapagosTortoiseFertilized",
-      "price": 55
-    },
-    {
-      "abr": "gigantaconda",
-      "category": "Animal",
-      "defname": "BiomesIslands_Gigantaconda",
-      "price": 700
-    },
-    {
-      "abr": "gigantacondaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggGigantacondaFertilized",
-      "price": 147
-    },
-    {
-      "abr": "gigantacondameat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_Gigantaconda",
-      "price": 3
-    },
-    {
-      "abr": "greatwhiteshark",
-      "category": "Animal",
-      "defname": "BiomesIslands_WhiteShark",
-      "price": 2500
-    },
-    {
-      "abr": "greengecko",
-      "category": "Animal",
-      "defname": "BiomesIslands_GreenGecko",
-      "price": 333
-    },
-    {
-      "abr": "greengeckoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggGreenGeckoFertilized",
-      "price": 42
-    },
-    {
-      "abr": "greengeckomeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_GreenGecko",
-      "price": 3
-    },
-    {
-      "abr": "greenshell",
-      "category": "Leathers",
-      "defname": "BiomesCore_GreenChitin",
-      "price": 8
-    },
-    {
-      "abr": "hammerheadshark",
-      "category": "Animal",
-      "defname": "BiomesIslands_Hammerhead",
-      "price": 1250
-    },
-    {
-      "abr": "hermitcrab",
-      "category": "Animal",
-      "defname": "BiomesIslands_HermitCrab",
-      "price": 183
-    },
-    {
-      "abr": "hermitcrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggHermitCrabFertilized",
-      "price": 58
-    },
-    {
-      "abr": "kelpbed",
-      "category": "Furniture",
-      "defname": "BiomesIslands_AquaticKelpBed",
-      "price": 119
-    },
-    {
-      "abr": "kiwi",
-      "category": "Animal",
-      "defname": "BiomesIslands_KiwiBird",
-      "price": 133
-    },
-    {
-      "abr": "kiwiegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggKiwiFertilized",
-      "price": 42
-    },
-    {
-      "abr": "kiwimeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_KiwiBird",
-      "price": 3
-    },
-    {
-      "abr": "leatherbackturtle",
-      "category": "Animal",
-      "defname": "BiomesIslands_LeatherbackTurtle",
-      "price": 750
-    },
-    {
-      "abr": "leatherbackturtleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggLeatherbackTurtleFertilized",
-      "price": 67
-    },
-    {
-      "abr": "leatherbackturtlemeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_LeatherbackTurtle",
-      "price": 3
-    },
-    {
-      "abr": "limepeelangelfish",
-      "category": "Animal",
-      "defname": "BiomesIslands_LimepeelAngelfish",
-      "price": 25
-    },
-    {
-      "abr": "limepeelangelfishegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggLimepeelAngelfishFertilized",
-      "price": 17
-    },
-    {
-      "abr": "mantaray",
-      "category": "Animal",
-      "defname": "BiomesIslands_MantaRay",
-      "price": 2500
-    },
-    {
-      "abr": "marineiguana",
-      "category": "Animal",
-      "defname": "BiomesIslands_MarineIguana",
-      "price": 200
-    },
-    {
-      "abr": "marineiguanaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggMarineIguanaFertilized",
-      "price": 42
-    },
-    {
-      "abr": "marineiguanameat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_MarineIguana",
-      "price": 3
-    },
-    {
-      "abr": "megamantis",
-      "category": "Animal",
-      "defname": "BiomesIslands_Megamantis",
-      "price": 167
-    },
-    {
-      "abr": "megamantisegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggMegamantisFertilized",
-      "price": 42
-    },
-    {
-      "abr": "omegadodo",
-      "category": "Animal",
-      "defname": "BiomesIslands_OmegaDodo",
-      "price": 500
-    },
-    {
-      "abr": "omegadodoegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggOmegaDodoFertilized",
-      "price": 83
-    },
-    {
-      "abr": "omegadodoegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "BiomesIslands_EggOmegaDodoUnfertilized",
-      "price": 83
-    },
-    {
-      "abr": "omegadodomeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_OmegaDodo",
-      "price": 3
-    },
-    {
-      "abr": "phoebaniarat",
-      "category": "Animal",
-      "defname": "BiomesIslands_PhoebaniaRat",
-      "price": 58
-    },
-    {
-      "abr": "phoebaniaratmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_PhoebaniaRat",
-      "price": 3
-    },
-    {
-      "abr": "redsnapper",
-      "category": "Animal",
-      "defname": "BiomesIslands_RedSnapper",
-      "price": 500
-    },
-    {
-      "abr": "redsnapperegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggRedSnapperFertilized",
-      "price": 58
-    },
-    {
-      "abr": "rimcrab",
-      "category": "Animal",
-      "defname": "BiomesIslands_RimCrab",
-      "price": 183
-    },
-    {
-      "abr": "rimcrabegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggRimCrabFertilized",
-      "price": 58
-    },
-    {
-      "abr": "sardine",
-      "category": "Animal",
-      "defname": "BiomesIslands_Sardine",
-      "price": 25
-    },
-    {
-      "abr": "sardineegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggSardineFertilized",
-      "price": 17
-    },
-    {
-      "abr": "seasnail",
-      "category": "Animal",
-      "defname": "BiomesIslands_BlueSeaSnail",
-      "price": 167
-    },
-    {
-      "abr": "seaturtle",
-      "category": "Animal",
-      "defname": "BiomesIslands_SeaTurtle",
-      "price": 1250
-    },
-    {
-      "abr": "seaturtleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggSeaTurtleFertilized",
-      "price": 58
-    },
-    {
-      "abr": "seaturtlemeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_SeaTurtle",
-      "price": 3
-    },
-    {
-      "abr": "seagull",
-      "category": "Animal",
-      "defname": "BiomesIslands_Seagull",
-      "price": 158
-    },
-    {
-      "abr": "seagullegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggSeagullFertilized",
-      "price": 47
-    },
-    {
-      "abr": "seagullmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_Seagull",
-      "price": 3
-    },
-    {
-      "abr": "sharkskin",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Sharkskin",
-      "price": 9
-    },
-    {
-      "abr": "shetlandpony",
-      "category": "Animal",
-      "defname": "BiomesIslands_ShetlandPony",
-      "price": 917
-    },
-    {
-      "abr": "snailmeat",
-      "category": "Meat",
-      "defname": "Meat_BiomesIslands_BlueSeaSnail",
-      "price": 3
-    },
-    {
-      "abr": "spineappleslices",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Pineapples",
-      "price": 5
-    },
-    {
-      "abr": "sugarbananas",
-      "category": "Vegetarian",
-      "defname": "BiomesIslands_Bananas",
-      "price": 2
-    },
-    {
-      "abr": "trout",
-      "category": "Animal",
-      "defname": "BiomesIslands_Trout",
-      "price": 200
-    },
-    {
-      "abr": "troutegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggTroutFertilized",
-      "price": 47
-    },
-    {
-      "abr": "tuna",
-      "category": "Animal",
-      "defname": "BiomesIslands_Tuna",
-      "price": 500
-    },
-    {
-      "abr": "tunaegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "BiomesIslands_EggTunaFertilized",
-      "price": 58
-    },
-    {
-      "abr": "whale",
-      "category": "Animal",
-      "defname": "BiomesIslands_Whale",
-      "price": 3000
-    },
-    {
-      "abr": "whaleskin",
-      "category": "Leathers",
-      "defname": "BiomesIslands_Leather_Whaleskin",
-      "price": 7
     },
     {
       "abr": "zombrella",
@@ -10087,5 +9607,5 @@
       "price": 3333
     }
   ],
-  "total": 1681
+  "total": 1601
 }
