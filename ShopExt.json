@@ -8762,133 +8762,133 @@
   ],
   "races": [
     {
-      "price": 2500,
+      "price": 7000,
       "defName": "ChjAndroid",
-      "enabled": false,
+      "enabled": true,
       "name": "Android",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 21917,
+      "price": 7000,
       "defName": "Arachne",
-      "enabled": false,
+      "enabled": true,
       "name": "arachne",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3083,
+      "price": 7000,
       "defName": "MG_Baphomet",
-      "enabled": false,
+      "enabled": true,
       "name": "Baphomet",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3167,
+      "price": 7000,
       "defName": "ChjBattleDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "Battle droid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
+      "price": 7000,
       "defName": "Alien_BunTribe",
-      "enabled": false,
+      "enabled": true,
       "name": "Bun",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
+      "price": 7000,
       "defName": "Alien_Bunlander",
-      "enabled": false,
+      "enabled": true,
       "name": "Bun",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
+      "price": 7000,
       "defName": "Alien_BunTribeNew",
-      "enabled": false,
+      "enabled": true,
       "name": "Bun",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2500,
+      "price": 7000,
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
+      "price": 7000,
       "defName": "MG_Centaur",
-      "enabled": false,
+      "enabled": true,
       "name": "Centaur",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
+      "price": 7000,
       "defName": "MG_Cowgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Cowgirl",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3667,
+      "price": 7000,
       "defName": "MG_Dragon",
-      "enabled": false,
+      "enabled": true,
       "name": "Dragon",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1417,
+      "price": 7000,
       "defName": "ChjDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "Droid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3000,
+      "price": 7000,
       "defName": "MG_ForestFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "ForestFairy",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2500,
+      "price": 7000,
       "defName": "MG_Foxgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Foxgirl",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 6666,
+      "price": 7000,
       "defName": "Fantasy_Goblin",
       "enabled": true,
       "name": "Goblin",
@@ -8897,72 +8897,72 @@
       }
     },
     {
-      "price": 2667,
+      "price": 7000,
       "defName": "MG_Harpy",
-      "enabled": false,
+      "enabled": true,
       "name": "Harpy",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
+      "price": 7000,
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3000,
+      "price": 7000,
       "defName": "MG_IceFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "IceFairy",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2500,
+      "price": 7000,
       "defName": "Alien_Kijin",
-      "enabled": false,
+      "enabled": true,
       "name": "Kijin",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 8333,
+      "price": 7000,
       "defName": "Kurin_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Kurin",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3333,
+      "price": 7000,
       "defName": "Alien_Nyaron",
-      "enabled": false,
+      "enabled": true,
       "name": "Nyaron",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3333,
+      "price": 7000,
       "defName": "Rabbie",
-      "enabled": false,
+      "enabled": true,
       "name": "Rabbie",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3333,
+      "price": 7000,
       "defName": "Ratkin",
-      "enabled": false,
+      "enabled": true,
       "name": "Ratkin",
       "data": {
         "customName": false
@@ -8978,27 +8978,27 @@
       }
     },
     {
-      "price": 3000,
+      "price": 7000,
       "defName": "MG_Slime",
-      "enabled": false,
+      "enabled": true,
       "name": "Slime",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3667,
+      "price": 7000,
       "defName": "MG_Thrumbogirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Thrumbogirl",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2500,
+      "price": 7000,
       "defName": "MG_Wolfgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Wolfgirl",
       "data": {
         "customName": false
