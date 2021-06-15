@@ -24,6 +24,10 @@
     "version": "1.0.0.1"
   },
   {
+    "author": "Vindar",
+    "name": "Medieval Times Unofficial Update"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
@@ -40,14 +44,10 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "YAYO",
-    "name": "Real Faction Guest",
-    "steamId": "2263021260",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "SineSwiper",
-    "name": "Faction Blender"
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7546.40571"
   },
   {
     "author": "PeteTimesSix",
@@ -130,10 +130,6 @@
   {
     "author": "Gunmar(グンマー)",
     "name": "Tribal Warrior Set!"
-  },
-  {
-    "author": "Vindar",
-    "name": "Medieval Times Unofficial Update"
   },
   {
     "author": "Velcroboy",
