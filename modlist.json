@@ -18,24 +18,10 @@
     "version": "3.8.1038"
   },
   {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Alias",
-    "name": "De-generalize Work"
-  },
-  {
-    "author": "ssulunge",
-    "name": "FemaleBB BodyType Support",
-    "steamId": "1792668502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ssulunge",
-    "name": "FemaleBB BodyType for Alien Races "
+    "author": "noodlesking",
+    "name": "More Psycasts",
+    "steamId": "2460833332",
+    "version": "1.0.0.1"
   },
   {
     "author": "erdelf",
@@ -44,48 +30,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1541064015",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "moronic",
-    "name": "Arachne Race"
-  },
-  {
-    "author": "Spanky_H",
-    "name": "Bun Race"
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 2.0",
-    "steamId": "1918120749",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races"
-  },
-  {
-    "author": "Seioch, MaroonToon",
-    "name": "Kurin HAR Edition"
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race"
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus"
-  },
-  {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race"
-  },
-  {
     "author": "Vagabond, Barsimmon",
     "name": "Fantasy Goblins Updated"
+  },
+  {
+    "author": "Rainbeau Flambe",
+    "name": "[RF] Tribal Raiders (Continued)",
+    "steamId": "2050901468",
+    "version": "1.0.1.0"
   },
   {
     "author": "YAYO",
@@ -98,8 +50,22 @@
     "name": "Faction Blender"
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms"
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoner Arena (Continued)"
+  },
+  {
     "author": "JBloodthorn",
     "name": "No Lazy Doctors"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Grab Your Tool!",
+    "steamId": "2355912467",
+    "version": "1.0.6"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -108,8 +74,92 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Storyteller pack"
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Neron Neolithic"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Maynard Medieval"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Armour Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "Gunmar(グンマー)",
+    "name": "Tribal Warrior Set!"
+  },
+  {
+    "author": "Vindar",
+    "name": "Medieval Times Unofficial Update"
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Workbenches"
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Tools"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Bishop",
+    "name": "Mending Medieval"
+  },
+  {
+    "author": "WexMan",
+    "name": "Mines Hardcore"
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Mines Retxture"
   },
   {
     "author": "hodlhodl",
@@ -152,12 +202,6 @@
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
     "version": "1.1.2.3"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.10"
   },
   {
     "author": "Fluffy",
@@ -238,43 +282,15 @@
     "name": "Gemstones"
   },
   {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Velc",
-    "name": "Hats Display Selection",
-    "steamId": "1542291825",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "overlordsos",
-    "name": "Rabbie The Moonrabbit - English Patch"
-  },
-  {
-    "author": "wagon",
-    "name": "More Monster Girls",
-    "steamId": "2014838309",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
     "name": "Alpha Animals",
     "steamId": "1541721856",
-    "version": "1.0.7.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "Kiame Vivacity",
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "民火",
-    "name": "Where is my weapon?",
-    "steamId": "1539028008",
     "version": "1.0.0.0"
   },
   {
@@ -311,6 +327,6 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "1.0.0"
+    "version": "0.6.3.2193"
   }
 ]

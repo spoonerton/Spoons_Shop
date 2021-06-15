@@ -2,12 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 7000,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
@@ -167,7 +162,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -276,11 +271,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 300,
 		"karmatype": "Good"
@@ -352,7 +342,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -386,5 +376,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 75
 }
