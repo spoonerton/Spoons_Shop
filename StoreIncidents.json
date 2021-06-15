@@ -112,7 +112,7 @@
 	},
 	{
 		"abr": "transportpodcrash",
-		"price": 1000,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
