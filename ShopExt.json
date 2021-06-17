@@ -2860,19 +2860,19 @@
   ],
   "races": [
     {
-      "price": 2917,
-      "defName": "Human",
+      "price": 4269,
+      "defName": "Fantasy_Goblin",
       "enabled": true,
-      "name": "human",
+      "name": "Goblin",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2333,
-      "defName": "Fantasy_Goblin",
-      "enabled": true,
-      "name": "Goblin",
+      "price": 2917,
+      "defName": "Human",
+      "enabled": false,
+      "name": "human",
       "data": {
         "customName": false
       }
