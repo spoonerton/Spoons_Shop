@@ -56,12 +56,6 @@
     "name": "No Lazy Doctors"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Grab Your Tool!",
-    "steamId": "2355912467",
-    "version": "1.0.6"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -192,6 +186,16 @@
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
     "version": "1.1.2.3"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.4.10"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack"
   },
   {
     "author": "Fluffy",
