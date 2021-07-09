@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.0.4.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -12,144 +12,22 @@
     "version": "8.0.1"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
   },
   {
-    "author": "noodlesking",
-    "name": "More Psycasts",
-    "steamId": "2460833332",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Vindar",
-    "name": "Medieval Times Unofficial Update"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vagabond, Barsimmon",
-    "name": "Fantasy Goblins Updated"
-  },
-  {
-    "author": "Rainbeau Flambe",
-    "name": "[RF] Tribal Raiders (Continued)",
-    "steamId": "2050901468",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms"
-  },
-  {
-    "author": "Mlie",
-    "name": "Prisoner Arena (Continued)"
-  },
-  {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Weapons Expanded"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Neron Neolithic"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Maynard Medieval"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Plants Expanded"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.7.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded - Stews"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Armour Expanded"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Apparel Expanded"
-  },
-  {
-    "author": "Gunmar(グンマー)",
-    "name": "Tribal Warrior Set!"
-  },
-  {
-    "author": "Velcroboy",
-    "name": "Primitive Workbenches"
-  },
-  {
-    "author": "Velcroboy",
-    "name": "Primitive Tools"
-  },
-  {
-    "author": "NotFood",
-    "name": "MendAndRecycle",
-    "steamId": "735241897",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "Bishop",
-    "name": "Mending Medieval"
-  },
-  {
-    "author": "WexMan",
-    "name": "Mines Hardcore"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Mines Retxture"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.3"
   },
   {
     "author": "hodlhodl",
@@ -161,13 +39,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.3.2"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.2.1"
+    "version": "6.0.3.3"
   },
   {
     "author": "hodlhodl",
@@ -176,44 +48,76 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.5.5.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.1.2.3"
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7789.9895"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.10"
+    "author": "Mlie",
+    "name": "Prisoner Arena (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack"
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Linkolas",
-    "name": "LinkableDoors (unofficial)"
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
-    "name": "CleaningArea"
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool"
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.4.0.0"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
@@ -222,32 +126,370 @@
     "version": "1.0.14"
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lecris",
+    "name": "[LC]Tools Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "2.2.3.1"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
+    "author": "Crlsniper",
+    "name": "Realistic Rooms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
     "version": "1.0.0.0"
   },
   {
-    "author": "Argón",
-    "name": "Argón's Tribal Medicine"
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
+    "author": "SineSwiper",
+    "name": "Faction Blender",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType for Alien Races ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "moronic",
+    "name": "Arachne Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spanky_H",
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vagabond, Barsimmon",
+    "name": "Fantasy Goblins Updated",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Seioch, MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe",
+    "name": "[RF] Tribal Raiders (Continued)",
+    "steamId": "2050901468",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Zylle",
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sam",
+    "name": "Glitter Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BJInternetSupervision",
+    "name": "[SS]Lovely Hair Style",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sakama",
+    "name": "Roppoi hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Rimhair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Cabbage",
+    "name": "RimCities",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gunmar(グンマー)",
+    "name": "Tribal Warrior Set!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NEPH, Maxim",
+    "name": "Utility Columns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Various Space Ship Chunk (Continued)",
+    "steamId": "2014616487",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Vindar",
+    "name": "Medieval Times Unofficial Update",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Workbenches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Tools",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lecris",
+    "name": "[LC] Survival Tools",
+    "steamId": "2057841936",
+    "version": "1.0.1018"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded Realism Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "khamenman",
+    "name": "Armor Racks",
+    "steamId": "1875828205",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sam",
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -256,40 +498,28 @@
     "version": "4.7.272"
   },
   {
-    "author": "Telkir",
-    "name": "[T] MoreFloors"
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Rimhair"
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
-    "author": "JI_Won",
-    "name": "Won hair_women "
+    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "0.0.0.0"
   },
   {
-    "author": "JI_Won",
-    "name": "Won hair_men"
-  },
-  {
-    "author": "Zylle",
-    "name": "Gemstones"
-  },
-  {
-    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy"
   },
   {
     "author": "Spdskatr, CaesarV6",
@@ -298,42 +528,94 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dyrewulfe",
-    "name": "Better Message Placement (Continued)"
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.3.900"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time"
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "bodlosh",
-    "name": "WeaponStats"
+    "author": "Linkolas",
+    "name": "LinkableDoors (unofficial)",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Alan Dariva",
-    "name": "More Planning"
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
   },
   {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
-    "version": "1.2.1.0"
+    "version": "1.3.0.0"
   },
   {
-    "author": "Spoonerton",
-    "name": "Medieval Royalty"
+    "author": "Alan Dariva",
+    "name": "More Planning",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Spoonerton",
-    "name": "No Robots Damnit!"
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "overlordsos",
+    "name": "Rabbie The Moonrabbit - English Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "void",
-    "name": "Character Editor"
-  },
-  {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval"
+    "name": "Character Editor",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
