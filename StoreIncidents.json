@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -103,6 +108,11 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "transportpodcrash",
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -276,6 +286,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -354,42 +369,7 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "cleartraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "use",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "equip",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 74
 }
