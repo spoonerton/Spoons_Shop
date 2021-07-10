@@ -133,9 +133,15 @@
   },
   {
     "author": "Lecris",
+    "name": "[LC]AutoPatcher",
+    "steamId": "2206567496",
+    "version": "1.0.0927"
+  },
+  {
+    "author": "Lecris",
     "name": "[LC]Tools Framework",
-    "steamId": null,
-    "version": null
+    "steamId": "2206566912",
+    "version": "1.0.1024"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -498,52 +504,10 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Custom Portraits",
-    "steamId": "1569605867",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Spdskatr, CaesarV6",
     "name": "Damage Indicators [1.2]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.3.900"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Linkolas",
-    "name": "LinkableDoors (unofficial)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
   },
   {
     "author": "Wemd",
@@ -558,6 +522,30 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Linkolas",
+    "name": "LinkableDoors (unofficial)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Custom Portraits",
+    "steamId": "1569605867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -568,18 +556,6 @@
     "name": "More Planning",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
   },
   {
     "author": "targhetti",
@@ -594,10 +570,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
+    "author": "overlordsos",
+    "name": "Rabbie The Moonrabbit - English Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "bodlosh",
@@ -606,8 +582,20 @@
     "version": null
   },
   {
-    "author": "overlordsos",
-    "name": "Rabbie The Moonrabbit - English Patch",
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
