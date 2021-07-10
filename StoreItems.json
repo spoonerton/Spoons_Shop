@@ -1,4 +1,4 @@
-{
+﻿{
   "items": [
     {
       "abr": "advancedcomponent",
@@ -11315,115 +11315,7 @@
       "category": "Bionic",
       "defname": "RB_BionicTail",
       "price": -10
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 667
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 450
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008
-    },
-    {
-      "abr": "guestmedievalcot",
-      "category": "Furniture",
-      "defname": "MedTimes_CotGuest",
-      "price": 138
-    },
-    {
-      "abr": "guestmedievaldoublecot",
-      "category": "Furniture",
-      "defname": "MedTimes_CotDoubleGuest",
-      "price": 256
-    },
-    {
-      "abr": "guesthaybed",
-      "category": "Furniture",
-      "defname": "VBY_HaybedGuest",
-      "price": 59
-    },
-    {
-      "abr": "guestleatherbed",
-      "category": "Furniture",
-      "defname": "VBY_LeatherbedGuest",
-      "price": 142
-    },
-    {
-      "abr": "guestdoublehaybed",
-      "category": "Furniture",
-      "defname": "VBY_DoubleHaybedGuest",
-      "price": 102
-    },
-    {
-      "abr": "guestdoubleleatherbed",
-      "category": "Furniture",
-      "defname": "VBY_DoubleLeatherbedGuest",
-      "price": 231
-    },
-    {
-      "abr": "zombrella",
-      "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
     }
   ],
-  "total": 1904
+  "total": 1886
 }

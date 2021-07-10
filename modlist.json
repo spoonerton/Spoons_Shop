@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -39,7 +39,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.3.2"
+    "version": "6.0.3.3"
   },
   {
     "author": "hodlhodl",
@@ -67,7 +67,9 @@
   },
   {
     "author": "Mlie",
-    "name": "Prisoner Arena (Continued)"
+    "name": "Prisoner Arena (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NotFood",
@@ -77,7 +79,9 @@
   },
   {
     "author": "PeteTimesSix",
-    "name": "Simple sidearms"
+    "name": "Simple sidearms",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "民火",
@@ -87,11 +91,15 @@
   },
   {
     "author": "JBloodthorn",
-    "name": "No Lazy Doctors"
+    "name": "No Lazy Doctors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
-    "name": "CleaningArea"
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -107,7 +115,9 @@
   },
   {
     "author": "Shadowrabbit",
-    "name": "[SR]Factional War"
+    "name": "[SR]Factional War",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
@@ -117,14 +127,18 @@
   },
   {
     "author": "Roolo",
-    "name": "Search and Destroy"
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lecris",
-    "name": "[LC]Tools Framework"
+    "name": "[LC]Tools Framework",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Vanilla Expanded team",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
@@ -137,7 +151,9 @@
   },
   {
     "author": "Crlsniper",
-    "name": "Realistic Rooms"
+    "name": "Realistic Rooms",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf",
@@ -147,11 +163,15 @@
   },
   {
     "author": "Alias",
-    "name": "De-generalize Work"
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SineSwiper",
-    "name": "Faction Blender"
+    "name": "Faction Blender",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ssulunge",
@@ -161,7 +181,9 @@
   },
   {
     "author": "ssulunge",
-    "name": "FemaleBB BodyType for Alien Races "
+    "name": "FemaleBB BodyType for Alien Races ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ChJees",
@@ -171,15 +193,21 @@
   },
   {
     "author": "moronic",
-    "name": "Arachne Race"
+    "name": "Arachne Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Spanky_H",
-    "name": "Bun Race"
+    "name": "Bun Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Vagabond, Barsimmon",
-    "name": "Fantasy Goblins Updated"
+    "name": "Fantasy Goblins Updated",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ssulunge",
@@ -189,23 +217,33 @@
   },
   {
     "author": "Seioch, MaroonToon",
-    "name": "Kurin HAR Edition"
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Razar1",
-    "name": "Monstergirl Races"
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus"
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Farmradish",
-    "name": "Nyaron race"
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race"
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Rainbeau Flambe",
@@ -215,27 +253,39 @@
   },
   {
     "author": "Zylle",
-    "name": "Gemstones"
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "BJInternetSupervision",
-    "name": "[SS]Lovely Hair Style"
+    "name": "[SS]Lovely Hair Style",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "sakama",
-    "name": "Roppoi hair"
+    "name": "Roppoi hair",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "rooki1",
-    "name": "Rimsenal - Rimhair"
+    "name": "Rimsenal - Rimhair",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JI_Won",
-    "name": "Won hair_men"
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JI_Won",
-    "name": "Won hair_women "
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg",
@@ -251,47 +301,69 @@
   },
   {
     "author": "Gunmar(グンマー)",
-    "name": "Tribal Warrior Set!"
+    "name": "Tribal Warrior Set!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NEPH, Maxim",
-    "name": "Utility Columns"
+    "name": "Utility Columns",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Apparel Expanded"
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, xrushha",
-    "name": "Vanilla Apparel Expanded — Accessories"
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Armour Expanded"
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Brewing Expanded"
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson, Chowder",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas"
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded"
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded - Stews"
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Weapons Expanded"
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser"
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -301,7 +373,9 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn"
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk, Chowder",
@@ -311,15 +385,21 @@
   },
   {
     "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Furniture Expanded - Production"
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded"
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Plants Expanded"
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -329,15 +409,21 @@
   },
   {
     "author": "Vindar",
-    "name": "Medieval Times Unofficial Update"
+    "name": "Medieval Times Unofficial Update",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Velcroboy",
-    "name": "Primitive Workbenches"
+    "name": "Primitive Workbenches",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Velcroboy",
-    "name": "Primitive Tools"
+    "name": "Primitive Tools",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lecris",
@@ -353,7 +439,9 @@
   },
   {
     "author": "Telkir",
-    "name": "[T] MoreFloors"
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Neceros",
@@ -363,7 +451,9 @@
   },
   {
     "author": "Neceros",
-    "name": "SRTS Expanded Realism Patch"
+    "name": "SRTS Expanded Realism Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "khamenman",
@@ -373,7 +463,9 @@
   },
   {
     "author": "Sam",
-    "name": "Tilled Soil"
+    "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
@@ -383,11 +475,15 @@
   },
   {
     "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time"
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Allow Tool"
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -397,7 +493,9 @@
   },
   {
     "author": "Dyrewulfe",
-    "name": "Better Message Placement (Continued)"
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -431,11 +529,15 @@
   },
   {
     "author": "Orion",
-    "name": "Hospitality"
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Linkolas",
-    "name": "LinkableDoors (unofficial)"
+    "name": "LinkableDoors (unofficial)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -445,7 +547,9 @@
   },
   {
     "author": "Wemd",
-    "name": "[WD] Realistic Darkness"
+    "name": "[WD] Realistic Darkness",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -461,11 +565,15 @@
   },
   {
     "author": "Alan Dariva",
-    "name": "More Planning"
+    "name": "More Planning",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
-    "name": "RimHUD"
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sandy",
@@ -493,15 +601,21 @@
   },
   {
     "author": "bodlosh",
-    "name": "WeaponStats"
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "overlordsos",
-    "name": "Rabbie The Moonrabbit - English Patch"
+    "name": "Rabbie The Moonrabbit - English Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "void",
-    "name": "Character Editor"
+    "name": "Character Editor",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
