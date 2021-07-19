@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -402,12 +402,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 800,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 3000,
+		"price": 800,
 		"karmatype": "Neutral"
 	}
 	],

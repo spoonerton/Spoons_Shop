@@ -48,40 +48,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.2.1"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "1.5.5.0"
-  },
-  {
-    "author": "Oblitus",
-    "name": "Animals Logic",
-    "steamId": "1098354593",
-    "version": "1.0.7789.9895"
-  },
-  {
-    "author": "Mlie",
-    "name": "Prisoner Arena (Continued)",
-    "steamId": null,
-    "version": null
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.4.10"
   },
   {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "民火",
@@ -102,22 +78,10 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ratys",
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.4.0.0"
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Hatti",
@@ -132,28 +96,10 @@
     "version": null
   },
   {
-    "author": "Lecris",
-    "name": "[LC]AutoPatcher",
-    "steamId": "2206567496",
-    "version": "1.0.0927"
-  },
-  {
-    "author": "Lecris",
-    "name": "[LC]Tools Framework",
-    "steamId": "2206566912",
-    "version": "1.0.1024"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "2.2.4.0"
   },
   {
     "author": "Crlsniper",
@@ -255,7 +201,7 @@
     "author": "Rainbeau Flambe",
     "name": "[RF] Tribal Raiders (Continued)",
     "steamId": "2050901468",
-    "version": "1.0.1.0"
+    "version": "1.0.2.0"
   },
   {
     "author": "Zylle",
@@ -312,7 +258,7 @@
     "version": null
   },
   {
-    "author": "NEPH, Maxim",
+    "author": "Nephlite, Maxim",
     "name": "Utility Columns",
     "steamId": null,
     "version": null
@@ -324,13 +270,13 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha",
+    "author": "Oskar Potocki, xrushha, SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken",
+    "author": "Oskar Potocki, Trunken, Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
@@ -360,7 +306,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken",
+    "author": "Oskar Potocki, Trunken, Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
@@ -411,7 +357,7 @@
     "author": "Mlie",
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
-    "version": "1.0.5.0"
+    "version": "1.0.6.0"
   },
   {
     "author": "Vindar",
@@ -420,16 +366,16 @@
     "version": null
   },
   {
-    "author": "Velcroboy",
-    "name": "Primitive Workbenches",
-    "steamId": null,
-    "version": null
+    "author": "Lecris",
+    "name": "[LC]AutoPatcher",
+    "steamId": "2206567496",
+    "version": "1.0.0927"
   },
   {
-    "author": "Velcroboy",
-    "name": "Primitive Tools",
-    "steamId": null,
-    "version": null
+    "author": "Lecris",
+    "name": "[LC]Tools Framework",
+    "steamId": "2206566912",
+    "version": "1.0.1024"
   },
   {
     "author": "Lecris",
@@ -510,12 +456,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Wemd",
-    "name": "[WD] Realistic Darkness",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -576,22 +516,28 @@
     "version": null
   },
   {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sandy",
-    "name": "RPG Style Inventory Revamped",
-    "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Orion",
