@@ -1014,23 +1014,6 @@
       "mod": "Unknown"
     },
     "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Unknown"
-    },
-    "description": null,
     "name": null,
     "usage": "!kindword",
     "userLevel": "Anyone",
