@@ -1,7 +1,7 @@
 {
 	"defName":"PassionShuffle",
 	"abbreviation":"passionshuffle",
-	"cost":"2500",
+	"cost":"-10",
 	"eventCap":"4",
 	"karmaType":"Neutral",
 	"minPointsToFire":"0",
