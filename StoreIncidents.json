@@ -41,11 +41,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healall",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "healanypawn",
 		"price": 100,
 		"karmatype": "Good"
@@ -111,5 +106,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 22
+	"total": 21
 }
