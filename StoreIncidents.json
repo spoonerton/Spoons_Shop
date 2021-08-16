@@ -51,11 +51,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "replacetrait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "fullheal",
 		"price": 100,
 		"karmatype": "Good"
@@ -101,5 +96,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 20
+	"total": 19
 }

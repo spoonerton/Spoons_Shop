@@ -24,10 +24,22 @@
     "version": "1.3.0.4"
   },
   {
+    "author": "Fuu Chan",
+    "name": "[Fuu] Auto Strip on Haul",
+    "steamId": "2560725133",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.2"
+    "version": "2.6.0.3"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
   },
   {
     "author": "Sarg",
@@ -90,6 +102,12 @@
     "version": null
   },
   {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -138,10 +156,10 @@
     "version": null
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3074.1"
+    "version": "1.3.3087.1"
   },
   {
     "author": "Nals",
@@ -168,16 +186,16 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "ssulunge",
     "name": "FemaleBB BodyType for Alien Races ",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Vagabond and  Barsimmon",
@@ -194,6 +212,12 @@
   {
     "author": "Seioch and  MaroonToon",
     "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "moronic",
+    "name": "Arachne Race (Continued)",
     "steamId": null,
     "version": null
   },
@@ -270,12 +294,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "targhetti",
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
@@ -327,7 +345,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.3.0"
+    "version": "6.1.3.4"
   },
   {
     "author": "hodlhodl",
@@ -354,10 +372,16 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
+    "author": "Me",
+    "name": "SearchAndDestroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Incident Disabler",
+    "steamId": "2347633285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Dubwise",
