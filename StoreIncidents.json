@@ -6,6 +6,16 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "resourcepodcrash",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "skillincrease",
 		"price": 205,
 		"karmatype": "Good"
@@ -36,13 +46,18 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "reviveme",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 100,
+		"price": 25,
 		"karmatype": "Good"
 	},
 	{
@@ -52,7 +67,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 100,
+		"price": 25,
 		"karmatype": "Good"
 	},
 	{
@@ -96,5 +111,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 19
+	"total": 22
 }
