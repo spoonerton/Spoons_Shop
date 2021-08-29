@@ -430,13 +430,13 @@
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
-      "price": 2258
+      "price": 1300
     },
     {
       "abr": "chargerifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
-      "price": 1683
+      "price": 1300
     },
     {
       "abr": "chemfuel",
@@ -1678,7 +1678,7 @@
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": 1933
+      "price": 1300
     },
     {
       "abr": "mini-turret",
@@ -1708,7 +1708,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": 3333
+      "price": 1600
     },
     {
       "abr": "mortar",
@@ -1930,7 +1930,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
+      "price": 1600
     },
     {
       "abr": "plasteel",
@@ -3700,7 +3700,7 @@
       "abr": "goblinlaserrifle",
       "category": "Ranged weapons",
       "defname": "Goblin_LaserRifle",
-      "price": 1683
+      "price": 1200
     },
     {
       "abr": "goblinleatherarmor",
@@ -4204,7 +4204,7 @@
       "abr": "kurinnanoedgepolearm",
       "category": "Melee weapons",
       "defname": "Kurin_nanoedge",
-      "price": 7500
+      "price": 1200
     },
     {
       "abr": "kurinnundress",
@@ -4396,43 +4396,43 @@
       "abr": "laserminigun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserMinigun",
-      "price": 7500
+      "price": 1300
     },
     {
       "abr": "laserpistol",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserPistol",
-      "price": 3333
+      "price": 800
     },
     {
       "abr": "laserrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserRifle",
-      "price": 5000
+      "price": 1300
     },
     {
       "abr": "lasershotgun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserShotgun",
-      "price": 5333
+      "price": 1300
     },
     {
       "abr": "lasersmg",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserSMG",
-      "price": 4000
+      "price": 1000
     },
     {
       "abr": "lasersniperrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserSniperRifle",
-      "price": 6000
+      "price": 1300
     },
     {
       "abr": "lasersword",
       "category": "Melee weapons",
       "defname": "VWEL_LaserSword",
-      "price": 3333
+      "price": 1600
     },
     {
       "abr": "liquidamber",
@@ -4540,7 +4540,7 @@
       "abr": "ancientmail",
       "category": "Magic apparel",
       "defname": "AncientMail",
-      "price": 950
+      "price": 650
     },
     {
       "abr": "arcalleum",
@@ -4732,7 +4732,7 @@
       "abr": "armorofthevaliant",
       "category": "Magic apparel",
       "defname": "RoyalArmor",
-      "price": 950
+      "price": 800
     },
     {
       "abr": "bardspell:battlehymn",
@@ -4768,7 +4768,7 @@
       "abr": "bracersofthepacifist",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_BracersOfThePacifist",
-      "price": 2100
+      "price": 800
     },
     {
       "abr": "brightmagespell:spiritoflight",
@@ -4786,7 +4786,7 @@
       "abr": "cloakofsupremacy",
       "category": "Magic apparel",
       "defname": "DemonLordCloak",
-      "price": 1200
+      "price": 800
     },
     {
       "abr": "combatform:faceless",
@@ -4864,7 +4864,7 @@
       "abr": "demon'sfang",
       "category": "Melee",
       "defname": "TM_DemonFang",
-      "price": 6150
+      "price": 800
     },
     {
       "abr": "demonscale",
@@ -4888,13 +4888,13 @@
       "abr": "dreamcatcherbuckskin",
       "category": "Magic apparel",
       "defname": "TM_DreamcatcherBuckskin",
-      "price": 1200
+      "price": 800
     },
     {
       "abr": "dreamcatchercoronet",
       "category": "Magic apparel",
       "defname": "TM_DreamcatcherCoronet",
-      "price": 1000
+      "price": 550
     },
     {
       "abr": "druidspell:briarpatch",
@@ -4990,13 +4990,13 @@
       "abr": "elephantbow",
       "category": "Ranged",
       "defname": "TM_ElephantBow",
-      "price": 2083
+      "price": 400
     },
     {
       "abr": "elephantspear",
       "category": "Melee",
       "defname": "TM_ElephantSpear",
-      "price": 1333
+      "price": 500
     },
     {
       "abr": "elephanttusk",
@@ -5194,7 +5194,7 @@
       "abr": "magerobe",
       "category": "Magic apparel",
       "defname": "DarkRobe",
-      "price": 1200
+      "price": 800
     },
     {
       "abr": "magespell:arcanebolt",
@@ -5494,7 +5494,7 @@
       "abr": "orbofsouls(empty)",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_OrbOfSouls",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "orbofsouls(filled)",
@@ -5542,31 +5542,31 @@
       "abr": "ringofblood",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfBlood",
-      "price": 1100
+      "price": 600
     },
     {
       "abr": "ringofkeenintellect",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfKeenIntellect",
-      "price": 1100
+      "price": 600
     },
     {
       "abr": "ringofmalice",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfMalice",
-      "price": 1100
+      "price": 600
     },
     {
       "abr": "ringoftheeternalblue",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_RingOfEternalBlue",
-      "price": 1100
+      "price": 600
     },
     {
       "abr": "robesofthearchmage",
       "category": "Magic apparel",
       "defname": "ArchMageRobe",
-      "price": 1800
+      "price": 1000
     },
     {
       "abr": "ruby",
@@ -5578,7 +5578,7 @@
       "abr": "ruunbled",
       "category": "Melee",
       "defname": "TM_Ruunbled",
-      "price": 13333
+      "price": 4500
     },
     {
       "abr": "salmon",
@@ -5596,25 +5596,25 @@
       "abr": "salvagedlaserpistol",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserPistol",
-      "price": 2500
+      "price": 500
     },
     {
       "abr": "salvagedlaserrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserRifle",
-      "price": 3250
+      "price": 500
     },
     {
       "abr": "salvagedlasershotgun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserShotgun",
-      "price": 3417
+      "price": 500
     },
     {
       "abr": "salvagedlasersniperrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserSniperRifle",
-      "price": 3667
+      "price": 500
     },
     {
       "abr": "sapphire",
@@ -5764,13 +5764,13 @@
       "abr": "staffofblazingpower",
       "category": "Magic foci",
       "defname": "TM_BlazingPowerStaff",
-      "price": 6250
+      "price": 1250
     },
     {
       "abr": "staffofthedefender",
       "category": "Magic foci",
       "defname": "TM_DefenderStaff",
-      "price": 5583
+      "price": 1250
     },
     {
       "abr": "steelhorn",
@@ -5878,25 +5878,25 @@
       "abr": "teslagun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_TeslaGun",
-      "price": 5000
+      "price": 1300
     },
     {
       "abr": "thrumbow",
       "category": "Ranged",
       "defname": "TM_ThrumBow",
-      "price": 7467
+      "price": 800
     },
     {
       "abr": "thrumboaxe",
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
-      "price": 7750
+      "price": 1300
     },
     {
       "abr": "thrumbosaber",
       "category": "Melee",
       "defname": "TM_ThrumboSaber",
-      "price": 5833
+      "price": 1300
     },
     {
       "abr": "thrumbogirl",
@@ -6094,19 +6094,19 @@
       "abr": "wandoffire",
       "category": "Magic foci",
       "defname": "TM_FireWand",
-      "price": 800
+      "price": 400
     },
     {
       "abr": "wandofice",
       "category": "Magic foci",
       "defname": "TM_IceWand",
-      "price": 800
+      "price": 400
     },
     {
       "abr": "wandoflightning",
       "category": "Magic foci",
       "defname": "TM_LightningWand",
-      "price": 800
+      "price": 400
     },
     {
       "abr": "wanderer'scloak",
@@ -6226,7 +6226,7 @@
       "abr": "arachnesmg",
       "category": "Ranged weapons",
       "defname": "ArachnePninety",
-      "price": 2667
+      "price": 700
     },
     {
       "abr": "arachnesword",
@@ -6334,25 +6334,25 @@
       "abr": "amuletofclarity",
       "category": "Magic artifacts",
       "defname": "TM_AmuletOfClarity",
-      "price": 4333
+      "price": 1000
     },
     {
       "abr": "amuletofforce",
       "category": "Magic artifacts",
       "defname": "TM_AmuletOfForce",
-      "price": 4333
+      "price": 1000
     },
     {
       "abr": "amuletofperception",
       "category": "Magic artifacts",
       "defname": "TM_AmuletOfPerception",
-      "price": 3667
+      "price": 1000
     },
     {
       "abr": "amuletoftranquility",
       "category": "Magic artifacts",
       "defname": "TM_AmuletOfTranquility",
-      "price": 3667
+      "price": 1000
     },
     {
       "abr": "android",
@@ -6610,7 +6610,7 @@
       "abr": "bfr3000",
       "category": "Ranged weapons",
       "defname": "RK_BFR",
-      "price": 3133
+      "price": 1300
     },
     {
       "abr": "bioniccattail",
@@ -6814,7 +6814,7 @@
       "abr": "chatoyansniperrifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_ChRifle",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "chef'stoque",
@@ -7048,7 +7048,7 @@
       "abr": "cribitepistol",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_CriPistol",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "crossback",
@@ -7768,7 +7768,7 @@
       "abr": "machairodus",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_FlakCaster",
-      "price": 7000
+      "price": -10
     },
     {
       "abr": "magespell:effulgence",
@@ -7834,13 +7834,13 @@
       "abr": "minifoldpdw",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_MfoldPdw",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "minisword",
       "category": "Special melee weapons",
       "defname": "Nr_MiniSword",
-      "price": 1667
+      "price": 700
     },
     {
       "abr": "mini-turretpack",
@@ -7900,7 +7900,7 @@
       "abr": "n.p.crifle",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_NpcRifle",
-      "price": 1483
+      "price": -10
     },
     {
       "abr": "neuralsupercharger",
@@ -7990,7 +7990,7 @@
       "abr": "nyaronstalkbow",
       "category": "Ranged weapons",
       "defname": "Nr_Stkbow",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "omni-spectrumgoggles",
@@ -8062,7 +8062,7 @@
       "abr": "plasmsword",
       "category": "Special melee weapons",
       "defname": "Nr_PlasmSword",
-      "price": 1667
+      "price": 700
     },
     {
       "abr": "plateboots",
@@ -8602,13 +8602,13 @@
       "abr": "ratkingunlance(normal)",
       "category": "Melee weapons",
       "defname": "RK_Gunlance_NormalType",
-      "price": 1283
+      "price": 800
     },
     {
       "abr": "ratkingunlance(spread)",
       "category": "Melee weapons",
       "defname": "RK_Gunlance_SpreadType",
-      "price": 1283
+      "price": 800
     },
     {
       "abr": "ratkinhaircorsage",
@@ -8746,7 +8746,7 @@
       "abr": "ratkinprototypepulserifle",
       "category": "Ranged weapons",
       "defname": "RK_PrototypePulseRifle",
-      "price": 2150
+      "price": 1000
     },
     {
       "abr": "ratkinresearchgown",
@@ -9599,7 +9599,25 @@
       "category": "Bionic",
       "defname": "RB_BionicTail",
       "price": 1717
+    },
+    {
+      "abr": "nanotechslabbed",
+      "category": "Furniture",
+      "defname": "SlabBed_NanoBed",
+      "price": 172
+    },
+    {
+      "abr": "nanotechslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBed_NanoBed",
+      "price": 425
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 1600
+  "total": 1603
 }
