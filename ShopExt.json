@@ -34509,7 +34509,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin subject",
       "price": 100
     },
