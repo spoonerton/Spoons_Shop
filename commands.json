@@ -181,23 +181,6 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Join queue",
-    "usage": "!joinqueue",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
     "name": "Mod info",
     "usage": "!modinfo",
     "userLevel": "Anyone",
@@ -219,23 +202,6 @@
     "usage": "!buy",
     "userLevel": "Anyone",
     "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true
   },
   {
     "data": {
@@ -301,7 +267,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!modlist",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -418,23 +384,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Purchases the part specified and queues it for surgery on your pawn.",
-    "name": "Surgery",
-    "usage": "!surgery <item> <quantity/bodypart>",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": null,
     "name": "Add trait",
     "usage": "!trait",
@@ -520,23 +469,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
-    "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": "Downgrades a skill's passion... sometimes.",
     "name": "Remove passion",
     "usage": "!removepassion <skill>",
@@ -574,23 +506,6 @@
     "description": null,
     "name": "Full heal",
     "usage": "!fullheal",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Rescue me",
-    "usage": "!rescueme",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -676,23 +591,6 @@
     "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
     "usage": "!mypawngear",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer body",
-    "usage": "!mypawnbody",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -911,23 +809,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": null,
     "name": "Colony wealth",
     "usage": "!wealth",
@@ -982,23 +863,6 @@
     "description": null,
     "name": "Unstick me",
     "usage": "!imstuck",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Unknown"
-    },
-    "description": null,
-    "name": null,
-    "usage": "!kindword",
     "userLevel": "Anyone",
     "shortcut": false
   },
