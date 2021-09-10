@@ -18276,7 +18276,7 @@
       "name": "ambusher",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 500,
+      "addPrice": 5100,
       "removePrice": 500,
       "degree": 4
     },

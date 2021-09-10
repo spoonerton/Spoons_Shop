@@ -1,11 +1,13 @@
 body {
     background-color: #14202c;
+    line-height: 1;
 }
 
 .jumbotron {
     background-image: url("monstergirls.png");
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 1rem;
 }
 
 div.jumbotron div.container p,
@@ -50,6 +52,7 @@ div.form-group {
 
 .list {
     background-color: #99a0bb;
+    vertical-align: middle;
 }
 
 .list>tr:nth-child(odd) {
@@ -91,4 +94,12 @@ div.form-group {
     position: relative;
     top: -4px;
     right: -5px;
+}
+
+.table{
+    border-collapse: separate;
+}
+
+.table td,.table tr{
+vertical-align: middle;
 }

@@ -127,16 +127,6 @@
                                         Races
                                     </button>
                                 </div>
-                                <div class="form-group row">
-                                    <label class="col-sm-2 col-form-label" for="">Price Between:</label>
-                                    <div class="col-sm-2">
-                                        <input type="number" class="form-control" id="item-price-min" placeholder="0">
-                                    </div>
-                                    <div class="col-sm-2">
-                                        <input type="number" class="form-control" id="item-price-max"
-                                            placeholder="100000">
-                                    </div>
-                                </div>
                             </form>
                         </div>
                     </div>
@@ -214,21 +204,14 @@
                                 <input type="text" class="form-control search" aria-label="Search"
                                     aria-describedby="inputGroup-sizing-sm">
                             </div>
-                            <p>
-                                <button type="button" class="btn btn-primary sort" data-sort="name">
-                                    Sort
-                                </button>
-                                <button type="button" class="btn btn-primary sort" data-sort="addPrice">
-                                    Sort by Price
-                                </button>
-                            </p>
-                            <table class="table traits">
+                            <table class="table" id="sortable">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="name">Name</th>
+                                    <th scope="col" class="sort" data-sort="stats">Stats</th>
                                     <th scope="col" class="sort" data-sort="addPrice">Add Price</th>
                                     <th scope="col" class="sort" data-sort="removePrice">Remove Price</th>
                                 </tr>
-                                <tbody class="list">
+                                <tbody class="list" id="traitstable">
                                 </tbody>
                             </table>
                         </div>
@@ -285,63 +268,6 @@
             <p>Go fast, Eat ass.</p>
         </div>
     </footer>
-    <!--Script for filters using jquery-->
-    <script>
-    $("#item-price-min").keyup(function() {
-        console.log("we updated min price");
-        updateItemFilter();
-    });
-    
-    $("#item-price-max").keyup(function() {
-        console.log("we updated max price");
-        updateItemFilter();
-    });
-    
-    function updateItemFilter() {
-        var minPrice = $("#item-price-min").val();
-        var maxPrice = $("#item-price-max").val();
-        itemList.filter(function(item) {
-            var allow = true;
-            if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                allow = false;
-            }
-            if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                allow = false;
-            }
-            return allow;
-        });
-        eventList.filter(function(item) {
-            var allow = true;
-            if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                allow = false;
-            }
-            if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                allow = false;
-            }
-            return allow;
-        });
-        traitList.filter(function(item) {
-            var allow = true;
-            if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                allow = false;
-            }
-            if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                allow = false;
-            }
-            return allow;
-        });
-        raceList.filter(function(item) {
-            var allow = true;
-            if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                allow = false;
-            }
-            if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                allow = false;
-            }
-            return allow;
-        });
-    }
-    </script>
     <!--Bootstrap JS-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
