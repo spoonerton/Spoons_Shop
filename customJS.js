@@ -1,7 +1,9 @@
 const itemListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreItems.json";
 const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/StoreIncidents.json";
 const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/ShopExt.json";
-const modListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/modlist.json"
+const modListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/modlist.json";
+const commandListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/commands.json";
+
 
 let itemList = null;
 $.getJSON(itemListURL, function(data) {
@@ -118,3 +120,38 @@ var tabs = angular.module('tabs', [])
           }
         }
       }
+//Command List
+$.getJSON(commandListURL, function(data) {
+
+        var items = '';
+        $.each(data, function(index, val){
+            if (val.userLevel != 'Moderator' && val.description != null){        
+                items += '<li class="list-group-item"><b>' + val.usage + '</b> - ' + val.description;
+            }        
+        })
+        $('#list1 > ul').html(items);
+    })
+
+//Mod List
+
+$.getJSON(modListURL, function(data) {
+
+        var items = '';
+        $.each(data, function(index, val){ 
+            if (val.author == 'Me'){
+                console.log("ITS ME with a steamId of: " + val.steamId);
+            }
+            if (val.steamId == null){ 
+                items += '<li class="list-group-item col-md-3"><b>' + val.name + '</b><i></br> by ' + val.author + '</i>';       
+            } 
+            else {
+                items += '<li class="list-group-item col-md-3"><a href=https://steamcommunity.com/sharedfiles/filedetails/?id=' + val.steamId + '><b>' + val.name + '</b></a></br><i> by ' + val.author + '</i>';       
+            }     
+        })
+        $('#list2 > ul').html(items);
+    })
+
+    var $myGroup = $('#topGroup');
+    $myGroup.on('show','.collapse', function() {
+        $myGroup.find('.collapse.in').collapse('hide');
+    });
