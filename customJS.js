@@ -125,8 +125,12 @@ $.getJSON(commandListURL, function(data) {
 
         var items = '';
         $.each(data, function(index, val){
-            if (val.userLevel != 'Moderator' && val.description != null){        
-                items += '<li class="list-group-item"><b>' + val.usage + '</b> - ' + val.description;
+            if (val.userLevel != 'Moderator'){ 
+                if (val.description != null){      
+                    items += '<li class="list-group-item"><b>' + val.usage + '</b> - ' + val.description;
+                } else {
+                    items += '<li class="list-group-item"><b>' + val.usage + '</b>';  
+                }
             }        
         })
         $('#list1 > ul').html(items);
