@@ -1,143 +1,23 @@
 {
 	"incitems" : [
 	{
-		"abr": "clearweather",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "foggyrain",
-		"price": 300,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rainythunderstorm",
-		"price": 250,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drythunderstorm",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "snowgentle",
-		"price": 350,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "snowhard",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fog",
-		"price": 300,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "coldsnap",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "eclipse",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "aurora",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "tradercaravan",
-		"price": 1500,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "meteor",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "madanimal",
-		"price": 200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicsoothe",
-		"price": 1250,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "ambrosiasprout",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "herdmigration",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "rarethrumbos",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "shipchunkdrop",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 200,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "skillincrease",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 1500,
+		"price": 205,
 		"karmatype": "Good"
 	},
 	{
@@ -146,39 +26,29 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "levelskill",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 250,
+		"price": 50,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "randominspire",
-		"price": 1000,
+		"price": 450,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveme",
@@ -186,39 +56,34 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healall",
-		"price": 4500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "healme",
-		"price": 500,
+		"price": 25,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
+		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fullheal",
-		"price": 500,
+		"price": 25,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "settraits",
@@ -231,15 +96,20 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randomchildhood",
-		"price": 800,
+		"abr": "use",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randomadulthood",
-		"price": 800,
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 48
+	"total": 22
 }

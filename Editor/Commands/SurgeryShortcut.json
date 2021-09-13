@@ -1,7 +1,7 @@
 {
 	"defName":"SurgeryShortcut",
 	"command":"surgery",
-	"enabled":"False",
+	"enabled":"True",
 	"shouldBeInSeparateRoom":"False",
 	"requiresMod":"False",
 	"requiresAdmin":"False",
