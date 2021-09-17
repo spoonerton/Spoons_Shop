@@ -2314,7 +2314,7 @@
       "abr": "rawfungus",
       "category": "Vegetarian",
       "defname": "RawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "reconarmor",
@@ -5404,7 +5404,7 @@
       "abr": "meat",
       "category": "Meat",
       "defname": "Meat_TM_SpiritWolfR",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "minorarcanegemofacceleration",
@@ -7522,7 +7522,7 @@
       "abr": "kinghamstermeat",
       "category": "Meat",
       "defname": "Meat_RK_KingHamster",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "kinghamsterwool",
@@ -7762,7 +7762,7 @@
       "abr": "nyaronmeat",
       "category": "Meat",
       "defname": "Meat_Alien_Nyaron",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "nyaronpowerarmor",
@@ -8056,7 +8056,7 @@
       "abr": "rabbiemeat",
       "category": "Meat",
       "defname": "Meat_Rabbie",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "rabbiemetalpot",
@@ -8446,7 +8446,7 @@
       "abr": "ratkinmeat",
       "category": "Meat",
       "defname": "Meat_Ratkin",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ratkinmilitaryhelmet",
@@ -8572,7 +8572,7 @@
       "abr": "ratkinsubjectmeat",
       "category": "Meat",
       "defname": "Meat_Ratkin_Su",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ratkinsummerdress",
@@ -8662,7 +8662,7 @@
       "abr": "rottimeat",
       "category": "Meat",
       "defname": "Meat_Rotti",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "royalrobe",
@@ -9490,13 +9490,13 @@
       "abr": "animalistslab(broad)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "animalistslab(medium)",
       "category": "Furniture",
       "defname": "AnimalistSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "animusvox",
@@ -9592,7 +9592,7 @@
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "asphaltmix",
@@ -9940,7 +9940,7 @@
       "abr": "biosculpterpod",
       "category": "Misc",
       "defname": "BiosculpterPod",
-      "price": 725
+      "price": -10
     },
     {
       "abr": "bittersweetdrone",
@@ -10120,7 +10120,7 @@
       "abr": "box",
       "category": "Inert relics",
       "defname": "RelicInertBox",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "brittlebeeswax",
@@ -10180,13 +10180,13 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "cabbages",
       "category": "Vegetarian",
       "defname": "VCE_RawCabbage",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "cactipine",
@@ -10252,7 +10252,7 @@
       "abr": "cannibalplatter",
       "category": "Misc",
       "defname": "CannibalPlatter",
-      "price": 220
+      "price": -10
     },
     {
       "abr": "canningmachine",
@@ -10276,7 +10276,7 @@
       "abr": "chalice",
       "category": "Inert relics",
       "defname": "RelicInertCup",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "chameleonyak",
@@ -10432,13 +10432,13 @@
       "abr": "chocolatesyrup",
       "category": "Condiments",
       "defname": "VCE_ChocolateSyrup",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "christmastree",
       "category": "Misc",
       "defname": "ChristmasTree",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "chromium",
@@ -10600,7 +10600,7 @@
       "abr": "cube",
       "category": "Inert relics",
       "defname": "RelicInertCube",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "culinarydrone",
@@ -10756,7 +10756,7 @@
       "abr": "digestibleresurrectornanites",
       "category": "Condiments",
       "defname": "VCE_DigestibleResurrectorNanites",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "disgustingnutrientpastemeal",
@@ -10792,7 +10792,7 @@
       "abr": "drum",
       "category": "Recreation",
       "defname": "Drum",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "dunealisk",
@@ -10834,7 +10834,7 @@
       "abr": "effigy",
       "category": "Misc",
       "defname": "Effigy",
-      "price": 178
+      "price": -10
     },
     {
       "abr": "egglayingdrone",
@@ -11212,7 +11212,7 @@
       "abr": "fragment",
       "category": "Inert relics",
       "defname": "RelicInertFragment",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "frostave",
@@ -11320,7 +11320,7 @@
       "abr": "gauranlenseed",
       "category": "Items",
       "defname": "GauranlenSeed",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "germanium",
@@ -11332,7 +11332,7 @@
       "abr": "gibbetcage",
       "category": "Misc",
       "defname": "GibbetCage",
-      "price": 210
+      "price": -10
     },
     {
       "abr": "gigantelope",
@@ -11350,7 +11350,7 @@
       "abr": "go-juicestock",
       "category": "Condiments",
       "defname": "VBE_GoJuiceStock",
-      "price": 150
+      "price": -10
     },
     {
       "abr": "gourmetbake",
@@ -11548,7 +11548,7 @@
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "hmg",
@@ -11584,7 +11584,7 @@
       "abr": "hotsauce",
       "category": "Condiments",
       "defname": "VCE_HotSauce",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "hugeanimapearl",
@@ -11632,13 +11632,13 @@
       "abr": "immaturedryadmeat",
       "category": "Meat",
       "defname": "Meat_Dryad_Basic",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "incenseshrine",
       "category": "Misc",
       "defname": "IncenseShrine",
-      "price": 272
+      "price": -10
     },
     {
       "abr": "industrialradio",
@@ -11662,7 +11662,7 @@
       "abr": "insectjellypreserves",
       "category": "Condiments",
       "defname": "VCE_InsectJellyPreserves",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "insectoiddrone",
@@ -11734,7 +11734,7 @@
       "abr": "ketchup",
       "category": "Condiments",
       "defname": "VCE_Ketchup",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "kitchensinkcabinet",
@@ -11836,7 +11836,7 @@
       "abr": "lectern",
       "category": "Misc",
       "defname": "Lectern",
-      "price": 227
+      "price": -10
     },
     {
       "abr": "legendarydrone",
@@ -11884,7 +11884,7 @@
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
-      "price": 154
+      "price": -10
     },
     {
       "abr": "lionmeat",
@@ -11938,7 +11938,7 @@
       "abr": "loudspeaker",
       "category": "Misc",
       "defname": "Loudspeaker",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "luciferdrone",
@@ -11968,7 +11968,7 @@
       "abr": "luciferiumpowder",
       "category": "Condiments",
       "defname": "VBE_LuciferiumPowder",
-      "price": 217
+      "price": -10
     },
     {
       "abr": "luxuriousdrone",
@@ -12040,7 +12040,7 @@
       "abr": "mayo",
       "category": "Condiments",
       "defname": "VCE_Mayo",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "mead",
@@ -12160,7 +12160,7 @@
       "abr": "mintleaves",
       "category": "Condiments",
       "defname": "VBE_MintLeaves",
-      "price": 11
+      "price": -10
     },
     {
       "abr": "minttea",
@@ -12184,13 +12184,13 @@
       "abr": "morbidslab(broad)",
       "category": "Furniture",
       "defname": "MorbidSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "morbidslab(medium)",
       "category": "Furniture",
       "defname": "MorbidSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "moribundgallatross",
@@ -12256,7 +12256,7 @@
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "neutrodrone",
@@ -12364,13 +12364,13 @@
       "abr": "nondescriptmeat",
       "category": "Meat",
       "defname": "RB_NondescriptMeat",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "nondescriptvegetables",
       "category": "Vegetarian",
       "defname": "RB_NonDescriptVegetables",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "noonchai",
@@ -12460,7 +12460,7 @@
       "abr": "onions",
       "category": "Vegetarian",
       "defname": "VCE_RawOnion",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "oranges",
@@ -12520,7 +12520,7 @@
       "abr": "peas",
       "category": "Vegetarian",
       "defname": "VCE_RawPeas",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "pebblemit",
@@ -12544,13 +12544,13 @@
       "abr": "pendant",
       "category": "Inert relics",
       "defname": "RelicInertPendant",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "peppers",
       "category": "Vegetarian",
       "defname": "VCE_RawPepper",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "petdrone",
@@ -12730,7 +12730,7 @@
       "abr": "pumpkins",
       "category": "Vegetarian",
       "defname": "VCE_RawPumpkin",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "punchingbag",
@@ -12742,7 +12742,7 @@
       "abr": "pyre",
       "category": "Misc",
       "defname": "Pyre",
-      "price": 230
+      "price": -10
     },
     {
       "abr": "radioactivedrone",
@@ -12988,13 +12988,13 @@
       "abr": "sacrificialflag",
       "category": "Misc",
       "defname": "SacrificialFlag",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "salt",
       "category": "Condiments",
       "defname": "VCE_Salt",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "sandlion",
@@ -13138,13 +13138,13 @@
       "abr": "skull",
       "category": "Items",
       "defname": "Skull",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "skullspike",
       "category": "Misc",
       "defname": "Skullspike",
-      "price": 101
+      "price": -10
     },
     {
       "abr": "skydrone",
@@ -13204,7 +13204,7 @@
       "abr": "sleepaccelerator",
       "category": "Misc",
       "defname": "SleepAccelerator",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "slicecap",
@@ -13288,13 +13288,13 @@
       "abr": "smokeleafbutter",
       "category": "Condiments",
       "defname": "VCE_SmokeleafButter",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "spices",
       "category": "Condiments",
       "defname": "VCE_RawSpices",
-      "price": 11
+      "price": -10
     },
     {
       "abr": "spicydrone",
@@ -13318,13 +13318,13 @@
       "abr": "spikecorefloor-star(broad)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Broad",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "spikecorefloor-star(medium)",
       "category": "Furniture",
       "defname": "SpikecoreFloorStar_Medium",
-      "price": 323
+      "price": -10
     },
     {
       "abr": "spinedgow",
@@ -13402,13 +13402,13 @@
       "abr": "stylingstation",
       "category": "Furniture",
       "defname": "StylingStation",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "sugar",
       "category": "Condiments",
       "defname": "VCE_RawSugar",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "summitcrab",
@@ -13498,7 +13498,7 @@
       "abr": "tablet",
       "category": "Inert relics",
       "defname": "RelicInertTablet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "tailcap",
@@ -13594,7 +13594,7 @@
       "abr": "terrorsculpture",
       "category": "Art",
       "defname": "SculptureTerror",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "tetraslug",
@@ -13678,13 +13678,13 @@
       "abr": "totemicslab(broad)",
       "category": "Furniture",
       "defname": "TotemicSlab_Broad",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "totemicslab(medium)",
       "category": "Furniture",
       "defname": "TotemicSlab_Medium",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "toxicgrenades",
@@ -13774,7 +13774,7 @@
       "abr": "wake-uppowder",
       "category": "Condiments",
       "defname": "VBE_WakeUpPowder",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "wardrobe",
