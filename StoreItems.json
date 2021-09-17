@@ -11182,7 +11182,7 @@
       "abr": "flour",
       "category": "Plant matter",
       "defname": "VCE_Flour",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "forsakendrone",
@@ -13708,43 +13708,43 @@
       "abr": "uncookedfinesoup",
       "category": "Uncooked soups",
       "defname": "VCE_UncookedSoupFine",
-      "price": 227
+      "price": -10
     },
     {
       "abr": "uncookedfinestew",
       "category": "Uncooked stew",
       "defname": "VCE_UncookedStewFine",
-      "price": 256
+      "price": -10
     },
     {
       "abr": "uncookedgourmetsoup",
       "category": "Uncooked soups",
       "defname": "VCE_UncookedSoupGourmet",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "uncookedlavishsoup",
       "category": "Uncooked soups",
       "defname": "VCE_UncookedSoupLavish",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "uncookedlavishstew",
       "category": "Uncooked stew",
       "defname": "VCE_UncookedStewLavish",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "uncookedsimplesoup",
       "category": "Uncooked soups",
       "defname": "VCE_UncookedSoupSimple",
-      "price": 161
+      "price": -10
     },
     {
       "abr": "uncookedsimplestew",
       "category": "Uncooked stew",
       "defname": "VCE_UncookedStewSimple",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "unfermentedcider",
