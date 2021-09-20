@@ -178,7 +178,7 @@
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "beef",
@@ -11308,7 +11308,7 @@
       "abr": "gallatrossleather",
       "category": "Leathers",
       "defname": "Leather_Gallatross",
-      "price": -10
+      "price": 27
     },
     {
       "abr": "gallatrossmeat",
@@ -12292,7 +12292,7 @@
       "abr": "nightleather",
       "category": "Leathers",
       "defname": "Leather_Night",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "nightling",
@@ -13939,34 +13939,76 @@
       "price": 12
     },
     {
-      "abr": "sandstonechunk",
-      "category": "Stone chunks",
-      "defname": "ChunkSandstone",
-      "price": 2
+      "abr": "doormat",
+      "category": "Furniture",
+      "defname": "LT_DoorMatLeather",
+      "price": 8
     },
     {
-      "abr": "granitechunk",
-      "category": "Stone chunks",
-      "defname": "ChunkGranite",
-      "price": 4
+      "abr": "doormat(blue)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBlue",
+      "price": 8
     },
     {
-      "abr": "limestonechunk",
-      "category": "Stone chunks",
-      "defname": "ChunkLimestone",
-      "price": 3
+      "abr": "doormat(green)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatGreen",
+      "price": 8
     },
     {
-      "abr": "slatechunk",
-      "category": "Stone chunks",
-      "defname": "ChunkSlate",
-      "price": 3
+      "abr": "doormat(orange)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatOrange",
+      "price": 8
     },
     {
-      "abr": "marblechunk",
-      "category": "Stone chunks",
-      "defname": "ChunkMarble",
-      "price": 2
+      "abr": "doormat(red)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatRed",
+      "price": 8
+    },
+    {
+      "abr": "doormat(teal)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatTeal",
+      "price": 8
+    },
+    {
+      "abr": "largedoormat",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigLeather",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(blue)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigBlue",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(green)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigGreen",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(orange)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigOrange",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(red)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigRed",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(teal)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigTeal",
+      "price": 13
     },
     {
       "abr": "zombrella",
@@ -14009,145 +14051,7 @@
       "category": "Furniture",
       "defname": "Bed_Kingsize_NanoBed",
       "price": 2167
-    },
-    {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 683
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": 102
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
-    },
-    {
-      "abr": "guestnanotechbed",
-      "category": "Furniture",
-      "defname": "Ogre_NanoTech_BedGuest",
-      "price": 224
-    },
-    {
-      "abr": "guestnanotechdoublebed",
-      "category": "Furniture",
-      "defname": "Ogre_NanoTech_DoubleBedGuest",
-      "price": 433
-    },
-    {
-      "abr": "guestnanotechroyalbed",
-      "category": "Furniture",
-      "defname": "Ogre_NanoTech_RoyalBedGuest",
-      "price": 1608
-    },
-    {
-      "abr": "guestnanotechhospitalbed",
-      "category": "Furniture",
-      "defname": "Ogre_NanoTech_HospitalBedGuest",
-      "price": 500
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 517
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 1008
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2150
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestnanotechslabbed",
-      "category": "Furniture",
-      "defname": "SlabBed_NanoBedGuest",
-      "price": 187
-    },
-    {
-      "abr": "guestnanotechslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBed_NanoBedGuest",
-      "price": 442
-    },
-    {
-      "abr": "guestnanotechsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_Simple_NanoBedGuest",
-      "price": 221
-    },
-    {
-      "abr": "guestnanotechergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_Ergonomic_NanoBedGuest",
-      "price": 533
-    },
-    {
-      "abr": "guestnanotechergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomic_NanoBedGuest",
-      "price": 1017
-    },
-    {
-      "abr": "guestnanotechroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_Kingsize_NanoBedGuest",
-      "price": 2167
     }
   ],
-  "total": 2358
+  "total": 2342
 }

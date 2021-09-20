@@ -96,22 +96,10 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -138,12 +126,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.2"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -165,7 +147,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3102.1"
+    "version": "1.3.3117.2"
   },
   {
     "author": "Jaxe",
@@ -298,6 +280,12 @@
     "name": "RimBees",
     "steamId": "1558161673",
     "version": "1.3.7862.41411"
+  },
+  {
+    "author": "dracoix",
+    "name": "Door Mat",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Zylle",
@@ -438,26 +426,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "StatistNo1, Rebel_Rabbit and Cain",
-    "name": "Mines 2.0",
-    "steamId": "2503894706",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "rooki1",
     "name": "Rimsenal - Rimhair",
     "steamId": null,
     "version": null
   },
   {
-    "author": "sakama",
-    "name": "Roppoi hair",
+    "author": "Gloomylynx",
+    "name": "Gloomy Hair mk2",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Gloomylynx",
-    "name": "Gloomy Hair mk2",
+    "author": "sakama",
+    "name": "Roppoi hair",
     "steamId": null,
     "version": null
   },

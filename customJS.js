@@ -82,7 +82,7 @@ $.getJSON(shopExtURL, function(data) {
 
     var racesData = [];
     $.each(data.races, function(index, value) {
-        if (value["price"] > 0) {
+        if (value["enabled"]) {
             //console.log(value["name"] + " check for existing: " + racesData.indexOf(value["name"]));
             racesData.push(value);
             //console.log(value);
