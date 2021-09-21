@@ -165,10 +165,5 @@ $.getJSON(modListURL, function(data) {
         $('#list2 > ul').html(items);
     })
 
-    var $myGroup = $('#topGroup');
-    $myGroup.on('show','.collapse', function() {
-        $myGroup.find('.collapse.in').collapse('hide');
-    });
-
 
 
