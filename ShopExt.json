@@ -2312,8 +2312,8 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0

@@ -4,7 +4,17 @@ const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/mai
 const modListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/modlist.json";
 const commandListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/commands.json";
 
+//tooltipJS
+$(document).ready(function(){
+    $("body").tooltip({
+        selector : '[data-toggle=tooltip]',
+        animated: 'fade',
+        placement: 'bottom',
+        trigger: 'click'
+    });
+  });
 
+//itemslist
 let itemList = null;
 $.getJSON(itemListURL, function(data) {
     var options = {
@@ -26,6 +36,7 @@ $.getJSON(itemListURL, function(data) {
     itemList = new List('items', options, itemData);
 });
 
+//eventlist
 let eventList = null;
 $.getJSON(eventListURL, function(data) {
     var options = {
@@ -61,6 +72,7 @@ $.getJSON(shopExtURL, function(data) {
             items += '<tr>';
             items += '<td class="name"><b>' + val.name + '</b></br><small>' + val.description + '</small></td>';
             items += '<td class="stats">' + val.stats + '</td>';
+            items += '<td class="mod">' + val.data.mod + '</td>';
             items += '<td class="addPrice">' + val.addPrice + '</td>';
             items += '<td class="removePrice">' + val.removePrice + '</td>';
             items += '</tr>';
@@ -69,29 +81,30 @@ $.getJSON(shopExtURL, function(data) {
     $('#traitstable').append(items);
  
   var options = {
-     valueNames: ['name', 'addPrice', 'removePrice', 'stats','canAdd'],
+     valueNames: ['name', 'addPrice', 'removePrice', 'stats','canAdd', 'mod'],
     };
     traitList = new List('traits', options);
 
 
     //RaceList
-    options = {
+    var items = '';
+    $.each(data.races, function(index, val){
+        if (val.enabled == true){        
+            items += '<tr>';
+            items += '<td class="name"><b>' + val.name;
+            items += '<button type="button" class="btn btn-secondary" data-toggle="tooltip" title="'+ val.data.stats + '"><i class="fa fa-address-card"></i></button>';
+            items += '</b></br><small>' + val.description + '</small></td>';
+            items += '<td class="addPrice">' + val.price + '</td>';
+            items += '</tr>'
+
+        }        
+    })
+    $('#racestable').append(items);
+
+    var options = {
         valueNames: ['name', 'price'],
-        item: '<tr><td class="name" scope="row"></td><td class="price"></td>'
     };
-
-    var racesData = [];
-    $.each(data.races, function(index, value) {
-        if (value["enabled"]) {
-            //console.log(value["name"] + " check for existing: " + racesData.indexOf(value["name"]));
-            racesData.push(value);
-            //console.log(value);
-        }
-    });
-
-    //console.log(racesData);
-
-    racesList = new List('races', options, racesData);
+    racesList = new List('races', options);
 });
 
 var tabs = angular.module('tabs', [])
@@ -142,9 +155,6 @@ $.getJSON(modListURL, function(data) {
 
         var items = '';
         $.each(data, function(index, val){ 
-            if (val.author == 'Me'){
-                console.log("ITS ME with a steamId of: " + val.steamId);
-            }
             if (val.steamId == null){ 
                 items += '<li class="list-group-item col-md-3"><b>' + val.name + '</b><i></br> by ' + val.author + '</i>';       
             } 
@@ -159,3 +169,6 @@ $.getJSON(modListURL, function(data) {
     $myGroup.on('show','.collapse', function() {
         $myGroup.find('.collapse.in').collapse('hide');
     });
+
+
+
