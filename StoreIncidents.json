@@ -11,13 +11,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
+		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"abr": "herdmigration",
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
