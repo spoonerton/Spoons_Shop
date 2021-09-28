@@ -147,23 +147,6 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Karma explanation",
-    "usage": "!whatiskarma",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
     "name": "Purchase list",
     "usage": "!purchaselist",
     "userLevel": "Anyone",
@@ -183,23 +166,6 @@
     "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Mod info",
-    "usage": "!modinfo",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -266,23 +232,6 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Instructions",
-    "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
     "name": "All commands",
     "usage": "!allcommands",
     "userLevel": "Anyone",
@@ -301,7 +250,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!modlist",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -316,9 +265,26 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
+    "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
+    "name": "Set favorite color",
+    "usage": "!setfavoritecolor <color>",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Sets the user's pawn's favourite colour to the colour specified. The colour can be a name or a hex code.",
+    "name": "Set favourite colour",
+    "usage": "!setfavouritecolour <color>",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -707,6 +673,23 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Shows your pawn's work priorities.",
+    "name": "Viewer work",
+    "usage": "!mypawnwork [worktype=priority] [...]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
@@ -911,23 +894,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": null,
     "name": "Colony wealth",
     "usage": "!wealth",
@@ -982,23 +948,6 @@
     "description": null,
     "name": "Unstick me",
     "usage": "!imstuck",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Unknown"
-    },
-    "description": null,
-    "name": null,
-    "usage": "!kindword",
     "userLevel": "Anyone",
     "shortcut": false
   },

@@ -15,7 +15,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   {
     "author": "jecrell and contributors",
@@ -30,16 +30,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.1.0"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
   },
   {
     "author": "erdelf",
@@ -78,8 +72,14 @@
     "version": "1.3.842.0"
   },
   {
-    "author": "Pyrce",
-    "name": "Dire Raids",
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -174,12 +174,6 @@
     "version": "1.0.15"
   },
   {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -192,6 +186,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Scherub",
+    "name": "Stonecutting Extended",
+    "steamId": "2571676542",
+    "version": "1.1.0.0"
+  },
+  {
     "author": "Hatti",
     "name": "CleaningArea",
     "steamId": null,
@@ -202,12 +202,6 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.5.0.0"
-  },
-  {
-    "author": "Me",
-    "name": "SearchAndDestroy",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "notfood",
@@ -318,6 +312,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Hazzer",
+    "name": "Fish Traps",
+    "steamId": "2594468074",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
@@ -408,6 +408,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nephlite and  Maxim",
     "name": "Utility Columns",
     "steamId": null,
@@ -416,6 +422,36 @@
   {
     "author": "Sam",
     "name": "Tilled Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded Realism Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Ceiling",
+    "steamId": "2571003732",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
     "steamId": null,
     "version": null
   },
@@ -460,6 +496,12 @@
     "name": "Won hair_women ",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "RebelRabbit and  Taranchuk",
+    "name": "Quality Bionics",
+    "steamId": "2527206368",
+    "version": "1.0.0.0"
   },
   {
     "author": "Seioch and  MaroonToon",
@@ -528,16 +570,52 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
+  },
+  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
     "version": "1.3.0.1"
   },
   {
-    "author": "NilchEi",
-    "name": "Raiders Never Retreat",
+    "author": "Orion",
+    "name": "Hospitality",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "chuiu",
+    "name": "Greenworld Lite",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Cabbage",
+    "name": "RimCities",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Linkolas",
+    "name": "LinkableDoors (unofficial)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Clean Pathfinding",
+    "steamId": "2603765747",
+    "version": "0.0.0.0"
   },
   {
     "author": "Dubwise",
