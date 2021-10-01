@@ -30,21 +30,15 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
     "version": "1.0.0.0"
   },
   {
@@ -56,12 +50,6 @@
   {
     "author": "ssulunge",
     "name": "FemaleBB BodyType for Human",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ssulunge",
-    "name": "FemaleBB BodyType for Alien Races ",
     "steamId": null,
     "version": null
   },
@@ -88,12 +76,6 @@
     "name": "Compressed Raid",
     "steamId": "2377478084",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SineSwiper",
-    "name": "Faction Blender",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sarg",
@@ -270,12 +252,6 @@
     "version": "1.2.1.0"
   },
   {
-    "author": "Sarg",
-    "name": "RimBees",
-    "steamId": "1558161673",
-    "version": "1.3.7862.41411"
-  },
-  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -298,120 +274,6 @@
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
     "version": "1.0.6.0"
-  },
-  {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Hazzer",
-    "name": "Fish Traps",
-    "steamId": "2594468074",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Argón",
-    "name": "Expanded Materials - Metals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Argón",
-    "name": "Expanded Materials - Plastics",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Taranchuk and  Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  xrushha and  SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  dninemfive and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Nephlite and  Maxim",
@@ -448,12 +310,6 @@
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
     "version": "1.3.0.1"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "民火",
@@ -501,72 +357,6 @@
     "author": "RebelRabbit and  Taranchuk",
     "name": "Quality Bionics",
     "steamId": "2527206368",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Seioch and  MaroonToon",
-    "name": "Kurin HAR Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vagabond and  Barsimmon",
-    "name": "Fantasy Goblins Updated",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 2.0",
-    "steamId": "1918120749",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Spanky_H",
-    "name": "Bun Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ChJees",
-    "name": "Androids",
-    "steamId": "1541064015",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "moronic",
-    "name": "Arachne Race (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
     "version": "1.0.0.0"
   },
   {
