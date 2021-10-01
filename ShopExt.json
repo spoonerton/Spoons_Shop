@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -2040,7 +2040,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 1
     }
