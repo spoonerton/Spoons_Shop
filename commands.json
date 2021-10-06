@@ -894,6 +894,23 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
+    "name": "Insult",
+    "usage": "!insult [target]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": null,
     "name": "Colony wealth",
     "usage": "!wealth",

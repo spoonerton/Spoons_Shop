@@ -12,6 +12,12 @@
     "version": "3.8.1038"
   },
   {
+    "author": "Mlie",
+    "name": "Remove Industrial Stuff",
+    "steamId": "2294378964",
+    "version": "1.0.7.0"
+  },
+  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -204,6 +210,12 @@
     "version": "1.0.15"
   },
   {
+    "author": "Daniledman",
+    "name": "Hardworking Animals (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -300,8 +312,20 @@
     "version": null
   },
   {
+    "author": "Ogam,  Taranchuk and  Fumblesneeze",
+    "name": "Rimedieval - Ice add-on",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dracoix",
     "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Lighting and Heat",
     "steamId": null,
     "version": null
   },
@@ -346,6 +370,12 @@
     "name": "Statue of Colonist",
     "steamId": "1539031321",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Statue Of Colonist Alien Race Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "rooki1",
@@ -484,12 +514,6 @@
     "name": "Mines 2.0",
     "steamId": "2503894706",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Remove Industrial Stuff",
-    "steamId": "2294378964",
-    "version": "1.0.7.0"
   },
   {
     "author": "VinaLx",
