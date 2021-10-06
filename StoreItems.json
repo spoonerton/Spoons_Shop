@@ -1,4 +1,4 @@
-{
+﻿{
 	"items" : [
 	{
 		"abr": "beer",
@@ -7505,7 +7505,7 @@
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Shelf_WeaponRack"
-	},
+	}
 	],
 	"total": 1260
 }
