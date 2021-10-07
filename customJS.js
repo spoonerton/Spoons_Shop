@@ -36,6 +36,9 @@ $.getJSON(itemListURL, function(data) {
     itemList = new List('items', options, itemData);
 });
 
+//itemlistagain
+console.log(itemList);
+
 //eventlist
 let eventList = null;
 $.getJSON(eventListURL, function(data) {
