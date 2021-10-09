@@ -106,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -286,11 +281,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "replacetrait",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "fullheal",
 		"price": 1000,
 		"karmatype": "Good"
@@ -307,11 +297,6 @@
 	},
 	{
 		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -351,5 +336,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 70
+	"total": 67
 }

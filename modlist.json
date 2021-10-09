@@ -12,15 +12,21 @@
     "version": "3.8.1038"
   },
   {
-    "author": "Mlie",
-    "name": "Remove Industrial Stuff",
-    "steamId": "2294378964",
-    "version": "1.0.7.0"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "9.0.1"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
     "version": "1.0.0.0"
   },
   {
@@ -30,10 +36,58 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7875.31864"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki,  Atlas and  Kikohi",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": "1814987817",
+    "version": "1.2.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  dninemfive and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "Oskar Potocki and  Trunken",
@@ -48,34 +102,34 @@
     "version": "1.0.0.1"
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.1.0"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spoon",
+    "name": "Magic AI Enhancement",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "9.0.1"
-  },
-  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
     "version": "1.0.6.0"
-  },
-  {
-    "author": "SineSwiper",
-    "name": "Faction Blender",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
   },
   {
     "author": "hodlhodl",
@@ -148,12 +202,6 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.1.6.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.2.6"
   },
   {
     "author": "hodlhodl",
@@ -336,6 +384,12 @@
     "version": null
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene Lite",
+    "steamId": "2570319432",
+    "version": "2.7.7366"
+  },
+  {
     "author": "Sam",
     "name": "Tilled Soil",
     "steamId": null,
@@ -345,7 +399,7 @@
     "author": "Sarg",
     "name": "RimBees",
     "steamId": "1558161673",
-    "version": "1.3.7862.41411"
+    "version": "1.0.0.0"
   },
   {
     "author": "Nunahur Al-Shamikh",
@@ -358,6 +412,12 @@
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "Medieval drug lab",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Bishop",
@@ -396,6 +456,12 @@
     "version": null
   },
   {
+    "author": "Rooboid",
+    "name": "Roo's HD Hairstyles",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "BJInternetSupervision",
     "name": "[SS]Lovely Hair Style",
     "steamId": null,
@@ -412,6 +478,12 @@
     "name": "Won hair_women ",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
   },
   {
     "author": "ssulunge",
@@ -436,6 +508,24 @@
     "name": "Kijin Race 2.0",
     "steamId": "1918120749",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Lapelli Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Farmradish",
@@ -498,6 +588,12 @@
     "version": null
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Gradient Hair",
+    "steamId": "1687053679",
+    "version": "1.0.350.0854"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -526,6 +622,30 @@
     "name": "LinkableDoors (unofficial)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Faction Blender",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam;Taranchuk;ILuvSilicon",
+    "name": "Rimedieval",
+    "steamId": "2516523040",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Malte Schulze",
+    "name": "RIMMSqol",
+    "steamId": "1084452457",
+    "version": "1.0.7951.10923"
   },
   {
     "author": "Owlchemist",
