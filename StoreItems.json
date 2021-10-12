@@ -3454,7 +3454,7 @@
       "abr": "candles",
       "category": "Furniture",
       "defname": "DankPyon_Candles",
-      "price": 14
+      "price": 20
     },
     {
       "abr": "carrots",
@@ -6796,13 +6796,13 @@
       "abr": "wildbeehive,mild",
       "category": "Beekeeping",
       "defname": "RB_WildHive_Mild",
-      "price": 2
+      "price": 20
     },
     {
       "abr": "wildbeehive,temperate",
       "category": "Beekeeping",
       "defname": "RB_WildHive_Temperate",
-      "price": 2
+      "price": 20
     },
     {
       "abr": "wine",
@@ -6928,7 +6928,7 @@
       "abr": "candle",
       "category": "Furniture",
       "defname": "VFEM_Candle",
-      "price": 1
+      "price": 20
     },
     {
       "abr": "cathoodie",
@@ -14668,7 +14668,7 @@
       "abr": "saunaseating",
       "category": "Furniture",
       "defname": "DBHSaunaSeating",
-      "price": 9
+      "price": 20
     },
     {
       "abr": "sentientplantskin",
@@ -14800,7 +14800,7 @@
       "abr": "smarttoilet",
       "category": "Hygiene",
       "defname": "ToiletAdvStuff",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "spinedgow",
@@ -15046,7 +15046,7 @@
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "guestbedroll",
@@ -15076,13 +15076,13 @@
       "abr": "guestergonomicbed",
       "category": "Furniture",
       "defname": "Bed_ErgonomicGuest",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "guestergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
+      "price": -10
     },
     {
       "abr": "guestroyalposterbed",
