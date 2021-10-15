@@ -18,6 +18,12 @@
     "version": "9.0.1"
   },
   {
+    "author": "krafs",
+    "name": "Scenario Amender (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
@@ -618,6 +624,12 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
     "author": "StatistNo1, Rebel_Rabbit and Cain",
     "name": "Mines 2.0",
     "steamId": "2503894706",
@@ -648,6 +660,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ogam;Taranchuk;ILuvSilicon",
     "name": "Rimedieval",
     "steamId": "2516523040",
@@ -657,7 +675,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7951.10923"
+    "version": "1.0.7956.35958"
   },
   {
     "author": "Owlchemist",
