@@ -1,4 +1,4 @@
-{
+﻿{
 	"items" : [
 	{
 		"abr": "beer",
@@ -15017,7 +15017,7 @@
 		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
-	},
+	}
 	],
 	"total": 2535
 }
