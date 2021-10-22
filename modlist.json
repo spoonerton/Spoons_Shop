@@ -30,6 +30,12 @@
     "version": "1.3.7862.41411"
   },
   {
+    "author": "Geminingen",
+    "name": "Ancient Eastern Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Telefonmast",
     "name": "Graphics Settings+",
     "steamId": "1678847247",
@@ -84,6 +90,12 @@
     "version": "1.3.3136.1"
   },
   {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.2.1.0"
+  },
+  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -102,16 +114,40 @@
     "version": null
   },
   {
+    "author": "Zezz",
+    "name": "Colonist Duel",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
     "version": "1.0.0.0"
   },
   {
+    "author": "notfood",
+    "name": "Infused",
+    "steamId": "731287727",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "twilight",
+    "name": "CraftableAmps",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Spdskatr and  CaesarV6",
     "name": "Damage Indicators [1.3]",
     "steamId": "2016331497",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "dracoix",
@@ -156,6 +192,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "iwishforducks",
+    "name": "Ducks' Insane Skills",
+    "steamId": "2450186578",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SineSwiper",
     "name": "Faction Blender",
     "steamId": null,
@@ -186,10 +228,22 @@
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "Gemstones",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hazzer",
+    "name": "Fish Traps",
+    "steamId": "2594468074",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
   },
   {
     "author": "Gloomylynx",
@@ -216,28 +270,16 @@
     "version": null
   },
   {
-    "author": "notfood",
-    "name": "Infused",
-    "steamId": "731287727",
-    "version": "1.1.1.0"
+    "author": "Geminingen",
+    "name": "Kenshi Armory",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ssulunge",
     "name": "Kijin Race 2.0",
     "steamId": "1918120749",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.1.0"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Alias",
@@ -258,20 +300,14 @@
     "version": null
   },
   {
-    "author": "Linkolas",
-    "name": "LinkableDoors (unofficial)",
+    "author": "newcolonist",
+    "name": "Large Faction Bases",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ratys",
-    "name": "Mad Skills",
-    "steamId": "731111514",
-    "version": "2.5.0.0"
-  },
-  {
-    "author": "Spoon",
-    "name": "Magic AI Enhancement",
+    "author": "Linkolas",
+    "name": "LinkableDoors (unofficial)",
     "steamId": null,
     "version": null
   },
@@ -372,6 +408,12 @@
     "version": "1.3"
   },
   {
+    "author": "Ogre",
+    "name": "Nano Repair Tech",
+    "steamId": "1447372624",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Kiame Vivacity",
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
@@ -390,10 +432,28 @@
     "version": null
   },
   {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Farmradish",
     "name": "Nyaron race",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
+    "version": "1.0.0.0"
   },
   {
     "author": "Hatti",
@@ -405,7 +465,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7956.35958"
+    "version": "1.0.7964.20037"
   },
   {
     "author": "Sandy",
@@ -444,9 +504,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "avilmask",
-    "name": "Research Whatever",
-    "steamId": "2552092060",
+    "author": "Ghost_Rolly",
+    "name": "Rim73 - Performance and Optimisations",
+    "steamId": "2573814850",
     "version": "1.0.0.0"
   },
   {
@@ -454,6 +514,24 @@
     "name": "RimBees",
     "steamId": "1558161673",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Crystallic Lighting",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
@@ -482,6 +560,12 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Rimhair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bdew",
+    "name": "Romance Tweaks",
     "steamId": null,
     "version": null
   },
@@ -583,6 +667,12 @@
   },
   {
     "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.0"
+  },
+  {
+    "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.1.6.0"
@@ -592,6 +682,18 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.2"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and  Trunken",
@@ -614,6 +716,12 @@
   {
     "author": "Oskar Potocki and  Kikohi",
     "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
   },
@@ -642,6 +750,12 @@
     "version": "1.0.0.1"
   },
   {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -658,6 +772,12 @@
     "name": "Won hair_women ",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "FunkyShit",
+    "name": "WorldEdit 2.0",
+    "steamId": "2314163152",
+    "version": "1.0.0.0"
   },
   {
     "author": "Orion",
@@ -712,5 +832,11 @@
     "name": "[T] MoreFloors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
