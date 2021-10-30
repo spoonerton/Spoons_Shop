@@ -121,19 +121,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -216,11 +206,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -271,11 +256,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -301,11 +281,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -324,11 +299,6 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
@@ -381,11 +351,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -429,12 +394,7 @@
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
-		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 79
 }
