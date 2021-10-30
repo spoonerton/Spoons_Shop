@@ -1,4 +1,4 @@
-{
+﻿{
 	"items" : [
 	{
 		"abr": "beer",
@@ -14321,7 +14321,7 @@
 		"price": 286,
 		"category": "Furniture",
 		"defname": "RF_DarkstoneLamp"
-	},
+	}
 	],
 	"total": 2417
 }
