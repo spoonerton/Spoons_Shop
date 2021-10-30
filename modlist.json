@@ -18,18 +18,6 @@
     "version": "9.0.1"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.3.7862.41411"
-  },
-  {
     "author": "Geminingen",
     "name": "Ancient Eastern Armory",
     "steamId": null,
@@ -231,7 +219,7 @@
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
-    "version": "1.0.0.0"
+    "version": "1.3.7862.41411"
   },
   {
     "author": "Hazzer",
@@ -324,6 +312,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -344,6 +338,30 @@
   {
     "author": "Nunahur Al-Shamikh",
     "name": "Medieval Medicines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lavakookie",
+    "name": "Medieval Overhaul: Leather Patches",
     "steamId": null,
     "version": null
   },
@@ -456,6 +474,30 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.1.6.0"
+  },
+  {
+    "author": "Andreas Pardeike and  BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.1.0"
+  },
+  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -465,7 +507,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7964.20037"
+    "version": "1.0.7969.14827"
   },
   {
     "author": "Sandy",
@@ -534,26 +576,14 @@
     "version": null
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD",
+    "author": "Spoon",
+    "name": "Dark Crystal Lamps",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval",
-    "steamId": "2516523040",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ogam,  Taranchuk and  Fumblesneeze",
-    "name": "Rimedieval - Ice add-on",
+    "author": "Jaxe",
+    "name": "RimHUD",
     "steamId": null,
     "version": null
   },
@@ -648,18 +678,6 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
@@ -669,13 +687,13 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.3.0"
+    "version": "1.0.2.6"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "author": "Spoon",
+    "name": "TribalPatching",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -786,12 +804,6 @@
     "version": null
   },
   {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -830,6 +842,18 @@
   {
     "author": "Telkir",
     "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam;Taranchuk;ILuvSilicon",
+    "name": "Rimedieval",
+    "steamId": "2516523040",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogam,  Taranchuk and  Fumblesneeze",
+    "name": "Rimedieval - Ice add-on",
     "steamId": null,
     "version": null
   },
