@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -889,7 +889,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
+      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -2019,102 +2019,6 @@
       "addPrice": 3500,
       "removePrice": 3500,
       "degree": -1
-    },
-    {
-      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
-      "stats": [
-        "+2.0 shooting accuracy",
-        "-15% aiming time",
-        "+4.0 melee hit chance",
-        "+6.0 melee dodge chance",
-        "-10% incoming damage multiplier",
-        "-10% trap spring chance",
-        "-90% mental break threshold",
-        "+10% pain shock threshold",
-        "x5% global certainty loss factor"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2.0 shooting accuracy",
-          "-15% aiming time",
-          "+4.0 melee hit chance",
-          "+6.0 melee dodge chance",
-          "-10% incoming damage multiplier",
-          "-10% trap spring chance",
-          "-90% mental break threshold",
-          "+10% pain shock threshold",
-          "x5% global certainty loss factor"
-        ]
-      },
-      "defName": "DankPyon_Fighter",
-      "name": "fighter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man. ",
-      "stats": [
-        "+6.0 shooting accuracy",
-        "-25% aiming time",
-        "+8.0 melee hit chance",
-        "+12.0 melee dodge chance",
-        "+10% medical tend quality",
-        "-30% incoming damage multiplier",
-        "+0.30 move speed",
-        "-20% trap spring chance",
-        "-15% mental break threshold",
-        "+30% pain shock threshold",
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+6.0 shooting accuracy",
-          "-25% aiming time",
-          "+8.0 melee hit chance",
-          "+12.0 melee dodge chance",
-          "+10% medical tend quality",
-          "-30% incoming damage multiplier",
-          "+0.30 move speed",
-          "-20% trap spring chance",
-          "-15% mental break threshold",
-          "+30% pain shock threshold",
-          "x25% global certainty loss factor"
-        ]
-      },
-      "defName": "DankPyon_Veteran",
-      "name": "veteran",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
     },
     {
       "description": "Everything Timmy cooks turns into Dark matter.",
@@ -4071,6 +3975,1466 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy rejects ranged weapons, instead he focuses on mastering his blade and footwork.",
+      "stats": [
+        "+4 melee",
+        "+4.0 melee hit chance",
+        "+10.0 melee dodge chance",
+        "+0.10 move speed"
+      ],
+      "conflicts": [
+        "samurai",
+        "wayofthebow"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Edo Themed Expansion",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "samurai",
+          "wayofthebow"
+        ],
+        "stats": [
+          "+4 melee",
+          "+4.0 melee hit chance",
+          "+10.0 melee dodge chance",
+          "+0.10 move speed"
+        ]
+      },
+      "defName": "HSKensei",
+      "name": "kensei",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a formally trained samurai and the backbone of any clan's army, he is versitile, hits hard and is even harder to kill.",
+      "stats": [
+        "+2 melee",
+        "+2 shooting",
+        "+2.0 melee hit chance",
+        "+2.0 shooting accuracy",
+        "-20% incoming damage multiplier",
+        "+15% pain shock threshold"
+      ],
+      "conflicts": [
+        "kensei",
+        "wayofthebow"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Edo Themed Expansion",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "kensei",
+          "wayofthebow"
+        ],
+        "stats": [
+          "+2 melee",
+          "+2 shooting",
+          "+2.0 melee hit chance",
+          "+2.0 shooting accuracy",
+          "-20% incoming damage multiplier",
+          "+15% pain shock threshold"
+        ]
+      },
+      "defName": "HSSamurai",
+      "name": "samurai",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a practitioner of The Way of The Bow, his well placed shots can be the deciding factor in the outcome of a fight.",
+      "stats": [
+        "+4 shooting",
+        "+5.0 shooting accuracy",
+        "-15% aiming time"
+      ],
+      "conflicts": [
+        "kensei",
+        "samurai"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Edo Themed Expansion",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "kensei",
+          "samurai"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+5.0 shooting accuracy",
+          "-15% aiming time"
+        ]
+      },
+      "defName": "HSWayOfTheBow",
+      "name": "wayofthebow",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a masterless warrior, his life on the road has been tough, but it has strengthened his body and mind.",
+      "stats": [
+        "-6% mental break threshold",
+        "+10% medical tend quality",
+        "+5.0C Maximum comfortable temperature",
+        "-5.0C Minimum comfortable temperature",
+        "+5 carrying capacity",
+        "+10% rest rate multiplier",
+        "+0.20 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Edo Themed Expansion",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-6% mental break threshold",
+          "+10% medical tend quality",
+          "+5.0C Maximum comfortable temperature",
+          "-5.0C Minimum comfortable temperature",
+          "+5 carrying capacity",
+          "+10% rest rate multiplier",
+          "+0.20 move speed"
+        ]
+      },
+      "defName": "HSRonin",
+      "name": "ronin",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forcesensitive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has begun to control the force, but requires further training and guidance.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_ForceSensitive",
+      "name": "forceapprentice",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy Has begun the journey to becoming a Jedi Knight.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has attained the rank of Knight of the Jedi Order.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediknight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is among the most respected of the Jedi Order, a true Master.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jedimaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is ranked among the elite Jedi, those who are fit to serve on the Council.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_JediTrait",
+      "name": "jediconsular",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy Has begun the journey to the Dark side of the force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is devoted to the dark side, spreading terror and flaring passions in their wake.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithinquisitor",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is among the most feared in the galaxy, the Dark Lords of the Sith.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithlord",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is attuned to the dark side of the force, able to tap near-limitless power.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "graypadawan",
+        "grayjedi",
+        "graymaster",
+        "graysage",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "graypadawan",
+          "grayjedi",
+          "graymaster",
+          "graysage",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_SithTrait",
+      "name": "sithmaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy is exploring the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graypadawan",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is devoted to maintaining the balance of the Force.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "grayjedi",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a master Jedi, devoted to the 'living Force'.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graymaster",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is attuned to the Living Force. he sees HIMself as an extension of it's will.\n\n(Star Wars - The Force)",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "jedi",
+        "jediknight",
+        "jedimaster",
+        "jediconsular",
+        "sith",
+        "sithinquisitor",
+        "sithlord",
+        "sithmaster",
+        "forcesensitive",
+        "forceapprentice"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Star Wars - The Force (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "jedi",
+          "jediknight",
+          "jedimaster",
+          "jediconsular",
+          "sith",
+          "sithinquisitor",
+          "sithlord",
+          "sithmaster",
+          "forcesensitive",
+          "forceapprentice"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PJ_GrayTrait",
+      "name": "graysage",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 4
+    },
+    {
+      "description": "Timmy always saw their body as nothing more than a vessel for their mind. he does not care about the gender, age or looks of a body.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ultratech: Altered Carbon Remastered",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "UT_FreeMind",
+      "name": "freemind",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VME_Elder",
+      "name": "elder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has received traditional Confucian education. The traditional concept of family and country makes he a stronger sense of responsibility, and he can be stronger when facing pain. he will not humiliate others, on the contrary, others will learn more about Confucianism and Taoism in the conversation with him, and the spirit will be nurtured. \n\n Although Timmy sleeps longer, he learns faster and is more determined. \n\nWomen are less likely to acquire this trait due to the influence of traditional concepts. (Because ancient China was a patriarchal society)",
+      "stats": [
+        "Insulting spree mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Confused wandering mental state disabled.",
+        "Panic fleeing mental state disabled.",
+        "Social fighting mental state disabled.",
+        "+3 social",
+        "+3 intellectual",
+        "+35.00% social impact",
+        "-15% rest rate multiplier",
+        "+40% global learning factor",
+        "-10% mental break threshold",
+        "+0.5 beauty",
+        "-10% eating speed",
+        "x115% global work speed"
+      ],
+      "conflicts": [
+        "psychopath",
+        "jealous",
+        "toosmart",
+        "abrasive",
+        "bloodlust",
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath",
+          "jealous",
+          "toosmart",
+          "abrasive",
+          "bloodlust",
+          "cannibal"
+        ],
+        "stats": [
+          "Insulting spree mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Confused wandering mental state disabled.",
+          "Panic fleeing mental state disabled.",
+          "Social fighting mental state disabled.",
+          "+3 social",
+          "+3 intellectual",
+          "+35.00% social impact",
+          "-15% rest rate multiplier",
+          "+40% global learning factor",
+          "-10% mental break threshold",
+          "+0.5 beauty",
+          "-10% eating speed",
+          "x115% global work speed"
+        ]
+      },
+      "defName": "Chi_TraA",
+      "name": "scholarsofprofoundlearning",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Song Li Kefei \"Luoyang Garden\": \"Today Luoyang is a good craftsman; criticizes the red and judges the white; according to other woods; competes with the good fortune.\"\n\nTimmy is such a skilled craftsman, from hand-made to large Architecture is the unique skill of he.",
+      "stats": [
+        "+3 construction",
+        "+3 crafting",
+        "+30% construction speed",
+        "+15% smoothing speed",
+        "+15% construct success chance",
+        "+15% general labor speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 construction",
+          "+3 crafting",
+          "+30% construction speed",
+          "+15% smoothing speed",
+          "+15% construct success chance",
+          "+15% general labor speed"
+        ]
+      },
+      "defName": "Chi_TraB",
+      "name": "skilledcraftsman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has liked to eat big fish and meat since childhood, which makes it very good at slaughtering. he is very fast at slaughter and he is like a humanoid machine that knows how to get more meat from a carcass. \n\nAt the same time, in the long-term slaughter process, he also learned which toxic substances will remain in the slaughter, so he will be more careful when handling cooking tasks, and the risk of food poisoning is also Reduced a lot.",
+      "stats": [
+        "+3 cooking",
+        "-50.00% food poison chance",
+        "+60% butchery speed",
+        "+30% butchery efficiency",
+        "x115% butchery speed"
+      ],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ascetic"
+        ],
+        "stats": [
+          "+3 cooking",
+          "-50.00% food poison chance",
+          "+60% butchery speed",
+          "+30% butchery efficiency",
+          "x115% butchery speed"
+        ]
+      },
+      "defName": "Chi_TraC",
+      "name": "butcheroxman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy works very meticulously, every little detail is done in place, which makes he rarely appear food, such as he is difficult to produce toxic food, at the same time, he was successfully built The rate is also high. \n\nOn the other hand, he has mastered some knack for refining medicine and other miscellaneous work, which can help him a lot.",
+      "stats": [
+        "+2 intellectual",
+        "-70.00% food poison chance",
+        "+70% construct success chance",
+        "+60% drug synthesis speed",
+        "+15% general labor speed",
+        "x125% drug synthesis speed"
+      ],
+      "conflicts": [
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [
+          "+2 intellectual",
+          "-70.00% food poison chance",
+          "+70% construct success chance",
+          "+60% drug synthesis speed",
+          "+15% general labor speed",
+          "x125% drug synthesis speed"
+        ]
+      },
+      "defName": "Chi_TraD",
+      "name": "meticulous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy knows the importance of race against time, he learned the techniques of dressing up wounds for the wounded as quickly as possible or quickly curing various diseases. \n\nhe has snatched countless lives from death, and he's hard work spirit has also been recognized by others.",
+      "stats": [
+        "+2 medical",
+        "+15.00% social impact",
+        "+65% medical tend speed",
+        "x145% medical operation speed",
+        "x125% drug synthesis speed"
+      ],
+      "conflicts": [
+        "psychopath",
+        "abrasive",
+        "bloodlust",
+        "cannibal",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath",
+          "abrasive",
+          "bloodlust",
+          "cannibal",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [
+          "+2 medical",
+          "+15.00% social impact",
+          "+65% medical tend speed",
+          "x145% medical operation speed",
+          "x125% drug synthesis speed"
+        ]
+      },
+      "defName": "Chi_TraE",
+      "name": "rejuvenation",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy是一个为人真诚且善良的人，特别是做生意的时候，he不会因为贪图蝇头小利而选择隐瞒或者欺骗他人，因此he往往能够在交易中获得对方的尊重。",
+      "stats": [
+        "+2 social",
+        "+25.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bloodlust",
+          "cannibal"
+        ],
+        "stats": [
+          "+2 social",
+          "+25.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Chi_TraF",
+      "name": "抱诚守真",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy的集体意识很强，因此he无时无刻都在为殖民地奉献着自己的心血。而对于he来说，工作速度和工作效率非常重要，因此在面对各种基础工作时，he能够很快找到这些基础工作的突破点并快速突破，因此he往往都能比其他人更快地完成并理解这些基础工作。",
+      "stats": [
+        "+2 crafting",
+        "+25% global work speed",
+        "+30% general labor speed",
+        "+20% global learning factor"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bloodlust",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful"
+        ],
+        "stats": [
+          "+2 crafting",
+          "+25% global work speed",
+          "+30% general labor speed",
+          "+20% global learning factor"
+        ]
+      },
+      "defName": "Chi_TraG",
+      "name": "雷厉风行",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Due to his own experience, he's medical skills are very superb, which makes it really worthy of the reputation of \"Bian Que reincarnation\". At the same time, long-term learning experience also makes he also have a strong talent in pharmacy and learning. \n\nIndividuals who usually have a \"Reincarnation Bianque\" background story (the background story is in the extra part) tend to have this trait. Of course, this trait will also appear on random characters with a very low probability. \n\nIn addition, Timmy has noble medical ethics, he rarely demeans or humiliates others, and others naturally choose to be close to he.",
+      "stats": [
+        "+2 medical",
+        "+2 social",
+        "+135% medical tend speed",
+        "-10.00% food poison chance",
+        "+45% drug synthesis speed",
+        "+15% global learning factor",
+        "+25.00% social impact",
+        "+0.25 foraged food amount",
+        "x140% medical tend quality",
+        "x140% medical surgery success chance",
+        "x135% medical operation speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 medical",
+          "+2 social",
+          "+135% medical tend speed",
+          "-10.00% food poison chance",
+          "+45% drug synthesis speed",
+          "+15% global learning factor",
+          "+25.00% social impact",
+          "+0.25 foraged food amount",
+          "x140% medical tend quality",
+          "x140% medical surgery success chance",
+          "x135% medical operation speed"
+        ]
+      },
+      "defName": "Chi_ExtraC",
+      "name": "wonderfulrejuvenation",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has developed the concept of high speed and high efficiency under the strict management system. he The idea of completing tasks at high speed is not only reflected in the dinner table, but also in work and combat. \n\nUsually the characters with the background story of \"Jianrui Camp Soldier or Jianrui Camp Commander\" in the extended part will have this trait, and this trait will also appear randomly on other characters with a low probability.",
+      "stats": [
+        "+2 melee",
+        "+2 shooting",
+        "+1.0 melee hit chance",
+        "-30% aiming time",
+        "x125% move speed",
+        "x175% eating speed",
+        "x115% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 melee",
+          "+2 shooting",
+          "+1.0 melee hit chance",
+          "-30% aiming time",
+          "x125% move speed",
+          "x175% eating speed",
+          "x115% global work speed"
+        ]
+      },
+      "defName": "Chi_ExtraD",
+      "name": "vigorousasthewind",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy有过在禁军担任士兵的经验，同时，由于禁军要求士兵们需要以最快的速度和投入战斗，因此he也通过这些训练磨练出了一些独特的战斗技巧和军队素养。\n\n通常扩展部分里具有“禁军士兵或禁军统领”背景故事的角色会具有这个特质，这个特质也会以一般的概率随机出现在其他角色上。",
+      "stats": [
+        "+4 melee",
+        "+1 shooting",
+        "+1.3 melee hit chance",
+        "-10% aiming time",
+        "+1.5 melee dodge chance",
+        "x135% move speed",
+        "x85% incoming damage multiplier"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+4 melee",
+          "+1 shooting",
+          "+1.3 melee hit chance",
+          "-10% aiming time",
+          "+1.5 melee dodge chance",
+          "x135% move speed",
+          "x85% incoming damage multiplier"
+        ]
+      },
+      "defName": "Chi_ExtraH",
+      "name": "禁军之力",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy在经历长期的耕作后已经能够熟练地完成各种农活，而he凭借着自身的天赋和经验的积累对各种种植工作已经了如指掌。Timmy的辛勤劳作换来的是一片丰收的美景。\n\n在神州社会中，he这样精通农活的人往往容易收到重视。",
+      "stats": [
+        "+3 plants",
+        "+35% plant work speed",
+        "+20% plant harvest yield",
+        "+0.25 foraged food amount",
+        "+20 carrying capacity"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bloodlust",
+          "cannibal"
+        ],
+        "stats": [
+          "+3 plants",
+          "+35% plant work speed",
+          "+20% plant harvest yield",
+          "+0.25 foraged food amount",
+          "+20 carrying capacity"
+        ]
+      },
+      "defName": "Chi_TraJ",
+      "name": "精通农活",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy在很长一段时间里都被当作任人摆布的奴隶，通过长期繁重的工作，he已经掌握了各种生产工作的基本技巧，同样，he还磨练出了每个奴才都应有的心态和说话技巧，he不会任性地发脾气，也不会主动和别人发生冲突，卑躬屈膝、强颜欢笑是he人生的常态。\n\n由于Timmy长期进行进行体力活劳作，he显得不怎么受人待见，并且个人形象也不是很好，同样，对于一些需要脑力的工作，he也显得有些吃力。\n\n这个特质通常出现在扩展部分具有神州体力奴隶背景故事的角色身上，也会小概率出现在随机角色上。",
+      "stats": [
+        "Berserk mental state disabled.",
+        "Fire starting spree mental state disabled.",
+        "Inducing prisoner to escape mental state disabled.",
+        "Slaughterer mental state disabled.",
+        "Murderous rage mental state disabled.",
+        "Wandering in psychosis mental state disabled.",
+        "Tantrum mental state disabled.",
+        "Tantrum mental state disabled.",
+        "Tantrum mental state disabled.",
+        "Sadistic rage mental state disabled.",
+        "Corpse obsession mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Confused wandering mental state disabled.",
+        "Panic fleeing mental state disabled.",
+        "Social fighting mental state disabled.",
+        "+3 construction",
+        "+3 crafting",
+        "+4 plants",
+        "-2 social",
+        "+2 cooking",
+        "-2 artistic",
+        "-2 intellectual",
+        "-15% research speed",
+        "-10% global learning factor",
+        "-25.00% social impact",
+        "+20% construction speed",
+        "+20% plant work speed",
+        "+20% mining speed",
+        "-0.5 beauty",
+        "+75% pain shock threshold",
+        "-25% mental break threshold",
+        "x115% move speed",
+        "x125% global work speed",
+        "x125% general labor speed",
+        "x125% eating speed"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "cannibal",
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bloodlust",
+          "cannibal",
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive"
+        ],
+        "stats": [
+          "Berserk mental state disabled.",
+          "Fire starting spree mental state disabled.",
+          "Inducing prisoner to escape mental state disabled.",
+          "Slaughterer mental state disabled.",
+          "Murderous rage mental state disabled.",
+          "Wandering in psychosis mental state disabled.",
+          "Tantrum mental state disabled.",
+          "Tantrum mental state disabled.",
+          "Tantrum mental state disabled.",
+          "Sadistic rage mental state disabled.",
+          "Corpse obsession mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Confused wandering mental state disabled.",
+          "Panic fleeing mental state disabled.",
+          "Social fighting mental state disabled.",
+          "+3 construction",
+          "+3 crafting",
+          "+4 plants",
+          "-2 social",
+          "+2 cooking",
+          "-2 artistic",
+          "-2 intellectual",
+          "-15% research speed",
+          "-10% global learning factor",
+          "-25.00% social impact",
+          "+20% construction speed",
+          "+20% plant work speed",
+          "+20% mining speed",
+          "-0.5 beauty",
+          "+75% pain shock threshold",
+          "-25% mental break threshold",
+          "x115% move speed",
+          "x125% global work speed",
+          "x125% general labor speed",
+          "x125% eating speed"
+        ]
+      },
+      "defName": "Chi_ExtraI",
+      "name": "永恪奴性",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -4083,7 +5447,7 @@
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
-          "+0 Leather amount",
+          "+75 Leather amount",
           "+3 Honor value"
         ],
         "mod": "RimWorld",
@@ -4961,6 +6325,145 @@
       "enabled": false,
       "name": "Lapelli",
       "price": 1500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Save Our Ship 2",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+3 Honor value",
+          "+80 Carrying capacity",
+          "+90% Research speed",
+          "+90% Mining speed",
+          "+110.00% Social impact",
+          "+90% Plant work speed",
+          "+90% Construction speed"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Shaggy giants from an arboreal world, the tall and commanding Wookieee species is an impressive sight to even the most jaded spacer. \n        Despite their fearsome and savage countenance, Wookieees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookieee society. \n        When peaceful, Wookieees are tender and gentle. \n        Their tempers, however, are short; when angered, Wookieees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Togrutas were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails which were similar to those of Twi'leks. Unlike Twi'leks, a Togurta's lekku ran parallel to the head as opposed to behind, making it appear as though they were wearing a headdress. Togruta were also distinguished by montrals, large hollow horn-like projections from the top of their heads, that gave the species a form of passive echolocation. In order to protect themselves from dangerous predators, and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders.",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": true,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Ewoks are sentient furred bipeds native to the moon of Endor.",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": true,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Star Wars Races",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors.\n      Their most distinctive feature is a pair of prehensile tentacles that grow from the base of their skulls.\n      These Lekku are vital to the health of the Twi'lek, which is unfortunate because they prevent the Twi'lek from wearing most forms of head protection.\n      Some have theorized that this obvious weakness is why the Twi'lek people have been so heavily targetted by slavers.",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
     }
   ]
 }
