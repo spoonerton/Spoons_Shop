@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -56,8 +56,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -120,8 +120,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -150,8 +150,8 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -180,8 +180,8 @@
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -222,8 +222,8 @@
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -262,8 +262,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -292,8 +292,8 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -322,8 +322,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -354,8 +354,8 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -386,8 +386,8 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -424,8 +424,8 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -544,8 +544,8 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -574,8 +574,8 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -606,8 +606,8 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -640,8 +640,8 @@
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -672,8 +672,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -702,8 +702,8 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -734,8 +734,8 @@
       "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -764,8 +764,8 @@
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -794,8 +794,8 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -824,8 +824,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -854,8 +854,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -884,8 +884,8 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -914,8 +914,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -944,8 +944,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -974,8 +974,8 @@
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -1006,8 +1006,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -1036,8 +1036,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -1068,8 +1068,8 @@
       "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1098,8 +1098,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1128,8 +1128,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1158,8 +1158,8 @@
       "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1188,8 +1188,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1220,8 +1220,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1250,8 +1250,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1280,8 +1280,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1310,8 +1310,8 @@
       "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1340,8 +1340,8 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -2
     },
     {
@@ -1372,8 +1372,8 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1404,8 +1404,8 @@
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1436,8 +1436,8 @@
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1468,8 +1468,8 @@
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -2
     },
     {
@@ -1500,8 +1500,8 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1532,8 +1532,8 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1562,8 +1562,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1592,8 +1592,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1622,8 +1622,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1652,8 +1652,8 @@
       "name": "slothful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -2
     },
     {
@@ -1682,8 +1682,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1712,8 +1712,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1742,8 +1742,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1772,8 +1772,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -2
     },
     {
@@ -1804,8 +1804,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1836,8 +1836,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1866,8 +1866,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -1896,8 +1896,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -1926,8 +1926,8 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -1956,8 +1956,8 @@
       "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -2
     },
     {
@@ -1986,8 +1986,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -2016,8 +2016,8 @@
       "name": "sickly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -2046,8 +2046,8 @@
       "name": "incompetentcook",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2082,8 +2082,8 @@
       "name": "faith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2120,8 +2120,8 @@
       "name": "absent-minded",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2150,8 +2150,8 @@
       "name": "eccentric",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2180,8 +2180,8 @@
       "name": "perfectionist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2214,8 +2214,8 @@
       "name": "coward",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2248,8 +2248,8 @@
       "name": "brave",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2278,8 +2278,8 @@
       "name": "clumsy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2308,8 +2308,8 @@
       "name": "heatinclined",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2338,8 +2338,8 @@
       "name": "coldinclined",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2368,8 +2368,8 @@
       "name": "heavysleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2398,8 +2398,8 @@
       "name": "neat",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2428,8 +2428,8 @@
       "name": "slob",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2466,8 +2466,8 @@
       "name": "workaholic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2496,8 +2496,8 @@
       "name": "ironstomach",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2526,8 +2526,8 @@
       "name": "animallover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2558,8 +2558,8 @@
       "name": "animalhater",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2588,8 +2588,8 @@
       "name": "big-boned",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2618,8 +2618,8 @@
       "name": "rebel",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2648,8 +2648,8 @@
       "name": "submissive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2678,8 +2678,8 @@
       "name": "vengeful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2708,8 +2708,8 @@
       "name": "technophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2738,8 +2738,8 @@
       "name": "fun-loving",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2776,8 +2776,8 @@
       "name": "dunce",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2806,8 +2806,8 @@
       "name": "martialartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2836,8 +2836,8 @@
       "name": "snob",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2868,8 +2868,8 @@
       "name": "squeamish",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2898,8 +2898,8 @@
       "name": "anxious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2932,8 +2932,8 @@
       "name": "insatiable",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2964,8 +2964,8 @@
       "name": "prude",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -2994,8 +2994,8 @@
       "name": "couchpotato",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3024,8 +3024,8 @@
       "name": "catperson",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3054,8 +3054,8 @@
       "name": "dogperson",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3086,8 +3086,8 @@
       "name": "prodigy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3118,8 +3118,8 @@
       "name": "menagerist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3148,8 +3148,8 @@
       "name": "oceanlover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3178,8 +3178,8 @@
       "name": "mountainlover",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3208,8 +3208,8 @@
       "name": "madsurgeon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3238,8 +3238,8 @@
       "name": "drunkenmaster",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3268,8 +3268,8 @@
       "name": "kleptomaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3304,8 +3304,8 @@
       "name": "stoner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3340,8 +3340,8 @@
       "name": "lush",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3370,8 +3370,8 @@
       "name": "wanderlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3402,8 +3402,8 @@
       "name": "insomniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3432,8 +3432,8 @@
       "name": "worldweary",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3462,8 +3462,8 @@
       "name": "desensitized",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3492,8 +3492,8 @@
       "name": "refinedpalate",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3526,8 +3526,8 @@
       "name": "academian",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3562,8 +3562,8 @@
       "name": "groundbreaker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3596,8 +3596,8 @@
       "name": "gastronomist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3632,8 +3632,8 @@
       "name": "ecologist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3666,8 +3666,8 @@
       "name": "tycoon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3696,8 +3696,8 @@
       "name": "thickskinned",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3726,8 +3726,8 @@
       "name": "thinskinned",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3762,8 +3762,8 @@
       "name": "schizoid",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -3792,8 +3792,8 @@
       "name": "germaphobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -3822,8 +3822,8 @@
       "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -3852,8 +3852,8 @@
       "name": "unhygienic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -3882,8 +3882,8 @@
       "name": "slob",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -2
     },
     {
@@ -3912,8 +3912,8 @@
       "name": "xenophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -3942,8 +3942,8 @@
       "name": "xenophile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": -1
     },
     {
@@ -3972,8 +3972,8 @@
       "name": "fisherman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4010,8 +4010,8 @@
       "name": "kensei",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4052,8 +4052,8 @@
       "name": "samurai",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4088,8 +4088,8 @@
       "name": "wayofthebow",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4130,8 +4130,8 @@
       "name": "ronin",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4160,8 +4160,8 @@
       "name": "forcesensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -4190,8 +4190,8 @@
       "name": "forceapprentice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -4238,8 +4238,8 @@
       "name": "jedi",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -4286,8 +4286,8 @@
       "name": "jediknight",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -4334,8 +4334,8 @@
       "name": "jedimaster",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 3
     },
     {
@@ -4382,8 +4382,8 @@
       "name": "jediconsular",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 4
     },
     {
@@ -4430,8 +4430,8 @@
       "name": "sith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -4478,8 +4478,8 @@
       "name": "sithinquisitor",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -4526,8 +4526,8 @@
       "name": "sithlord",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 3
     },
     {
@@ -4574,8 +4574,8 @@
       "name": "sithmaster",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 4
     },
     {
@@ -4622,8 +4622,8 @@
       "name": "graypadawan",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 1
     },
     {
@@ -4670,8 +4670,8 @@
       "name": "grayjedi",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 2
     },
     {
@@ -4718,8 +4718,8 @@
       "name": "graymaster",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 3
     },
     {
@@ -4766,8 +4766,8 @@
       "name": "graysage",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 4
     },
     {
@@ -4796,8 +4796,8 @@
       "name": "freemind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4826,8 +4826,8 @@
       "name": "elder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4892,8 +4892,8 @@
       "name": "scholarsofprofoundlearning",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4932,8 +4932,8 @@
       "name": "skilledcraftsman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -4970,8 +4970,8 @@
       "name": "butcheroxman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5016,8 +5016,8 @@
       "name": "meticulous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5068,8 +5068,8 @@
       "name": "rejuvenation",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5104,8 +5104,8 @@
       "name": "抱诚守真",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5148,8 +5148,8 @@
       "name": "雷厉风行",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5198,8 +5198,8 @@
       "name": "wonderfulrejuvenation",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5240,8 +5240,8 @@
       "name": "vigorousasthewind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5282,8 +5282,8 @@
       "name": "禁军之力",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5322,8 +5322,8 @@
       "name": "精通农活",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     },
     {
@@ -5432,8 +5432,8 @@
       "name": "永恪奴性",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3000,
+      "removePrice": 3000,
       "degree": 0
     }
   ],
@@ -5456,9 +5456,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5488,9 +5488,9 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.",
       "defName": "MG_Baphomet",
-      "enabled": false,
+      "enabled": true,
       "name": "Baphomet",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5520,9 +5520,9 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Catgirl",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5552,9 +5552,9 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": false,
+      "enabled": true,
       "name": "Centaur",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5584,9 +5584,9 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Cowgirl",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5617,9 +5617,9 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
       "defName": "MG_Dragon",
-      "enabled": false,
+      "enabled": true,
       "name": "Dragon",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5649,9 +5649,9 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
       "defName": "MG_ForestFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "ForestFairy",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5681,9 +5681,9 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Foxgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Foxgirl",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5713,9 +5713,9 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.",
       "defName": "MG_Harpy",
-      "enabled": false,
+      "enabled": true,
       "name": "Harpy",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5745,9 +5745,9 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": false,
+      "enabled": true,
       "name": "IceFairy",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5777,9 +5777,9 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
       "defName": "MG_Slime",
-      "enabled": false,
+      "enabled": true,
       "name": "Slime",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5810,9 +5810,9 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
       "defName": "MG_Thrumbogirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Thrumbogirl",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5842,9 +5842,9 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": false,
+      "enabled": true,
       "name": "Wolfgirl",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5882,9 +5882,9 @@
       },
       "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
       "defName": "Kurin_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Kurin",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5910,9 +5910,9 @@
       },
       "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.",
       "defName": "Alien_Kijin",
-      "enabled": false,
+      "enabled": true,
       "name": "Kijin",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5937,9 +5937,9 @@
       },
       "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
       "defName": "Alien_BunTribe",
-      "enabled": false,
+      "enabled": true,
       "name": "Bun",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -5984,7 +5984,7 @@
       "defName": "Arachne",
       "enabled": true,
       "name": "arachne",
-      "price": 1
+      "price": 1000
     },
     {
       "data": {
@@ -6019,9 +6019,9 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin",
-      "enabled": false,
+      "enabled": true,
       "name": "Ratkin",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6059,7 +6059,7 @@
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6083,9 +6083,9 @@
       },
       "description": "Goblins are small humanoid beings. With short scrawny bodies and oversized heads with long ears. While physically weaker than an average human goblins have a higher resistance to diseases and toxcicity. What they lack in physical strength they make up with their speed and tenacity. Goblins are fast workers if not the most diligent ones. They're a sly and intellectual race, only hindered by their own greed and violent nature. Goblins exist in primitive tribal structures with constant shifts in power. Often small tribes dominated by the strongest warriors. Both goblin men and women are vicious and both sexes are just as likely to rise to positions of power in a tribe.",
       "defName": "Fantasy_Goblin",
-      "enabled": false,
+      "enabled": true,
       "name": "Goblin",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6119,9 +6119,9 @@
       },
       "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
       "defName": "Alien_Nyaron",
-      "enabled": false,
+      "enabled": true,
       "name": "Nyaron",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6169,9 +6169,9 @@
       },
       "description": "Inhabitants of lunar cities that carry the genes of rabbits, the rabbie excel at waging war and constructing mega-cities. They travel the galaxy in search of celestial bodies with planetarium; a drug that the rabbie population has been reliant on for survival since the begining of their history. It is believed they originally came from another galaxy, but have sinced lost the technology and have been cut off from their home galaxy.",
       "defName": "Rabbie",
-      "enabled": false,
+      "enabled": true,
       "name": "Rabbie",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6192,9 +6192,9 @@
       },
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
       "defName": "ChjAndroid",
-      "enabled": false,
+      "enabled": true,
       "name": "Android",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6225,9 +6225,9 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
-      "enabled": false,
+      "enabled": true,
       "name": "Droid",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6261,7 +6261,7 @@
       "defName": "ChjBattleDroid",
       "enabled": false,
       "name": "Battle droid",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6292,9 +6292,9 @@
       },
       "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
       "defName": "Alien_Moyo",
-      "enabled": false,
+      "enabled": true,
       "name": "Moyo",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6322,9 +6322,9 @@
       },
       "description": "Lapelli is Developed by advanced genetic engineering. They are strong, strong in strength and stamina, suitable for simple labor, and prefer close combat. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
       "defName": "ALapelli",
-      "enabled": false,
+      "enabled": true,
       "name": "Lapelli",
-      "price": 1500
+      "price": 1000
     },
     {
       "data": {
@@ -6347,7 +6347,7 @@
       "defName": "SoSHologramRace",
       "enabled": true,
       "name": "hologram",
-      "price": 1
+      "price": 1000
     },
     {
       "data": {
@@ -6375,7 +6375,7 @@
       "defName": "StarWarsRaces_Wookiee",
       "enabled": true,
       "name": "Wookiee",
-      "price": 4583
+      "price": 1000
     },
     {
       "data": {
@@ -6397,7 +6397,7 @@
       "defName": "StarWarsRaces_Togruta",
       "enabled": true,
       "name": "Togruta",
-      "price": 2917
+      "price": 1000
     },
     {
       "data": {
@@ -6419,7 +6419,7 @@
       "defName": "StarWarsRaces_Rodian",
       "enabled": true,
       "name": "Rodian",
-      "price": 2917
+      "price": 1000
     },
     {
       "data": {
@@ -6441,7 +6441,7 @@
       "defName": "StarWarsRaces_Ewok",
       "enabled": true,
       "name": "Ewok",
-      "price": 2917
+      "price": 1000
     },
     {
       "data": {
@@ -6463,7 +6463,7 @@
       "defName": "StarWarsRaces_Twilek",
       "enabled": true,
       "name": "Twi'lek",
-      "price": 2917
+      "price": 1000
     }
   ]
 }
