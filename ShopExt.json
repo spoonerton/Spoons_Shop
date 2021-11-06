@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -6225,7 +6225,7 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Droid",
       "price": 1000
     },

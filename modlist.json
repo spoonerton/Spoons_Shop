@@ -384,6 +384,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
+  },
+  {
     "author": "Zylle",
     "name": "Gemstones",
     "steamId": null,
@@ -424,12 +430,6 @@
     "name": "Heavy Melee Weapons",
     "steamId": "2418407014",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "ㅇ",
-    "name": "Infinite Reinforce",
-    "steamId": "2623528901",
-    "version": "1.0.1.0"
   },
   {
     "author": "Geminingen",
@@ -675,13 +675,13 @@
     "author": "Mario55770",
     "name": "Questionable Ethics Enhanced",
     "steamId": "2566962342",
-    "version": "1.5.1"
+    "version": "1.5.2"
   },
   {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7978.40457"
+    "version": "1.0.7979.38381"
   },
   {
     "author": "Sandy",

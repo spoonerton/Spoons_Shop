@@ -11923,12 +11923,6 @@
       "price": 12
     },
     {
-      "abr": "ancientequipmentreinforcer",
-      "category": "Special",
-      "defname": "AncientReinforcer",
-      "price": 2900
-    },
-    {
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "VME_AncientFence",
@@ -15161,12 +15155,6 @@
       "category": "Items",
       "defname": "SoSEntanglementManifold",
       "price": 6667
-    },
-    {
-      "abr": "equipmentreinforcer",
-      "category": "Misc",
-      "defname": "EquipmentReinforcer",
-      "price": 2900
     },
     {
       "abr": "eralamcrystal(silver)",
@@ -18793,12 +18781,6 @@
       "price": 299
     },
     {
-      "abr": "reinforcermechanite",
-      "category": "Manufactured",
-      "defname": "MechReinforcer",
-      "price": 7500
-    },
-    {
       "abr": "relicmaul",
       "category": "Melee weapons",
       "defname": "HMW_MeleeWeapon_PsychicWarhammer",
@@ -21011,13 +20993,7 @@
       "category": "Vegetarian",
       "defname": "RawZongYe",
       "price": 3
-    },
-    {
-      "abr": "quartzitechunk",
-      "category": "Stone chunks",
-      "defname": "ChunkShiYing",
-      "price": 1
     }
   ],
-  "total": 3503
+  "total": 3499
 }

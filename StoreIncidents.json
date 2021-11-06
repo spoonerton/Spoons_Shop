@@ -246,6 +246,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -376,5 +381,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 75
+	"total": 76
 }
