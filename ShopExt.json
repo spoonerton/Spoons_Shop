@@ -6345,7 +6345,7 @@
       },
       "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
       "defName": "SoSHologramRace",
-      "enabled": true,
+      "enabled": false,
       "name": "hologram",
       "price": 1000
     },
