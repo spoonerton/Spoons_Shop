@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -4160,8 +4160,8 @@
       "name": "forcesensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -4172,9 +4172,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4211,9 +4211,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4259,9 +4259,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4307,9 +4307,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4355,9 +4355,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4403,9 +4403,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4451,9 +4451,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4499,9 +4499,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4547,9 +4547,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4595,9 +4595,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4643,9 +4643,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4691,9 +4691,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",
@@ -4739,9 +4739,9 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force (Continued)",

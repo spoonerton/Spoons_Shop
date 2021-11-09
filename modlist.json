@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -408,6 +408,42 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and AveryTheKitty",
+    "name": "Erin's Japanese Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Diamond.J, DaJian(has exited), Frolg, TangWan, XF and etc.",
+    "name": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GloomyLynx NukaFrog",
+    "name": "GloomyFurniture",
+    "steamId": "1558635181",
+    "version": "1.0.4"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gradient Hair",
     "steamId": "1687053679",
@@ -757,9 +793,9 @@
   },
   {
     "author": "Dubwise",
-    "name": "Rimatomics",
+    "name": "Dubs Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2439"
+    "version": "1.7.7368"
   },
   {
     "author": "rooki1",
@@ -925,6 +961,12 @@
   },
   {
     "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.2.6"
@@ -996,18 +1038,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin and AveryTheKitty",
-    "name": "Erin's Japanese Furniture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  dninemfive and  Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": null,
@@ -1076,24 +1106,6 @@
   {
     "author": "JI_Won",
     "name": "Won hair_women ",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Diamond.J, DaJian(has exited), Frolg, TangWan, XF and etc.",
-    "name": "【SZ】含商咀徵——神州文化扩展 Chinese Traditional Cultural Things Expanded",
     "steamId": null,
     "version": null
   },
@@ -1184,6 +1196,18 @@
   {
     "author": "Telkir",
     "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx",
+    "name": "gloomy_face",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx",
+    "name": "gloomy_hair",
     "steamId": null,
     "version": null
   },
