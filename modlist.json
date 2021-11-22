@@ -153,7 +153,7 @@
     "author": "Owlchemist",
     "name": "Clean Pathfinding",
     "steamId": "2603765747",
-    "version": "0.0.0.0"
+    "version": "1.3"
   },
   {
     "author": "Hatti",
@@ -250,6 +250,12 @@
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
     "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   },
   {
     "author": "iwishforducks",
@@ -492,18 +498,6 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
     "author": "[KOR]Bichang",
     "name": "Lapelli Race",
     "steamId": null,
@@ -660,30 +654,6 @@
     "version": null
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.1.6.0"
-  },
-  {
-    "author": "Andreas Pardeike and  BleuSquid",
-    "name": "Puppeteer",
-    "steamId": "2594873651",
-    "version": "1.6.1.0"
-  },
-  {
     "author": "RebelRabbit and  Taranchuk",
     "name": "Quality Bionics",
     "steamId": "2527206368",
@@ -717,7 +687,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.7979.38381"
+    "version": "1.0.7995.29642"
   },
   {
     "author": "Sandy",
@@ -768,6 +738,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -793,9 +769,9 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.7364"
   },
   {
     "author": "rooki1",
@@ -879,7 +855,7 @@
     "author": "Owlchemist",
     "name": "Smart Farming",
     "steamId": "2619652663",
-    "version": "0.0.0.0"
+    "version": "1.3"
   },
   {
     "author": "Sarg",
@@ -954,6 +930,18 @@
     "version": null
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
@@ -967,9 +955,9 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.2.6"
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.1.6.0"
   },
   {
     "author": "hodlhodl",
@@ -1021,9 +1009,27 @@
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  Chowder",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.6.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -1054,6 +1060,12 @@
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "Sarg Bjornson and  AFriend",
@@ -1110,6 +1122,12 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
+  },
+  {
     "author": "Diamond.J and DaJian(has exited)",
     "name": "[Eng-SZ]English Pack for SZ Series Chinese Traditional Cultural Things Expanded",
     "steamId": null,
@@ -1118,42 +1136,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.7364"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.6.0"
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  XeoNovaDan",
-    "name": "Vanilla Furniture Expanded - Security",
-    "steamId": "1845154007",
-    "version": "1.1.1.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
     "steamId": null,
     "version": null
   },
@@ -1168,6 +1150,24 @@
     "name": "[Fuu] Auto Strip on Haul",
     "steamId": "2560725133",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JangoD'soul",
