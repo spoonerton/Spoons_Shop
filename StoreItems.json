@@ -1,4 +1,4 @@
-{
+﻿{
 	"items" : [
 	{
 		"abr": "beer",
@@ -8633,7 +8633,7 @@
 		"price": 282,
 		"category": "Prosthetic",
 		"defname": "Kurin_FakeTail"
-	},
+	}
 	],
 	"total": 1929
 }
