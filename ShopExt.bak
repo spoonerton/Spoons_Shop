@@ -2087,6 +2087,126 @@
       "degree": 0
     },
     {
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 3000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "hygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 3000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 3000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3000,
+      "removePrice": 3000,
+      "degree": -2
+    },
+    {
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [
 
@@ -2160,7 +2280,7 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Unknown",
+        "mod": "RimWorld",
         "karmaType": null,
         "customName": false
       },
@@ -2192,7 +2312,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2224,7 +2344,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2256,7 +2376,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2288,7 +2408,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2321,7 +2441,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2353,7 +2473,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2385,7 +2505,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2417,7 +2537,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2449,7 +2569,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2481,7 +2601,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2514,7 +2634,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2546,7 +2666,7 @@
           "+100% Construction speed",
           "+125.00% Social impact"
         ],
-        "mod": "Unknown",
+        "mod": "Monstergirl Races",
         "karmaType": null,
         "customName": false
       },
@@ -2586,7 +2706,7 @@
           "+110% Rest rate multiplier",
           "+80% Plant work speed"
         ],
-        "mod": "Unknown",
+        "mod": "Kurin HAR Edition",
         "karmaType": null,
         "customName": false
       },
@@ -2614,7 +2734,7 @@
           "+3 Honor value",
           "+50 Leather amount"
         ],
-        "mod": "Unknown",
+        "mod": "Kijin Race 2.0",
         "karmaType": null,
         "customName": false
       },
@@ -2641,7 +2761,7 @@
           "+40 Leather amount",
           "+$1750 Market value"
         ],
-        "mod": "Unknown",
+        "mod": "Bun Race",
         "karmaType": null,
         "customName": false
       },
@@ -2686,7 +2806,7 @@
           "+1.1 Melee hit chance",
           "+85 Carrying capacity"
         ],
-        "mod": "Unknown",
+        "mod": "Arachne Race (Continued)",
         "karmaType": null,
         "customName": false
       },
@@ -2723,7 +2843,7 @@
           "+90% Construction speed",
           "+80% Research speed"
         ],
-        "mod": "Unknown",
+        "mod": "NewRatkinPlus",
         "karmaType": null,
         "customName": false
       },
@@ -2761,7 +2881,7 @@
           "+80% Research speed",
           "+85% Psychic sensitivity"
         ],
-        "mod": "Unknown",
+        "mod": "NewRatkinPlus",
         "karmaType": null,
         "customName": false
       },
@@ -2774,30 +2894,56 @@
     {
       "data": {
         "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$1400 Market value",
+          "+60% Toxic sensitivity",
+          "+120% Construction speed",
+          "+120% Global work speed",
+          "+5.20 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+48.0C Maximum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+30 Leather amount",
+          "+2 Honor value"
+        ],
+        "mod": "Fantasy Goblins Updated",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Goblins are small humanoid beings. With short scrawny bodies and oversized heads with long ears. While physically weaker than an average human goblins have a higher resistance to diseases and toxcicity. What they lack in physical strength they make up with their speed and tenacity. Goblins are fast workers if not the most diligent ones. They're a sly and intellectual race, only hindered by their own greed and violent nature. Goblins exist in primitive tribal structures with constant shifts in power. Often small tribes dominated by the strongest warriors. Both goblin men and women are vicious and both sexes are just as likely to rise to positions of power in a tribe.",
+      "defName": "Fantasy_Goblin",
+      "enabled": true,
+      "name": "Goblin",
+      "price": 1000
+    },
+    {
+      "data": {
+        "stats": [
           "+65.00 Mass",
           "+100% Flammability",
-          "+$3000 Market value",
-          "+5 Honor value",
+          "+$2000 Market value",
+          "+4 Honor value",
           "+75 Carrying capacity",
           "+100% Global learning factor",
           "+80% Psychic sensitivity",
           "+80% Rest rate multiplier",
-          "+70% Global work speed",
+          "+80% Global work speed",
           "+0 Foraged food amount",
-          "+120.00% Negotiation ability",
-          "+120.00% Social impact",
-          "+120.00% Trade price improvement",
+          "+100.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
           "+40 Leather amount",
-          "+82% Pain shock threshold",
+          "+78% Pain shock threshold",
           "+30% Mental break threshold",
-          "+22.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
-          "+5.20 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+5.00 Move speed",
           "+95% Aiming time",
           "+10.0 Melee dodge chance",
           "+1.2 Melee hit chance"
         ],
-        "mod": "Unknown",
+        "mod": "Nyaron race",
         "karmaType": null,
         "customName": false
       },
@@ -2847,11 +2993,11 @@
           "+80% Mining speed",
           "+100% Mining yield"
         ],
-        "mod": "Unknown",
+        "mod": "Rabbie The Moonrabbit race",
         "karmaType": null,
         "customName": false
       },
-      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
+      "description": "Inhabitants of lunar cities that carry the genes of rabbits, the rabbie excel at waging war and constructing mega-cities. They travel the galaxy in search of celestial bodies with planetarium; a drug that the rabbie population has been reliant on for survival since the begining of their history. It is believed they originally came from another galaxy, but have sinced lost the technology and have been cut off from their home galaxy.",
       "defName": "Rabbie",
       "enabled": true,
       "name": "Rabbie",
@@ -2870,7 +3016,7 @@
           "+135% Immunity gain speed",
           "+25 Leather amount"
         ],
-        "mod": "Unknown",
+        "mod": "Androids",
         "karmaType": null,
         "customName": false
       },
@@ -2903,7 +3049,7 @@
           "+200.0% Armor - Heat",
           "+75 Carrying capacity"
         ],
-        "mod": "Unknown",
+        "mod": "Androids",
         "karmaType": null,
         "customName": false
       },
@@ -2937,7 +3083,7 @@
           "+200.0% Armor - Heat",
           "+150 Carrying capacity"
         ],
-        "mod": "Unknown",
+        "mod": "Androids",
         "karmaType": null,
         "customName": false
       },
@@ -2970,7 +3116,7 @@
           "+115% Medical surgery success chance",
           "+4 Honor value"
         ],
-        "mod": "Unknown",
+        "mod": "Moyo-From the depth",
         "karmaType": null,
         "customName": false
       },
@@ -2983,116 +3129,55 @@
     {
       "data": {
         "stats": [
-          "+65.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.",
-      "defName": "LotRD_DwarfStandardRace",
-      "enabled": true,
-      "name": "dwarf",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Immune to disease. Wise and immortal.",
-      "defName": "LotRE_ElfStandardRace",
-      "enabled": true,
-      "name": "elf",
-      "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1250 Market value",
-          "+4.61 Move speed",
-          "+12.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+25 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Those born between the world of immortality and mortality.",
-      "defName": "LotRE_ElfStandardRaceHalf",
-      "enabled": true,
-      "name": "half-elf",
-      "price": 2083
-    },
-    {
-      "data": {
-        "stats": [
-          "+95.00 Mass",
-          "+$3500 Market value",
-          "+100% Flammability",
-          "+6.00 Move speed",
-          "+30% Mental break threshold",
-          "+40.0C Maximum comfortable temperature",
-          "+24.0C Minimum comfortable temperature",
-          "+100% Immunity gain speed",
-          "+90 Carrying capacity",
-          "+80 Meat amount",
-          "+65 Leather amount",
-          "+80% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+70% Eating speed",
-          "+2.0 Melee dodge chance",
-          "+1.8 Melee hit chance",
-          "+110% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+150.00% Negotiation ability",
-          "+120% Sell price multiplier",
-          "+130.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+130% General labor speed",
-          "+300% Butchery efficiency",
-          "+200% Butchery speed",
-          "+140.00% Food poison chance",
-          "+0.6 Cooking speed",
-          "+120% Rest rate multiplier",
-          "+40% Plant work speed",
+          "+70.00 Mass",
+          "+$2000 Market value",
+          "+5.48 Move speed",
+          "+20% Flammability",
+          "+14.0C Minimum comfortable temperature",
+          "+38.0C Maximum comfortable temperature",
+          "+25 Leather amount",
           "+80% Research speed",
-          "+100% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
           "+120% Mining speed",
-          "+90% Mining yield"
+          "+90.00% Social impact",
+          "+95% Pain shock threshold",
+          "+125% Construction speed",
+          "+120% Immunity gain speed",
+          "+120% Psychic sensitivity",
+          "+4.0 Melee hit chance",
+          "+4 Honor value"
         ],
-        "mod": "Unknown",
+        "mod": "Lapelli Race",
         "karmaType": null,
         "customName": false
       },
-      "description": "The Rakkle is an artificial species created by humans by improving reptile native life found on a planet in the middle of the system.",
-      "defName": "Rakkle",
+      "description": "Lapelli is Developed by advanced genetic engineering. They are strong, strong in strength and stamina, suitable for simple labor, and prefer close combat. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "ALapelli",
       "enabled": true,
-      "name": "Rakkle",
-      "price": 5833
+      "name": "Lapelli",
+      "price": 1000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Save Our Ship 2",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": false,
+      "name": "hologram",
+      "price": 1000
     }
   ]
 }
