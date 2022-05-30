@@ -2168,7 +2168,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2200,7 +2200,7 @@
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2232,7 +2232,7 @@
       "defName": "MG_Catgirl",
       "enabled": true,
       "name": "Catgirl",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2264,7 +2264,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2296,7 +2296,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2329,7 +2329,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2361,7 +2361,7 @@
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "ForestFairy",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2393,7 +2393,7 @@
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2425,7 +2425,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2457,7 +2457,7 @@
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "IceFairy",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2489,7 +2489,7 @@
       "defName": "MG_Slime",
       "enabled": true,
       "name": "Slime",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2522,7 +2522,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2554,7 +2554,7 @@
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2594,7 +2594,7 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2622,7 +2622,7 @@
       "defName": "Alien_Kijin",
       "enabled": true,
       "name": "Kijin",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2649,7 +2649,7 @@
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2694,7 +2694,7 @@
       "defName": "Arachne",
       "enabled": true,
       "name": "arachne",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2731,7 +2731,7 @@
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2769,7 +2769,7 @@
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2805,7 +2805,7 @@
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2855,7 +2855,7 @@
       "defName": "Rabbie",
       "enabled": true,
       "name": "Rabbie",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2878,7 +2878,7 @@
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "Android",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2911,7 +2911,7 @@
       "defName": "ChjDroid",
       "enabled": false,
       "name": "Droid",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2945,7 +2945,7 @@
       "defName": "ChjBattleDroid",
       "enabled": false,
       "name": "Battle droid",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2978,7 +2978,7 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 1000
+      "price": 100
     },
     {
       "data": {
@@ -2999,7 +2999,7 @@
       "defName": "LotRD_DwarfStandardRace",
       "enabled": true,
       "name": "dwarf",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -3020,7 +3020,7 @@
       "defName": "LotRE_ElfStandardRace",
       "enabled": true,
       "name": "elf",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -3041,7 +3041,7 @@
       "defName": "LotRE_ElfStandardRaceHalf",
       "enabled": true,
       "name": "half-elf",
-      "price": 2083
+      "price": 100
     },
     {
       "data": {
@@ -3092,7 +3092,7 @@
       "defName": "Rakkle",
       "enabled": true,
       "name": "Rakkle",
-      "price": 5833
+      "price": 100
     }
   ]
 }

@@ -7495,18 +7495,6 @@
       "price": 4
     },
     {
-      "abr": "infusionamplifier",
-      "category": "Artifacts",
-      "defname": "InfusedAmplifier",
-      "price": 1083
-    },
-    {
-      "abr": "infusionamplifier(empty)",
-      "category": "Artifacts",
-      "defname": "InfusedAmplifierEmpty",
-      "price": 750
-    },
-    {
       "abr": "jaw",
       "category": "Natural",
       "defname": "Jaw",
@@ -8015,7 +8003,37 @@
       "category": "Simple parts",
       "defname": "WoodenFoot",
       "price": 65
+    },
+    {
+      "abr": "moyoholojacket",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_HoloJacket",
+      "price": 1475
+    },
+    {
+      "abr": "moyoholosuit",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_Holosuit",
+      "price": 1617
+    },
+    {
+      "abr": "moyosensorycontrolhelmet(soothing)",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_PShelmet",
+      "price": 1033
+    },
+    {
+      "abr": "moyosensorycontrolhelmet(supressing)",
+      "category": "Moyo Headgear",
+      "defname": "Moyo_SShelmet",
+      "price": 1033
+    },
+    {
+      "abr": "moyoslaverestrainer",
+      "category": "Moyo Apparel",
+      "defname": "Moyo_BodyStrap",
+      "price": 275
     }
   ],
-  "total": 1336
+  "total": 1339
 }
