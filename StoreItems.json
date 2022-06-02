@@ -6712,13 +6712,13 @@
       "abr": "blackharpyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggBlackHarpyFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "blackharpyegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggBlackHarpyUnfertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "blackharpyfeathers",
@@ -7384,13 +7384,13 @@
       "abr": "harpyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggHarpyFertilized",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "harpyegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggHarpyUnfertilized",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "harpyfeathers",
@@ -8033,7 +8033,271 @@
       "category": "Moyo Apparel",
       "defname": "Moyo_BodyStrap",
       "price": 275
+    },
+    {
+      "abr": "goblin",
+      "category": "Animal",
+      "defname": "Fantasy_Goblin",
+      "price": -10
+    },
+    {
+      "abr": "goblinarrowquiver",
+      "category": "Apparel",
+      "defname": "Goblin_Quiver",
+      "price": 139
+    },
+    {
+      "abr": "goblinassaultrifle",
+      "category": "Ranged weapons",
+      "defname": "Goblin_AssaultRifle",
+      "price": 800
+    },
+    {
+      "abr": "goblinaxe",
+      "category": "Melee weapons",
+      "defname": "Goblin_Axe",
+      "price": 322
+    },
+    {
+      "abr": "goblinberserkerarmor",
+      "category": "Apparel",
+      "defname": "Goblin_BerserkerArmour",
+      "price": 331
+    },
+    {
+      "abr": "goblinbow",
+      "category": "Ranged weapons",
+      "defname": "Goblin_Bow",
+      "price": 74
+    },
+    {
+      "abr": "goblinchandelier",
+      "category": "Furniture",
+      "defname": "Goblin_Chandelier",
+      "price": 383
+    },
+    {
+      "abr": "goblinfalchion",
+      "category": "Melee weapons",
+      "defname": "Goblin_Falchion",
+      "price": 450
+    },
+    {
+      "abr": "goblinhide",
+      "category": "Leathers",
+      "defname": "Goblin_Leather",
+      "price": 3
+    },
+    {
+      "abr": "goblinhood",
+      "category": "Headgear",
+      "defname": "Goblin_Hood",
+      "price": 265
+    },
+    {
+      "abr": "goblinknife",
+      "category": "Melee weapons",
+      "defname": "Goblin_Knife",
+      "price": 111
+    },
+    {
+      "abr": "goblinlaserrifle",
+      "category": "Ranged weapons",
+      "defname": "Goblin_LaserRifle",
+      "price": 1683
+    },
+    {
+      "abr": "goblinleatherarmor",
+      "category": "Apparel",
+      "defname": "Goblin_LeatherArmour",
+      "price": 212
+    },
+    {
+      "abr": "goblinleatherhelmet",
+      "category": "Headgear",
+      "defname": "Goblin_LeatherHelmet",
+      "price": 269
+    },
+    {
+      "abr": "goblinloincloth",
+      "category": "Apparel",
+      "defname": "Apparel_GoblinLoinCloth",
+      "price": 106
+    },
+    {
+      "abr": "goblinmachinepistol",
+      "category": "Ranged weapons",
+      "defname": "Goblin_MachinePistol",
+      "price": 367
+    },
+    {
+      "abr": "goblinmeat",
+      "category": "Meat",
+      "defname": "Meat_Fantasy_Goblin",
+      "price": 1
+    },
+    {
+      "abr": "goblinmoonshadewalllight",
+      "category": "Furniture",
+      "defname": "Goblin_MoonShadeWallLight",
+      "price": 138
+    },
+    {
+      "abr": "goblinmudtable(1x1)",
+      "category": "Furniture",
+      "defname": "Goblin_MudTable1x1c",
+      "price": 56
+    },
+    {
+      "abr": "goblinonehandedaxe",
+      "category": "Melee weapons",
+      "defname": "Goblin_OneHandedAxe",
+      "price": 433
+    },
+    {
+      "abr": "goblinplumbata",
+      "category": "Ranged weapons",
+      "defname": "Goblin_Plumbata",
+      "price": 72
+    },
+    {
+      "abr": "goblinshamanhood",
+      "category": "Headgear",
+      "defname": "Goblin_ShamanHood",
+      "price": 301
+    },
+    {
+      "abr": "goblinskullwalllight",
+      "category": "Furniture",
+      "defname": "Goblin_SkullWallLight",
+      "price": 84
+    },
+    {
+      "abr": "goblinspear",
+      "category": "Melee weapons",
+      "defname": "Goblin_Spear",
+      "price": 215
+    },
+    {
+      "abr": "goblinspiderbanner",
+      "category": "Furniture",
+      "defname": "Goblin_SpiderBanner",
+      "price": 51
+    },
+    {
+      "abr": "goblinspikedbrazier",
+      "category": "Furniture",
+      "defname": "Goblin_Brazier",
+      "price": 35
+    },
+    {
+      "abr": "goblinspikedmace",
+      "category": "Melee weapons",
+      "defname": "Goblin_Mace",
+      "price": 203
+    },
+    {
+      "abr": "goblinsword",
+      "category": "Melee weapons",
+      "defname": "Goblin_Sword",
+      "price": 442
+    },
+    {
+      "abr": "goblintribalmask",
+      "category": "Headgear",
+      "defname": "Goblin_TribalMask",
+      "price": 268
+    },
+    {
+      "abr": "goblinwallbanner",
+      "category": "Furniture",
+      "defname": "Goblin_WallBanner",
+      "price": 51
+    },
+    {
+      "abr": "goblinwarlordarmor",
+      "category": "Apparel",
+      "defname": "Goblin_WarlordArmor",
+      "price": 967
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "MLH_Lantern",
+      "price": 62
+    },
+    {
+      "abr": "largebrazier",
+      "category": "Furniture",
+      "defname": "MLH_LargeBrazier",
+      "price": 172
+    },
+    {
+      "abr": "logstool",
+      "category": "Furniture",
+      "defname": "Goblin_Logstool",
+      "price": 86
+    },
+    {
+      "abr": "moonshadesoup",
+      "category": "Meals",
+      "defname": "MoonShadeSoup",
+      "price": 13
+    },
+    {
+      "abr": "mud",
+      "category": "Manufactured",
+      "defname": "GoblinMud",
+      "price": 3
+    },
+    {
+      "abr": "pickedmoonshadeinkcap",
+      "category": "Vegetarian",
+      "defname": "Resource_RawMoonShade",
+      "price": 2
+    },
+    {
+      "abr": "spikedbarricade",
+      "category": "Security",
+      "defname": "Goblin_SpikedBarricade",
+      "price": 34
+    },
+    {
+      "abr": "stickbombs",
+      "category": "Grenades",
+      "defname": "Goblin_StickBomb",
+      "price": 322
+    },
+    {
+      "abr": "table(1x2)",
+      "category": "Furniture",
+      "defname": "GoblinTable1x2c",
+      "price": 71
+    },
+    {
+      "abr": "table(2x4)",
+      "category": "Furniture",
+      "defname": "GoblinTable2x4c",
+      "price": 268
+    },
+    {
+      "abr": "tribaldrum",
+      "category": "Furniture",
+      "defname": "TribalDrum",
+      "price": 203
+    },
+    {
+      "abr": "tribalrug",
+      "category": "Furniture",
+      "defname": "Goblin_TribalRug",
+      "price": 119
+    },
+    {
+      "abr": "wrestlingpit",
+      "category": "Furniture",
+      "defname": "WrestlingPit",
+      "price": 154
     }
   ],
-  "total": 1339
+  "total": 1383
 }

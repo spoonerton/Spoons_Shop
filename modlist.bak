@@ -163,6 +163,12 @@
   },
   {
     "author": "ssulunge",
+    "name": "FemaleBB BodyType for Alien Races ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
     "name": "FemaleBB BodyType for Human",
     "steamId": null,
     "version": null
@@ -314,6 +320,12 @@
   {
     "author": "Gloomylynx Nukafrog",
     "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors",
     "steamId": null,
     "version": null
   },
@@ -550,11 +562,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
-  },
-  {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
   }
 ]
