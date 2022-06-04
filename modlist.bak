@@ -222,10 +222,22 @@
     "version": null
   },
   {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Grab Your Tool!",
+    "steamId": "2355912467",
+    "version": "1.0.7"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gradient Hair",
     "steamId": "1687053679",
     "version": "1.0.350.0854"
+  },
+  {
+    "author": "Murmur",
+    "name": "Incident Disabler",
+    "steamId": "2347633285",
+    "version": "1.0.0.0"
   },
   {
     "author": "latta",
@@ -312,10 +324,28 @@
     "version": null
   },
   {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Razar1",
@@ -327,6 +357,18 @@
     "author": "wagon",
     "name": "More Monster Girls",
     "steamId": "2014838309",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SafetyMets",
+    "name": "More Monster Girls Baphomet Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls Enhanced Patch",
+    "steamId": "2014872486",
     "version": "1.0.0.0"
   },
   {
@@ -382,6 +424,24 @@
     "name": "PawnTargetFix",
     "steamId": "2014789938",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Workbenches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Tree Chopping Speed Stat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Tools",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hatti",
@@ -456,10 +516,22 @@
     "version": null
   },
   {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
   },
   {
     "author": "Sarg",
@@ -540,6 +612,12 @@
     "version": "1.0.2.2"
   },
   {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -597,6 +675,12 @@
     "author": "Fuu Chan",
     "name": "[Fuu] Auto Strip on Haul",
     "steamId": "2560725133",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
     "version": "1.0.0.0"
   },
   {

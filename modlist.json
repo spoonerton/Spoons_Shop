@@ -180,8 +180,8 @@
     "version": null
   },
   {
-    "author": "Vagabond",
-    "name": "Fantasy Goblins",
+    "author": "Vagabond and  Barsimmon",
+    "name": "Fantasy Goblins Updated",
     "steamId": null,
     "version": null
   },
@@ -222,10 +222,22 @@
     "version": null
   },
   {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Grab Your Tool!",
+    "steamId": "2355912467",
+    "version": "1.0.7"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gradient Hair",
     "steamId": "1687053679",
     "version": "1.0.350.0854"
+  },
+  {
+    "author": "Murmur",
+    "name": "Incident Disabler",
+    "steamId": "2347633285",
+    "version": "1.0.0.0"
   },
   {
     "author": "latta",
@@ -312,6 +324,12 @@
     "version": null
   },
   {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
@@ -342,8 +360,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Alan Dariva",
-    "name": "More Planning",
+    "author": "SafetyMets",
+    "name": "More Monster Girls Baphomet Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls Enhanced Patch",
+    "steamId": "2014872486",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
     "steamId": null,
     "version": null
   },
@@ -396,6 +426,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Velcroboy",
+    "name": "Primitive Workbenches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Tree Chopping Speed Stat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Velcroboy",
+    "name": "Primitive Tools",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -406,6 +454,12 @@
     "name": "Quarry",
     "steamId": "2007576583",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Malte Schulze",
+    "name": "RIMMSqol",
+    "steamId": "1084452457",
+    "version": "1.0.8182.38322"
   },
   {
     "author": "Sandy",
@@ -420,8 +474,14 @@
     "version": null
   },
   {
-    "author": "JKV",
-    "name": "Rakkle the rattle snake Race mod",
+    "author": "sunny",
+    "name": "Rakkle 1.3 (unofficial update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VibeCheque",
+    "name": "Realistic Rooms 1.3",
     "steamId": null,
     "version": null
   },
@@ -519,7 +579,7 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.3.2"
+    "version": "1.0.2.6"
   },
   {
     "author": "hodlhodl",
@@ -564,6 +624,12 @@
     "version": "1.0.2.2"
   },
   {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -602,12 +668,6 @@
   {
     "author": "Orion",
     "name": "Xeva's Rimhair",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Crlsniper",
-    "name": "Realistic Rooms",
     "steamId": null,
     "version": null
   },

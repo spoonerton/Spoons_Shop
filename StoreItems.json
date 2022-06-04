@@ -8083,12 +8083,6 @@
 		"defname": "Goblin_Falchion"
 	},
 	{
-		"abr": "goblinhide",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Goblin_Leather"
-	},
-	{
 		"abr": "goblinhood",
 		"price": 265,
 		"category": "Headgear",
@@ -8105,18 +8099,6 @@
 		"price": 1683,
 		"category": "Ranged weapons",
 		"defname": "Goblin_LaserRifle"
-	},
-	{
-		"abr": "goblinleatherarmor",
-		"price": 212,
-		"category": "Apparel",
-		"defname": "Goblin_LeatherArmour"
-	},
-	{
-		"abr": "goblinleatherhelmet",
-		"price": 269,
-		"category": "Headgear",
-		"defname": "Goblin_LeatherHelmet"
 	},
 	{
 		"abr": "goblinloincloth",
@@ -8525,7 +8507,931 @@
 		"price": 1475,
 		"category": "Production",
 		"defname": "Table_RPP_RoboticsBench"
+	},
+	{
+		"abr": "adobeblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "VBY_BlocksAdobe"
+	},
+	{
+		"abr": "animaltotem",
+		"price": 542,
+		"category": "Recreation",
+		"defname": "VBY_AnimalTotem"
+	},
+	{
+		"abr": "animalwisdomtotem",
+		"price": 542,
+		"category": "Recreation",
+		"defname": "VBY_AnimalRimTotem"
+	},
+	{
+		"abr": "anti-materialrifle",
+		"price": 1717,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AntiMaterialRifle"
+	},
+	{
+		"abr": "atlatl",
+		"price": 116,
+		"category": "Ranged weapons",
+		"defname": "VBY_Atlatl"
+	},
+	{
+		"abr": "baphomet",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "Baphomet"
+	},
+	{
+		"abr": "baphometleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Baphomet"
+	},
+	{
+		"abr": "baphometmane",
+		"price": 12,
+		"category": "Wools",
+		"defname": "HairBaphomet"
+	},
+	{
+		"abr": "baphometmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Baphomet"
+	},
+	{
+		"abr": "baphometmilk",
+		"price": 4,
+		"category": "Animal products",
+		"defname": "BaphometMilk"
+	},
+	{
+		"abr": "bardiche",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "MM_bardiche"
+	},
+	{
+		"abr": "bastardsword",
+		"price": 625,
+		"category": "Melee weapons",
+		"defname": "MM_bastardsword"
+	},
+	{
+		"abr": "baton",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Baton"
+	},
+	{
+		"abr": "battleaxe",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "MM_waraxe"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BattleRifle"
+	},
+	{
+		"abr": "billhook",
+		"price": 375,
+		"category": "Melee weapons",
+		"defname": "MM_billhook"
+	},
+	{
+		"abr": "bludgeon",
+		"price": 255,
+		"category": "Melee weapons",
+		"defname": "MM_bludgeon"
+	},
+	{
+		"abr": "boomerang",
+		"price": 57,
+		"category": "Ranged weapons",
+		"defname": "VBY_Boomerang"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "carnivoreteeth",
+		"price": 3,
+		"category": "Items",
+		"defname": "VBY_CarnivoreTeeth"
+	},
+	{
+		"abr": "chargelmg",
+		"price": 2833,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "chargeminigun",
+		"price": 5458,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1008,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "chargerocketlauncher",
+		"price": 11667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "chargeshotgun",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "chargesmg",
+		"price": 1508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "chargesniperrifle",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "combathandgun",
+		"price": 291,
+		"category": "Ranged weapons",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "combatknife",
+		"price": 205,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "compositelongbow",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "MMr_clongbow"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 240,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "craftingworkbench",
+		"price": 342,
+		"category": "Production",
+		"defname": "CraftingWorkBench"
+	},
+	{
+		"abr": "cutlass",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "MM_cutlass"
+	},
+	{
+		"abr": "dagger",
+		"price": 211,
+		"category": "Melee weapons",
+		"defname": "MM_dagger"
+	},
+	{
+		"abr": "doormat(haycloth)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "VBY_DoorMatHayCloth"
+	},
+	{
+		"abr": "doublehaybed",
+		"price": 99,
+		"category": "Furniture",
+		"defname": "VBY_DoubleHaybed"
+	},
+	{
+		"abr": "doubleleatherbed",
+		"price": 231,
+		"category": "Furniture",
+		"defname": "VBY_DoubleLeatherbed"
+	},
+	{
+		"abr": "doubleblade",
+		"price": 617,
+		"category": "Melee weapons",
+		"defname": "MM_doubleblade"
+	},
+	{
+		"abr": "doubleshotcrossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_double"
+	},
+	{
+		"abr": "fangclub",
+		"price": 183,
+		"category": "Melee weapons",
+		"defname": "VBY_FangClub"
+	},
+	{
+		"abr": "fencingsword",
+		"price": 683,
+		"category": "Melee weapons",
+		"defname": "MM_fencingsword"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "fireshotlongbow",
+		"price": 225,
+		"category": "Ranged weapons",
+		"defname": "MMr_firelongbow"
+	},
+	{
+		"abr": "flail",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "MM_flail"
+	},
+	{
+		"abr": "flamberge",
+		"price": 692,
+		"category": "Melee weapons",
+		"defname": "MM_flamberge"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "flangedmace",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "MM_flangedmace"
+	},
+	{
+		"abr": "flashgrenades",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "flint",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "VBY_PrimitiveFlint"
+	},
+	{
+		"abr": "flintadze",
+		"price": 137,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintAdze"
+	},
+	{
+		"abr": "flintaxe",
+		"price": 136,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintAxe"
+	},
+	{
+		"abr": "flinthandaxe",
+		"price": 42,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintHandAxe"
+	},
+	{
+		"abr": "flintknife",
+		"price": 69,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintKnife"
+	},
+	{
+		"abr": "flintscraper",
+		"price": 28,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintScraper"
+	},
+	{
+		"abr": "flintsickle",
+		"price": 109,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintSickle"
+	},
+	{
+		"abr": "flintspear",
+		"price": 191,
+		"category": "Melee weapons",
+		"defname": "VBY_FlintSpear"
+	},
+	{
+		"abr": "flintlock",
+		"price": 319,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "forgedbolas",
+		"price": 151,
+		"category": "Ranged weapons",
+		"defname": "MMr_fbolas"
+	},
+	{
+		"abr": "glaive",
+		"price": 550,
+		"category": "Melee weapons",
+		"defname": "MM_glaive"
+	},
+	{
+		"abr": "greataxe",
+		"price": 725,
+		"category": "Melee weapons",
+		"defname": "MM_greataxe"
+	},
+	{
+		"abr": "greatsword",
+		"price": 675,
+		"category": "Melee weapons",
+		"defname": "MM_greatsword"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "halberd",
+		"price": 583,
+		"category": "Melee weapons",
+		"defname": "MM_halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 169,
+		"category": "Melee weapons",
+		"defname": "MM_SHammer"
+	},
+	{
+		"abr": "hammerstone",
+		"price": 1,
+		"category": "Melee weapons",
+		"defname": "VBY_HammerStone"
+	},
+	{
+		"abr": "handcannon",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "handcrossbow",
+		"price": 105,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_hand"
+	},
+	{
+		"abr": "harpoon",
+		"price": 199,
+		"category": "Ranged weapons",
+		"defname": "MMr_harpoon"
+	},
+	{
+		"abr": "hatchet",
+		"price": 279,
+		"category": "Melee weapons",
+		"defname": "MM_hatchet"
+	},
+	{
+		"abr": "haybed",
+		"price": 58,
+		"category": "Furniture",
+		"defname": "VBY_Haybed"
+	},
+	{
+		"abr": "haycloth",
+		"price": 2,
+		"category": "Textiles",
+		"defname": "VBY_Haycloth"
+	},
+	{
+		"abr": "heavycrossbow",
+		"price": 304,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_heavy"
+	},
+	{
+		"abr": "heavyflail",
+		"price": 658,
+		"category": "Melee weapons",
+		"defname": "MM_flail_heavy"
+	},
+	{
+		"abr": "heavymace",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MM_heavymace"
+	},
+	{
+		"abr": "heavymaul",
+		"price": 717,
+		"category": "Melee weapons",
+		"defname": "MM_maul"
+	},
+	{
+		"abr": "herbalistandspiritmakingtable",
+		"price": 333,
+		"category": "Production",
+		"defname": "VBY_PrimitiveBrewery_HerbalistBench"
+	},
+	{
+		"abr": "hmg",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "insecttotem",
+		"price": 542,
+		"category": "Recreation",
+		"defname": "VBY_InsectTotem"
+	},
+	{
+		"abr": "javelin",
+		"price": 282,
+		"category": "Ranged weapons",
+		"defname": "MMr_javelin"
+	},
+	{
+		"abr": "khopesh",
+		"price": 917,
+		"category": "Melee weapons",
+		"defname": "MM_khopesh"
+	},
+	{
+		"abr": "leatherbed",
+		"price": 142,
+		"category": "Furniture",
+		"defname": "VBY_Leatherbed"
+	},
+	{
+		"abr": "lever-actionrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LeverActionRifle"
+	},
+	{
+		"abr": "lightcrossbow",
+		"price": 161,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_light"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "longbow",
+		"price": 197,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "marksmanrifle",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MarksmanRifle"
+	},
+	{
+		"abr": "masonrytable",
+		"price": 266,
+		"category": "Production",
+		"defname": "VBY_PrimitiveStoneCuttingTable"
+	},
+	{
+		"abr": "meatcleaver",
+		"price": 125,
+		"category": "Melee weapons",
+		"defname": "MM_cleaver"
+	},
+	{
+		"abr": "mediumceramicvase",
+		"price": 167,
+		"category": "Art",
+		"defname": "VBY_PotteryMed"
+	},
+	{
+		"abr": "meleeweaponbench",
+		"price": 315,
+		"category": "Production",
+		"defname": "VBY_PrimitiveMeleeWeaponTable"
+	},
+	{
+		"abr": "militarypick",
+		"price": 266,
+		"category": "Melee weapons",
+		"defname": "MM_mpick"
+	},
+	{
+		"abr": "morningstar",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "MM_morningstar"
+	},
+	{
+		"abr": "musket",
+		"price": 442,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Musket"
+	},
+	{
+		"abr": "pickaxe",
+		"price": 151,
+		"category": "Melee weapons",
+		"defname": "MM_pickaxe"
+	},
+	{
+		"abr": "pike",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "MM_pike"
+	},
+	{
+		"abr": "pitchfork",
+		"price": 145,
+		"category": "Melee weapons",
+		"defname": "MM_Pitchfork"
+	},
+	{
+		"abr": "polehammer",
+		"price": 475,
+		"category": "Melee weapons",
+		"defname": "MM_polehammer"
+	},
+	{
+		"abr": "primitivebolas",
+		"price": 129,
+		"category": "Ranged weapons",
+		"defname": "MMr_pbolas"
+	},
+	{
+		"abr": "primitivecraftingtable",
+		"price": 285,
+		"category": "Production",
+		"defname": "VBY_PrimitiveCraftingTable"
+	},
+	{
+		"abr": "primitiveresearchtable",
+		"price": 257,
+		"category": "Production",
+		"defname": "VBY_PrimitiveResearchTable"
+	},
+	{
+		"abr": "primitivestylingstation",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "VBY_PrimitiveStylingStation"
+	},
+	{
+		"abr": "primitivetablettable",
+		"price": 1008,
+		"category": "Misc",
+		"defname": "VBY_PrimitiveTabletTable"
+	},
+	{
+		"abr": "primitivetailoringtable",
+		"price": 311,
+		"category": "Production",
+		"defname": "VBY_PrimitiveTailoringTable"
+	},
+	{
+		"abr": "primitivetooltable",
+		"price": 492,
+		"category": "Misc",
+		"defname": "VBY_PrimitiveToolBench"
+	},
+	{
+		"abr": "rabbitstick",
+		"price": 57,
+		"category": "Ranged weapons",
+		"defname": "VBY_RabbitStick"
+	},
+	{
+		"abr": "rangedweaponbench",
+		"price": 358,
+		"category": "Production",
+		"defname": "VBY_PrimitiveRangedWeaponTable"
+	},
+	{
+		"abr": "rapier",
+		"price": 492,
+		"category": "Melee weapons",
+		"defname": "MM_rapier"
+	},
+	{
+		"abr": "repeatercrossbow",
+		"price": 342,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_repeater"
+	},
+	{
+		"abr": "rocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_RocketLauncher"
+	},
+	{
+		"abr": "sagaris",
+		"price": 950,
+		"category": "Melee weapons",
+		"defname": "MM_sagaris"
+	},
+	{
+		"abr": "sawed-offshotgun",
+		"price": 297,
+		"category": "Ranged weapons",
+		"defname": "VWE_SawedOffShotgun"
+	},
+	{
+		"abr": "scalpel",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Scalpel"
+	},
+	{
+		"abr": "scramasax",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "MM_scramasax"
+	},
+	{
+		"abr": "scythe",
+		"price": 149,
+		"category": "Melee weapons",
+		"defname": "MM_scythe"
+	},
+	{
+		"abr": "semi-automaticrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SemiAutomaticRifle"
+	},
+	{
+		"abr": "servicerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "sharpenedstick",
+		"price": 72,
+		"category": "Melee weapons",
+		"defname": "VBY_SharpStick"
+	},
+	{
+		"abr": "shortsword",
+		"price": 244,
+		"category": "Melee weapons",
+		"defname": "MM_shortsword"
+	},
+	{
+		"abr": "shovel",
+		"price": 148,
+		"category": "Melee weapons",
+		"defname": "MM_shovel"
+	},
+	{
+		"abr": "sickle",
+		"price": 123,
+		"category": "Melee weapons",
+		"defname": "MM_Sickle"
+	},
+	{
+		"abr": "siegecrossbow",
+		"price": 683,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_Siege"
+	},
+	{
+		"abr": "sling",
+		"price": 130,
+		"category": "Ranged weapons",
+		"defname": "MMr_sling"
+	},
+	{
+		"abr": "smallceramicvase",
+		"price": 98,
+		"category": "Art",
+		"defname": "VBY_PotterySmall"
+	},
+	{
+		"abr": "smg",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 215,
+		"category": "Grenades",
+		"defname": "VWE_SmokeGrenade"
+	},
+	{
+		"abr": "stonebutchertable",
+		"price": 108,
+		"category": "Production",
+		"defname": "VBY_PrimitiveButcherTable"
+	},
+	{
+		"abr": "stonehammer",
+		"price": 27,
+		"category": "Melee weapons",
+		"defname": "VBY_StoneHammer"
+	},
+	{
+		"abr": "stonekiln(h)",
+		"price": 156,
+		"category": "Production",
+		"defname": "VBY_PrimitiveKiln"
+	},
+	{
+		"abr": "stonekiln(v)",
+		"price": 156,
+		"category": "Production",
+		"defname": "VBY_PrimitiveKiln_Rotated"
+	},
+	{
+		"abr": "stonemallet",
+		"price": 24,
+		"category": "Melee weapons",
+		"defname": "VBY_StoneMallet"
+	},
+	{
+		"abr": "stonewastebin",
+		"price": 118,
+		"category": "Furniture",
+		"defname": "VBY_Clay_Pot_TwoWaste"
+	},
+	{
+		"abr": "tallystick",
+		"price": 18,
+		"category": "Melee weapons",
+		"defname": "VBY_CountingStick"
+	},
+	{
+		"abr": "throwingaxes",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "MMr_taxes"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 162,
+		"category": "Ranged weapons",
+		"defname": "MMr_tknives"
+	},
+	{
+		"abr": "throwingnet",
+		"price": 134,
+		"category": "Ranged weapons",
+		"defname": "MMr_tnet"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 3,
+		"category": "Ranged weapons",
+		"defname": "VBY_ThrowingRocks"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "thrumbochopper",
+		"price": 1450,
+		"category": "Melee weapons",
+		"defname": "VBY_ThrumboChopper"
+	},
+	{
+		"abr": "toothaxe",
+		"price": 119,
+		"category": "Melee weapons",
+		"defname": "VBY_ToothAxe"
+	},
+	{
+		"abr": "toothclub",
+		"price": 119,
+		"category": "Melee weapons",
+		"defname": "VBY_ToothClub"
+	},
+	{
+		"abr": "toxicgrenades",
+		"price": 1417,
+		"category": "Grenades",
+		"defname": "VWE_ToxicGrenade"
+	},
+	{
+		"abr": "trident",
+		"price": 542,
+		"category": "Melee weapons",
+		"defname": "MM_trident"
+	},
+	{
+		"abr": "walkingstick",
+		"price": 22,
+		"category": "Melee weapons",
+		"defname": "VBY_WalkingStick"
+	},
+	{
+		"abr": "warscythe",
+		"price": 608,
+		"category": "Melee weapons",
+		"defname": "MM_warscythe"
+	},
+	{
+		"abr": "warsickle",
+		"price": 1042,
+		"category": "Melee weapons",
+		"defname": "MM_warsickle"
+	},
+	{
+		"abr": "warspear",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MM_warspear"
+	},
+	{
+		"abr": "warhammer",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "MM_warhammer"
+	},
+	{
+		"abr": "wetclayclumps",
+		"price": 0,
+		"category": "Manufactured",
+		"defname": "VBY_ClayPaste"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "woodcutter'saxe",
+		"price": 145,
+		"category": "Melee weapons",
+		"defname": "MM_Woodcutteraxe"
+	},
+	{
+		"abr": "woodenmallet",
+		"price": 162,
+		"category": "Melee weapons",
+		"defname": "MM_mallet"
+	},
+	{
+		"abr": "wovenwastebin",
+		"price": 77,
+		"category": "Furniture",
+		"defname": "VBY_Woven_BasketWaste"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "zweihander",
+		"price": 717,
+		"category": "Melee weapons",
+		"defname": "MM_zweihander"
 	}
 	],
-	"total": 1421
+	"total": 1575
 }
