@@ -2888,7 +2888,7 @@
 	},
 	{
 		"abr": "harpyegg",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "MG_EggHarpyUnfertilized"
 	},
@@ -3657,7 +3657,7 @@
 	{
 		"abr": "nyaronsimpleuniform",
 		"price": 34,
-		"category": "Nyaron Apparels",
+		"category": "Apparel",
 		"defname": "Nr_SUniform"
 	},
 	{
@@ -8083,12 +8083,6 @@
 		"defname": "Goblin_Falchion"
 	},
 	{
-		"abr": "goblinhide",
-		"price": 3,
-		"category": "Leathers",
-		"defname": "Goblin_Leather"
-	},
-	{
 		"abr": "goblinhood",
 		"price": 265,
 		"category": "Headgear",
@@ -8105,18 +8099,6 @@
 		"price": 1683,
 		"category": "Ranged weapons",
 		"defname": "Goblin_LaserRifle"
-	},
-	{
-		"abr": "goblinleatherarmor",
-		"price": 212,
-		"category": "Apparel",
-		"defname": "Goblin_LeatherArmour"
-	},
-	{
-		"abr": "goblinleatherhelmet",
-		"price": 269,
-		"category": "Headgear",
-		"defname": "Goblin_LeatherHelmet"
 	},
 	{
 		"abr": "goblinloincloth",
@@ -9410,7 +9392,7 @@
 	},
 	{
 		"abr": "wetclayclumps",
-		"price": 0,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "VBY_ClayPaste"
 	},
@@ -9449,6 +9431,24 @@
 		"price": 717,
 		"category": "Melee weapons",
 		"defname": "MM_zweihander"
+	},
+	{
+		"abr": "goblinhide",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Goblin"
+	},
+	{
+		"abr": "goblinleatherarmor",
+		"price": 212,
+		"category": "Apparel",
+		"defname": "Leather_GoblinArmour"
+	},
+	{
+		"abr": "goblinleatherhelmet",
+		"price": 269,
+		"category": "Headgear",
+		"defname": "Leather_GoblinHelmet"
 	}
 	],
 	"total": 1575

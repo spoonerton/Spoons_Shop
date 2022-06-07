@@ -180,8 +180,8 @@
     "version": null
   },
   {
-    "author": "Vagabond",
-    "name": "Fantasy Goblins",
+    "author": "Vagabond and  Barsimmon",
+    "name": "Fantasy Goblins Updated",
     "steamId": null,
     "version": null
   },
@@ -288,6 +288,12 @@
     "version": "1.3.0.1"
   },
   {
+    "author": "Xenofell",
+    "name": "Ladies Can Flirt Too!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jecrell and lbmaian",
     "name": "Doors Expanded",
     "steamId": "1316188771",
@@ -336,6 +342,12 @@
     "version": "1.0.1.0"
   },
   {
+    "author": "avilmask",
+    "name": "Micro Designations",
+    "steamId": "1877972690",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Haplo",
     "name": "Misc. Robots",
     "steamId": null,
@@ -372,8 +384,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Alan Dariva",
-    "name": "More Planning",
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
     "steamId": null,
     "version": null
   },
@@ -456,6 +468,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Malte Schulze",
+    "name": "RIMMSqol",
+    "steamId": "1084452457",
+    "version": "1.0.8182.38322"
+  },
+  {
     "author": "Sandy",
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
@@ -468,8 +486,14 @@
     "version": null
   },
   {
-    "author": "JKV",
-    "name": "Rakkle the rattle snake Race mod",
+    "author": "sunny",
+    "name": "Rakkle 1.3 (unofficial update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VibeCheque",
+    "name": "Realistic Rooms 1.3",
     "steamId": null,
     "version": null
   },
@@ -484,6 +508,12 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Research Whatever",
+    "steamId": "2552092060",
+    "version": "1.0.0.0"
   },
   {
     "author": "VinaLx",
@@ -510,6 +540,12 @@
     "version": null
   },
   {
+    "author": "bdew",
+    "name": "Romance Tweaks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "sakama",
     "name": "Roppoi hair",
     "steamId": null,
@@ -520,6 +556,12 @@
     "name": "RuntimeGC [1.3]",
     "steamId": "2559582557",
     "version": "0.1.0.0"
+  },
+  {
+    "author": "krafs",
+    "name": "Scenario Amender (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo",
@@ -564,12 +606,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
-  },
-  {
     "author": "hodlhodl",
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
@@ -580,6 +616,24 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.0.5"
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.6"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": "1668141382",
+    "version": "1.0.0.0"
   },
   {
     "author": "Nephlite and  Maxim",
@@ -604,12 +658,6 @@
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
   },
   {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
@@ -656,12 +704,6 @@
   {
     "author": "Orion",
     "name": "Xeva's Rimhair",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Crlsniper",
-    "name": "Realistic Rooms",
     "steamId": null,
     "version": null
   },
