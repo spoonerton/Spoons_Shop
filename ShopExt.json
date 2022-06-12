@@ -3157,6 +3157,775 @@
       "enabled": true,
       "name": "Goblin",
       "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid ruled by a hive mind.",
+      "defName": "Kenshi_Hiver_Prince",
+      "enabled": true,
+      "name": "hive prince",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid ruled by a hive mind.",
+      "defName": "Kenshi_Hiver_Soldier",
+      "enabled": true,
+      "name": "hive soldier drone",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid ruled by a hive mind.",
+      "defName": "Kenshi_Hiver_Worker",
+      "enabled": true,
+      "name": "hive worker drone",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid ruled by a hive mind.",
+      "defName": "Kenshi_Hiver_Prince_Southern",
+      "enabled": true,
+      "name": "southern hive prince",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid ruled by a hive mind.",
+      "defName": "Kenshi_Hiver_Soldier_Southern",
+      "enabled": true,
+      "name": "southern hive soldier drone",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid ruled by a hive mind.",
+      "defName": "Kenshi_Hiver_Worker_Southern",
+      "enabled": true,
+      "name": "southern hive worker drone",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid driven mad by a parasite.",
+      "defName": "Kenshi_Fogman_Soldier",
+      "enabled": true,
+      "name": "fogman soldier",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid driven mad by a parasite.",
+      "defName": "Kenshi_Fogman_Worker",
+      "enabled": true,
+      "name": "fogman",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+5% Mental break threshold",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+10.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+15.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A stick-like humanoid driven mad by a parasite.",
+      "defName": "Kenshi_Fogman_Prince",
+      "enabled": true,
+      "name": "fogman prince",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+12.0C Minimum comfortable temperature",
+          "+52.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+3.00 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+80% Research speed",
+          "+80% Mining speed",
+          "+80.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+15.0% Armor - Blunt",
+          "+20.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A horned humanoid race.",
+      "defName": "Kenshi_Shek",
+      "enabled": true,
+      "name": "shek",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+100% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+1% Mental break threshold",
+          "+125% Research speed",
+          "+50% Mining speed",
+          "+70.00% Social impact",
+          "+50% Plant work speed",
+          "+100% Plant harvest yield",
+          "+125% Construction speed",
+          "+20.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+300% Immunity gain speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of ancient bipedal robots.",
+      "defName": "Kenshi_Skeleton",
+      "enabled": true,
+      "name": "skeleton",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+42.00 Mass",
+          "+100% Flammability",
+          "+45 Carrying capacity",
+          "+$1750 Market value",
+          "+4.61 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.",
+      "defName": "LotRH_HobbitStandardRace",
+      "enabled": true,
+      "name": "hobbit",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+250% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "+50 Carrying capacity",
+          "+30% Mental break threshold",
+          "+80% Research speed",
+          "+50% Mining speed",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
+      "defName": "Hiver_Queen",
+      "enabled": true,
+      "name": "hiver queen",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+5.20 Move speed",
+          "+85 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+150% Mining speed",
+          "+80.00% Social impact",
+          "+180% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor, making them desirable slaves.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
+      "defName": "Hiver_Worker",
+      "enabled": true,
+      "name": "hiver drone",
+      "price": 833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+4.61 Move speed",
+          "+80 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+50% Plant work speed",
+          "+50% Plant harvest yield",
+          "+80% Construction speed",
+          "+10.0% Armor - Blunt",
+          "+20.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver soldier drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
+      "defName": "Hiver_Soldier",
+      "enabled": true,
+      "name": "hiver soldier drone",
+      "price": 833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+5.20 Move speed",
+          "+85 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
+      "defName": "Hiver_Worker_South",
+      "enabled": true,
+      "name": "hiver drone",
+      "price": 833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+50% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$500 Market value",
+          "+4.61 Move speed",
+          "+80 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+50% Plant work speed",
+          "+50% Plant harvest yield",
+          "+80% Construction speed",
+          "+20.0% Armor - Blunt",
+          "+30.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver warrior drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
+      "defName": "Hiver_Soldier_South",
+      "enabled": true,
+      "name": "hiver warrior drone",
+      "price": 833
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+100% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+30% Mental break threshold",
+          "+150% Research speed",
+          "+50% Mining speed",
+          "+100.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+150% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
+      "defName": "Hiver_Prince",
+      "enabled": true,
+      "name": "hiver prince",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+100% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1000 Market value",
+          "+4.61 Move speed",
+          "+75 Carrying capacity",
+          "+30% Mental break threshold",
+          "+100% Research speed",
+          "+50% Mining speed",
+          "+80.00% Social impact",
+          "+60% Plant work speed",
+          "+100% Plant harvest yield",
+          "+150% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
+      "defName": "Hiver_Prince_South",
+      "enabled": true,
+      "name": "hiver prince",
+      "price": 1667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+250% Psychic sensitivity",
+          "+50% Toxic sensitivity",
+          "+18.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "+50 Carrying capacity",
+          "+30% Mental break threshold",
+          "+100% Research speed",
+          "+50% Mining speed",
+          "+100.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+80% Construction speed",
+          "+0.0% Armor - Blunt",
+          "+10.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
+      "defName": "Hiver_Queen_South",
+      "enabled": true,
+      "name": "hiver queen",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+45.0C Maximum comfortable temperature",
+          "+60 Leather amount",
+          "+3 Honor value",
+          "+80 Carrying capacity",
+          "+90% Research speed",
+          "+90% Mining speed",
+          "+110.00% Social impact",
+          "+90% Plant work speed",
+          "+90% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Shaggy giants from an arboreal world, the tall and commanding Wookieee species is an impressive sight to even the most jaded spacer. \n        Despite their fearsome and savage countenance, Wookieees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookieee society. \n        When peaceful, Wookieees are tender and gentle. \n        Their tempers, however, are short; when angered, Wookieees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.",
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Togrutas were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails which were similar to those of Twi'leks. Unlike Twi'leks, a Togurta's lekku ran parallel to the head as opposed to behind, making it appear as though they were wearing a headdress. Togruta were also distinguished by montrals, large hollow horn-like projections from the top of their heads, that gave the species a form of passive echolocation. In order to protect themselves from dangerous predators, and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders.",
+      "defName": "StarWarsRaces_Togruta",
+      "enabled": true,
+      "name": "Togruta",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.",
+      "defName": "StarWarsRaces_Rodian",
+      "enabled": true,
+      "name": "Rodian",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Ewoks are sentient furred bipeds native to the moon of Endor.",
+      "defName": "StarWarsRaces_Ewok",
+      "enabled": true,
+      "name": "Ewok",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors.\n      Their most distinctive feature is a pair of prehensile tentacles that grow from the base of their skulls.\n      These Lekku are vital to the health of the Twi'lek, which is unfortunate because they prevent the Twi'lek from wearing most forms of head protection.\n      Some have theorized that this obvious weakness is why the Twi'lek people have been so heavily targetted by slavers.",
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "price": 2917
     }
   ]
 }
