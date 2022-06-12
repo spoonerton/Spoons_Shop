@@ -3189,7 +3189,7 @@
       "defName": "Kenshi_Hiver_Prince",
       "enabled": true,
       "name": "hive prince",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3222,7 +3222,7 @@
       "defName": "Kenshi_Hiver_Soldier",
       "enabled": true,
       "name": "hive soldier drone",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3255,7 +3255,7 @@
       "defName": "Kenshi_Hiver_Worker",
       "enabled": true,
       "name": "hive worker drone",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3288,7 +3288,7 @@
       "defName": "Kenshi_Hiver_Prince_Southern",
       "enabled": true,
       "name": "southern hive prince",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3321,7 +3321,7 @@
       "defName": "Kenshi_Hiver_Soldier_Southern",
       "enabled": true,
       "name": "southern hive soldier drone",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3354,7 +3354,7 @@
       "defName": "Kenshi_Hiver_Worker_Southern",
       "enabled": true,
       "name": "southern hive worker drone",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3387,7 +3387,7 @@
       "defName": "Kenshi_Fogman_Soldier",
       "enabled": true,
       "name": "fogman soldier",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3420,7 +3420,7 @@
       "defName": "Kenshi_Fogman_Worker",
       "enabled": true,
       "name": "fogman",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3453,7 +3453,7 @@
       "defName": "Kenshi_Fogman_Prince",
       "enabled": true,
       "name": "fogman prince",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3486,7 +3486,7 @@
       "defName": "Kenshi_Shek",
       "enabled": true,
       "name": "shek",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3521,7 +3521,7 @@
       "defName": "Kenshi_Skeleton",
       "enabled": true,
       "name": "skeleton",
-      "price": 2500
+      "price": 100
     },
     {
       "data": {
@@ -3543,7 +3543,7 @@
       "defName": "LotRH_HobbitStandardRace",
       "enabled": true,
       "name": "hobbit",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -3577,7 +3577,7 @@
       "defName": "Hiver_Queen",
       "enabled": true,
       "name": "hiver queen",
-      "price": 2500
+      "price": 100
     },
     {
       "data": {
@@ -3610,7 +3610,7 @@
       "defName": "Hiver_Worker",
       "enabled": true,
       "name": "hiver drone",
-      "price": 833
+      "price": 100
     },
     {
       "data": {
@@ -3643,7 +3643,7 @@
       "defName": "Hiver_Soldier",
       "enabled": true,
       "name": "hiver soldier drone",
-      "price": 833
+      "price": 100
     },
     {
       "data": {
@@ -3676,7 +3676,7 @@
       "defName": "Hiver_Worker_South",
       "enabled": true,
       "name": "hiver drone",
-      "price": 833
+      "price": 100
     },
     {
       "data": {
@@ -3709,7 +3709,7 @@
       "defName": "Hiver_Soldier_South",
       "enabled": true,
       "name": "hiver warrior drone",
-      "price": 833
+      "price": 100
     },
     {
       "data": {
@@ -3742,7 +3742,7 @@
       "defName": "Hiver_Prince",
       "enabled": true,
       "name": "hiver prince",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3775,7 +3775,7 @@
       "defName": "Hiver_Prince_South",
       "enabled": true,
       "name": "hiver prince",
-      "price": 1667
+      "price": 100
     },
     {
       "data": {
@@ -3809,7 +3809,7 @@
       "defName": "Hiver_Queen_South",
       "enabled": true,
       "name": "hiver queen",
-      "price": 2500
+      "price": 100
     },
     {
       "data": {
@@ -3837,7 +3837,7 @@
       "defName": "StarWarsRaces_Wookiee",
       "enabled": true,
       "name": "Wookiee",
-      "price": 4583
+      "price": 100
     },
     {
       "data": {
@@ -3859,7 +3859,7 @@
       "defName": "StarWarsRaces_Togruta",
       "enabled": true,
       "name": "Togruta",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -3881,7 +3881,7 @@
       "defName": "StarWarsRaces_Rodian",
       "enabled": true,
       "name": "Rodian",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -3903,7 +3903,7 @@
       "defName": "StarWarsRaces_Ewok",
       "enabled": true,
       "name": "Ewok",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -3925,7 +3925,7 @@
       "defName": "StarWarsRaces_Twilek",
       "enabled": true,
       "name": "Twi'lek",
-      "price": 2917
+      "price": 100
     }
   ]
 }
