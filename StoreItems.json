@@ -6706,7 +6706,7 @@
       "abr": "blackharpy",
       "category": "Animals",
       "defname": "BlackHarpy",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "blackharpyegg(fert.)",
@@ -6748,7 +6748,7 @@
       "abr": "centaur",
       "category": "Animals",
       "defname": "Centaur",
-      "price": 1483
+      "price": -10
     },
     {
       "abr": "centaurhair",
@@ -6784,7 +6784,7 @@
       "abr": "cowgirl",
       "category": "Animals",
       "defname": "Cowgirl",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "cowgirlhide",
@@ -6856,7 +6856,7 @@
       "abr": "dragonoid",
       "category": "Animals",
       "defname": "Dragongirl",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "dragonoidmilk",
@@ -6880,7 +6880,7 @@
       "abr": "dryad",
       "category": "Animals",
       "defname": "Dryad",
-      "price": 1583
+      "price": -10
     },
     {
       "abr": "dryadhair",
@@ -7300,13 +7300,13 @@
       "abr": "forestfairy",
       "category": "Animals",
       "defname": "FairyForest",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "foxgirl",
       "category": "Animals",
       "defname": "Foxgirl",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "foxgirlleather",
@@ -7348,7 +7348,7 @@
       "abr": "giantboar",
       "category": "Animals",
       "defname": "LotRD_GiantBoarRace",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "goldeneye",
@@ -7378,7 +7378,7 @@
       "abr": "harpy",
       "category": "Animals",
       "defname": "Harpy",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "harpyegg(fert.)",
@@ -7450,7 +7450,7 @@
       "abr": "horse",
       "category": "Animals",
       "defname": "LotR_HorseRace",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "horsemeat",
@@ -7468,7 +7468,7 @@
       "abr": "icefairy",
       "category": "Animals",
       "defname": "FairyIce",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "icefairyskin",
@@ -7486,7 +7486,7 @@
       "abr": "impmother",
       "category": "Animals",
       "defname": "Impmother",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "impmothermilk",
@@ -7582,7 +7582,7 @@
       "abr": "lóriendeer",
       "category": "Animals",
       "defname": "LotRE_DeerMallorn",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "lórienvenison",
@@ -7870,7 +7870,7 @@
       "abr": "slime",
       "category": "Animals",
       "defname": "Slime",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "slimegoo",
@@ -7954,7 +7954,7 @@
       "abr": "thrumbomorph",
       "category": "Animals",
       "defname": "Thrumbomorph",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "thrumbomorphleather",
@@ -8542,7 +8542,7 @@
       "abr": "baphomet",
       "category": "Animals",
       "defname": "Baphomet",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "baphometleather",
@@ -10276,7 +10276,7 @@
       "abr": "pony",
       "category": "Animals",
       "defname": "LotR_PonyRace",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "ponymeat",
@@ -11224,7 +11224,7 @@
       "abr": "fenrir",
       "category": "Animals",
       "defname": "VFEV_Fenrir",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "fenrirmeat",
@@ -11824,7 +11824,7 @@
       "abr": "lothurr",
       "category": "Animals",
       "defname": "VFEV_Lothurr",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "lothurrantler",
@@ -11944,7 +11944,7 @@
       "abr": "njorun",
       "category": "Animals",
       "defname": "VFEV_Njorun",
-      "price": 11667
+      "price": -10
     },
     {
       "abr": "njorunmeat",
@@ -12634,7 +12634,7 @@
       "abr": "wolfhound",
       "category": "Animals",
       "defname": "VFEV_Wolfhound",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "wolfhoundmeat",
@@ -12646,7 +12646,7 @@
       "abr": "woolycow",
       "category": "Animals",
       "defname": "VFEV_WoolyCow",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "yuenyeung",
