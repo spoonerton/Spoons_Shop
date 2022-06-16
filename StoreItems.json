@@ -12653,7 +12653,487 @@
       "category": "Drugs",
       "defname": "VBE_Yuenyeung",
       "price": 13
+    },
+    {
+      "abr": "ancientheyrablood",
+      "category": "Items",
+      "defname": "Heyra_Item_Seedingredient",
+      "price": 3333
+    },
+    {
+      "abr": "beanpulp",
+      "category": "Milksoy",
+      "defname": "Heyra_Beanpulp",
+      "price": 2
+    },
+    {
+      "abr": "celestialwhisper",
+      "category": "Heyran Masterpieces",
+      "defname": "Heyra_Celestialwhisper",
+      "price": 5000
+    },
+    {
+      "abr": "compressedbiscuits",
+      "category": "Meals",
+      "defname": "Heyra_Biscuit",
+      "price": 25
+    },
+    {
+      "abr": "dismemberermeat",
+      "category": "Meat",
+      "defname": "Meat_Heyra_Dismemberer",
+      "price": 3
+    },
+    {
+      "abr": "forbiddenamry'ssword",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Forbiddenarmysword",
+      "price": 417
+    },
+    {
+      "abr": "forbiddenarmy'shalberd",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Forbiddenarmyhalberd",
+      "price": 450
+    },
+    {
+      "abr": "heyra",
+      "category": "Animal",
+      "defname": "Alien_Heyra",
+      "price": -10
+    },
+    {
+      "abr": "heyrameat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Heyra",
+      "price": 3
+    },
+    {
+      "abr": "heyranaltar",
+      "category": "Production",
+      "defname": "Heyra_Altar",
+      "price": 475
+    },
+    {
+      "abr": "heyranbean",
+      "category": "Milksoy",
+      "defname": "Heyra_Rawbean",
+      "price": 2
+    },
+    {
+      "abr": "heyranblastcrossbow",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Blastcrossbow",
+      "price": 1008
+    },
+    {
+      "abr": "heyranbreachhammer",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Warhammer",
+      "price": 342
+    },
+    {
+      "abr": "heyranbubleskirt",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Bubleskirt",
+      "price": 210
+    },
+    {
+      "abr": "heyrancombatglass",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Aimbot",
+      "price": 1558
+    },
+    {
+      "abr": "heyrancrossbow",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Crossbow",
+      "price": 255
+    },
+    {
+      "abr": "heyrandagger-axe",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Daggeraxe",
+      "price": 272
+    },
+    {
+      "abr": "heyranearmuffs",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Earmuffs",
+      "price": 145
+    },
+    {
+      "abr": "heyraneldritchrobe",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Eldritchrobe",
+      "price": 542
+    },
+    {
+      "abr": "heyranembroideredshirt",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Embroideredshirt",
+      "price": 111
+    },
+    {
+      "abr": "heyraneuphonahairclips",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Bellclips",
+      "price": 312
+    },
+    {
+      "abr": "heyranforbiddenamry'spanoply",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Forbiddenarmypanoply",
+      "price": 933
+    },
+    {
+      "abr": "heyranforbiddenarmy'shelmet",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Forbiddenarmyhelmet",
+      "price": 231
+    },
+    {
+      "abr": "heyranhalberd",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Halberd",
+      "price": 272
+    },
+    {
+      "abr": "heyranheadwrap",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Headband",
+      "price": 145
+    },
+    {
+      "abr": "heyranhierarch'sattire",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Hierarchattire",
+      "price": 925
+    },
+    {
+      "abr": "heyranjacketandskirt",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Jacketskirt",
+      "price": 279
+    },
+    {
+      "abr": "heyranjianghuhat",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Rainhat",
+      "price": 145
+    },
+    {
+      "abr": "heyranjianghusuit",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Jianghusuit",
+      "price": 203
+    },
+    {
+      "abr": "heyrankoiarmor",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Scalearmor",
+      "price": 583
+    },
+    {
+      "abr": "heyranlongdress",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Longdress",
+      "price": 210
+    },
+    {
+      "abr": "heyrannanosuit",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Tightsuit",
+      "price": 1192
+    },
+    {
+      "abr": "heyranprophetess'attire",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Prophetessattire",
+      "price": 925
+    },
+    {
+      "abr": "heyranprophetesscrown",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Prophetesscrown",
+      "price": 433
+    },
+    {
+      "abr": "heyranshamanheadwear",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Shamanheadwear",
+      "price": 392
+    },
+    {
+      "abr": "heyranshaman'sattire",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Shamanattire",
+      "price": 925
+    },
+    {
+      "abr": "heyranshortcoat",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Shortcoat",
+      "price": 210
+    },
+    {
+      "abr": "heyransimplecloak",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Cloak",
+      "price": 315
+    },
+    {
+      "abr": "heyransimplecloak",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Raincoat",
+      "price": 315
+    },
+    {
+      "abr": "heyransleevelessshirt",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Sleeveless",
+      "price": 210
+    },
+    {
+      "abr": "heyransnipersuit",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Snipersuit",
+      "price": 3267
+    },
+    {
+      "abr": "heyransoldier'sarmor",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Soldierarmor",
+      "price": 567
+    },
+    {
+      "abr": "heyransoldier'shelmet",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Soldierhelmet",
+      "price": 153
+    },
+    {
+      "abr": "heyranstealthsuit",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Stealthsuit",
+      "price": 542
+    },
+    {
+      "abr": "heyransword",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Sword",
+      "price": 239
+    },
+    {
+      "abr": "heyranswordmaster'spanoply",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Swordmasterarmor",
+      "price": 525
+    },
+    {
+      "abr": "heyrantotemcarriermeat",
+      "category": "Meat",
+      "defname": "Meat_Heyra_MobileTotem",
+      "price": 3
+    },
+    {
+      "abr": "heyranwintercoat",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Wintercoat",
+      "price": 350
+    },
+    {
+      "abr": "heyranwok",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Wok",
+      "price": 342
+    },
+    {
+      "abr": "heyranworkbench",
+      "category": "Production",
+      "defname": "Heyra_Workbench",
+      "price": 282
+    },
+    {
+      "abr": "heyranworker'sbelt",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Toolbelt",
+      "price": 169
+    },
+    {
+      "abr": "hmaa-heavy",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Hmaah",
+      "price": 4067
+    },
+    {
+      "abr": "hmaa-heavyhelmet",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Hmahh",
+      "price": 1725
+    },
+    {
+      "abr": "hmaa-light",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Hmaal",
+      "price": 3717
+    },
+    {
+      "abr": "hmaa-lighthelmet",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Hmahl",
+      "price": 1625
+    },
+    {
+      "abr": "hornedspectre",
+      "category": "Animal",
+      "defname": "HornedSpectreA",
+      "price": -10
+    },
+    {
+      "abr": "khanziosword",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Swordmastersword",
+      "price": 1000
+    },
+    {
+      "abr": "miracleseed-flameechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn1D",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-forestechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn2A",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-grasslandechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn5A",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-jadeechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn0D",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-lightningechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn3D",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-moonechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn2D",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-mountainechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn1A",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-taigaechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn0A",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-tundraechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn3A",
+      "price": 758
+    },
+    {
+      "abr": "miracleseed-wetlandechoes",
+      "category": "Miracle seeds",
+      "defname": "Heyra_Biohorn4A",
+      "price": 758
+    },
+    {
+      "abr": "rong",
+      "category": "Animal",
+      "defname": "Alien_Heyra_Rong",
+      "price": -10
+    },
+    {
+      "abr": "rongberserkerarmor",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Rong_Berserkerarmor",
+      "price": 157
+    },
+    {
+      "abr": "rongberserkerarmor",
+      "category": "Heyran Apparel",
+      "defname": "Heyra_Rong_Ulfhednararmor",
+      "price": 163
+    },
+    {
+      "abr": "rongfour-eyedmask",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Rong_MaskA",
+      "price": 80
+    },
+    {
+      "abr": "ronggreatsword",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Ronggreatblade",
+      "price": 358
+    },
+    {
+      "abr": "ronggunblade",
+      "category": "Heyran weaponry",
+      "defname": "Heyra_Gunblade",
+      "price": 1617
+    },
+    {
+      "abr": "ronglong-earedmask",
+      "category": "Heyran Headgear",
+      "defname": "Heyra_Rong_MaskB",
+      "price": 80
+    },
+    {
+      "abr": "rongmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Heyra_Rong",
+      "price": 3
+    },
+    {
+      "abr": "seedofawakening",
+      "category": "Artifacts",
+      "defname": "Heyra_Item_Activator_Thunder",
+      "price": 3333
+    },
+    {
+      "abr": "seren",
+      "category": "Animal",
+      "defname": "Seren",
+      "price": -10
+    },
+    {
+      "abr": "serenleather",
+      "category": "Leathers",
+      "defname": "SerenLeather",
+      "price": 5
+    },
+    {
+      "abr": "serenmeat",
+      "category": "Meat",
+      "defname": "Meat_Seren",
+      "price": 3
+    },
+    {
+      "abr": "stonemill",
+      "category": "Production",
+      "defname": "Heyra_Stonemill",
+      "price": 185
     }
   ],
-  "total": 2109
+  "total": 2189
 }

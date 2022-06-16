@@ -18,6 +18,18 @@
     "version": "9.0.1"
   },
   {
+    "author": "latta",
+    "name": "FSharp.Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.4.4.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -68,6 +80,12 @@
   {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
     "steamId": null,
     "version": null
   },
@@ -265,12 +283,6 @@
   },
   {
     "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "latta",
     "name": "Infusion 2",
     "steamId": null,
     "version": null
@@ -444,6 +456,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.8"
+  },
+  {
     "author": "Gouda quiche",
     "name": "MoHAR framework",
     "steamId": "2057001924",
@@ -570,8 +588,8 @@
     "version": null
   },
   {
-    "author": "VibeCheque",
-    "name": "Realistic Rooms 1.3",
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
     "steamId": null,
     "version": null
   },
@@ -690,6 +708,12 @@
     "version": "1.4.6.0"
   },
   {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.3.4"
+  },
+  {
     "author": "Sarg",
     "name": "Smart Speed",
     "steamId": "1504723424",
@@ -712,6 +736,12 @@
     "name": "Stonecutting Extended",
     "steamId": "2571676542",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Subsurface Conduit",
+    "steamId": "1609226728",
+    "version": "1.0.0.0"
   },
   {
     "author": "moronic",

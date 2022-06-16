@@ -2051,7 +2051,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "description": "Timmy's faith is firm. It allows him to withstand mentally or physically stressing situations better than most.",
       "stats": [
         "+10% pain shock threshold",
         "-15% mental break threshold"
@@ -8799,7 +8799,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
@@ -8837,7 +8837,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
@@ -9986,6 +9986,127 @@
       "enabled": true,
       "name": "Revia",
       "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.55 Move speed",
+          "+28.0C Maximum comfortable temperature",
+          "+16.0C Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+100% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+100.00% Social impact",
+          "+100% General labor speed",
+          "+100% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+6 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Heyras settled in Rimworld a long time ago. They possess a unique psychic ability to, occasionally, hear whispers in their heads. Despite these whispers being mostly scattered words, Heyras believe they are the oracles of God. We do not know if these whispers are real. But it is confirmed that Heyras have a higher psychic sensitivity than humans.",
+      "defName": "Alien_Heyra",
+      "enabled": true,
+      "name": "Heyra",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.80 Move speed",
+          "+35.0C Maximum comfortable temperature",
+          "+10.0C Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+80% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+55.00% Social impact",
+          "+80% General labor speed",
+          "+120% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+6 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "These savage barbarians are the nemesis of Heyras. They have thrown away the sense of moral and pursuit the primal pleasure. A series of evidence indicates that Rong is a separated branch of Heyra, although the Supreme Hierarch of Heyra denies this in all her strength.",
+      "defName": "Alien_Heyra_Rong",
+      "enabled": true,
+      "name": "Rong",
+      "price": 4583
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+5.50 Move speed",
+          "+150% Psychic sensitivity",
+          "+50 Leather amount",
+          "+100 Meat amount",
+          "+10.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+80% Aiming time",
+          "+2.0 Shooting accuracy",
+          "+110% Injury healing factor",
+          "+80% Plant work speed",
+          "+105% Plant harvest yield",
+          "+80% Animal gather speed",
+          "+105% Animal gather yield",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+80.00% Bond chance factor",
+          "+80% Mining speed",
+          "+105% Mining yield",
+          "+80% Construction speed",
+          "+105% Construct success chance",
+          "+125% General labor speed",
+          "+1.1 Cooking speed",
+          "+90.00% Food poison chance",
+          "+110% Drug synthesis speed",
+          "+110% Drug cooking speed",
+          "+120% Medical tend speed",
+          "+110% Medical tend quality",
+          "+120% Medical operation speed",
+          "+105% Medical surgery success chance",
+          "+60 Carrying capacity",
+          "+1.1 Melee dodge chance",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+110.00% Social impact",
+          "+70% Pain shock threshold",
+          "+40% Mental break threshold",
+          "+3 Honor value",
+          "+5.00 Neural heat recovery rate"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An alien species native to an Earth-like planet named Panastria. Their original creation myth says that they are made of stardust and fell onto Panastria, but their is no concrete evidence of this. After a failed uprising against the Empire, most are being relocated from their homeworld or imprisoned until further notice.",
+      "defName": "Seren",
+      "enabled": true,
+      "name": "seren",
+      "price": 3333
     }
   ]
 }
