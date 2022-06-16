@@ -9609,7 +9609,7 @@
       },
       "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
       "defName": "Hiver_Queen",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver queen",
       "price": 100
     },
@@ -9841,7 +9841,7 @@
       },
       "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
       "defName": "Hiver_Queen_South",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver queen",
       "price": 100
     },

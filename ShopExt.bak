@@ -10018,7 +10018,7 @@
       "defName": "Alien_Heyra",
       "enabled": true,
       "name": "Heyra",
-      "price": 4583
+      "price": 100
     },
     {
       "data": {
@@ -10051,7 +10051,7 @@
       "defName": "Alien_Heyra_Rong",
       "enabled": true,
       "name": "Rong",
-      "price": 4583
+      "price": 100
     },
     {
       "data": {
@@ -10106,7 +10106,7 @@
       "defName": "Seren",
       "enabled": true,
       "name": "seren",
-      "price": 3333
+      "price": 100
     }
   ]
 }
