@@ -3222,8 +3222,8 @@
       },
       "defName": "RT_DemoCommon",
       "name": "traitdemo:common",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -3252,8 +3252,8 @@
       },
       "defName": "RT_DemoUncommon",
       "name": "traitdemo:uncommon",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -3282,8 +3282,8 @@
       },
       "defName": "RT_DemoRare",
       "name": "traitdemo:rare",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -3312,8 +3312,8 @@
       },
       "defName": "RT_DemoEpic",
       "name": "traitdemo:epic",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -3342,8 +3342,8 @@
       },
       "defName": "RT_DemoLegendary",
       "name": "traitdemo:legendary",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -3394,7 +3394,7 @@
       },
       "defName": "RT_Gifted",
       "name": "gifted",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
@@ -3446,7 +3446,7 @@
       },
       "defName": "RT_Incompetent",
       "name": "incompetent",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
@@ -3987,9 +3987,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4052,8 +4052,8 @@
       },
       "defName": "RT_TalentBowman",
       "name": "talent:bowman",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4115,9 +4115,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4180,8 +4180,8 @@
       },
       "defName": "RT_TalentSwordsman",
       "name": "talent:swordsman",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4237,9 +4237,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4296,8 +4296,8 @@
       },
       "defName": "RT_TalentBuilder",
       "name": "talent:builder",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4353,9 +4353,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4412,8 +4412,8 @@
       },
       "defName": "RT_TalentMiner",
       "name": "talent:miner",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4468,9 +4468,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4526,8 +4526,8 @@
       },
       "defName": "RT_TalentKitchenhand",
       "name": "talent:kitchenhand",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4584,9 +4584,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4644,8 +4644,8 @@
       },
       "defName": "RT_TalentButcher",
       "name": "talent:butcher",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4700,9 +4700,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4758,8 +4758,8 @@
       },
       "defName": "RT_TalentFarmer",
       "name": "talent:farmer",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4816,9 +4816,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4876,8 +4876,8 @@
       },
       "defName": "RT_TalentHerder",
       "name": "talent:herder",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -4931,9 +4931,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -4988,8 +4988,8 @@
       },
       "defName": "RT_TalentSmith",
       "name": "talent:smith",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5043,9 +5043,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5100,8 +5100,8 @@
       },
       "defName": "RT_TalentTailor",
       "name": "talent:tailor",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5155,9 +5155,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5212,8 +5212,8 @@
       },
       "defName": "RT_TalentArtist",
       "name": "talent:artist",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5272,9 +5272,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5334,8 +5334,8 @@
       },
       "defName": "RT_TalentPhysician",
       "name": "talent:physician",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5392,9 +5392,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5452,8 +5452,8 @@
       },
       "defName": "RT_TalentTrader",
       "name": "talent:trader",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5509,9 +5509,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5568,8 +5568,8 @@
       },
       "defName": "RT_TalentScholar",
       "name": "talent:scholar",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5626,9 +5626,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5686,8 +5686,8 @@
       },
       "defName": "RT_TalentGroundskeeper",
       "name": "talent:groundskeeper",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5741,9 +5741,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5798,8 +5798,8 @@
       },
       "defName": "RT_TalentCopycat",
       "name": "talent:copycat",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5861,9 +5861,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -5926,8 +5926,8 @@
       },
       "defName": "RT_TalentWeaponsMaster",
       "name": "talent:weaponsmaster",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -5990,9 +5990,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6056,8 +6056,8 @@
       },
       "defName": "RT_TalentHunter",
       "name": "talent:hunter",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6117,9 +6117,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6180,8 +6180,8 @@
       },
       "defName": "RT_TalentEngineer",
       "name": "talent:engineer",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6241,9 +6241,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6304,8 +6304,8 @@
       },
       "defName": "RT_TalentCook",
       "name": "talent:cook",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6367,9 +6367,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6432,8 +6432,8 @@
       },
       "defName": "RT_TalentHerbalist",
       "name": "talent:herbalist",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6491,9 +6491,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6552,8 +6552,8 @@
       },
       "defName": "RT_TalentArmourer",
       "name": "talent:armourer",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6616,9 +6616,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6682,8 +6682,8 @@
       },
       "defName": "RT_TalentFletcher",
       "name": "talent:fletcher",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6745,9 +6745,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6810,8 +6810,8 @@
       },
       "defName": "RT_TalentVeterinarian",
       "name": "talent:veterinarian",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -6876,9 +6876,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -6944,8 +6944,8 @@
       },
       "defName": "RT_TalentAdventurer",
       "name": "talent:adventurer",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7008,9 +7008,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7074,8 +7074,8 @@
       },
       "defName": "RT_TalentArchitect",
       "name": "talent:architect",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7135,9 +7135,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7198,8 +7198,8 @@
       },
       "defName": "RT_TalentChef",
       "name": "talent:chef",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7259,9 +7259,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7322,8 +7322,8 @@
       },
       "defName": "RT_TalentSurgeon",
       "name": "talent:surgeon",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7383,9 +7383,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7446,8 +7446,8 @@
       },
       "defName": "RT_TalentPhilosopher",
       "name": "talent:philosopher",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7514,9 +7514,9 @@
         "talent:hero",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7584,8 +7584,8 @@
       },
       "defName": "RT_TalentScout",
       "name": "talent:scout",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7649,9 +7649,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7716,8 +7716,8 @@
       },
       "defName": "RT_TalentRecruiter",
       "name": "talent:recruiter",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7774,9 +7774,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7834,8 +7834,8 @@
       },
       "defName": "RT_TalentJackOfAllTrades",
       "name": "talent:jack-of-all-trades",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -7900,9 +7900,9 @@
         "talent:herald",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -7968,8 +7968,8 @@
       },
       "defName": "RT_TalentHero",
       "name": "talent:hero",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -8035,9 +8035,9 @@
         "talent:hero",
         "notalent"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -8104,8 +8104,8 @@
       },
       "defName": "RT_TalentHerald",
       "name": "talent:herald",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -8157,9 +8157,9 @@
         "talent:hero",
         "talent:herald"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimTraits - Medieval Talents",
@@ -8212,10 +8212,40 @@
       },
       "defName": "RT_TalentNoTalent",
       "name": "notalent",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has the ability to rebound projectiles.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rebound (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ProjectileInversion_Trait",
+      "name": "masterofblade",
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     }
   ],
@@ -9195,371 +9225,6 @@
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid ruled by a hive mind.",
-      "defName": "Kenshi_Hiver_Prince",
-      "enabled": true,
-      "name": "hive prince",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid ruled by a hive mind.",
-      "defName": "Kenshi_Hiver_Soldier",
-      "enabled": true,
-      "name": "hive soldier drone",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid ruled by a hive mind.",
-      "defName": "Kenshi_Hiver_Worker",
-      "enabled": true,
-      "name": "hive worker drone",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid ruled by a hive mind.",
-      "defName": "Kenshi_Hiver_Prince_Southern",
-      "enabled": true,
-      "name": "southern hive prince",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid ruled by a hive mind.",
-      "defName": "Kenshi_Hiver_Soldier_Southern",
-      "enabled": true,
-      "name": "southern hive soldier drone",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid ruled by a hive mind.",
-      "defName": "Kenshi_Hiver_Worker_Southern",
-      "enabled": true,
-      "name": "southern hive worker drone",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid driven mad by a parasite.",
-      "defName": "Kenshi_Fogman_Soldier",
-      "enabled": true,
-      "name": "fogman soldier",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+80.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid driven mad by a parasite.",
-      "defName": "Kenshi_Fogman_Worker",
-      "enabled": true,
-      "name": "fogman",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+5% Mental break threshold",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+10.00% Social impact",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+100% Construction speed",
-          "+10.0% Armor - Blunt",
-          "+15.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A stick-like humanoid driven mad by a parasite.",
-      "defName": "Kenshi_Fogman_Prince",
-      "enabled": true,
-      "name": "fogman prince",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "+12.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+30 Leather amount",
-          "+$1000 Market value",
-          "+3.00 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+80% Research speed",
-          "+80% Mining speed",
-          "+80.00% Social impact",
-          "+80% Plant work speed",
-          "+100% Plant harvest yield",
-          "+80% Construction speed",
-          "+15.0% Armor - Blunt",
-          "+20.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A horned humanoid race.",
-      "defName": "Kenshi_Shek",
-      "enabled": true,
-      "name": "shek",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+100% Psychic sensitivity",
-          "+100% Toxic sensitivity",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+$1500 Market value",
-          "+4.61 Move speed",
-          "+75 Carrying capacity",
-          "+1% Mental break threshold",
-          "+125% Research speed",
-          "+50% Mining speed",
-          "+70.00% Social impact",
-          "+50% Plant work speed",
-          "+100% Plant harvest yield",
-          "+125% Construction speed",
-          "+20.0% Armor - Blunt",
-          "+25.0% Armor - Sharp",
-          "+300% Immunity gain speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A race of ancient bipedal robots.",
-      "defName": "Kenshi_Skeleton",
-      "enabled": true,
-      "name": "skeleton",
-      "price": 100
-    },
-    {
-      "data": {
-        "stats": [
           "+42.00 Mass",
           "+100% Flammability",
           "+45 Carrying capacity",
@@ -10107,6 +9772,106 @@
       "enabled": true,
       "name": "seren",
       "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+85% Flammability",
+          "+80% Psychic sensitivity",
+          "+100% Toxic sensitivity",
+          "+19.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+0.8 Melee dodge chance",
+          "+$1500 Market value",
+          "+4.30 Move speed",
+          "+85 Carrying capacity",
+          "+30% Mental break threshold",
+          "+80% Research speed",
+          "+100% Mining speed",
+          "+80.00% Social impact",
+          "+80% Plant work speed",
+          "+100% Plant harvest yield",
+          "+100% Construction speed",
+          "+20.0% Armor - Blunt",
+          "+30.0% Armor - Sharp"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline shek; they are a closely related subrace of humans, thought to have been either engineered for combat, experiments, or policing in outer-rim planets - sporting large horns from their heads, and bone plating on their chest and limbs; the latter of which aids them with protection. They have a natural predisposition to aggression, and in their society which is centered around warfare and honor, the cowards and dishonored will be branded by having their horns sawed off. Shek culture is often seen as \"barbaric\" to outsiders and as such shek-people are usually stigmatized by humans as being mindless brutes.",
+      "defName": "Shek_",
+      "enabled": true,
+      "name": "shek",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+99900% Immunity gain speed",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+5 Honor value",
+          "+0.5 Melee dodge chance",
+          "+$4500 Market value",
+          "+4.25 Move speed",
+          "+85 Carrying capacity",
+          "+20% Mental break threshold",
+          "+50% Pain shock threshold",
+          "+130% Research speed",
+          "+90% Mining speed",
+          "+50.00% Social impact",
+          "+50% Plant work speed",
+          "+70% Plant harvest yield",
+          "+100% Construction speed",
+          "+12.0% Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona. They have no fear of prejudice or fear of death - and are usually levelheaded thinkers.\n\nBeing mechanical in nature - 'skeletons' do not need to rest or eat. Their mechanical bodies however do not make them invulnerable to \"pain\" signals, chemical reactions, or psychic engines. Furthermore, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic of their future.",
+      "defName": "Skeleton_",
+      "enabled": true,
+      "name": "skeleton",
+      "price": 7500
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+100% Flammability",
+          "-60.0C Minimum comfortable temperature",
+          "+200.0C Maximum comfortable temperature",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+0 Meat amount",
+          "+0 Leather amount",
+          "+0 Carrying capacity",
+          "+0.00% Social impact",
+          "+0.0% Armor - Blunt",
+          "+0.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A zombie",
+      "defName": "Zombie",
+      "enabled": false,
+      "name": "Zombie",
+      "price": 1
     }
   ]
 }
