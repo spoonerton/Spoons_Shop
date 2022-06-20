@@ -501,7 +501,7 @@
     "author": "Nemonian",
     "name": "Moyo-From the depth",
     "steamId": "2182305386",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   {
     "author": "Nemonian",
@@ -597,7 +597,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8182.38322"
+    "version": "1.0.8204.32145"
   },
   {
     "author": "Sandy",
@@ -658,12 +658,6 @@
     "name": "Revia Race",
     "steamId": "2020041005",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "VexedTrees",
-    "name": "Rim-Hivers!",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "VexedTrees",
@@ -754,6 +748,18 @@
     "name": "Smart Speed",
     "steamId": "1504723424",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "VexedTrees",
+    "name": "Rim-Hivers!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spoon",
+    "name": "Spoon Tweaks",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Spoonshortage",
@@ -1046,12 +1052,6 @@
   {
     "author": "Telkir",
     "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spoon",
-    "name": "Spoon Tweaks",
     "steamId": null,
     "version": null
   },

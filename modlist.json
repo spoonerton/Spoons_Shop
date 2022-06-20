@@ -168,6 +168,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "tikubonn",
+    "name": "DontBlockDoor",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -340,6 +346,12 @@
     "name": "Doors Expanded",
     "steamId": "1316188771",
     "version": "1.4.0.2"
+  },
+  {
+    "author": "krkr",
+    "name": "Locks 2: Lock Them Out!",
+    "steamId": "2285862824",
+    "version": "1.0.0"
   },
   {
     "author": "Jecrell",
@@ -636,6 +648,12 @@
     "version": "2.0.1.0"
   },
   {
+    "author": "kathanon",
+    "name": "Repair in the Zone",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -829,6 +847,18 @@
   },
   {
     "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.0.5"
@@ -838,6 +868,12 @@
     "name": "Trader ships",
     "steamId": "2046222331",
     "version": "1.0.350.0854"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "Imranfish",
@@ -1041,6 +1077,12 @@
     "author": "LimeTreeSnake",
     "name": "[LTS]Maintenance",
     "steamId": "2803673873",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Seamless Embrasures",
+    "steamId": "2290689449",
     "version": "1.0.0.0"
   },
   {
