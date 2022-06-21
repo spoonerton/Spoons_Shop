@@ -29500,7 +29500,7 @@
     "KarmaType": null
   },
   "MMr_crossbow_heavy": {
-    "CustomName": null,
+    "CustomName": "heavycrossbowmm",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,

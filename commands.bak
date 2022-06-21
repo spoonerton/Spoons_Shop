@@ -1096,5 +1096,23 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitRaids"
+    },
+    "description": null,
+    "name": "joinraid",
+    "usage": "!joinraid",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "JoinRaid"
   }
 ]
