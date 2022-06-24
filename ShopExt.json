@@ -8226,9 +8226,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Rebound (Continued)",
@@ -9819,11 +9819,11 @@
           "+99900% Immunity gain speed",
           "+0 Meat amount",
           "+0 Leather amount",
-          "+5 Honor value",
+          "+7 Honor value",
           "+0.5 Melee dodge chance",
-          "+$4500 Market value",
+          "+$5800 Market value",
           "+4.25 Move speed",
-          "+85 Carrying capacity",
+          "+90 Carrying capacity",
           "+20% Mental break threshold",
           "+50% Pain shock threshold",
           "+130% Research speed",
@@ -9840,11 +9840,34 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona. They have no fear of prejudice or fear of death - and are usually levelheaded thinkers.\n\nBeing mechanical in nature - 'skeletons' do not need to rest or eat. Their mechanical bodies however do not make them invulnerable to \"pain\" signals, chemical reactions, or psychic engines. Furthermore, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic of their future.",
+      "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona.\n\nBeing mechanical in nature - 'skeletons' do not need to rest or eat. However, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic.",
       "defName": "Skeleton_",
       "enabled": true,
       "name": "skeleton",
       "price": 7500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
+      "defName": "SoSHologramRace",
+      "enabled": true,
+      "name": "hologram",
+      "price": 1
     }
   ]
 }

@@ -258,12 +258,6 @@
     "version": "1.0.350.0854"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Guards For Me",
-    "steamId": "1855885448",
-    "version": "3.0.6.0"
-  },
-  {
     "author": "Gouda quiche",
     "name": "MoHAR framework",
     "steamId": "2057001924",
@@ -597,7 +591,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8204.32145"
+    "version": "1.0.8207.29498"
   },
   {
     "author": "Sandy",
@@ -849,7 +843,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "AUTOMATIC",
@@ -1072,5 +1066,17 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrGlasses",
+    "name": "SRTS Landing Zone for SOS2",
+    "steamId": null,
+    "version": null
   }
 ]

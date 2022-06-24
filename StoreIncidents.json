@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -306,8 +306,13 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveall",
+		"price": 10000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "reviveme",
-		"price": 5000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +347,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2000,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -386,5 +391,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 78
 }
