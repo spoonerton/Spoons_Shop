@@ -222,7 +222,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -301,11 +301,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "rescueme",
 		"price": 1200,
 		"karmatype": "Neutral"
@@ -319,11 +314,6 @@
 		"abr": "passion",
 		"price": 1000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
@@ -356,5 +346,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 71
+	"total": 69
 }

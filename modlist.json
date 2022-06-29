@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -16,6 +16,12 @@
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.1"
+  },
+  {
+    "author": "Luca De Petrillo",
+    "name": "(NWN) Real Fog of War",
+    "steamId": "2560931731",
+    "version": "1.1.8.1"
   },
   {
     "author": "UnlimitedHugs",
@@ -170,6 +176,12 @@
   {
     "author": "dracoix",
     "name": "Door Mat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wolfcub05",
+    "name": "Draftable Animals",
     "steamId": null,
     "version": null
   },
