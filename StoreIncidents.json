@@ -201,6 +201,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -222,7 +227,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -277,7 +282,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 1200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -298,6 +303,11 @@
 	{
 		"abr": "surgery",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -346,5 +356,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 69
+	"total": 71
 }

@@ -3275,7 +3275,7 @@
       "defName": "RT_Gifted",
       "name": "gifted",
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -3327,7 +3327,7 @@
       "defName": "RT_Incompetent",
       "name": "incompetent",
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 0
@@ -8165,6 +8165,36 @@
       "addPrice": 500,
       "removePrice": 500,
       "degree": 2
+    },
+    {
+      "description": "Timmy is crude with violent impulses and bad at socializing, with tendency of getting into fights.",
+      "stats": [
+        "-10% global work speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Warhammer: Zhthy'hl",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-10% global work speed"
+        ]
+      },
+      "defName": "ZhthyhlRace",
+      "name": "hotblooded",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 500,
+      "removePrice": 500,
+      "degree": 0
     }
   ],
   "races": [
@@ -9762,6 +9792,456 @@
       "defName": "Seren",
       "enabled": true,
       "name": "seren",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Highlander name comes from the clan's history of dominion over the mountains of Gyr Abania. Compared to their Midlander brethren, the Highlanders are noticeably larger in build and musculature. Following the fall of their ancestral homeland of Ala Mhigo, many have sought refuge in the bustling mercantile nation of Ul'dah.",
+      "defName": "ARR_HyurHighlander",
+      "enabled": true,
+      "name": "highlander-hyur",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Midlander clan comprises over half of Eorzea's total Hyur population. The name derives from the clan's long tradition of settling in low-lying regions, though in truth Midlander lines hail from a wide variety of ancestral homelands. They have established themselves in every city throughout the realm, and can be observed leading lives as diverse as their heritage.",
+      "defName": "ARR_HyurMidlander",
+      "enabled": true,
+      "name": "midlander-hyur",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.40 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Dunesfolk can be found on the scorching sands of Thanalan and other such arid areas. As the founders of the merchant city of Ul'dah, they are famous for their obsession with commerce. A natural inclination to transform ideas into action has served the Dunesfolk well in their business dealings.",
+      "defName": "ARR_LalafellDunesfolk",
+      "enabled": true,
+      "name": "dunes-lalafell",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.40 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Plant work speed",
+          "+110% Plant harvest yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Plainsfolk have settled in La Noscea and other regions where the ground is flat and easily cultivated. Though many live the life of farmers, it is not uncommon to see Plainsfolk residing in Limsa Lominsa, holding positions in the navy or working in the fisheries. They are well known for their relaxed and carefree demeanor.",
+      "defName": "ARR_LalafellPlainsfolk",
+      "enabled": true,
+      "name": "plains-lalafell",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+105% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe nocturnal among the Miqo'te have dubbed themselves the Keepers of the Moon. Shying from the garish light of day, they revel in the shroud of night, with most offering their piety to Menphina the Lover, goddess of the moon. Their tradition of hunting in the thick woodlands of the Black Shroud have for years thrown them into conflict with the forestfolk of Gridania, who condemn them as poachers. Of late, however, many Keepers of the Moon have found some small peace with the Gridanians, and taken to living within the city.",
+      "defName": "ARR_MiqoteKeeper",
+      "enabled": true,
+      "name": "nocturnalmiqo'te",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+105% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe self-proclaimed Seekers of the Sun are the diurnal clan of the Miqo'te race. Their preference for the warm light of day pervades all aspects of their culture, as is apparent in their devout reverence for Azeyma the Warden, goddess of the sun. Though relatively few in Eorzea, a small number of them have been accepted into everyday life by the other races in the port city of Limsa Lominsa. Others are known to make their home in the region of the Sagolii Desert.",
+      "defName": "ARR_MiqoteSeeker",
+      "enabled": true,
+      "name": "diurnalmiqo'te",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee hit chance",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nViera of the Rava clan live primarily in the Golmore Jungle, their umber skin allowing them to readily blend in with their surroundings. Though the males stand as wards of the forest, the females are adept hunters in their own right, fiercely guarding their homes and their young. Despite attempts by the Dalmascans to subjugate them, they have ever maintained a self-governing dominion. Though most would adhere to the traditions of the wood, some few have chosen to venture out into the world.",
+      "defName": "ARR_VieraRava",
+      "enabled": true,
+      "name": "rava-viera",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee hit chance",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nWith skin as fair as the snowcapped mountains towering above, the Veena clan make their homes in the forests lining the southwestern foothills of the Skatay Range. Like the members of their sister clan, the Veena live as hunters and gatherers, laboring not only to protect the woods, but to nurture them. As the winds of war swept up a number of those who left their mountain homes, many such hardened hunters chose to set out for the distant shores of Eorzea.",
+      "defName": "ARR_VieraVeena",
+      "enabled": true,
+      "name": "veena-viera",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+150% Psychic sensitivity",
+          "+140% Pain shock threshold",
+          "+200% Immunity gain speed",
+          "+50% Global learning factor",
+          "+150% Toxic sensitivity",
+          "+$2000 Market value",
+          "+4.90 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+160.00% Social impact",
+          "+1.5 Melee dodge chance",
+          "+35.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A cold hearted creature, embodying the wilds. They have a alluring speech and their branches constantly shifts. They eat rarely but when they do, they eat meat.",
+      "defName": "Alien_Dryad",
+      "enabled": true,
+      "name": "dryad",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+175% Flammability",
+          "+150% Psychic sensitivity",
+          "+140% Pain shock threshold",
+          "+200% Immunity gain speed",
+          "+50% Global learning factor",
+          "+150% Toxic sensitivity",
+          "+$2000 Market value",
+          "+4.90 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+100% Research speed",
+          "+75% Mining speed",
+          "+50.00% Social impact",
+          "+1.5 Melee dodge chance",
+          "+35.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Dryads, the spiteful protectors of the forest. A truer form of the cold hearted wraiths of Athel Loren.",
+      "defName": "Alien_DryadWild",
+      "enabled": true,
+      "name": "wild dryad",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.40 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Global learning factor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The heruan are a race of genetically modified xenohumans hailing from a remote glitterworld established during the First Wave of Exploration. Direct descendents of the people of Old Earth, the heruan people sent forth the Triune Expedition Fleets in the wake of the fall of Old Earth and the collapse of the Origin Systems, their mission to catalogue and preserve the breadth of humanity in order to keep their memories alive for posterity.\n\nHeruan society is centered around the Triune castes of Sun, Moon, and Star. These are not hereditary castes but ones adopted in adulthood; heruan adolescents are expected to aspire to and train themselves for future inclusion into a caste.\n\nHeruan are sleek and nimble with powerful legs. They are swift on foot and their powerful talons can be dangerous in a fight, but their relative frailty makes them poor combatants overall. Heruan are naturally inquisitive and eager to learn about unfamiliar people and cultures, preferring intellectual and creative pursuits over the prosecution of war. However, they understand that sometimes the only way to preserve the memory of others is to defend oneself against those who would destroy them.",
+      "defName": "Aelanna_Heruan",
+      "enabled": true,
+      "name": "heruan",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$2800 Market value",
+          "+4.40 Move speed",
+          "+11.0C Minimum comfortable temperature",
+          "+31.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+2 Honor value",
+          "+25% Mental break threshold",
+          "+90% Psychic sensitivity",
+          "+85% Toxic sensitivity",
+          "+130% Immunity gain speed",
+          "+125 Carrying capacity",
+          "+85% Pain shock threshold",
+          "+65 Meat amount",
+          "+75% Incoming damage multiplier",
+          "+125% Mining speed",
+          "+125% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Homo Sapien Pumilionis. A baseline dwarf. Their stature belies their physical prowess. Surprisingly hardy against enviromental and recreational toxins.",
+      "defName": "DwarfRace",
+      "enabled": true,
+      "name": "shadowrim-dwarf",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$3500 Market value",
+          "+4.70 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+3 Honor value",
+          "+150.00% Negotiation ability",
+          "+150.00% Trade price improvement",
+          "+150.00% Social impact",
+          "+125% Animal gather speed",
+          "+125% Plant work speed",
+          "+125% Hunting stealth",
+          "+125% Medical tend speed",
+          "+125% Medical operation speed",
+          "+1.3 Cooking speed",
+          "+125% Drug cooking speed",
+          "+125% Butchery speed",
+          "+125% Mechanoid shredding speed",
+          "+95% Trap spring chance",
+          "+80 Meat amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": true
+      },
+      "description": "Homo Sapien Nobilis. A baseline elf. Their grace and delicate features make them highly sought after entertainers.",
+      "defName": "ElfRace",
+      "enabled": true,
+      "name": "shadowrim-elf",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+115.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+2 Honor value",
+          "+100 Meat amount",
+          "+90% Toxic sensitivity",
+          "+130% Immunity gain speed",
+          "+130 Carrying capacity",
+          "+50% Incoming damage multiplier",
+          "+125% Mining speed",
+          "+125% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Robustus. A baseline ork. Noted for their strength, physical durability and short lives",
+      "defName": "OrcRace",
+      "enabled": true,
+      "name": "orc",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+300.00 Mass",
+          "+70% Flammability",
+          "+$4800 Market value",
+          "+4.40 Move speed",
+          "+1.0C Minimum comfortable temperature",
+          "+41.0C Maximum comfortable temperature",
+          "+70 Leather amount",
+          "+2 Honor value",
+          "+85% Toxic sensitivity",
+          "+90% Rest rate multiplier",
+          "+150% Immunity gain speed",
+          "+175 Carrying capacity",
+          "+70.00% Negotiation ability",
+          "+70.00% Arrest success chance",
+          "+70.00% Trade price improvement",
+          "+40% Incoming damage multiplier",
+          "+150% Mining speed",
+          "+150% Construction speed",
+          "+130 Meat amount",
+          "+130% Hunger rate multiplier",
+          "+90% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Ingentis. A baseline troll. Their overbearing physical might makes them quite popular heroes among mercenary groups, though their calorie intake and size make logistics an issue.",
+      "defName": "TrollRace",
+      "enabled": true,
+      "name": "troll",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+25% Flammability",
+          "+110% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+110% Immunity gain speed",
+          "+50% Global learning factor",
+          "+80% Toxic sensitivity",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+70% Smoothing speed",
+          "+70% Construction speed",
+          "+30% Research speed",
+          "+100% Mining speed",
+          "+60.00% Social impact",
+          "+1.0 Melee dodge chance",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+40.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Zhthy'hl a lesser daemon. They have a skeletal frame with blackened skin drawn tightly to it's bones. Despite their frail apparence, they are quite strong.",
+      "defName": "Alien_Zhthyhl",
+      "enabled": true,
+      "name": "Zhthy'hl",
       "price": 100
     }
   ]

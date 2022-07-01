@@ -155,11 +155,11 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Karma explanation",
-    "usage": "!whatiskarma",
+    "name": "Purchase list",
+    "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "WhatIsKarma"
+    "defName": "PurchaseList"
   },
   {
     "data": {
@@ -172,12 +172,12 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Purchase list",
-    "usage": "!purchaselist",
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "PurchaseList"
+    "defName": "GiftCoins"
   },
   {
     "data": {
@@ -196,24 +196,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Mod info",
-    "usage": "!modinfo",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "ModInfo"
   },
   {
     "data": {
@@ -281,47 +263,11 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Instructions",
-    "usage": "!instructions",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Instructions"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
     "name": "All commands",
     "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AvailableCommands"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "InstalledMods"
   },
   {
     "data": {
@@ -748,24 +694,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Shows your pawn's work priorities.",
-    "name": "Viewer work",
-    "usage": "!mypawnwork [worktype=priority] [...]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnWork"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
@@ -826,24 +754,6 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "FixAllPawns"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn leave the colony.",
-    "name": "Abandon pawn",
-    "usage": "!leave",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbandonPawn"
   },
   {
     "data": {
@@ -1132,23 +1042,5 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinRaid"
   }
 ]
