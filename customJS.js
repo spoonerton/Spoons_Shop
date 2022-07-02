@@ -3,6 +3,8 @@ const eventListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/m
 const shopExtURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/ShopExt.json";
 const modListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/modlist.json";
 const commandListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/commands.json";
+const itemdataURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/itemdata.json";
+var catagoryList = [];
 
 //tooltipJS
 $(document).ready(function(){
@@ -13,6 +15,23 @@ $(document).ready(function(){
         trigger: 'click'
     });
   });
+
+  //Unique Filter Function
+  function onlyUnique(value, index, self) {
+    return self.indexOf(value) === index;
+  }
+
+//itemdata
+var itemdataArray = [];
+$.getJSON(itemdataURL, function(data) {
+
+    //var dataConstruction = [];
+    $.each(data, function(index, value) {
+        itemdataArray.push(value)
+    });
+});
+
+console.table(itemdataArray);
 
 //itemslist
 let itemList = null;
@@ -27,6 +46,10 @@ $.getJSON(itemListURL, function(data) {
         if (value["price"] > 0) {
             itemData.push(value);
         }
+        //Push Unique Categories into List
+/*         if (catagoryList.indexOf(value["category"]) == -1){
+        catagoryList.push(value["category"]);
+        } */
     });
 
     if (itemData.length == 0){
@@ -34,10 +57,8 @@ $.getJSON(itemListURL, function(data) {
         $("#items").children().hide();
     }
     itemList = new List('items', options, itemData);
+    //console.log(catagoryList);
 });
-
-//itemlistagain
-console.log(itemList);
 
 //eventlist
 let eventList = null;
@@ -70,16 +91,23 @@ $.getJSON(shopExtURL, function(data) {
 
 //TraitList
     var items = '';
-    $.each(data.traits, function(index, val){
-        if (val.canAdd == true){        
+    $.each(data.traits, function(index, val){       
             items += '<tr>';
-            items += '<td class="name"><b>' + val.name + '</b></br><small>' + val.description + '</small></td>';
+            items += '<td class="name"><b>' + val.name + '</b></br><small>' + val.description;
+            if (val.bypassLimit == true){
+                items += '</br><b><i>Bypasses Limit</i><b>'
+            }
+            items += '</small></td>';
             items += '<td class="stats">' + val.stats + '</td>';
             items += '<td class="mod">' + val.data.mod + '</td>';
-            items += '<td class="addPrice">' + val.addPrice + '</td>';
-            items += '<td class="removePrice">' + val.removePrice + '</td>';
+            if (val.canAdd == true){
+            items += '<td class="addPrice">' + val.addPrice + '</td>'
+            } else {items += '<td style="color:#900C3F" class="addPrice"> N/A </td>'}
+            if (val.canRemove == true){
+            items += '<td class="removePrice">' + val.removePrice + '</td>'
+            } else {items += '<td style="color:#900C3F" class="removePrice"> N/A </td>'}
             items += '</tr>';
-        }        
+
     })
     $('#traitstable').append(items);
  
