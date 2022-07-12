@@ -4840,7 +4840,7 @@
       "abr": "dwarfdouble-beardedaxe",
       "category": "Melee weapons",
       "defname": "LotRD_MeleeWeapon_AxeWarGimli",
-      "price": -10
+      "price": 775
     },
     {
       "abr": "dwarfhornbow",
@@ -11683,102 +11683,6 @@
       "price": -10
     },
     {
-      "abr": "assemblypack",
-      "category": "Advanced mechanoid parts",
-      "defname": "AMW_MechanitePack",
-      "price": 42
-    },
-    {
-      "abr": "advancedmechanoidplating",
-      "category": "Advanced mechanoid parts",
-      "defname": "AMW_MechanoidPlates",
-      "price": 25
-    },
-    {
-      "abr": "powercoreparts",
-      "category": "Advanced mechanoid parts",
-      "defname": "AMW_MechanoidCores",
-      "price": 67
-    },
-    {
-      "abr": "advancedcomponentscraps",
-      "category": "Advanced mechanoid parts",
-      "defname": "AMW_MechanoidComponents",
-      "price": 12
-    },
-    {
-      "abr": "intactmechanites",
-      "category": "Advanced mechanoid parts",
-      "defname": "AMW_MechanoidMechanites",
-      "price": 9
-    },
-    {
-      "abr": "antigrainfragments",
-      "category": "Advanced mechanoid parts",
-      "defname": "AMW_AntigranFragments",
-      "price": 417
-    },
-    {
-      "abr": "salvagednomadrifle",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_SNomadRifle",
-      "price": 3750
-    },
-    {
-      "abr": "ionpistol",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_IonPistol",
-      "price": 3750
-    },
-    {
-      "abr": "salvagedshreder",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_SShreder",
-      "price": 5417
-    },
-    {
-      "abr": "mechanoidsmg",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_SMG",
-      "price": 4583
-    },
-    {
-      "abr": "slugrifle",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_SlugRifle",
-      "price": 5417
-    },
-    {
-      "abr": "salvagedstalkersrifle",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_SStalkerRifle",
-      "price": 4417
-    },
-    {
-      "abr": "gausscannon",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_GaussCannon",
-      "price": 7083
-    },
-    {
-      "abr": "heavyrifle",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_HeavyRifle",
-      "price": 5417
-    },
-    {
-      "abr": "salvagedchargecannon",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_SChargeCannonAWM",
-      "price": 5833
-    },
-    {
-      "abr": "grenadeshotgun",
-      "category": "Ranged weapons",
-      "defname": "AMW_Gun_GrenadeShotgun",
-      "price": 5833
-    },
-    {
       "abr": "alpacameat",
       "category": "Meat",
       "defname": "Meat_Alpaca",
@@ -13711,12 +13615,6 @@
       "price": 3
     },
     {
-      "abr": "powerclaw",
-      "category": "Melee weapons",
-      "defname": "AMW_MechaWeapon_PowerClaw",
-      "price": 4750
-    },
-    {
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
@@ -14081,12 +13979,6 @@
       "category": "Furniture",
       "defname": "LWM_Safe",
       "price": 1017
-    },
-    {
-      "abr": "salvagedenergyblade",
-      "category": "Melee weapons",
-      "defname": "AMW_MechaWeapon_SSeekerKatana",
-      "price": 3083
     },
     {
       "abr": "sandlion",
@@ -16198,7 +16090,7 @@
       "abr": "willowdryad",
       "category": "Animal",
       "defname": "DryadWillowAspect",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "windcrystal",
@@ -16235,7 +16127,223 @@
       "category": "Artifacts",
       "defname": "ZhthyhlSkull",
       "price": 1167
+    },
+    {
+      "abr": "ceilingsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_UnderRoof",
+      "price": 251
+    },
+    {
+      "abr": "chthonianchitin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Chthonian",
+      "price": 13
+    },
+    {
+      "abr": "chthonianstrips",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ChthonianMeat",
+      "price": 3
+    },
+    {
+      "abr": "cthulhidmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_CthulhidMeat",
+      "price": 2
+    },
+    {
+      "abr": "darkyoungmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DarkYoungMeat",
+      "price": 2
+    },
+    {
+      "abr": "darkyoungsap",
+      "category": "Animal products",
+      "defname": "ROM_DarkYoungSap",
+      "price": 5
+    },
+    {
+      "abr": "dark-youngbark",
+      "category": "Leathers",
+      "defname": "CH_Leather_DarkYoung",
+      "price": 12
+    },
+    {
+      "abr": "deeponemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DeepOneMeat",
+      "price": 2
+    },
+    {
+      "abr": "deephide",
+      "category": "Leathers",
+      "defname": "CH_Leather_DeepOne",
+      "price": 12
+    },
+    {
+      "abr": "groundsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Ground",
+      "price": 267
+    },
+    {
+      "abr": "inspectorchicken",
+      "category": "Security",
+      "defname": "InspectorChicken",
+      "price": 102
+    },
+    {
+      "abr": "inspectorhare",
+      "category": "Security",
+      "defname": "InspectorHare",
+      "price": 102
+    },
+    {
+      "abr": "inspectormonkey",
+      "category": "Security",
+      "defname": "InspectorMonkey",
+      "price": 102
+    },
+    {
+      "abr": "inspectorrat",
+      "category": "Security",
+      "defname": "InspectorRat",
+      "price": 102
+    },
+    {
+      "abr": "inspectorsquirrel",
+      "category": "Security",
+      "defname": "InspectorSquirrel",
+      "price": 102
+    },
+    {
+      "abr": "largesecuritybell",
+      "category": "Security",
+      "defname": "SecurityBell",
+      "price": 33
+    },
+    {
+      "abr": "migomatter",
+      "category": "Leathers",
+      "defname": "CH_Leather_MiGo",
+      "price": 3
+    },
+    {
+      "abr": "migomeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_MiGoMeat",
+      "price": 2
+    },
+    {
+      "abr": "queen",
+      "category": "Animals",
+      "defname": "BI_Queen",
+      "price": 4167
+    },
+    {
+      "abr": "rhombohedralenergyweapon",
+      "category": "Ranged weapons",
+      "defname": "ROM_MiGoCastingWeapon",
+      "price": 417
+    },
+    {
+      "abr": "selfsustainedsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Solar",
+      "price": 408
+    },
+    {
+      "abr": "shoggothmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ShoggothMeat",
+      "price": 2
+    },
+    {
+      "abr": "smallsecuritybell",
+      "category": "Security",
+      "defname": "SecurityBellSmall",
+      "price": 18
+    },
+    {
+      "abr": "starvampiremeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_StarVampireMeat",
+      "price": 2
+    },
+    {
+      "abr": "star-spawnskin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Cthulhid",
+      "price": 6
+    },
+    {
+      "abr": "star-vampireleather",
+      "category": "Leathers",
+      "defname": "CH_Leather_StarVampire",
+      "price": 8
+    },
+    {
+      "abr": "strangefinemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealFine",
+      "price": 47
+    },
+    {
+      "abr": "strangekibble",
+      "category": "Foods",
+      "defname": "ROM_StrangeKibble",
+      "price": 2
+    },
+    {
+      "abr": "strangelavishmeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealLavish",
+      "price": 67
+    },
+    {
+      "abr": "strangesimplemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealSimple",
+      "price": 42
+    },
+    {
+      "abr": "surveillancecamerainabush",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Bush",
+      "price": 333
+    },
+    {
+      "abr": "surveillancecamerainadeadbush",
+      "category": "Security",
+      "defname": "SurveillanceCamera_DeadBush",
+      "price": 333
+    },
+    {
+      "abr": "surveillancecamerapost",
+      "category": "Security",
+      "defname": "SurveillanceCamera_High",
+      "price": 700
+    },
+    {
+      "abr": "untouchablemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_Meat",
+      "price": 2
+    },
+    {
+      "abr": "wallmountedsurveillancecamera",
+      "category": "Security",
+      "defname": "SurveillanceCamera_Mounted",
+      "price": 182
+    },
+    {
+      "abr": "watchtelescope",
+      "category": "Security",
+      "defname": "WatchTelescope",
+      "price": 261
     }
   ],
-  "total": 2706
+  "total": 2724
 }
