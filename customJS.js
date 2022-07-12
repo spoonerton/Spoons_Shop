@@ -5,7 +5,7 @@ const modListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/mai
 const commandListURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/commands.json";
 const itemdataURL = "https://raw.githubusercontent.com/spoonerton/Spoons_Shop/main/itemdata.json";
 var catagoryList = [];
-//update
+
 //tooltipJS
 $(document).ready(function(){
     $("body").tooltip({
