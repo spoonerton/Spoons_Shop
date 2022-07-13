@@ -834,12 +834,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "avilmask",
-    "name": "Research Whatever",
-    "steamId": "2552092060",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -1096,6 +1090,18 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.0.7"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.9"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
   },
   {
     "author": "AUTOMATIC",

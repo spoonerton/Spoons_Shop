@@ -8160,8 +8160,8 @@
       },
       "defName": "SupremeMelee_QuickReflexes",
       "name": "transcendentreflexes",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 500,
       "removePrice": 500,
       "degree": 2
@@ -8192,8 +8192,8 @@
       "name": "hotblooded",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "degree": 0
     }
   ],
@@ -9808,13 +9808,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Highlander name comes from the clan's history of dominion over the mountains of Gyr Abania. Compared to their Midlander brethren, the Highlanders are noticeably larger in build and musculature. Following the fall of their ancestral homeland of Ala Mhigo, many have sought refuge in the bustling mercantile nation of Ul'dah.",
       "defName": "ARR_HyurHighlander",
       "enabled": true,
-      "name": "Hyur",
-      "price": 2917
+      "name": "highlander-hyur",
+      "price": 100
     },
     {
       "data": {
@@ -9830,13 +9830,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Midlander clan comprises over half of Eorzea's total Hyur population. The name derives from the clan's long tradition of settling in low-lying regions, though in truth Midlander lines hail from a wide variety of ancestral homelands. They have established themselves in every city throughout the realm, and can be observed leading lives as diverse as their heritage.",
       "defName": "ARR_HyurMidlander",
       "enabled": true,
-      "name": "Hyur",
-      "price": 2917
+      "name": "midlander-hyur",
+      "price": 100
     },
     {
       "data": {
@@ -9854,13 +9854,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Dunesfolk can be found on the scorching sands of Thanalan and other such arid areas. As the founders of the merchant city of Ul'dah, they are famous for their obsession with commerce. A natural inclination to transform ideas into action has served the Dunesfolk well in their business dealings.",
       "defName": "ARR_LalafellDunesfolk",
       "enabled": true,
-      "name": "Lalafell",
-      "price": 2917
+      "name": "dunes-lalafell",
+      "price": 100
     },
     {
       "data": {
@@ -9878,13 +9878,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Plainsfolk have settled in La Noscea and other regions where the ground is flat and easily cultivated. Though many live the life of farmers, it is not uncommon to see Plainsfolk residing in Limsa Lominsa, holding positions in the navy or working in the fisheries. They are well known for their relaxed and carefree demeanor.",
       "defName": "ARR_LalafellPlainsfolk",
       "enabled": true,
-      "name": "Lalafell",
-      "price": 2917
+      "name": "plains-lalafell",
+      "price": 100
     },
     {
       "data": {
@@ -9902,13 +9902,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe nocturnal among the Miqo'te have dubbed themselves the Keepers of the Moon. Shying from the garish light of day, they revel in the shroud of night, with most offering their piety to Menphina the Lover, goddess of the moon. Their tradition of hunting in the thick woodlands of the Black Shroud have for years thrown them into conflict with the forestfolk of Gridania, who condemn them as poachers. Of late, however, many Keepers of the Moon have found some small peace with the Gridanians, and taken to living within the city.",
       "defName": "ARR_MiqoteKeeper",
       "enabled": true,
-      "name": "Miqo'te",
-      "price": 2917
+      "name": "nocturnalmiqo'te",
+      "price": 100
     },
     {
       "data": {
@@ -9926,13 +9926,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe self-proclaimed Seekers of the Sun are the diurnal clan of the Miqo'te race. Their preference for the warm light of day pervades all aspects of their culture, as is apparent in their devout reverence for Azeyma the Warden, goddess of the sun. Though relatively few in Eorzea, a small number of them have been accepted into everyday life by the other races in the port city of Limsa Lominsa. Others are known to make their home in the region of the Sagolii Desert.",
       "defName": "ARR_MiqoteSeeker",
       "enabled": true,
-      "name": "Miqo'te",
-      "price": 2917
+      "name": "diurnalmiqo'te",
+      "price": 100
     },
     {
       "data": {
@@ -9951,13 +9951,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nViera of the Rava clan live primarily in the Golmore Jungle, their umber skin allowing them to readily blend in with their surroundings. Though the males stand as wards of the forest, the females are adept hunters in their own right, fiercely guarding their homes and their young. Despite attempts by the Dalmascans to subjugate them, they have ever maintained a self-governing dominion. Though most would adhere to the traditions of the wood, some few have chosen to venture out into the world.",
       "defName": "ARR_VieraRava",
       "enabled": true,
-      "name": "Viera",
-      "price": 2917
+      "name": "rava-viera",
+      "price": 100
     },
     {
       "data": {
@@ -9976,13 +9976,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nWith skin as fair as the snowcapped mountains towering above, the Veena clan make their homes in the forests lining the southwestern foothills of the Skatay Range. Like the members of their sister clan, the Veena live as hunters and gatherers, laboring not only to protect the woods, but to nurture them. As the winds of war swept up a number of those who left their mountain homes, many such hardened hunters chose to set out for the distant shores of Eorzea.",
       "defName": "ARR_VieraVeena",
       "enabled": true,
-      "name": "Viera",
-      "price": 2917
+      "name": "veena-viera",
+      "price": 100
     },
     {
       "data": {
@@ -10017,7 +10017,7 @@
       "defName": "Alien_Dryad",
       "enabled": true,
       "name": "dryad",
-      "price": 3333
+      "price": 100
     },
     {
       "data": {
@@ -10052,7 +10052,7 @@
       "defName": "Alien_DryadWild",
       "enabled": true,
       "name": "wild dryad",
-      "price": 3333
+      "price": 100
     },
     {
       "data": {
@@ -10075,7 +10075,7 @@
       "defName": "Aelanna_Heruan",
       "enabled": true,
       "name": "heruan",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -10101,13 +10101,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Homo Sapien Pumilionis. A baseline dwarf. Their stature belies their physical prowess. Surprisingly hardy against enviromental and recreational toxins.",
       "defName": "DwarfRace",
       "enabled": true,
-      "name": "dwarf",
-      "price": 4667
+      "name": "shadowrim-dwarf",
+      "price": 100
     },
     {
       "data": {
@@ -10137,13 +10137,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "Homo Sapien Nobilis. A baseline elf. Their grace and delicate features make them highly sought after entertainers.",
       "defName": "ElfRace",
       "enabled": true,
-      "name": "elf",
-      "price": 5833
+      "name": "shadowrim-elf",
+      "price": 100
     },
     {
       "data": {
@@ -10172,7 +10172,7 @@
       "defName": "OrcRace",
       "enabled": true,
       "name": "orc",
-      "price": 2917
+      "price": 100
     },
     {
       "data": {
@@ -10207,7 +10207,7 @@
       "defName": "TrollRace",
       "enabled": true,
       "name": "troll",
-      "price": 8000
+      "price": 100
     },
     {
       "data": {
@@ -10242,7 +10242,7 @@
       "defName": "Alien_Zhthyhl",
       "enabled": true,
       "name": "Zhthy'hl",
-      "price": 2917
+      "price": 100
     }
   ]
 }

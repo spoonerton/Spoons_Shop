@@ -34,30 +34,30 @@ $.getJSON(itemdataURL, function(data) {
 console.table(itemdataArray);
 
 //itemslist
+
 let itemList = null;
 $.getJSON(itemListURL, function(data) {
     var options = {
-        valueNames: ['abr', 'price', 'category'],
-        item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td></tr>'
+        valueNames: ['abr', 'price', 'isweapon', 'isranged', 'ismelee', 'category'],
+        item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="isweapon"></td><td class="isranged"></td><td class="ismelee"></td><td class="category"></td></tr>'
     };
 
     var itemData = [];
-    $.each(data.items, function(index, value) {
-        if (value["price"] > 0) {
-            itemData.push(value);
-        }
-        //Push Unique Categories into List
-/*         if (catagoryList.indexOf(value["category"]) == -1){
-        catagoryList.push(value["category"]);
-        } */
+    $.getJSON(itemdataURL, function(data2) {
+        
+        //console.log(data2);
+        var result;
+        $.each(data.items, function(index, value) {
+            if (value["price"] > 0) {
+                //result = toString(value.defname);
+                value["isweapon"] = data2[value.defname].IsWeapon;
+                value["ismelee"] = data2[value.defname].IsMelee;
+                value["isranged"] = data2[value.defname].IsRanged;
+                itemData.push(value);
+            }
+        });
+        itemList = new List('items', options, itemData);
     });
-
-    if (itemData.length == 0){
-        document.getElementById('items').prepend("Items are Disabled!");
-        $("#items").children().hide();
-    }
-    itemList = new List('items', options, itemData);
-    //console.log(catagoryList);
 });
 
 //eventlist

@@ -21,9 +21,15 @@
 <body>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand">Howdy Pardner</a>
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.twitch.tv/spoonerton">My Stream</a>
+                    <a class="nav-link" href="index.html">Shop</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="mods.html">Modlist</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="commands.html">Commands</a>
                 </li>
             </ul>
         </div>
@@ -34,18 +40,6 @@
                 <h1 class="display-3">TwitchToolkit</h1>
                 <p>TwitchToolkit is a mod written by Twitch.tv/hodlhodl that integrates storytelling decisions into chat
                 votes, awards viewers coins for watching, and those coins can be spent on items/events in game.</p>
-                    <button type="button" data-bs-toggle="collapse" data-bs-target="#list1" aria-expanded="false" aria-controls="list1">Toolkit Commands</button>
-                    <button type="button" data-bs-toggle="collapse" data-bs-target="#list2" aria-expanded="false" aria-controls="list2">Current Mods</button>
-                    <div id="topGroup">
-                    <div id="list1" class="collapse" data-bs-parent="#topGroup">
-                        <ul class="list-group">
-                        </ul>
-                    </div>
-                    <div id="list2" class="collapse" data-bs-parent="#topGroup">
-                        <ul class="list-unstyled row">
-                        </ul>
-                    </div>
-                </div>
             </div>
         </div>
         <div ng-app='tabs' ng-controller='tabCtrl'>
@@ -90,9 +84,6 @@
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
                                     <th scope="col" class="sort" data-sort="price">Price</th>
-                                    <!-- <th scope="col" class="sort" data-sort="isweapon">IsWeapon</th>
-                                    <th scope="col" class="sort" data-sort="isranged">IsRanged</th>
-                                    <th scope="col" class="sort" data-sort="ismelee">IsMelee</th> -->
                                     <th scope="col" class="sort" data-sort="category">Category</th>
                                 </tr>
                                 <tbody class="list">
