@@ -660,6 +660,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
+  },
+  {
     "author": "Hob Took",
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
@@ -834,12 +840,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "avilmask",
-    "name": "Research Whatever",
-    "steamId": "2552092060",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "VinaLx",
     "name": "ResearchPal - Forked",
     "steamId": "2351393394",
@@ -1008,6 +1008,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Scherub",
     "name": "Stonecutting Extended",
     "steamId": "2571676542",
@@ -1096,6 +1102,18 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.0.7"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.9"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
   },
   {
     "author": "AUTOMATIC",
