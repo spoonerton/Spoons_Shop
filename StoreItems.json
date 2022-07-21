@@ -1,4 +1,4 @@
-{
+﻿{
 	"items" : [
 	{
 		"abr": "beer",
@@ -16043,7 +16043,7 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "AB_RawCrystalHorn"
-	},
+	}
 	],
 	"total": 2722
 }
