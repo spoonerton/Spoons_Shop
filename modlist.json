@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "Samboy063",
@@ -12,22 +12,10 @@
     "version": "3.3.0.0"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "9.0.1"
-  },
-  {
-    "author": "Luca De Petrillo",
-    "name": "(NWN) Real Fog of War",
-    "steamId": "2560931731",
-    "version": "1.1.8.1"
   },
   {
     "author": "Telefonmast",
@@ -84,18 +72,6 @@
     "version": null
   },
   {
-    "author": "Hauvega",
-    "name": "Silent Raids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hauvega",
-    "name": "All Silent Raids Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Cherry Picker (dev)",
     "steamId": "2633276599",
@@ -144,12 +120,6 @@
     "version": null
   },
   {
-    "author": "Machine",
-    "name": "Better Infestations 1.3",
-    "steamId": "1319614331",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Dyrewulfe",
     "name": "Better Message Placement (Continued)",
     "steamId": null,
@@ -177,13 +147,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3136.1"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
+    "version": "1.3.3389.1"
   },
   {
     "author": "Andreas Pardeike",
@@ -243,12 +207,6 @@
     "author": "Spdskatr and  CaesarV6",
     "name": "Damage Indicators [1.3]",
     "steamId": "2016331497",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "NilchEi",
-    "name": "Darkest Night SK Steam",
-    "steamId": "1840579077",
     "version": "1.0.0.0"
   },
   {
@@ -324,6 +282,12 @@
     "version": null
   },
   {
+    "author": "erdelf",
+    "name": "Export Agency",
+    "steamId": "1467209473",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vagabond and  Barsimmon",
     "name": "Fantasy Goblins Updated",
     "steamId": null,
@@ -346,12 +310,6 @@
     "name": "FemaleBB Bodytype retexture",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "SirMashedPotato",
-    "name": "FogWorld",
-    "steamId": "2539453164",
-    "version": "1.0.0"
   },
   {
     "author": "Fluffy",
@@ -408,10 +366,10 @@
     "version": "1.0.7"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Guards For Me",
-    "steamId": "1855885448",
-    "version": "3.0.6.0"
+    "author": "chuiu",
+    "name": "Greenworld Lite",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aelanna",
@@ -612,6 +570,12 @@
     "version": null
   },
   {
+    "author": "avilmask",
+    "name": "Micro Designations",
+    "steamId": "1877972690",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Haplo",
     "name": "Misc. Robots",
     "steamId": null,
@@ -784,6 +748,12 @@
     "name": "RPG Style Inventory",
     "steamId": "1561221991",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Raiders Never Retreat",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "sunny",
@@ -1099,21 +1069,15 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.7"
-  },
-  {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.9"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.7"
   },
   {
     "author": "AUTOMATIC",
@@ -1152,10 +1116,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ushanka",
-    "name": "Ushankas Luciferium Expansion",
-    "steamId": null,
-    "version": null
+    "author": "1trickPonyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Use Minified Buildings",
+    "steamId": "2185809028",
+    "version": "1.3.0.0"
   },
   {
     "author": "Nephlite and  Maxim",
@@ -1184,6 +1154,12 @@
   {
     "author": "Oskar Potocki,  dninemfive and  Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
     "steamId": null,
     "version": null
   },

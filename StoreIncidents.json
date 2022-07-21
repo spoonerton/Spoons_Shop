@@ -76,16 +76,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "volcanicwinter",
-		"price": 3200,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -124,11 +114,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "madanimal",
-		"price": 200,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
@@ -191,56 +176,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "predators",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "randomdisease",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -291,16 +226,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 10000,
 		"karmatype": "Good"
@@ -324,11 +249,6 @@
 		"abr": "healme",
 		"price": 200,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
@@ -361,16 +281,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "equip",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "randomchildhood",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -379,77 +289,7 @@
 		"abr": "randomadulthood",
 		"price": 300,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "alphaasteroid",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "aeorofleetmigration",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "stalkingarcticlion",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingsnowclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingduneclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaliskwanderin",
-		"price": 700,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cactipinedroppod",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "gallatrosswanderin",
-		"price": 1400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "bumbledroneswanderin",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "raidblackhive",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "raidmechanoidsappers",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fungalhuskwandersin",
-		"price": 600,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 90
+	"total": 58
 }
