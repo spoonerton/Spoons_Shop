@@ -10096,7 +10096,7 @@
       "abr": "blueprint",
       "category": "Books",
       "defname": "VBE_Blueprint",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "shootingbook",
@@ -10174,7 +10174,7 @@
       "abr": "map",
       "category": "Books",
       "defname": "VBE_Map",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "newspaper",
