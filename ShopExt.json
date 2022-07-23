@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -56,8 +56,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -88,8 +88,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -120,8 +120,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -150,8 +150,8 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -180,8 +180,8 @@
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -222,8 +222,8 @@
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -262,8 +262,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -292,8 +292,8 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -322,8 +322,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -354,8 +354,8 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -386,8 +386,8 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -424,8 +424,8 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -436,9 +436,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -466,9 +466,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -496,9 +496,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -544,8 +544,8 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -574,8 +574,8 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -606,8 +606,8 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -640,8 +640,8 @@
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -672,8 +672,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -702,8 +702,8 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -734,8 +734,8 @@
       "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -764,8 +764,8 @@
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -794,8 +794,8 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -824,8 +824,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -854,8 +854,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -884,8 +884,8 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -914,8 +914,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -944,8 +944,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -974,8 +974,8 @@
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -1006,8 +1006,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -1036,8 +1036,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -1068,8 +1068,8 @@
       "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1098,8 +1098,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1128,8 +1128,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1158,8 +1158,8 @@
       "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1188,8 +1188,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1220,8 +1220,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1250,8 +1250,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1280,8 +1280,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1310,8 +1310,8 @@
       "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1340,8 +1340,8 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1372,8 +1372,8 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1404,8 +1404,8 @@
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1436,8 +1436,8 @@
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1468,8 +1468,8 @@
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1500,8 +1500,8 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1532,8 +1532,8 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1562,8 +1562,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1592,8 +1592,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1622,8 +1622,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1652,8 +1652,8 @@
       "name": "slothful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1682,8 +1682,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1712,8 +1712,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1742,8 +1742,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1772,8 +1772,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1804,8 +1804,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1836,8 +1836,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1848,9 +1848,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1866,8 +1866,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1896,8 +1896,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1926,8 +1926,8 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1956,8 +1956,8 @@
       "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1986,8 +1986,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2016,8 +2016,8 @@
       "name": "sickly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -2046,8 +2046,8 @@
       "name": "xenophobe",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2076,8 +2076,8 @@
       "name": "xenophile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -2106,8 +2106,8 @@
       "name": "incompetentcook",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2142,8 +2142,8 @@
       "name": "faithful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2178,10 +2178,10 @@
       },
       "defName": "AIRobot_BaseTrait",
       "name": "robot",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2220,8 +2220,8 @@
       "name": "nearsighted",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2260,8 +2260,8 @@
       "name": "farsighted",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2292,8 +2292,8 @@
       "name": "athletic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2324,8 +2324,8 @@
       "name": "stiff",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2354,8 +2354,8 @@
       "name": "goodhygiene",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2384,8 +2384,8 @@
       "name": "poorhygiene",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2416,8 +2416,8 @@
       "name": "persuasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2448,8 +2448,8 @@
       "name": "unconvincing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2482,8 +2482,8 @@
       "name": "resilient",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2518,8 +2518,8 @@
       "name": "fragile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2550,8 +2550,8 @@
       "name": "energetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2582,8 +2582,8 @@
       "name": "sluggish",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2612,8 +2612,8 @@
       "name": "restful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2642,8 +2642,8 @@
       "name": "restless",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2674,8 +2674,8 @@
       "name": "efficient",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2706,8 +2706,8 @@
       "name": "inefficient",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2738,8 +2738,8 @@
       "name": "valiant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2770,8 +2770,8 @@
       "name": "craven",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2800,8 +2800,8 @@
       "name": "rowdy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2830,8 +2830,8 @@
       "name": "composed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2860,8 +2860,8 @@
       "name": "heattolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2890,8 +2890,8 @@
       "name": "heatintolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2920,8 +2920,8 @@
       "name": "coldtolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2950,8 +2950,8 @@
       "name": "coldintolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2982,8 +2982,8 @@
       "name": "muscular",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3014,8 +3014,8 @@
       "name": "frail",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3044,8 +3044,8 @@
       "name": "abstinent",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3074,8 +3074,8 @@
       "name": "ravenous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3104,8 +3104,8 @@
       "name": "traitdemo:common",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3134,8 +3134,8 @@
       "name": "traitdemo:uncommon",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3164,8 +3164,8 @@
       "name": "traitdemo:rare",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3194,8 +3194,8 @@
       "name": "traitdemo:epic",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3224,8 +3224,8 @@
       "name": "traitdemo:legendary",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3274,10 +3274,10 @@
       },
       "defName": "RT_Gifted",
       "name": "gifted",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3326,10 +3326,10 @@
       },
       "defName": "RT_Incompetent",
       "name": "incompetent",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3360,8 +3360,8 @@
       "name": "patientcook",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3392,8 +3392,8 @@
       "name": "impatientcook",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3430,8 +3430,8 @@
       "name": "healthy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3468,8 +3468,8 @@
       "name": "chronicallyill",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3500,8 +3500,8 @@
       "name": "temperaturetolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3532,8 +3532,8 @@
       "name": "temperatureintolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3566,8 +3566,8 @@
       "name": "coordinated",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3600,8 +3600,8 @@
       "name": "clumsy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3640,8 +3640,8 @@
       "name": "hardy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3682,8 +3682,8 @@
       "name": "feeble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3712,8 +3712,8 @@
       "name": "easilyamused",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3742,8 +3742,8 @@
       "name": "constantlybemused",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3774,8 +3774,8 @@
       "name": "inquisitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3806,8 +3806,8 @@
       "name": "ignorant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3934,8 +3934,8 @@
       "name": "talent:bowman",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4062,8 +4062,8 @@
       "name": "talent:swordsman",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4178,8 +4178,8 @@
       "name": "talent:builder",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4294,8 +4294,8 @@
       "name": "talent:miner",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4408,8 +4408,8 @@
       "name": "talent:kitchenhand",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4526,8 +4526,8 @@
       "name": "talent:butcher",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4640,8 +4640,8 @@
       "name": "talent:farmer",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4758,8 +4758,8 @@
       "name": "talent:herder",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4870,8 +4870,8 @@
       "name": "talent:smith",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4982,8 +4982,8 @@
       "name": "talent:tailor",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5094,8 +5094,8 @@
       "name": "talent:artist",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5216,8 +5216,8 @@
       "name": "talent:physician",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5334,8 +5334,8 @@
       "name": "talent:trader",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5450,8 +5450,8 @@
       "name": "talent:scholar",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5568,8 +5568,8 @@
       "name": "talent:groundskeeper",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5680,8 +5680,8 @@
       "name": "talent:copycat",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5808,8 +5808,8 @@
       "name": "talent:weaponsmaster",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5938,8 +5938,8 @@
       "name": "talent:hunter",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6062,8 +6062,8 @@
       "name": "talent:engineer",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6186,8 +6186,8 @@
       "name": "talent:cook",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6314,8 +6314,8 @@
       "name": "talent:herbalist",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6434,8 +6434,8 @@
       "name": "talent:armourer",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6564,8 +6564,8 @@
       "name": "talent:fletcher",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6692,8 +6692,8 @@
       "name": "talent:veterinarian",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6826,8 +6826,8 @@
       "name": "talent:adventurer",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6956,8 +6956,8 @@
       "name": "talent:architect",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7080,8 +7080,8 @@
       "name": "talent:chef",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7204,8 +7204,8 @@
       "name": "talent:surgeon",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7328,8 +7328,8 @@
       "name": "talent:philosopher",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7466,8 +7466,8 @@
       "name": "talent:scout",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7598,8 +7598,8 @@
       "name": "talent:recruiter",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7716,8 +7716,8 @@
       "name": "talent:jack-of-all-trades",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7850,8 +7850,8 @@
       "name": "talent:hero",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7986,8 +7986,8 @@
       "name": "talent:herald",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8094,8 +8094,8 @@
       "name": "notalent",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8128,8 +8128,8 @@
       "name": "quickreflexes",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -8162,8 +8162,8 @@
       "name": "transcendentreflexes",
       "canAdd": false,
       "canRemove": false,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -8192,8 +8192,8 @@
       "name": "hotblooded",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     }
   ],
@@ -8216,9 +8216,269 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
-      "price": 500
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Highlander name comes from the clan's history of dominion over the mountains of Gyr Abania. Compared to their Midlander brethren, the Highlanders are noticeably larger in build and musculature. Following the fall of their ancestral homeland of Ala Mhigo, many have sought refuge in the bustling mercantile nation of Ul'dah.",
+      "defName": "ARR_HyurHighlander",
+      "enabled": false,
+      "name": "Hyur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Midlander clan comprises over half of Eorzea's total Hyur population. The name derives from the clan's long tradition of settling in low-lying regions, though in truth Midlander lines hail from a wide variety of ancestral homelands. They have established themselves in every city throughout the realm, and can be observed leading lives as diverse as their heritage.",
+      "defName": "ARR_HyurMidlander",
+      "enabled": false,
+      "name": "Hyur",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.40 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Animal gather speed",
+          "+110% Animal gather yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Dunesfolk can be found on the scorching sands of Thanalan and other such arid areas. As the founders of the merchant city of Ul'dah, they are famous for their obsession with commerce. A natural inclination to transform ideas into action has served the Dunesfolk well in their business dealings.",
+      "defName": "ARR_LalafellDunesfolk",
+      "enabled": false,
+      "name": "Lalafell",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.40 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Plant work speed",
+          "+110% Plant harvest yield"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Plainsfolk have settled in La Noscea and other regions where the ground is flat and easily cultivated. Though many live the life of farmers, it is not uncommon to see Plainsfolk residing in Limsa Lominsa, holding positions in the navy or working in the fisheries. They are well known for their relaxed and carefree demeanor.",
+      "defName": "ARR_LalafellPlainsfolk",
+      "enabled": false,
+      "name": "Lalafell",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+105% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe nocturnal among the Miqo'te have dubbed themselves the Keepers of the Moon. Shying from the garish light of day, they revel in the shroud of night, with most offering their piety to Menphina the Lover, goddess of the moon. Their tradition of hunting in the thick woodlands of the Black Shroud have for years thrown them into conflict with the forestfolk of Gridania, who condemn them as poachers. Of late, however, many Keepers of the Moon have found some small peace with the Gridanians, and taken to living within the city.",
+      "defName": "ARR_MiqoteKeeper",
+      "enabled": false,
+      "name": "Miqo'te",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.00 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+105% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe self-proclaimed Seekers of the Sun are the diurnal clan of the Miqo'te race. Their preference for the warm light of day pervades all aspects of their culture, as is apparent in their devout reverence for Azeyma the Warden, goddess of the sun. Though relatively few in Eorzea, a small number of them have been accepted into everyday life by the other races in the port city of Limsa Lominsa. Others are known to make their home in the region of the Sagolii Desert.",
+      "defName": "ARR_MiqoteSeeker",
+      "enabled": false,
+      "name": "Miqo'te",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee hit chance",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nViera of the Rava clan live primarily in the Golmore Jungle, their umber skin allowing them to readily blend in with their surroundings. Though the males stand as wards of the forest, the females are adept hunters in their own right, fiercely guarding their homes and their young. Despite attempts by the Dalmascans to subjugate them, they have ever maintained a self-governing dominion. Though most would adhere to the traditions of the wood, some few have chosen to venture out into the world.",
+      "defName": "ARR_VieraRava",
+      "enabled": false,
+      "name": "Viera",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+1.1 Shooting accuracy",
+          "+1.1 Melee hit chance",
+          "+110% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nWith skin as fair as the snowcapped mountains towering above, the Veena clan make their homes in the forests lining the southwestern foothills of the Skatay Range. Like the members of their sister clan, the Veena live as hunters and gatherers, laboring not only to protect the woods, but to nurture them. As the winds of war swept up a number of those who left their mountain homes, many such hardened hunters chose to set out for the distant shores of Eorzea.",
+      "defName": "ARR_VieraVeena",
+      "enabled": false,
+      "name": "Viera",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+150% Flammability",
+          "+150% Psychic sensitivity",
+          "+140% Pain shock threshold",
+          "+200% Immunity gain speed",
+          "+50% Global learning factor",
+          "+150% Toxic sensitivity",
+          "+$2000 Market value",
+          "+4.90 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+100% Research speed",
+          "+100% Mining speed",
+          "+160.00% Social impact",
+          "+1.5 Melee dodge chance",
+          "+35.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A cold hearted creature, embodying the wilds. They have a alluring speech and their branches constantly shifts. They eat rarely but when they do, they eat meat.",
+      "defName": "Alien_Dryad",
+      "enabled": false,
+      "name": "dryad",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+175% Flammability",
+          "+150% Psychic sensitivity",
+          "+140% Pain shock threshold",
+          "+200% Immunity gain speed",
+          "+50% Global learning factor",
+          "+150% Toxic sensitivity",
+          "+$2000 Market value",
+          "+4.90 Move speed",
+          "-40.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+100% Smoothing speed",
+          "+100% Construction speed",
+          "+100% Research speed",
+          "+75% Mining speed",
+          "+50.00% Social impact",
+          "+1.5 Melee dodge chance",
+          "+35.0% Armor - Blunt",
+          "+25.0% Armor - Sharp",
+          "+0.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Dryads, the spiteful protectors of the forest. A truer form of the cold hearted wraiths of Athel Loren.",
+      "defName": "Alien_DryadWild",
+      "enabled": false,
+      "name": "wild dryad",
+      "price": 3333
     },
     {
       "data": {
@@ -8239,9 +8499,9 @@
       },
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
       "defName": "ChjAndroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Android",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -8274,7 +8534,7 @@
       "defName": "ChjDroid",
       "enabled": false,
       "name": "Droid",
-      "price": 500
+      "price": 1417
     },
     {
       "data": {
@@ -8308,7 +8568,7 @@
       "defName": "ChjBattleDroid",
       "enabled": false,
       "name": "Battle droid",
-      "price": 500
+      "price": 3167
     },
     {
       "data": {
@@ -8333,9 +8593,9 @@
       },
       "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
       "defName": "Alien_BunTribe",
-      "enabled": true,
+      "enabled": false,
       "name": "Bun",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -8359,9 +8619,32 @@
       },
       "description": "Goblins are small humanoid beings. With short scrawny bodies and oversized heads with long ears. While physically weaker than an average human goblins have a higher resistance to diseases and toxcicity. What they lack in physical strength they make up with their speed and tenacity. Goblins are fast workers if not the most diligent ones. They're a sly and intellectual race, only hindered by their own greed and violent nature. Goblins exist in primitive tribal structures with constant shifts in power. Often small tribes dominated by the strongest warriors. Both goblin men and women are vicious and both sexes are just as likely to rise to positions of power in a tribe.",
       "defName": "Fantasy_Goblin",
-      "enabled": true,
+      "enabled": false,
       "name": "Goblin",
-      "price": 500
+      "price": 2333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.40 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Global learning factor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The heruan are a race of genetically modified xenohumans hailing from a remote glitterworld established during the First Wave of Exploration. Direct descendents of the people of Old Earth, the heruan people sent forth the Triune Expedition Fleets in the wake of the fall of Old Earth and the collapse of the Origin Systems, their mission to catalogue and preserve the breadth of humanity in order to keep their memories alive for posterity.\n\nHeruan society is centered around the Triune castes of Sun, Moon, and Star. These are not hereditary castes but ones adopted in adulthood; heruan adolescents are expected to aspire to and train themselves for future inclusion into a caste.\n\nHeruan are sleek and nimble with powerful legs. They are swift on foot and their powerful talons can be dangerous in a fight, but their relative frailty makes them poor combatants overall. Heruan are naturally inquisitive and eager to learn about unfamiliar people and cultures, preferring intellectual and creative pursuits over the prosecution of war. However, they understand that sometimes the only way to preserve the memory of others is to defend oneself against those who would destroy them.",
+      "defName": "Aelanna_Heruan",
+      "enabled": false,
+      "name": "heruan",
+      "price": 2917
     },
     {
       "data": {
@@ -8392,9 +8675,9 @@
       },
       "description": "Heyras settled in Rimworld a long time ago. They possess a unique psychic ability to, occasionally, hear whispers in their heads. Despite these whispers being mostly scattered words, Heyras believe they are the oracles of God. We do not know if these whispers are real. But it is confirmed that Heyras have a higher psychic sensitivity than humans.",
       "defName": "Alien_Heyra",
-      "enabled": true,
+      "enabled": false,
       "name": "Heyra",
-      "price": 500
+      "price": 4583
     },
     {
       "data": {
@@ -8425,9 +8708,9 @@
       },
       "description": "These savage barbarians are the nemesis of Heyras. They have thrown away the sense of moral and pursuit the primal pleasure. A series of evidence indicates that Rong is a separated branch of Heyra, although the Supreme Hierarch of Heyra denies this in all her strength.",
       "defName": "Alien_Heyra_Rong",
-      "enabled": true,
+      "enabled": false,
       "name": "Rong",
-      "price": 500
+      "price": 4583
     },
     {
       "data": {
@@ -8453,9 +8736,9 @@
       },
       "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.",
       "defName": "Alien_Kijin",
-      "enabled": true,
+      "enabled": false,
       "name": "Kijin",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -8474,9 +8757,9 @@
       },
       "description": "Immune to disease. Lives for 250 years. Loves to mine, craft, and make friends.",
       "defName": "LotRD_DwarfStandardRace",
-      "enabled": true,
+      "enabled": false,
       "name": "dwarf",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -8495,9 +8778,9 @@
       },
       "description": "Immune to disease. Wise and immortal.",
       "defName": "LotRE_ElfStandardRace",
-      "enabled": true,
+      "enabled": false,
       "name": "elf",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -8516,9 +8799,9 @@
       },
       "description": "Those born between the world of immortality and mortality.",
       "defName": "LotRE_ElfStandardRaceHalf",
-      "enabled": true,
+      "enabled": false,
       "name": "half-elf",
-      "price": 500
+      "price": 2083
     },
     {
       "data": {
@@ -8538,9 +8821,9 @@
       },
       "description": "Immune to disease. Lives to be 100 years old. Loves to eat, drink, be merry, and sometimes, just sometimes, go on adventures.",
       "defName": "LotRH_HobbitStandardRace",
-      "enabled": true,
+      "enabled": false,
       "name": "hobbit",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -8578,9 +8861,9 @@
       },
       "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
       "defName": "Kurin_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Kurin",
-      "price": 500
+      "price": 5833
     },
     {
       "data": {
@@ -8628,9 +8911,9 @@
       },
       "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
       "defName": "Rabbie",
-      "enabled": true,
+      "enabled": false,
       "name": "Rabbie",
-      "price": 500
+      "price": 3333
     },
     {
       "data": {
@@ -8665,9 +8948,9 @@
       },
       "description": "Ratkins are genetically modified humans infused with rat genes. Although their origin is unknown, they seem to have a long history and maintain a monarchical society based primarily on agricultural production. They tend to be biologically androgynous and societally feminine, with the standard attire being dresses, even for male subjects.",
       "defName": "Ratkin",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin",
-      "price": 500
+      "price": 3333
     },
     {
       "data": {
@@ -8705,7 +8988,7 @@
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
-      "price": 500
+      "price": 3333
     },
     {
       "data": {
@@ -8735,9 +9018,9 @@
       },
       "description": "A mutant of the catgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Catgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Catgirl",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -8767,9 +9050,9 @@
       },
       "description": "A mutant of the wolfgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Wolfgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Wolfgirl",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -8799,9 +9082,9 @@
       },
       "description": "A mutant of the foxgirl species that has developed a semblance of intelligence.",
       "defName": "MG_Foxgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Foxgirl",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -8831,9 +9114,9 @@
       },
       "description": "A Cowgirl that has developed a semblance of intelligence.",
       "defName": "MG_Cowgirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Cowgirl",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -8863,9 +9146,9 @@
       },
       "description": "A Harpy that has developed a semblance of intelligence.",
       "defName": "MG_Harpy",
-      "enabled": true,
+      "enabled": false,
       "name": "Harpy",
-      "price": 500
+      "price": 2667
     },
     {
       "data": {
@@ -8895,9 +9178,9 @@
       },
       "description": "A mutant accumulation of slimy liquid that has developed a semblance of intelligence.",
       "defName": "MG_Slime",
-      "enabled": true,
+      "enabled": false,
       "name": "Slime",
-      "price": 500
+      "price": 3000
     },
     {
       "data": {
@@ -8927,9 +9210,9 @@
       },
       "description": "A Baphomet that has developed a semblance of intelligence.",
       "defName": "MG_Baphomet",
-      "enabled": true,
+      "enabled": false,
       "name": "Baphomet",
-      "price": 500
+      "price": 3083
     },
     {
       "data": {
@@ -8959,9 +9242,9 @@
       },
       "description": "A Centaur that has developed a semblance of intelligence.",
       "defName": "MG_Centaur",
-      "enabled": true,
+      "enabled": false,
       "name": "Centaur",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -8991,9 +9274,9 @@
       },
       "description": "A mutant of the Forest Fairy species that has developed a semblance of intelligence./n A fragile existence that withers in a toxic environment.",
       "defName": "MG_ForestFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "ForestFairy",
-      "price": 500
+      "price": 3000
     },
     {
       "data": {
@@ -9023,9 +9306,9 @@
       },
       "description": "A mutant of the Ice Fairy species that has developed a semblance of intelligence./n A fragile existence that cannot survive warm temperatures.",
       "defName": "MG_IceFairy",
-      "enabled": true,
+      "enabled": false,
       "name": "IceFairy",
-      "price": 500
+      "price": 3000
     },
     {
       "data": {
@@ -9056,9 +9339,9 @@
       },
       "description": "A mutant of the Dragon species that has developed a semblance of intelligence.",
       "defName": "MG_Dragon",
-      "enabled": true,
+      "enabled": false,
       "name": "Dragon",
-      "price": 500
+      "price": 3667
     },
     {
       "data": {
@@ -9089,9 +9372,9 @@
       },
       "description": "A mutant of the Thrumbogirl species that has developed a semblance of intelligence.",
       "defName": "MG_Thrumbogirl",
-      "enabled": true,
+      "enabled": false,
       "name": "Thrumbogirl",
-      "price": 500
+      "price": 3667
     },
     {
       "data": {
@@ -9122,9 +9405,9 @@
       },
       "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
       "defName": "Alien_Moyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Moyo",
-      "price": 500
+      "price": 5333
     },
     {
       "data": {
@@ -9158,9 +9441,9 @@
       },
       "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
       "defName": "Alien_Nyaron",
-      "enabled": true,
+      "enabled": false,
       "name": "Nyaron",
-      "price": 500
+      "price": 5000
     },
     {
       "data": {
@@ -9209,9 +9492,9 @@
       },
       "description": "The Rakkle is an artificial species created by humans by improving reptile native life found on a planet in the middle of the system.",
       "defName": "Rakkle",
-      "enabled": true,
+      "enabled": false,
       "name": "Rakkle",
-      "price": 500
+      "price": 5833
     },
     {
       "data": {
@@ -9235,9 +9518,9 @@
       },
       "description": "A bloodthirsty vulpine near-human.",
       "defName": "ReviaRaceAlien",
-      "enabled": true,
+      "enabled": false,
       "name": "Revia",
-      "price": 500
+      "price": 5833
     },
     {
       "data": {
@@ -9269,9 +9552,9 @@
       },
       "description": "A baseline shek; they are a closely related subrace of humans, thought to have been either engineered for combat, experiments, or policing in outer-rim planets - sporting large horns from their heads, and bone plating on their chest and limbs; the latter of which aids them with protection. They have a natural predisposition to aggression, and in their society which is centered around warfare and honor, the cowards and dishonored will be branded by having their horns sawed off. Shek culture is often seen as \"barbaric\" to outsiders and as such shek-people are usually stigmatized by humans as being mindless brutes.",
       "defName": "Shek_",
-      "enabled": true,
+      "enabled": false,
       "name": "shek",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -9308,9 +9591,141 @@
       },
       "description": "A reclusive and diminishing race of proto-mechanical persona, 'skeletons' are fully sentient and feeling mechanical entities; they were built thousands of years ago as stand-ins for humans during lengthy processes, such as space flight. Since being manufactured they have been replaced by the far more complex mechanoid and AI persona.\n\nBeing mechanical in nature - 'skeletons' do not need to rest or eat. However, due to their incredibly long lifespan and common crushing existential dread; most 'skeletons' are depressed or dreadfully pessimistic.",
       "defName": "Skeleton_",
-      "enabled": true,
+      "enabled": false,
       "name": "skeleton",
-      "price": 500
+      "price": 9667
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$2800 Market value",
+          "+4.40 Move speed",
+          "+11.0C Minimum comfortable temperature",
+          "+31.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+2 Honor value",
+          "+25% Mental break threshold",
+          "+90% Psychic sensitivity",
+          "+85% Toxic sensitivity",
+          "+130% Immunity gain speed",
+          "+125 Carrying capacity",
+          "+85% Pain shock threshold",
+          "+65 Meat amount",
+          "+75% Incoming damage multiplier",
+          "+125% Mining speed",
+          "+125% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Pumilionis. A baseline dwarf. Their stature belies their physical prowess. Surprisingly hardy against enviromental and recreational toxins.",
+      "defName": "DwarfRace",
+      "enabled": false,
+      "name": "dwarf",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$3500 Market value",
+          "+4.70 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+40 Leather amount",
+          "+3 Honor value",
+          "+150.00% Negotiation ability",
+          "+150.00% Trade price improvement",
+          "+150.00% Social impact",
+          "+125% Animal gather speed",
+          "+125% Plant work speed",
+          "+125% Hunting stealth",
+          "+125% Medical tend speed",
+          "+125% Medical operation speed",
+          "+1.3 Cooking speed",
+          "+125% Drug cooking speed",
+          "+125% Butchery speed",
+          "+125% Mechanoid shredding speed",
+          "+95% Trap spring chance",
+          "+80 Meat amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Nobilis. A baseline elf. Their grace and delicate features make them highly sought after entertainers.",
+      "defName": "ElfRace",
+      "enabled": false,
+      "name": "elf",
+      "price": 5833
+    },
+    {
+      "data": {
+        "stats": [
+          "+115.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+2 Honor value",
+          "+100 Meat amount",
+          "+90% Toxic sensitivity",
+          "+130% Immunity gain speed",
+          "+130 Carrying capacity",
+          "+50% Incoming damage multiplier",
+          "+125% Mining speed",
+          "+125% Construction speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Robustus. A baseline ork. Noted for their strength, physical durability and short lives",
+      "defName": "OrcRace",
+      "enabled": false,
+      "name": "orc",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+300.00 Mass",
+          "+70% Flammability",
+          "+$4800 Market value",
+          "+4.40 Move speed",
+          "+1.0C Minimum comfortable temperature",
+          "+41.0C Maximum comfortable temperature",
+          "+70 Leather amount",
+          "+2 Honor value",
+          "+85% Toxic sensitivity",
+          "+90% Rest rate multiplier",
+          "+150% Immunity gain speed",
+          "+175 Carrying capacity",
+          "+70.00% Negotiation ability",
+          "+70.00% Arrest success chance",
+          "+70.00% Trade price improvement",
+          "+40% Incoming damage multiplier",
+          "+150% Mining speed",
+          "+150% Construction speed",
+          "+130 Meat amount",
+          "+130% Hunger rate multiplier",
+          "+90% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Homo Sapien Ingentis. A baseline troll. Their overbearing physical might makes them quite popular heroes among mercenary groups, though their calorie intake and size make logistics an issue.",
+      "defName": "TrollRace",
+      "enabled": false,
+      "name": "troll",
+      "price": 8000
     },
     {
       "data": {
@@ -9342,9 +9757,9 @@
       },
       "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
       "defName": "Hiver_Queen",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver queen",
-      "price": 500
+      "price": 2500
     },
     {
       "data": {
@@ -9375,9 +9790,9 @@
       },
       "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor, making them desirable slaves.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
       "defName": "Hiver_Worker",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver drone",
-      "price": 500
+      "price": 833
     },
     {
       "data": {
@@ -9408,9 +9823,9 @@
       },
       "description": "A hiver soldier drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
       "defName": "Hiver_Soldier",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver soldier drone",
-      "price": 500
+      "price": 833
     },
     {
       "data": {
@@ -9437,13 +9852,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": true
+        "customName": false
       },
       "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
       "defName": "Hiver_Worker_South",
-      "enabled": true,
-      "name": "southhiverdrone",
-      "price": 500
+      "enabled": false,
+      "name": "hiver drone",
+      "price": 833
     },
     {
       "data": {
@@ -9474,9 +9889,9 @@
       },
       "description": "A hiver warrior drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
       "defName": "Hiver_Soldier_South",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver warrior drone",
-      "price": 500
+      "price": 833
     },
     {
       "data": {
@@ -9507,9 +9922,9 @@
       },
       "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
       "defName": "Hiver_Prince",
-      "enabled": true,
+      "enabled": false,
       "name": "hiver prince",
-      "price": 500
+      "price": 1667
     },
     {
       "data": {
@@ -9536,13 +9951,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": true
+        "customName": false
       },
       "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
       "defName": "Hiver_Prince_South",
-      "enabled": true,
-      "name": "southhiverprince",
-      "price": 500
+      "enabled": false,
+      "name": "hiver prince",
+      "price": 1667
     },
     {
       "data": {
@@ -9570,13 +9985,13 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": true
+        "customName": false
       },
       "description": "A hiver queen - the only biologically female caste in its hive, they often control their drones via pheromone signals. They are more intelligent than regular drones, possessing an increased cerebral capacity.\n\nQueens birth new hiver castes every month by expelling larvae from their chest cavity.",
       "defName": "Hiver_Queen_South",
-      "enabled": true,
-      "name": "southhiverqueen",
-      "price": 500
+      "enabled": false,
+      "name": "hiver queen",
+      "price": 2500
     },
     {
       "data": {
@@ -9602,9 +10017,9 @@
       },
       "description": "Shaggy giants from an arboreal world, the tall and commanding Wookieee species is an impressive sight to even the most jaded spacer. \n        Despite their fearsome and savage countenance, Wookieees are intelligent, sophisticated, loyal and trusting. Loyalty and bravery are near-sacred tenets in Wookieee society. \n        When peaceful, Wookieees are tender and gentle. \n        Their tempers, however, are short; when angered, Wookieees can fly into a berserker rage and will not stop until the object of their distemper is sufficiently destroyed.",
       "defName": "StarWarsRaces_Wookiee",
-      "enabled": true,
+      "enabled": false,
       "name": "Wookiee",
-      "price": 500
+      "price": 4583
     },
     {
       "data": {
@@ -9624,9 +10039,9 @@
       },
       "description": "Togrutas were a carnivorous humanoid species from the planet Shili. The species exhibited head-tails which were similar to those of Twi'leks. Unlike Twi'leks, a Togurta's lekku ran parallel to the head as opposed to behind, making it appear as though they were wearing a headdress. Togruta were also distinguished by montrals, large hollow horn-like projections from the top of their heads, that gave the species a form of passive echolocation. In order to protect themselves from dangerous predators, and to hunt their own prey, Togruta banded together in tribes and relied on their natural pigmentation to disrupt and confuse slow-witted beasts. Togruta worked well in large groups, and individualism was seen as abnormal within their culture, although it was also a necessary quality in leaders.",
       "defName": "StarWarsRaces_Togruta",
-      "enabled": true,
+      "enabled": false,
       "name": "Togruta",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -9646,9 +10061,9 @@
       },
       "description": "Rodians are a reptilian species with antennae, green and scaled skin, large round pupil-less eyes, and snouts from the planet Rodia.",
       "defName": "StarWarsRaces_Rodian",
-      "enabled": true,
+      "enabled": false,
       "name": "Rodian",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -9668,9 +10083,9 @@
       },
       "description": "The Ewoks are sentient furred bipeds native to the moon of Endor.",
       "defName": "StarWarsRaces_Ewok",
-      "enabled": true,
+      "enabled": false,
       "name": "Ewok",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -9690,9 +10105,9 @@
       },
       "description": "Twi'leks are tall, thin humanoids with skin pigment that spans a rainbow of colors.\n      Their most distinctive feature is a pair of prehensile tentacles that grow from the base of their skulls.\n      These Lekku are vital to the health of the Twi'lek, which is unfortunate because they prevent the Twi'lek from wearing most forms of head protection.\n      Some have theorized that this obvious weakness is why the Twi'lek people have been so heavily targetted by slavers.",
       "defName": "StarWarsRaces_Twilek",
-      "enabled": true,
+      "enabled": false,
       "name": "Twi'lek",
-      "price": 500
+      "price": 2917
     },
     {
       "data": {
@@ -9735,9 +10150,44 @@
       },
       "description": "Arachne race lineage can be traced back to Arachne homeworld where the temperature fluctuate between cold and warm.\nArachnes over thousands of generations began to adapt to these temperature and ables themselves to withstand cold but in return have less tolerance to the heat",
       "defName": "Arachne",
-      "enabled": true,
+      "enabled": false,
       "name": "arachne",
-      "price": 500
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+25% Flammability",
+          "+110% Psychic sensitivity",
+          "+100% Pain shock threshold",
+          "+110% Immunity gain speed",
+          "+50% Global learning factor",
+          "+80% Toxic sensitivity",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+5.0C Minimum comfortable temperature",
+          "+37.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+70% Smoothing speed",
+          "+70% Construction speed",
+          "+30% Research speed",
+          "+100% Mining speed",
+          "+60.00% Social impact",
+          "+1.0 Melee dodge chance",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "+40.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Zhthy'hl a lesser daemon. They have a skeletal frame with blackened skin drawn tightly to it's bones. Despite their frail apparence, they are quite strong.",
+      "defName": "Alien_Zhthyhl",
+      "enabled": false,
+      "name": "Zhthy'hl",
+      "price": 2917
     },
     {
       "data": {
@@ -9790,459 +10240,9 @@
       },
       "description": "An alien species native to an Earth-like planet named Panastria. Their original creation myth says that they are made of stardust and fell onto Panastria, but their is no concrete evidence of this. After a failed uprising against the Empire, most are being relocated from their homeworld or imprisoned until further notice.",
       "defName": "Seren",
-      "enabled": true,
+      "enabled": false,
       "name": "seren",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Highlander name comes from the clan's history of dominion over the mountains of Gyr Abania. Compared to their Midlander brethren, the Highlanders are noticeably larger in build and musculature. Following the fall of their ancestral homeland of Ala Mhigo, many have sought refuge in the bustling mercantile nation of Ul'dah.",
-      "defName": "ARR_HyurHighlander",
-      "enabled": true,
-      "name": "highlander-hyur",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Over the course of some one thousand years and three great migratory waves, the Hyur have come to be the most populous of the civilized races in Eorzea. Compared to the others, theirs is an average physique, both in terms of height and build. The Hyur champion personal freedom and liberty, and their espousal of an eclectic variety of languages and traditions is a legacy of their diverse heritage―as is their resulting lack of a unified cultural identity.\n\nThe Midlander clan comprises over half of Eorzea's total Hyur population. The name derives from the clan's long tradition of settling in low-lying regions, though in truth Midlander lines hail from a wide variety of ancestral homelands. They have established themselves in every city throughout the realm, and can be observed leading lives as diverse as their heritage.",
-      "defName": "ARR_HyurMidlander",
-      "enabled": true,
-      "name": "midlander-hyur",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.40 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+110% Animal gather speed",
-          "+110% Animal gather yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Dunesfolk can be found on the scorching sands of Thanalan and other such arid areas. As the founders of the merchant city of Ul'dah, they are famous for their obsession with commerce. A natural inclination to transform ideas into action has served the Dunesfolk well in their business dealings.",
-      "defName": "ARR_LalafellDunesfolk",
-      "enabled": true,
-      "name": "dunes-lalafell",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.40 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+110% Plant work speed",
-          "+110% Plant harvest yield"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "The Lalafell are a folk both rotund and diminutive. Small by any race's standards and possessed of a childlike countenance, it proves difficult for non-Lalafell to gauge an individual's age with any degree of accuracy. Originally an agricultural people inhabiting the fertile islands of the south seas, they found their way to Eorzea via the burgeoning trade routes. Lalafell are welcoming of outsiders, and share prosperous relations with all of the other races of Eorzea.\n\nThe Plainsfolk have settled in La Noscea and other regions where the ground is flat and easily cultivated. Though many live the life of farmers, it is not uncommon to see Plainsfolk residing in Limsa Lominsa, holding positions in the navy or working in the fisheries. They are well known for their relaxed and carefree demeanor.",
-      "defName": "ARR_LalafellPlainsfolk",
-      "enabled": true,
-      "name": "plains-lalafell",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.00 Move speed",
-          "+18.0C Minimum comfortable temperature",
-          "+28.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+1.1 Shooting accuracy",
-          "+105% Hunting stealth"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe nocturnal among the Miqo'te have dubbed themselves the Keepers of the Moon. Shying from the garish light of day, they revel in the shroud of night, with most offering their piety to Menphina the Lover, goddess of the moon. Their tradition of hunting in the thick woodlands of the Black Shroud have for years thrown them into conflict with the forestfolk of Gridania, who condemn them as poachers. Of late, however, many Keepers of the Moon have found some small peace with the Gridanians, and taken to living within the city.",
-      "defName": "ARR_MiqoteKeeper",
-      "enabled": true,
-      "name": "nocturnalmiqo'te",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.00 Move speed",
-          "+18.0C Minimum comfortable temperature",
-          "+28.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+1.1 Shooting accuracy",
-          "+105% Hunting stealth"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Though their presence in Eorzea is lesser than that of the other races, the Miqo'te are easily distinguished by their large, projecting ears and restless, feline tails. The ancestors of this line first made their way to the realm during the Age of Endless Frost in the Fifth Umbral Era, traversing frozen seas in pursuit of the wildlife upon which they subsisted. Instinctual territoriality causes many among them to lead solitary lifestyles. Males in particular are said to shy from contact with others.\n\nThe self-proclaimed Seekers of the Sun are the diurnal clan of the Miqo'te race. Their preference for the warm light of day pervades all aspects of their culture, as is apparent in their devout reverence for Azeyma the Warden, goddess of the sun. Though relatively few in Eorzea, a small number of them have been accepted into everyday life by the other races in the port city of Limsa Lominsa. Others are known to make their home in the region of the Sagolii Desert.",
-      "defName": "ARR_MiqoteSeeker",
-      "enabled": true,
-      "name": "diurnalmiqo'te",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.80 Move speed",
-          "+18.0C Minimum comfortable temperature",
-          "+28.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+1.1 Shooting accuracy",
-          "+1.1 Melee hit chance",
-          "+110% Hunting stealth"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nViera of the Rava clan live primarily in the Golmore Jungle, their umber skin allowing them to readily blend in with their surroundings. Though the males stand as wards of the forest, the females are adept hunters in their own right, fiercely guarding their homes and their young. Despite attempts by the Dalmascans to subjugate them, they have ever maintained a self-governing dominion. Though most would adhere to the traditions of the wood, some few have chosen to venture out into the world.",
-      "defName": "ARR_VieraRava",
-      "enabled": true,
-      "name": "rava-viera",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.80 Move speed",
-          "+18.0C Minimum comfortable temperature",
-          "+28.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+1.1 Shooting accuracy",
-          "+1.1 Melee hit chance",
-          "+110% Hunting stealth"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Of tall stature and slender frame, the Viera's physical appearance is strikingly similar to that of the Hyur and Elezen, save for their distinctive long ears. Adhering to a strict code known as the Green Word, they are prohibited from contact with the outside world under threat of exile. Their society is purely matriarchal, and males of age are seldom, if ever, found within the bounds of any village. They instead serve as protectors of the wood from the shadows, that no evil may ever encroach on their sacred lands.\n\nWith skin as fair as the snowcapped mountains towering above, the Veena clan make their homes in the forests lining the southwestern foothills of the Skatay Range. Like the members of their sister clan, the Veena live as hunters and gatherers, laboring not only to protect the woods, but to nurture them. As the winds of war swept up a number of those who left their mountain homes, many such hardened hunters chose to set out for the distant shores of Eorzea.",
-      "defName": "ARR_VieraVeena",
-      "enabled": true,
-      "name": "veena-viera",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+150% Flammability",
-          "+150% Psychic sensitivity",
-          "+140% Pain shock threshold",
-          "+200% Immunity gain speed",
-          "+50% Global learning factor",
-          "+150% Toxic sensitivity",
-          "+$2000 Market value",
-          "+4.90 Move speed",
-          "-40.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+100% Smoothing speed",
-          "+100% Construction speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+160.00% Social impact",
-          "+1.5 Melee dodge chance",
-          "+35.0% Armor - Blunt",
-          "+25.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A cold hearted creature, embodying the wilds. They have a alluring speech and their branches constantly shifts. They eat rarely but when they do, they eat meat.",
-      "defName": "Alien_Dryad",
-      "enabled": true,
-      "name": "dryad",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+175% Flammability",
-          "+150% Psychic sensitivity",
-          "+140% Pain shock threshold",
-          "+200% Immunity gain speed",
-          "+50% Global learning factor",
-          "+150% Toxic sensitivity",
-          "+$2000 Market value",
-          "+4.90 Move speed",
-          "-40.0C Minimum comfortable temperature",
-          "+50.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+100% Smoothing speed",
-          "+100% Construction speed",
-          "+100% Research speed",
-          "+75% Mining speed",
-          "+50.00% Social impact",
-          "+1.5 Melee dodge chance",
-          "+35.0% Armor - Blunt",
-          "+25.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The Dryads, the spiteful protectors of the forest. A truer form of the cold hearted wraiths of Athel Loren.",
-      "defName": "Alien_DryadWild",
-      "enabled": true,
-      "name": "wild dryad",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.40 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+110% Global learning factor"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The heruan are a race of genetically modified xenohumans hailing from a remote glitterworld established during the First Wave of Exploration. Direct descendents of the people of Old Earth, the heruan people sent forth the Triune Expedition Fleets in the wake of the fall of Old Earth and the collapse of the Origin Systems, their mission to catalogue and preserve the breadth of humanity in order to keep their memories alive for posterity.\n\nHeruan society is centered around the Triune castes of Sun, Moon, and Star. These are not hereditary castes but ones adopted in adulthood; heruan adolescents are expected to aspire to and train themselves for future inclusion into a caste.\n\nHeruan are sleek and nimble with powerful legs. They are swift on foot and their powerful talons can be dangerous in a fight, but their relative frailty makes them poor combatants overall. Heruan are naturally inquisitive and eager to learn about unfamiliar people and cultures, preferring intellectual and creative pursuits over the prosecution of war. However, they understand that sometimes the only way to preserve the memory of others is to defend oneself against those who would destroy them.",
-      "defName": "Aelanna_Heruan",
-      "enabled": true,
-      "name": "heruan",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+$2800 Market value",
-          "+4.40 Move speed",
-          "+11.0C Minimum comfortable temperature",
-          "+31.0C Maximum comfortable temperature",
-          "+35 Leather amount",
-          "+2 Honor value",
-          "+25% Mental break threshold",
-          "+90% Psychic sensitivity",
-          "+85% Toxic sensitivity",
-          "+130% Immunity gain speed",
-          "+125 Carrying capacity",
-          "+85% Pain shock threshold",
-          "+65 Meat amount",
-          "+75% Incoming damage multiplier",
-          "+125% Mining speed",
-          "+125% Construction speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Homo Sapien Pumilionis. A baseline dwarf. Their stature belies their physical prowess. Surprisingly hardy against enviromental and recreational toxins.",
-      "defName": "DwarfRace",
-      "enabled": true,
-      "name": "shadowrim-dwarf",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+$3500 Market value",
-          "+4.70 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+40 Leather amount",
-          "+3 Honor value",
-          "+150.00% Negotiation ability",
-          "+150.00% Trade price improvement",
-          "+150.00% Social impact",
-          "+125% Animal gather speed",
-          "+125% Plant work speed",
-          "+125% Hunting stealth",
-          "+125% Medical tend speed",
-          "+125% Medical operation speed",
-          "+1.3 Cooking speed",
-          "+125% Drug cooking speed",
-          "+125% Butchery speed",
-          "+125% Mechanoid shredding speed",
-          "+95% Trap spring chance",
-          "+80 Meat amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": true
-      },
-      "description": "Homo Sapien Nobilis. A baseline elf. Their grace and delicate features make them highly sought after entertainers.",
-      "defName": "ElfRace",
-      "enabled": true,
-      "name": "shadowrim-elf",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+115.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+6.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+55 Leather amount",
-          "+2 Honor value",
-          "+100 Meat amount",
-          "+90% Toxic sensitivity",
-          "+130% Immunity gain speed",
-          "+130 Carrying capacity",
-          "+50% Incoming damage multiplier",
-          "+125% Mining speed",
-          "+125% Construction speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Homo Sapien Robustus. A baseline ork. Noted for their strength, physical durability and short lives",
-      "defName": "OrcRace",
-      "enabled": true,
-      "name": "orc",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+300.00 Mass",
-          "+70% Flammability",
-          "+$4800 Market value",
-          "+4.40 Move speed",
-          "+1.0C Minimum comfortable temperature",
-          "+41.0C Maximum comfortable temperature",
-          "+70 Leather amount",
-          "+2 Honor value",
-          "+85% Toxic sensitivity",
-          "+90% Rest rate multiplier",
-          "+150% Immunity gain speed",
-          "+175 Carrying capacity",
-          "+70.00% Negotiation ability",
-          "+70.00% Arrest success chance",
-          "+70.00% Trade price improvement",
-          "+40% Incoming damage multiplier",
-          "+150% Mining speed",
-          "+150% Construction speed",
-          "+130 Meat amount",
-          "+130% Hunger rate multiplier",
-          "+90% Global work speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Homo Sapien Ingentis. A baseline troll. Their overbearing physical might makes them quite popular heroes among mercenary groups, though their calorie intake and size make logistics an issue.",
-      "defName": "TrollRace",
-      "enabled": true,
-      "name": "troll",
-      "price": 500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+25% Flammability",
-          "+110% Psychic sensitivity",
-          "+100% Pain shock threshold",
-          "+110% Immunity gain speed",
-          "+50% Global learning factor",
-          "+80% Toxic sensitivity",
-          "+$1750 Market value",
-          "+4.80 Move speed",
-          "+5.0C Minimum comfortable temperature",
-          "+37.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+70% Smoothing speed",
-          "+70% Construction speed",
-          "+30% Research speed",
-          "+100% Mining speed",
-          "+60.00% Social impact",
-          "+1.0 Melee dodge chance",
-          "+20.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+40.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Zhthy'hl a lesser daemon. They have a skeletal frame with blackened skin drawn tightly to it's bones. Despite their frail apparence, they are quite strong.",
-      "defName": "Alien_Zhthyhl",
-      "enabled": true,
-      "name": "Zhthy'hl",
-      "price": 500
+      "price": 3333
     }
   ]
 }
