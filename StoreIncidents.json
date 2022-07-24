@@ -346,17 +346,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -391,5 +381,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 78
+	"total": 76
 }
