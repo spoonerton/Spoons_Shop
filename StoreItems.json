@@ -13600,37 +13600,37 @@
       "abr": "ancientbed",
       "category": "Furniture",
       "defname": "VFEA_AncientBed",
-      "price": 147
+      "price": -10
     },
     {
       "abr": "walllamp",
       "category": "Furniture",
       "defname": "VFEA_WallLamp",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "walllamp(red)",
       "category": "Furniture",
       "defname": "VFEA_WallLamp_Red",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "walllamp(green)",
       "category": "Furniture",
       "defname": "VFEA_WallLamp_Green",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "walllamp(blue)",
       "category": "Furniture",
       "defname": "VFEA_WallLamp_Blue",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "ancientcryptosleepsuspender",
       "category": "Furniture",
       "defname": "VFEA_AncientCryptosleepSuspender",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "gene-tailoringpod",
@@ -13702,103 +13702,103 @@
       "abr": "ancienteducator",
       "category": "Furniture",
       "defname": "VFEA_AncientEducator",
-      "price": 196
+      "price": -10
     },
     {
       "abr": "ancientfoosballtable",
       "category": "Furniture",
       "defname": "VFEA_AncientFoosballTable",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "ancientvitalsmonitor",
       "category": "Misc",
       "defname": "VFEA_AncientVitalsMonitor",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "ancientsolargenerator",
       "category": "Power",
       "defname": "VFEA_AncientSolarGenerator",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "ancientchemfuelpoweredgenerator",
       "category": "Power",
       "defname": "VFEA_AncientChemfuelPoweredGenerator",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "ancientgeothermalplant",
       "category": "Power",
       "defname": "VFEA_AncientGeothermalPlant",
-      "price": 2317
+      "price": -10
     },
     {
       "abr": "ancientbattery",
       "category": "Power",
       "defname": "VFEA_AncientBattery",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "ancientbio-batterytank",
       "category": "Power",
       "defname": "VFEA_AncientBioBatteryTank",
-      "price": 1692
+      "price": -10
     },
     {
       "abr": "electricmendingstation",
       "category": "Production",
       "defname": "VFEA_ElectricMendingStation",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "fueledmendingstation",
       "category": "Production",
       "defname": "VFEA_FueledMendingStation",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "ancienthydroponicfarm",
       "category": "Production",
       "defname": "VFEA_AncientHydroponicFarm",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "ancientcookingstation",
       "category": "Production",
       "defname": "VFEA_AncientCookingStation",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "ancientworkshop",
       "category": "Production",
       "defname": "VFEA_AncientWorkshop",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "ancientsecurityturret",
       "category": "Security",
       "defname": "VFEA_Turret_AncientSecurityTurret",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "ancientpointdefenseturret",
       "category": "Security",
       "defname": "VFEA_Turret_AncientPointDefense",
-      "price": 2117
+      "price": -10
     },
     {
       "abr": "ancientheater",
       "category": "Temperature",
       "defname": "VFEA_AncientHeater",
-      "price": 271
+      "price": -10
     },
     {
       "abr": "ancientcooler",
       "category": "Temperature",
       "defname": "VFEA_AncientCooler",
-      "price": 458
+      "price": -10
     },
     {
       "abr": "super-nanites",
