@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -2178,8 +2178,8 @@
       },
       "defName": "AIRobot_BaseTrait",
       "name": "robot",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
@@ -9790,9 +9790,9 @@
       },
       "description": "A hiver drone - the genetic caste that performs various tasks and labor for their hive. They possess a biological affinity for menial labor, making them desirable slaves.\n\nOften upon being exiled or severed from the hive, a drone will be bewildered by its new sense of self, sometimes causing an existential crisis.",
       "defName": "Hiver_Worker",
-      "enabled": false,
+      "enabled": true,
       "name": "hiver drone",
-      "price": 833
+      "price": 10000
     },
     {
       "data": {
@@ -9823,9 +9823,9 @@
       },
       "description": "A hiver soldier drone - the genetic caste used for offense and defense in service of their hive.\n\nCompared to other drone castes they are proficient in combat, with thick plates of chitin on certain parts of their body - inhibiting them from pursuing a craft that requires deftness of hand.",
       "defName": "Hiver_Soldier",
-      "enabled": false,
+      "enabled": true,
       "name": "hiver soldier drone",
-      "price": 833
+      "price": 10000
     },
     {
       "data": {
@@ -9922,9 +9922,9 @@
       },
       "description": "A hiver prince - the genetic caste that often commands its hive's drones; though they still follow the will of their queen. They are more intelligent than regular drones, possessing a biological affinity for intellectual tasks.",
       "defName": "Hiver_Prince",
-      "enabled": false,
+      "enabled": true,
       "name": "hiver prince",
-      "price": 1667
+      "price": 10000
     },
     {
       "data": {
