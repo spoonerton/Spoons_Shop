@@ -4432,7 +4432,7 @@
       "abr": "fungalhusk",
       "category": "Animals",
       "defname": "AA_FungalHusk",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "gallatross",
@@ -4564,7 +4564,7 @@
       "abr": "mime",
       "category": "Animals",
       "defname": "AA_Mime",
-      "price": 3334
+      "price": -10
     },
     {
       "abr": "mycoidcolossus",
@@ -12442,19 +12442,19 @@
       "abr": "statueofcolonist",
       "category": "Art",
       "defname": "TMB_StatueOfColonistK",
-      "price": 358
+      "price": -10
     },
     {
       "abr": "largestatueofcolonist",
       "category": "Art",
       "defname": "TMB_StatueOfColonistKLarge",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "grandstatueofcolonist",
       "category": "Art",
       "defname": "TMB_StatueOfColonistKGrand",
-      "price": 1258
+      "price": -10
     },
     {
       "abr": "psychotropicfungus",

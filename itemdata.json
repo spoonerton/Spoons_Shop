@@ -17361,12 +17361,12 @@
   },
   "denture": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 500,
+    "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -33120,7 +33120,7 @@
     "KarmaType": null
   },
   "Centaur": {
-    "CustomName": null,
+    "CustomName": "centaura",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33140,7 +33140,7 @@
     "KarmaType": null
   },
   "Cowgirl": {
-    "CustomName": null,
+    "CustomName": "cowgirla",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33220,7 +33220,7 @@
     "KarmaType": null
   },
   "FairyForest": {
-    "CustomName": null,
+    "CustomName": "forestfairya",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33240,7 +33240,7 @@
     "KarmaType": null
   },
   "FairyIce": {
-    "CustomName": null,
+    "CustomName": "icefairya",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33260,7 +33260,7 @@
     "KarmaType": null
   },
   "Foxgirl": {
-    "CustomName": null,
+    "CustomName": "foxgirla",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33280,7 +33280,7 @@
     "KarmaType": null
   },
   "Harpy": {
-    "CustomName": null,
+    "CustomName": "harpya",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33300,7 +33300,7 @@
     "KarmaType": null
   },
   "Slime": {
-    "CustomName": null,
+    "CustomName": "slimea",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -33420,7 +33420,7 @@
     "KarmaType": null
   },
   "Baphomet": {
-    "CustomName": null,
+    "CustomName": "baphometa",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
