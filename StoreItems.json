@@ -11242,13 +11242,13 @@
       "abr": "ancientmechanoidstation",
       "category": "Special",
       "defname": "RM_AncientDroid_CombatBase",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "ancientmechanoidstation",
       "category": "Special",
       "defname": "RM_AncientDroid_WorkerBase",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "guardianmechanoidchargingstation",

@@ -8218,7 +8218,7 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8240,7 +8240,7 @@
       "defName": "ARR_HyurHighlander",
       "enabled": false,
       "name": "Hyur",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8262,7 +8262,7 @@
       "defName": "ARR_HyurMidlander",
       "enabled": false,
       "name": "Hyur",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8286,7 +8286,7 @@
       "defName": "ARR_LalafellDunesfolk",
       "enabled": false,
       "name": "Lalafell",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8310,7 +8310,7 @@
       "defName": "ARR_LalafellPlainsfolk",
       "enabled": false,
       "name": "Lalafell",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8334,7 +8334,7 @@
       "defName": "ARR_MiqoteKeeper",
       "enabled": false,
       "name": "Miqo'te",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8358,7 +8358,7 @@
       "defName": "ARR_MiqoteSeeker",
       "enabled": false,
       "name": "Miqo'te",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8383,7 +8383,7 @@
       "defName": "ARR_VieraRava",
       "enabled": false,
       "name": "Viera",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8408,7 +8408,7 @@
       "defName": "ARR_VieraVeena",
       "enabled": false,
       "name": "Viera",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8443,7 +8443,7 @@
       "defName": "Alien_Dryad",
       "enabled": false,
       "name": "dryad",
-      "price": 3333
+      "price": 6666
     },
     {
       "data": {
@@ -8478,7 +8478,7 @@
       "defName": "Alien_DryadWild",
       "enabled": false,
       "name": "wild dryad",
-      "price": 3333
+      "price": 6666
     },
     {
       "data": {
@@ -8501,7 +8501,7 @@
       "defName": "ChjAndroid",
       "enabled": false,
       "name": "Android",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -8534,7 +8534,7 @@
       "defName": "ChjDroid",
       "enabled": false,
       "name": "Droid",
-      "price": 1417
+      "price": 2834
     },
     {
       "data": {
@@ -8568,7 +8568,7 @@
       "defName": "ChjBattleDroid",
       "enabled": false,
       "name": "Battle droid",
-      "price": 3167
+      "price": 6334
     },
     {
       "data": {
@@ -8595,7 +8595,7 @@
       "defName": "Alien_BunTribe",
       "enabled": false,
       "name": "Bun",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8621,7 +8621,7 @@
       "defName": "Fantasy_Goblin",
       "enabled": false,
       "name": "Goblin",
-      "price": 2333
+      "price": 4666
     },
     {
       "data": {
@@ -8644,7 +8644,7 @@
       "defName": "Aelanna_Heruan",
       "enabled": false,
       "name": "heruan",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8677,7 +8677,7 @@
       "defName": "Alien_Heyra",
       "enabled": false,
       "name": "Heyra",
-      "price": 4583
+      "price": 9166
     },
     {
       "data": {
@@ -8710,7 +8710,7 @@
       "defName": "Alien_Heyra_Rong",
       "enabled": false,
       "name": "Rong",
-      "price": 4583
+      "price": 9166
     },
     {
       "data": {
@@ -8738,7 +8738,7 @@
       "defName": "Alien_Kijin",
       "enabled": false,
       "name": "Kijin",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -8759,7 +8759,7 @@
       "defName": "LotRD_DwarfStandardRace",
       "enabled": false,
       "name": "dwarf",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8780,7 +8780,7 @@
       "defName": "LotRE_ElfStandardRace",
       "enabled": false,
       "name": "elf",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8801,7 +8801,7 @@
       "defName": "LotRE_ElfStandardRaceHalf",
       "enabled": false,
       "name": "half-elf",
-      "price": 2083
+      "price": 4166
     },
     {
       "data": {
@@ -8823,7 +8823,7 @@
       "defName": "LotRH_HobbitStandardRace",
       "enabled": false,
       "name": "hobbit",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -8863,7 +8863,7 @@
       "defName": "Kurin_Race",
       "enabled": false,
       "name": "Kurin",
-      "price": 5833
+      "price": 11666
     },
     {
       "data": {
@@ -8913,7 +8913,7 @@
       "defName": "Rabbie",
       "enabled": false,
       "name": "Rabbie",
-      "price": 3333
+      "price": 6666
     },
     {
       "data": {
@@ -8950,7 +8950,7 @@
       "defName": "Ratkin",
       "enabled": false,
       "name": "Ratkin",
-      "price": 3333
+      "price": 6666
     },
     {
       "data": {
@@ -8988,7 +8988,7 @@
       "defName": "Ratkin_Su",
       "enabled": false,
       "name": "Ratkin subject",
-      "price": 3333
+      "price": 6666
     },
     {
       "data": {
@@ -9020,7 +9020,7 @@
       "defName": "MG_Catgirl",
       "enabled": false,
       "name": "Catgirl",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -9052,7 +9052,7 @@
       "defName": "MG_Wolfgirl",
       "enabled": false,
       "name": "Wolfgirl",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -9084,7 +9084,7 @@
       "defName": "MG_Foxgirl",
       "enabled": false,
       "name": "Foxgirl",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -9116,7 +9116,7 @@
       "defName": "MG_Cowgirl",
       "enabled": false,
       "name": "Cowgirl",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -9148,7 +9148,7 @@
       "defName": "MG_Harpy",
       "enabled": false,
       "name": "Harpy",
-      "price": 2667
+      "price": 5334
     },
     {
       "data": {
@@ -9180,7 +9180,7 @@
       "defName": "MG_Slime",
       "enabled": false,
       "name": "Slime",
-      "price": 3000
+      "price": 6000
     },
     {
       "data": {
@@ -9212,7 +9212,7 @@
       "defName": "MG_Baphomet",
       "enabled": false,
       "name": "Baphomet",
-      "price": 3083
+      "price": 6166
     },
     {
       "data": {
@@ -9244,7 +9244,7 @@
       "defName": "MG_Centaur",
       "enabled": false,
       "name": "Centaur",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -9276,7 +9276,7 @@
       "defName": "MG_ForestFairy",
       "enabled": false,
       "name": "ForestFairy",
-      "price": 3000
+      "price": 6000
     },
     {
       "data": {
@@ -9308,7 +9308,7 @@
       "defName": "MG_IceFairy",
       "enabled": false,
       "name": "IceFairy",
-      "price": 3000
+      "price": 6000
     },
     {
       "data": {
@@ -9341,7 +9341,7 @@
       "defName": "MG_Dragon",
       "enabled": false,
       "name": "Dragon",
-      "price": 3667
+      "price": 7334
     },
     {
       "data": {
@@ -9374,7 +9374,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": false,
       "name": "Thrumbogirl",
-      "price": 3667
+      "price": 7334
     },
     {
       "data": {
@@ -9407,7 +9407,7 @@
       "defName": "Alien_Moyo",
       "enabled": false,
       "name": "Moyo",
-      "price": 5333
+      "price": 10666
     },
     {
       "data": {
@@ -9443,7 +9443,7 @@
       "defName": "Alien_Nyaron",
       "enabled": false,
       "name": "Nyaron",
-      "price": 5000
+      "price": 10000
     },
     {
       "data": {
@@ -9494,7 +9494,7 @@
       "defName": "Rakkle",
       "enabled": false,
       "name": "Rakkle",
-      "price": 5833
+      "price": 11666
     },
     {
       "data": {
@@ -9520,7 +9520,7 @@
       "defName": "ReviaRaceAlien",
       "enabled": false,
       "name": "Revia",
-      "price": 5833
+      "price": 11666
     },
     {
       "data": {
@@ -9554,7 +9554,7 @@
       "defName": "Shek_",
       "enabled": false,
       "name": "shek",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -9593,7 +9593,7 @@
       "defName": "Skeleton_",
       "enabled": false,
       "name": "skeleton",
-      "price": 9667
+      "price": 19334
     },
     {
       "data": {
@@ -9625,7 +9625,7 @@
       "defName": "DwarfRace",
       "enabled": false,
       "name": "dwarf",
-      "price": 4667
+      "price": 9334
     },
     {
       "data": {
@@ -9661,7 +9661,7 @@
       "defName": "ElfRace",
       "enabled": false,
       "name": "elf",
-      "price": 5833
+      "price": 11666
     },
     {
       "data": {
@@ -9690,7 +9690,7 @@
       "defName": "OrcRace",
       "enabled": false,
       "name": "orc",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -9725,7 +9725,7 @@
       "defName": "TrollRace",
       "enabled": false,
       "name": "troll",
-      "price": 8000
+      "price": 16000
     },
     {
       "data": {
@@ -9759,7 +9759,7 @@
       "defName": "Hiver_Queen",
       "enabled": false,
       "name": "hiver queen",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -9792,7 +9792,7 @@
       "defName": "Hiver_Worker",
       "enabled": true,
       "name": "drone",
-      "price": 10000
+      "price": 20000
     },
     {
       "data": {
@@ -9825,7 +9825,7 @@
       "defName": "Hiver_Soldier",
       "enabled": true,
       "name": "soldier",
-      "price": 10000
+      "price": 20000
     },
     {
       "data": {
@@ -9858,7 +9858,7 @@
       "defName": "Hiver_Worker_South",
       "enabled": false,
       "name": "hiver drone",
-      "price": 833
+      "price": 1666
     },
     {
       "data": {
@@ -9891,7 +9891,7 @@
       "defName": "Hiver_Soldier_South",
       "enabled": false,
       "name": "hiver warrior drone",
-      "price": 833
+      "price": 1666
     },
     {
       "data": {
@@ -9924,7 +9924,7 @@
       "defName": "Hiver_Prince",
       "enabled": true,
       "name": "prince",
-      "price": 10000
+      "price": 20000
     },
     {
       "data": {
@@ -9957,7 +9957,7 @@
       "defName": "Hiver_Prince_South",
       "enabled": false,
       "name": "hiver prince",
-      "price": 1667
+      "price": 3334
     },
     {
       "data": {
@@ -9991,7 +9991,7 @@
       "defName": "Hiver_Queen_South",
       "enabled": false,
       "name": "hiver queen",
-      "price": 2500
+      "price": 5000
     },
     {
       "data": {
@@ -10019,7 +10019,7 @@
       "defName": "StarWarsRaces_Wookiee",
       "enabled": false,
       "name": "Wookiee",
-      "price": 4583
+      "price": 9166
     },
     {
       "data": {
@@ -10041,7 +10041,7 @@
       "defName": "StarWarsRaces_Togruta",
       "enabled": false,
       "name": "Togruta",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -10063,7 +10063,7 @@
       "defName": "StarWarsRaces_Rodian",
       "enabled": false,
       "name": "Rodian",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -10085,7 +10085,7 @@
       "defName": "StarWarsRaces_Ewok",
       "enabled": false,
       "name": "Ewok",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -10107,7 +10107,7 @@
       "defName": "StarWarsRaces_Twilek",
       "enabled": false,
       "name": "Twi'lek",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -10152,7 +10152,7 @@
       "defName": "Arachne",
       "enabled": false,
       "name": "arachne",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -10187,7 +10187,7 @@
       "defName": "Alien_Zhthyhl",
       "enabled": false,
       "name": "Zhthy'hl",
-      "price": 2917
+      "price": 5834
     },
     {
       "data": {
@@ -10242,7 +10242,7 @@
       "defName": "Seren",
       "enabled": false,
       "name": "seren",
-      "price": 3333
+      "price": 6666
     }
   ]
 }
