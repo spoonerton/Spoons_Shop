@@ -538,7 +538,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "infinitechemreactor",
@@ -1534,367 +1534,367 @@
       "abr": "grizzlybear",
       "category": "Animals",
       "defname": "Bear_Grizzly",
-      "price": 2334
+      "price": 3501
     },
     {
       "abr": "polarbear",
       "category": "Animals",
       "defname": "Bear_Polar",
-      "price": 2334
+      "price": 3501
     },
     {
       "abr": "ostrich",
       "category": "Animals",
       "defname": "Ostrich",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "emu",
       "category": "Animals",
       "defname": "Emu",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "cassowary",
       "category": "Animals",
       "defname": "Cassowary",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "cougar",
       "category": "Animals",
       "defname": "Cougar",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "panther",
       "category": "Animals",
       "defname": "Panther",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "lynx",
       "category": "Animals",
       "defname": "Lynx",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "cat",
       "category": "Animals",
       "defname": "Cat",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "yorkshireterrier",
       "category": "Animals",
       "defname": "YorkshireTerrier",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "guineapig",
       "category": "Animals",
       "defname": "GuineaPig",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "labradorretriever",
       "category": "Animals",
       "defname": "LabradorRetriever",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "monkey",
       "category": "Animals",
       "defname": "Monkey",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": 166
+      "price": 249
     },
     {
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": 200
+      "price": 300
     },
     {
       "abr": "turkey",
       "category": "Animals",
       "defname": "Turkey",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "goose",
       "category": "Animals",
       "defname": "Goose",
-      "price": 300
+      "price": 450
     },
     {
       "abr": "cow",
       "category": "Animals",
       "defname": "Cow",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "boomalope",
       "category": "Animals",
       "defname": "Boomalope",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "muffalo",
       "category": "Animals",
       "defname": "Muffalo",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "bison",
       "category": "Animals",
       "defname": "Bison",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "dromedary",
       "category": "Animals",
       "defname": "Dromedary",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "goat",
       "category": "Animals",
       "defname": "Goat",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "elk",
       "category": "Animals",
       "defname": "Elk",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "yak",
       "category": "Animals",
       "defname": "Yak",
-      "price": 1066
+      "price": 1599
     },
     {
       "abr": "caribou",
       "category": "Animals",
       "defname": "Caribou",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "horse",
       "category": "Animals",
       "defname": "Horse",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "donkey",
       "category": "Animals",
       "defname": "Donkey",
-      "price": 1066
+      "price": 1599
     },
     {
       "abr": "elephant",
       "category": "Animals",
       "defname": "Elephant",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "rhinoceros",
       "category": "Animals",
       "defname": "Rhinoceros",
-      "price": 2334
+      "price": 3501
     },
     {
       "abr": "hare",
       "category": "Animals",
       "defname": "Hare",
-      "price": 166
+      "price": 249
     },
     {
       "abr": "snowhare",
       "category": "Animals",
       "defname": "Snowhare",
-      "price": 166
+      "price": 249
     },
     {
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "spelopede",
       "category": "Animals",
       "defname": "Spelopede",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": 13334
+      "price": 20001
     },
     {
       "abr": "cobra",
       "category": "Animals",
       "defname": "Cobra",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "tortoise",
       "category": "Animals",
       "defname": "Tortoise",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "pig",
       "category": "Animals",
       "defname": "Pig",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "wildboar",
       "category": "Animals",
       "defname": "WildBoar",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "ibex",
       "category": "Animals",
       "defname": "Ibex",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "deer",
       "category": "Animals",
       "defname": "Deer",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "gazelle",
       "category": "Animals",
       "defname": "Gazelle",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "chinchilla",
       "category": "Animals",
       "defname": "Chinchilla",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "sheep",
       "category": "Animals",
       "defname": "Sheep",
-      "price": 700
+      "price": 1050
     },
     {
       "abr": "alpaca",
       "category": "Animals",
       "defname": "Alpaca",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "megasloth",
       "category": "Animals",
       "defname": "Megasloth",
-      "price": 2334
+      "price": 3501
     },
     {
       "abr": "capybara",
       "category": "Animals",
       "defname": "Capybara",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "squirrel",
       "category": "Animals",
       "defname": "Squirrel",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "raccoon",
       "category": "Animals",
       "defname": "Raccoon",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "iguana",
       "category": "Animals",
       "defname": "Iguana",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "warg",
       "category": "Animals",
       "defname": "Warg",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "timberwolf",
       "category": "Animals",
       "defname": "Wolf_Timber",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "arcticwolf",
       "category": "Animals",
       "defname": "Wolf_Arctic",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "fennecfox",
       "category": "Animals",
       "defname": "Fox_Fennec",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "redfox",
       "category": "Animals",
       "defname": "Fox_Red",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "arcticfox",
       "category": "Animals",
       "defname": "Fox_Arctic",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "psychicsensitizer",
@@ -4048,763 +4048,763 @@
       "abr": "acanthamoebagigantea,small",
       "category": "Animals",
       "defname": "AA_AcanthamoebaGiganteaSmall",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "acanthamoebagigantea,large",
       "category": "Animals",
       "defname": "AA_AcanthamoebaGiganteaLarge",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "acanthamoebagigantea,huge",
       "category": "Animals",
       "defname": "AA_AcanthamoebaGiganteaHuge",
-      "price": 2334
+      "price": 3501
     },
     {
       "abr": "aerofleet",
       "category": "Animals",
       "defname": "AA_Aerofleet",
-      "price": 400
+      "price": 600
     },
     {
       "abr": "colossalaerofleet",
       "category": "Animals",
       "defname": "AA_ColossalAerofleet",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "agaripawn",
       "category": "Animals",
       "defname": "AA_Agaripawn",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "agaripod",
       "category": "Animals",
       "defname": "AA_Agaripod",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "angelmothlarva",
       "category": "Animals",
       "defname": "AA_AngelMothLarva",
-      "price": 50
+      "price": 75
     },
     {
       "abr": "angelmoth",
       "category": "Animals",
       "defname": "AA_AngelMoth",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "animacolossus",
       "category": "Animals",
       "defname": "AA_AnimaColossus",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "animalisk",
       "category": "Animals",
       "defname": "AA_Animalisk",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "animusvox",
       "category": "Animals",
       "defname": "AA_AnimusVox",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "arcticlion",
       "category": "Animals",
       "defname": "AA_ArcticLion",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "larvalatispec",
       "category": "Animals",
       "defname": "AA_LarvalAtispec",
-      "price": 50
+      "price": 75
     },
     {
       "abr": "atispec",
       "category": "Animals",
       "defname": "AA_Atispec",
-      "price": 4000
+      "price": 6000
     },
     {
       "abr": "aurorasylph",
       "category": "Animals",
       "defname": "AA_AuroraSylph",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "barbslinger",
       "category": "Animals",
       "defname": "AA_Barbslinger",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "bedbug",
       "category": "Animals",
       "defname": "AA_BedBug",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "blackscarab",
       "category": "Animals",
       "defname": "AA_BlackScarab",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "blackspelopede",
       "category": "Animals",
       "defname": "AA_BlackSpelopede",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "blackspider",
       "category": "Animals",
       "defname": "AA_BlackSpider",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "blizzarisk",
       "category": "Animals",
       "defname": "AA_Blizzarisk",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "blizzariskclutchmother",
       "category": "Animals",
       "defname": "AA_BlizzariskClutchMother",
-      "price": 3000
+      "price": 4500
     },
     {
       "abr": "bloodshrimp",
       "category": "Animals",
       "defname": "AA_BloodShrimp",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "bobeene",
       "category": "Animals",
       "defname": "AA_Bobeene",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "bouldermit",
       "category": "Animals",
       "defname": "AA_BoulderMit",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "summitcrab",
       "category": "Animals",
       "defname": "AA_SummitCrab",
-      "price": 5000
+      "price": 7500
     },
     {
       "abr": "bumbledrone",
       "category": "Animals",
       "defname": "AA_Bumbledrone",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "bumbledronehierophant",
       "category": "Animals",
       "defname": "AA_BumbledroneHierophant",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "bumbledronequeen",
       "category": "Animals",
       "defname": "AA_BumbledroneQueen",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "cactipine",
       "category": "Animals",
       "defname": "AA_Cactipine",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "chameleonyak",
       "category": "Animals",
       "defname": "AA_ChameleonYak",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "chemfuelmyrmidon",
       "category": "Animals",
       "defname": "AA_ChemfuelMyrmidon",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "cinderlisk",
       "category": "Animals",
       "defname": "AA_Cinderlisk",
-      "price": 1916
+      "price": 2874
     },
     {
       "abr": "crepuscularbeetle",
       "category": "Animals",
       "defname": "AA_CrepuscularBeetle",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "crescendoanole",
       "category": "Animals",
       "defname": "AA_CrescendoAnole",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "crystallinecaracal",
       "category": "Animals",
       "defname": "AA_CrystallineCaracal",
-      "price": 3334
+      "price": 5001
     },
     {
       "abr": "crystalmit",
       "category": "Animals",
       "defname": "AA_CrystalMit",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "darkbeast",
       "category": "Animals",
       "defname": "AA_Darkbeast",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "decaydrake",
       "category": "Animals",
       "defname": "AA_DecayDrake",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "desertave",
       "category": "Animals",
       "defname": "AA_DesertAve",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "devilsheep",
       "category": "Animals",
       "defname": "AA_DevilSheep",
-      "price": 2666
+      "price": 3999
     },
     {
       "abr": "drainerlarva",
       "category": "Animals",
       "defname": "AA_DrainerLarva",
-      "price": 50
+      "price": 75
     },
     {
       "abr": "drainer",
       "category": "Animals",
       "defname": "AA_Drainer",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "dunealisk",
       "category": "Animals",
       "defname": "AA_Dunealisk",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "dunealiskclutchmother",
       "category": "Animals",
       "defname": "AA_DunealiskClutchMother",
-      "price": 3000
+      "price": 4500
     },
     {
       "abr": "duskrat",
       "category": "Animals",
       "defname": "AA_DuskRat",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "empressbutterflylarva",
       "category": "Animals",
       "defname": "AA_EmpressButterflyLarva",
-      "price": 166
+      "price": 249
     },
     {
       "abr": "empressbutterfly",
       "category": "Animals",
       "defname": "AA_EmpressButterfly",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "engorgedtentacularaberration",
       "category": "Animals",
       "defname": "AA_EngorgedTentacularAberration",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "erin",
       "category": "Animals",
       "defname": "AA_Erin",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "eyeling",
       "category": "Animals",
       "defname": "AA_Eyeling",
-      "price": 334
+      "price": 501
     },
     {
       "abr": "feralisk",
       "category": "Animals",
       "defname": "AA_Feralisk",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "feraliskclutchmother",
       "category": "Animals",
       "defname": "AA_FeraliskClutchMother",
-      "price": 3000
+      "price": 4500
     },
     {
       "abr": "firewasp",
       "category": "Animals",
       "defname": "AA_FireWasp",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "fissionmouse",
       "category": "Animals",
       "defname": "AA_FissionMouse",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "fissionmouse,secondgeneration",
       "category": "Animals",
       "defname": "AA_FissionMouseSecond",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "fissionmouse,thirdgeneration",
       "category": "Animals",
       "defname": "AA_FissionMouseThird",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "flamingophoenix",
       "category": "Animals",
       "defname": "AA_FlamingoPhoenix",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "frostave",
       "category": "Animals",
       "defname": "AA_FrostAve",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "frostboundbehemoth",
       "category": "Animals",
       "defname": "AA_FrostboundBehemoth",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "frostling",
       "category": "Animals",
       "defname": "AA_Frostling",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "frostlynx",
       "category": "Animals",
       "defname": "AA_FrostLynx",
-      "price": 1250
+      "price": 1875
     },
     {
       "abr": "frostmite",
       "category": "Animals",
       "defname": "AA_Frostmite",
-      "price": 400
+      "price": 600
     },
     {
       "abr": "fungalhusk",
       "category": "Animals",
       "defname": "AA_FungalHusk",
-      "price": -10
+      "price": -15
     },
     {
       "abr": "gallatross",
       "category": "Animals",
       "defname": "AA_Gallatross",
-      "price": 13334
+      "price": 20001
     },
     {
       "abr": "moribundgallatross",
       "category": "Animals",
       "defname": "AA_GallatrossMoribund",
-      "price": 3334
+      "price": 5001
     },
     {
       "abr": "genix",
       "category": "Animals",
       "defname": "AA_Genix",
-      "price": 1250
+      "price": 1875
     },
     {
       "abr": "giantcrownedsilkie",
       "category": "Animals",
       "defname": "AA_GiantCrownedSilkie",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "gigantelope",
       "category": "Animals",
       "defname": "AA_Gigantelope",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "greatdevourer",
       "category": "Animals",
       "defname": "AA_GreatDevourer",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "greengoo",
       "category": "Animals",
       "defname": "AA_GreenGoo",
-      "price": 416
+      "price": 624
     },
     {
       "abr": "grey-coatedmouflon",
       "category": "Animals",
       "defname": "AA_GreyCoatedMouflon",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "groundrunner",
       "category": "Animals",
       "defname": "AA_Groundrunner",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "helixien",
       "category": "Animals",
       "defname": "AA_Helixien",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "infectedaerofleet",
       "category": "Animals",
       "defname": "AA_InfectedAerofleet",
-      "price": 600
+      "price": 900
     },
     {
       "abr": "ironhuskbeetle",
       "category": "Animals",
       "defname": "AA_IronhuskBeetle",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "junglelisk",
       "category": "Animals",
       "defname": "AA_Junglelisk",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "lockjaw",
       "category": "Animals",
       "defname": "AA_Lockjaw",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "luciferbug",
       "category": "Animals",
       "defname": "AA_LuciferBug",
-      "price": 3334
+      "price": 5001
     },
     {
       "abr": "mammothworm",
       "category": "Animals",
       "defname": "AA_MammothWorm",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "mantrap",
       "category": "Animals",
       "defname": "AA_Mantrap",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "maturefleshbeast",
       "category": "Animals",
       "defname": "AA_MatureFleshbeast",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "meadowave",
       "category": "Animals",
       "defname": "AA_MeadowAve",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "megalouse",
       "category": "Animals",
       "defname": "AA_MegaLouse",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "metallovore",
       "category": "Animals",
       "defname": "AA_Metallovore",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "mime",
       "category": "Animals",
       "defname": "AA_Mime",
-      "price": -10
+      "price": -15
     },
     {
       "abr": "mycoidcolossus",
       "category": "Animals",
       "defname": "AA_MycoidColossus",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "needlepost",
       "category": "Animals",
       "defname": "AA_Needlepost",
-      "price": 2100
+      "price": 3150
     },
     {
       "abr": "needleroll",
       "category": "Animals",
       "defname": "AA_Needleroll",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "nightmule",
       "category": "Animals",
       "defname": "AA_NightMule",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "nightave",
       "category": "Animals",
       "defname": "AA_NightAve",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "nightling",
       "category": "Animals",
       "defname": "AA_Nightling",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "nightram",
       "category": "Animals",
       "defname": "AA_NightRam",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "ocularjelly",
       "category": "Animals",
       "defname": "AA_OcularJelly",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "ocularnightling",
       "category": "Animals",
       "defname": "AA_OcularNightling",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "overgrowncolossus",
       "category": "Animals",
       "defname": "AA_OvergrownColossus",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "pebblemit",
       "category": "Animals",
       "defname": "AA_PebbleMit",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "pedigreedraptor",
       "category": "Animals",
       "defname": "AA_PedigreedRaptor",
-      "price": 3500
+      "price": 5250
     },
     {
       "abr": "phoenixowlcat",
       "category": "Animals",
       "defname": "AA_PhoenixOwlcat",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "plasmorph",
       "category": "Animals",
       "defname": "AA_Plasmorph",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "radyak",
       "category": "Animals",
       "defname": "AA_Radyak",
-      "price": 8334
+      "price": 12501
     },
     {
       "abr": "raptorshrimp",
       "category": "Animals",
       "defname": "AA_RaptorShrimp",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "ravager",
       "category": "Animals",
       "defname": "AA_Ravager",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "ray-hound",
       "category": "Animals",
       "defname": "AA_RayHound",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "razorjack",
       "category": "Animals",
       "defname": "AA_Razorjack",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "redgoo",
       "category": "Animals",
       "defname": "AA_RedGoo",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "redspore",
       "category": "Animals",
       "defname": "AA_RedSpore",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "ripperhound",
       "category": "Animals",
       "defname": "AA_RipperHound",
-      "price": 1834
+      "price": 2751
     },
     {
       "abr": "rough-platedmonitor",
       "category": "Animals",
       "defname": "AA_RoughPlatedMonitor",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "royalave",
       "category": "Animals",
       "defname": "AA_RoyalAve",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "sandlion",
       "category": "Animals",
       "defname": "AA_SandLion",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "sandprowler",
       "category": "Animals",
       "defname": "AA_SandProwler",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "sandsquid",
       "category": "Animals",
       "defname": "AA_SandSquid",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "shockgoat",
       "category": "Animals",
       "defname": "AA_ShockGoat",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "skiphound",
       "category": "Animals",
       "defname": "AA_Skiphound",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "arcturanskyeel",
       "category": "Animals",
       "defname": "AA_Skyeel",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "slurrypede",
       "category": "Animals",
       "defname": "AA_Slurrypede",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "spinedgow",
       "category": "Animals",
       "defname": "AA_SpinedGow",
-      "price": 1166
+      "price": 1749
     },
     {
       "abr": "swarmling",
       "category": "Animals",
       "defname": "AA_Swarmling",
-      "price": 116
+      "price": 174
     },
     {
       "abr": "targuzzler",
       "category": "Animals",
       "defname": "AA_TarGuzzler",
-      "price": 500
+      "price": 750
     },
     {
       "abr": "teratogenicoriginator",
       "category": "Animals",
       "defname": "AA_TeratogenicOriginator",
-      "price": 2834
+      "price": 4251
     },
     {
       "abr": "terramorph",
       "category": "Animals",
       "defname": "AA_Terramorph",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "tetraslug",
       "category": "Animals",
       "defname": "AA_TetraSlug",
-      "price": 13334
+      "price": 20001
     },
     {
       "abr": "thermadon",
       "category": "Animals",
       "defname": "AA_Thermadon",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "thunderbeast",
       "category": "Animals",
       "defname": "AA_Thunderbeast",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "unblinkingeye",
       "category": "Animals",
       "defname": "AA_UnblinkingEye",
-      "price": 4000
+      "price": 6000
     },
     {
       "abr": "waywardmobileassembler",
@@ -4816,19 +4816,19 @@
       "abr": "wildpawn",
       "category": "Animals",
       "defname": "AA_Wildpawn",
-      "price": 666
+      "price": 999
     },
     {
       "abr": "wildpod",
       "category": "Animals",
       "defname": "AA_Wildpod",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "windbeast",
       "category": "Animals",
       "defname": "AA_WindBeast",
-      "price": 2500
+      "price": 3750
     },
     {
       "abr": "android",
@@ -4960,7 +4960,7 @@
       "abr": "queen",
       "category": "Animals",
       "defname": "BI_Queen",
-      "price": 8334
+      "price": 12501
     },
     {
       "abr": "bunfloof",
@@ -4990,13 +4990,13 @@
       "abr": "bun-dog",
       "category": "Animals",
       "defname": "Cynobun",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "shaggybun-dog",
       "category": "Animals",
       "defname": "CynobunHirsutus",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "doormat",
@@ -7486,7 +7486,7 @@
       "abr": "giantboar",
       "category": "Animals",
       "defname": "LotRD_GiantBoarRace",
-      "price": 700
+      "price": 1050
     },
     {
       "abr": "dwarvengametable",
@@ -7762,7 +7762,7 @@
       "abr": "lóriendeer",
       "category": "Animals",
       "defname": "LotRE_DeerMallorn",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "elventable(2x2)",
@@ -7960,7 +7960,7 @@
       "abr": "horse",
       "category": "Animals",
       "defname": "LotR_HorseRace",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "pipe-weed",
@@ -8044,7 +8044,7 @@
       "abr": "pony",
       "category": "Animals",
       "defname": "LotR_PonyRace",
-      "price": 834
+      "price": 1251
     },
     {
       "abr": "kurinbodyarmor",
@@ -8794,7 +8794,7 @@
       "abr": "kinghamster",
       "category": "Animals",
       "defname": "RK_KingHamster",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "kinghamsterfur",
@@ -8812,7 +8812,7 @@
       "abr": "rotti",
       "category": "Animals",
       "defname": "Rotti",
-      "price": 1334
+      "price": 2001
     },
     {
       "abr": "ratkinapronskirt",
@@ -9934,73 +9934,73 @@
       "abr": "blackharpy",
       "category": "Animals",
       "defname": "BlackHarpy",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "centaur",
       "category": "Animals",
       "defname": "Centaur",
-      "price": 2966
+      "price": 4449
     },
     {
       "abr": "cowgirl",
       "category": "Animals",
       "defname": "Cowgirl",
-      "price": 2666
+      "price": 3999
     },
     {
       "abr": "impmother",
       "category": "Animals",
       "defname": "Impmother",
-      "price": 1000
+      "price": 1500
     },
     {
       "abr": "dragonoid",
       "category": "Animals",
       "defname": "Dragongirl",
-      "price": 3666
+      "price": 5499
     },
     {
       "abr": "dryad",
       "category": "Animals",
       "defname": "Dryad",
-      "price": 3166
+      "price": 4749
     },
     {
       "abr": "forestfairy",
       "category": "Animals",
       "defname": "FairyForest",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "icefairy",
       "category": "Animals",
       "defname": "FairyIce",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "foxgirl",
       "category": "Animals",
       "defname": "Foxgirl",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "harpy",
       "category": "Animals",
       "defname": "Harpy",
-      "price": 1500
+      "price": 2250
     },
     {
       "abr": "slime",
       "category": "Animals",
       "defname": "Slime",
-      "price": 1666
+      "price": 2499
     },
     {
       "abr": "thrumbomorph",
       "category": "Animals",
       "defname": "Thrumbomorph",
-      "price": 3666
+      "price": 5499
     },
     {
       "abr": "fairydust",
@@ -10030,7 +10030,7 @@
       "abr": "baphomet",
       "category": "Animals",
       "defname": "Baphomet",
-      "price": 2166
+      "price": 3249
     },
     {
       "abr": "moyoheart",
@@ -15406,7 +15406,7 @@
       "abr": "largevanometricpowercell",
       "category": "Special",
       "defname": "VFE_LargeVanometricPowerCell",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "archotechviolencegenerator",
