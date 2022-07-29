@@ -72,6 +72,42 @@
     "version": null
   },
   {
+    "author": "Hauvega",
+    "name": "Silent Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hauvega",
+    "name": "All Silent Raids Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Cherry Picker (dev)",
+    "steamId": "2633276599",
+    "version": "1.3"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer\"ish\":Dryad",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.3.7862.41411"
+  },
+  {
     "author": "ChJees",
     "name": "Androids",
     "steamId": "1541064015",
@@ -162,88 +198,10 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Cherry Picker (dev)",
-    "steamId": "2633276599",
-    "version": "1.3"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kikohi",
     "name": "Colored deep resources",
     "steamId": "2791102835",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Hauvega",
-    "name": "Silent Raids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hauvega",
-    "name": "All Silent Raids Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer\"ish\":Dryad",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Runne Latki",
-    "name": "Rabbie The Moonrabbit race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
-    "name": "Reinforced Mechanoids: Tyrikan-Line",
-    "steamId": "2798710610",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  xrushha and  SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.3.4.7"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended Melee",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "MarvinKosh",
@@ -430,6 +388,12 @@
     "name": "Gradient Hair",
     "steamId": "1687053679",
     "version": "1.0.350.0854"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
+    "version": "1.0.0.0"
   },
   {
     "author": "Butterfish",
@@ -636,6 +600,12 @@
     "version": null
   },
   {
+    "author": "Runne Latki",
+    "name": "Rabbie The Moonrabbit race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OdysseyLotus",
     "name": "Male Rabbie",
     "steamId": null,
@@ -736,6 +706,12 @@
     "name": "More Vanilla Biomes",
     "steamId": "1931453053",
     "version": "0.1.5.01"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.3.8"
   },
   {
     "author": "Nemonian",
@@ -886,6 +862,12 @@
     "name": "Recipe icons",
     "steamId": "1616643195",
     "version": "1.0.379.0018"
+  },
+  {
+    "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
+    "name": "Reinforced Mechanoids: Tyrikan-Line",
+    "steamId": "2798710610",
+    "version": "1.0.0.0"
   },
   {
     "author": "sirrandoo",
@@ -1278,6 +1260,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -1316,6 +1304,12 @@
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
     "steamId": null,
     "version": null
   },
