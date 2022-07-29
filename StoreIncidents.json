@@ -312,17 +312,17 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -384,7 +384,77 @@
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
+	},
+	{
+		"abr": "alphaasteroid",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "aeorofleetmigration",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "stalkingarcticlion",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "stalkingsnowclutchmother",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "stalkingduneclutchmother",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "stalkingclutchmother",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaliskwanderin",
+		"price": 700,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "SummitCrabRaid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cactipinedroppod",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "gallatrosswanderin",
+		"price": 1400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "bumbledroneswanderin",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "raidblackhive",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raidmechanoidsappers",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fungalhuskwandersin",
+		"price": 600,
+		"karmatype": "Bad"
 	}
 	],
-	"total": 77
+	"total": 91
 }

@@ -872,37 +872,37 @@
     },
     {
       "abr": "high-explosiveshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_HighExplosive",
       "price": 92
     },
     {
       "abr": "incendiaryshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Incendiary",
       "price": 92
     },
     {
       "abr": "empshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_EMP",
       "price": 92
     },
     {
       "abr": "smokeshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Smoke",
       "price": 92
     },
     {
       "abr": "firefoamshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Firefoam",
       "price": 92
     },
     {
       "abr": "antigrainwarhead",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_AntigrainWarhead",
       "price": 2000
     },
@@ -1399,18 +1399,6 @@
       "price": 567
     },
     {
-      "abr": "smokelauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmokeLauncher",
-      "price": 633
-    },
-    {
-      "abr": "emplauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_EmpLauncher",
-      "price": 842
-    },
-    {
       "abr": "bolt-actionrifle",
       "category": "Ranged weapons",
       "defname": "Gun_BoltActionRifle",
@@ -1505,12 +1493,6 @@
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
       "price": 1683
-    },
-    {
-      "abr": "chargelance",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeLance",
-      "price": 2258
     },
     {
       "abr": "orbitalbombardmenttargeter",
@@ -4649,12 +4631,6 @@
       "category": "Animals",
       "defname": "AA_Plasmorph",
       "price": 750
-    },
-    {
-      "abr": "radyak",
-      "category": "Animals",
-      "defname": "AA_Radyak",
-      "price": 12501
     },
     {
       "abr": "raptorshrimp",
@@ -8749,34 +8725,10 @@
       "price": 1117
     },
     {
-      "abr": "ballistabolt(normal)",
-      "category": "Ballista bolt",
-      "defname": "BallistaBolt_Normal",
-      "price": 92
-    },
-    {
-      "abr": "ballistabolt(he)",
-      "category": "Ballista bolt",
-      "defname": "BallistaBolt_Heavy",
-      "price": 92
-    },
-    {
-      "abr": "ballistabolt(ap)",
-      "category": "Ballista bolt",
-      "defname": "BallistaBolt_AP",
-      "price": 92
-    },
-    {
       "abr": "ratkincannon",
       "category": "Security",
       "defname": "RK_Cannon_Strait_Body",
       "price": -10
-    },
-    {
-      "abr": "ratkincannonshell",
-      "category": "Ratkin Cannon Shell",
-      "defname": "Big_mouse",
-      "price": 92
     },
     {
       "abr": "ratkin",
@@ -9169,12 +9121,6 @@
       "price": 875
     },
     {
-      "abr": "ratkinguardenerlongsword",
-      "category": "Melee weapons",
-      "defname": "RK_LongSword",
-      "price": 592
-    },
-    {
       "abr": "ratkinaxe",
       "category": "Melee weapons",
       "defname": "RK_Axe",
@@ -9227,18 +9173,6 @@
       "category": "Ranged weapons",
       "defname": "RK_SniperRifle",
       "price": 592
-    },
-    {
-      "abr": "ratkinflechetterifle",
-      "category": "Ranged weapons",
-      "defname": "RK_FlechetteRifle",
-      "price": 658
-    },
-    {
-      "abr": "ratkinflechettesniperrifle",
-      "category": "Ranged weapons",
-      "defname": "RK_FlechetteSniperRifle",
-      "price": 775
     },
     {
       "abr": "ratkin-prototypepulserifle",
@@ -12709,12 +12643,6 @@
       "price": 2
     },
     {
-      "abr": "tarshell",
-      "category": "Mortar shells",
-      "defname": "AB_Shell_Tar",
-      "price": 92
-    },
-    {
       "abr": "alcyonitechunk",
       "category": "Raw resources",
       "defname": "AB_AlcyoniteChunk",
@@ -14023,22 +13951,10 @@
       "price": 2
     },
     {
-      "abr": "smokegrenades",
-      "category": "Grenades",
-      "defname": "VWE_SmokeGrenade",
-      "price": 215
-    },
-    {
       "abr": "toxicgrenades",
       "category": "Grenades",
       "defname": "VWE_ToxicGrenade",
       "price": 1417
-    },
-    {
-      "abr": "flashgrenades",
-      "category": "Grenades",
-      "defname": "VWE_FlashGrenade",
-      "price": 525
     },
     {
       "abr": "shovel",
@@ -20063,7 +19979,379 @@
       "category": "Meat",
       "defname": "Meat_TM_Dire_WolfR",
       "price": -10
+    },
+    {
+      "abr": "gunbreakerskill:doubledown",
+      "category": "Scrolls",
+      "defname": "SkillOf_DoubleDown",
+      "price": 4667
+    },
+    {
+      "abr": "gunbreakerskill:hypervelocity",
+      "category": "Scrolls",
+      "defname": "SkillOf_Hypervelocity",
+      "price": 2333
+    },
+    {
+      "abr": "broom",
+      "category": "Melee weapons",
+      "defname": "VBY_NeoBroom",
+      "price": 44
+    },
+    {
+      "abr": "chthonianchitin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Chthonian",
+      "price": 13
+    },
+    {
+      "abr": "chthonianstrips",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ChthonianMeat",
+      "price": 3
+    },
+    {
+      "abr": "cthulhidmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_CthulhidMeat",
+      "price": 2
+    },
+    {
+      "abr": "darkyoungmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DarkYoungMeat",
+      "price": 2
+    },
+    {
+      "abr": "darkyoungsap",
+      "category": "Animal products",
+      "defname": "ROM_DarkYoungSap",
+      "price": 5
+    },
+    {
+      "abr": "dark-youngbark",
+      "category": "Leathers",
+      "defname": "CH_Leather_DarkYoung",
+      "price": 12
+    },
+    {
+      "abr": "deeponemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DeepOneMeat",
+      "price": 2
+    },
+    {
+      "abr": "deephide",
+      "category": "Leathers",
+      "defname": "CH_Leather_DeepOne",
+      "price": 12
+    },
+    {
+      "abr": "migomatter",
+      "category": "Leathers",
+      "defname": "CH_Leather_MiGo",
+      "price": 3
+    },
+    {
+      "abr": "migomeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_MiGoMeat",
+      "price": 2
+    },
+    {
+      "abr": "radyak",
+      "category": "Animals",
+      "defname": "AA_Radyak",
+      "price": 4167
+    },
+    {
+      "abr": "rhombohedralenergyweapon",
+      "category": "Ranged weapons",
+      "defname": "ROM_MiGoCastingWeapon",
+      "price": 417
+    },
+    {
+      "abr": "shoggothmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ShoggothMeat",
+      "price": 2
+    },
+    {
+      "abr": "starvampiremeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_StarVampireMeat",
+      "price": 2
+    },
+    {
+      "abr": "star-spawnskin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Cthulhid",
+      "price": 6
+    },
+    {
+      "abr": "star-vampireleather",
+      "category": "Leathers",
+      "defname": "CH_Leather_StarVampire",
+      "price": 8
+    },
+    {
+      "abr": "strangefinemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealFine",
+      "price": 47
+    },
+    {
+      "abr": "strangekibble",
+      "category": "Foods",
+      "defname": "ROM_StrangeKibble",
+      "price": 2
+    },
+    {
+      "abr": "strangelavishmeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealLavish",
+      "price": 67
+    },
+    {
+      "abr": "strangesimplemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealSimple",
+      "price": 42
+    },
+    {
+      "abr": "untouchablemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_Meat",
+      "price": 2
+    },
+    {
+      "abr": "90mmflakturret",
+      "category": "Security",
+      "defname": "Turret_Flak",
+      "price": 2325
+    },
+    {
+      "abr": "advancednightvisiongoggles",
+      "category": "Headgear",
+      "defname": "Apparel_AdvancedNightVision",
+      "price": 683
+    },
+    {
+      "abr": "ags-30",
+      "category": "Security",
+      "defname": "Turret_AGSThirty",
+      "price": 833
+    },
+    {
+      "abr": "backpack",
+      "category": "Loadbearing gear",
+      "defname": "Apparel_Backpack",
+      "price": 181
+    },
+    {
+      "abr": "ballisticshield",
+      "category": "Shields",
+      "defname": "Apparel_BallisticShield",
+      "price": 417
+    },
+    {
+      "abr": "bascinet",
+      "category": "Headgear",
+      "defname": "Apparel_Bascinet",
+      "price": 265
+    },
+    {
+      "abr": "binoculars",
+      "category": "Ranged weapons",
+      "defname": "Gun_BinocularsRadio",
+      "price": 1083
+    },
+    {
+      "abr": "chargeblasterauto-turret",
+      "category": "Security",
+      "defname": "Turret_Blaster",
+      "price": 1583
+    },
+    {
+      "abr": "compositevest",
+      "category": "Armor",
+      "defname": "Apparel_CompositeVest",
+      "price": 442
+    },
+    {
+      "abr": "disposablerocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "CE_DisposableRocketLauncher",
+      "price": 152
+    },
+    {
+      "abr": "firefoamgrenade",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeFirefoam",
+      "price": 19
+    },
+    {
+      "abr": "flaregun",
+      "category": "Ranged weapons",
+      "defname": "CE_FlareGun",
+      "price": 200
+    },
+    {
+      "abr": "flashbanggrenade",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeFlashbang",
+      "price": 14
+    },
+    {
+      "abr": "fsx",
+      "category": "Raw resources",
+      "defname": "FSX",
+      "price": 17
+    },
+    {
+      "abr": "gasmask",
+      "category": "Headgear",
+      "defname": "Apparel_GasMask",
+      "price": 193
+    },
+    {
+      "abr": "grenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "CE_GrenadeLauncher",
+      "price": 254
+    },
+    {
+      "abr": "gunsmithingbench",
+      "category": "Production",
+      "defname": "GunsmithingBench",
+      "price": 775
+    },
+    {
+      "abr": "halberd",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_Halberd",
+      "price": 358
+    },
+    {
+      "abr": "heavyauto-turret",
+      "category": "Security",
+      "defname": "Turret_Heavy",
+      "price": 3583
+    },
+    {
+      "abr": "improvisedgasmask",
+      "category": "Headgear",
+      "defname": "Apparel_ImprovGasMask",
+      "price": 156
+    },
+    {
+      "abr": "kpvmachinegun",
+      "category": "Security",
+      "defname": "Turret_KPV",
+      "price": 1383
+    },
+    {
+      "abr": "loadingbench",
+      "category": "Production",
+      "defname": "AmmoBench",
+      "price": 775
+    },
+    {
+      "abr": "m240b",
+      "category": "Security",
+      "defname": "Turret_M240B",
+      "price": 800
+    },
+    {
+      "abr": "maul",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_Maul",
+      "price": 483
+    },
+    {
+      "abr": "mediumauto-turret",
+      "category": "Security",
+      "defname": "Turret_Medium",
+      "price": 1250
+    },
+    {
+      "abr": "meleeshield",
+      "category": "Shields",
+      "defname": "Apparel_MeleeShield",
+      "price": 257
+    },
+    {
+      "abr": "nightvisionmonocular",
+      "category": "Headgear",
+      "defname": "Apparel_SimpleNightVision",
+      "price": 475
+    },
+    {
+      "abr": "poweredexoframe",
+      "category": "Loadbearing gear",
+      "defname": "Apparel_ExoFrame",
+      "price": 1708
+    },
+    {
+      "abr": "poweredmace",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_PoweredMace",
+      "price": 1575
+    },
+    {
+      "abr": "poweredmaul",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_PoweredMaul",
+      "price": 3217
+    },
+    {
+      "abr": "poweredshortsword",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_PoweredShortsword",
+      "price": 1592
+    },
+    {
+      "abr": "prometheum",
+      "category": "Raw resources",
+      "defname": "Prometheum",
+      "price": 10
+    },
+    {
+      "abr": "smokegrenade",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeSmoke",
+      "price": 17
+    },
+    {
+      "abr": "stickbomb",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeStickBomb",
+      "price": 43
+    },
+    {
+      "abr": "tacticalvest",
+      "category": "Loadbearing gear",
+      "defname": "Apparel_TacVest",
+      "price": 248
+    },
+    {
+      "abr": "tribalbackpack",
+      "category": "Loadbearing gear",
+      "defname": "Apparel_TribalBackpack",
+      "price": 97
+    },
+    {
+      "abr": "wraithblade",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_WraithBlade",
+      "price": 6667
+    },
+    {
+      "abr": "zweihander",
+      "category": "Melee weapons",
+      "defname": "CE_Melee_Zweihander",
+      "price": 650
     }
   ],
-  "total": 3344
+  "total": 3392
 }
