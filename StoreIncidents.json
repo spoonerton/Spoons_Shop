@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1600,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 5200,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
@@ -391,11 +391,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "cactipinedroppod",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -416,5 +411,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 83
+	"total": 82
 }
