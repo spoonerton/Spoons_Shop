@@ -454,8 +454,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 1000,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -484,8 +484,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 1000,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -514,8 +514,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 1000,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
