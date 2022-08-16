@@ -376,39 +376,9 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "alphaasteroid",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "aeorofleetmigration",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "stalkingarcticlion",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingsnowclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingduneclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "stalkingclutchmother",
 		"price": 2000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaliskwanderin",
-		"price": 700,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "SummitCrabRaid",
@@ -416,24 +386,9 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "cactipinedroppod",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "gallatrosswanderin",
 		"price": 1400,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "bumbledroneswanderin",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "raidblackhive",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "raidmechanoidsappers",
@@ -446,5 +401,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 89
+	"total": 80
 }
