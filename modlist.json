@@ -225,7 +225,7 @@
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
-    "version": "1.0.0.0"
+    "version": "1.3.2"
   },
   {
     "author": "TheWireLord",
@@ -489,7 +489,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.6"
+    "version": "2.5.8.3"
   },
   {
     "author": "Kure",
@@ -843,7 +843,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8247.19221"
+    "version": "1.0.8259.23517"
   },
   {
     "author": "Sandy",
@@ -1185,7 +1185,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.7"
+    "version": "6.2.0.9"
   },
   {
     "author": "saschahi",
@@ -1348,18 +1348,6 @@
     "name": "[Alien/Race] Seren, from Stardust",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Dametri",
-    "name": "[D] Arcane Technology",
-    "steamId": "2554469600",
-    "version": "1.3.0.3"
-  },
-  {
-    "author": "Dametri",
-    "name": "[D] Ignorance Is Bliss",
-    "steamId": "2554423472",
-    "version": "1.3.0.2"
   },
   {
     "author": "Oskar Potocki and  Taranchuk",

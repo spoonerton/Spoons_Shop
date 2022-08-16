@@ -211,6 +211,36 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -282,17 +312,17 @@
 	},
 	{
 		"abr": "healall",
-		"price": 10000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -312,16 +342,21 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 1000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
-		"price": 3000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -342,18 +377,13 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "alphaasteroid",
@@ -391,6 +421,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "SummitCrabRaid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "cactipinedroppod",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -406,10 +441,20 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "raidblackhive",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raidmechanoidsappers",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
 		"karmatype": "Bad"
 	}
 	],
-	"total": 82
+	"total": 91
 }

@@ -155,11 +155,11 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Purchase list",
-    "usage": "!purchaselist",
+    "name": "Karma explanation",
+    "usage": "!whatiskarma",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "PurchaseList"
+    "defName": "WhatIsKarma"
   },
   {
     "data": {
@@ -172,12 +172,12 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
+    "description": null,
+    "name": "Purchase list",
+    "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "GiftCoins"
+    "defName": "PurchaseList"
   },
   {
     "data": {
@@ -196,6 +196,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Mod info",
+    "usage": "!modinfo",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "ModInfo"
   },
   {
     "data": {
@@ -263,11 +281,47 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
+    "name": "Instructions",
+    "usage": "!instructions",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Instructions"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
     "name": "All commands",
     "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AvailableCommands"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Shows you the complete list of installed mods.",
+    "name": "Installed mods",
+    "usage": "!installedmods",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "InstalledMods"
   },
   {
     "data": {
@@ -286,6 +340,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "MyPawnClass"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Ability level",
+    "usage": "!abilitylevel",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbilityLevel"
   },
   {
     "data": {
@@ -532,12 +604,48 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Replaces a trait with a different trait.",
+    "name": "Replace trait",
+    "usage": "!replacetrait <old> <new>",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReplaceTraitShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "It's like buy item, but it gets added to your inventory if possible.",
     "name": "Backpack",
     "usage": "!backpack <item> [quantity]",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "BackpackShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Downgrades a skill's passion... sometimes.",
+    "name": "Remove passion",
+    "usage": "!removepassion <skill>",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "RemovePassionShortcut"
   },
   {
     "data": {
@@ -712,6 +820,24 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Shows your pawn's work priorities.",
+    "name": "Viewer work",
+    "usage": "!mypawnwork [worktype=priority] [...]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnWork"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
@@ -772,6 +898,24 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "FixAllPawns"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn leave the colony.",
+    "name": "Abandon pawn",
+    "usage": "!leave",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbandonPawn"
   },
   {
     "data": {
@@ -910,6 +1054,24 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
+    "name": "Insult",
+    "usage": "!insult [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Insult"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
     "name": "Chat",
     "usage": "!chat [target]",
@@ -1024,6 +1186,42 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "UnstickMe"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Marriage",
+    "usage": "!marry",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Marriage"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Divorce",
+    "usage": "!divorce",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Divorce"
   },
   {
     "data": {
