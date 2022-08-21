@@ -72,18 +72,6 @@
     "version": null
   },
   {
-    "author": "Hauvega",
-    "name": "Silent Raids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hauvega",
-    "name": "All Silent Raids Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Owlchemist",
     "name": "Cherry Picker (dev)",
     "steamId": "2633276599",
@@ -111,6 +99,12 @@
     "author": "ChJees",
     "name": "Androids",
     "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Animal Controls",
+    "steamId": "2426119067",
     "version": "1.0.0.0"
   },
   {
@@ -324,12 +318,6 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Export Agency",
-    "steamId": "1467209473",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vagabond and  Barsimmon",
     "name": "Fantasy Goblins Updated",
     "steamId": null,
@@ -489,7 +477,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.3"
+    "version": "2.5.8.4"
   },
   {
     "author": "Kure",
@@ -1026,12 +1014,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Captain Muscles (Nathan Harbour)",
-    "name": "Semi Random Research",
-    "steamId": "2375902187",
-    "version": "1.0.5"
-  },
-  {
     "author": "ILuvSilicon",
     "name": "ShadowRimRaces",
     "steamId": null,
@@ -1122,6 +1104,12 @@
     "version": "1.0.5.0"
   },
   {
+    "author": "RSev",
+    "name": "Synergistic Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "moronic",
     "name": "Arachne Race (Continued)",
     "steamId": null,
@@ -1183,15 +1171,15 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.3.2"
   },
   {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.9"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.1.0"
   },
   {
     "author": "AUTOMATIC",
@@ -1308,6 +1296,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -1408,6 +1402,12 @@
     "name": "[KV] Call Trade Ships",
     "steamId": "2431840021",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "CookieWookiee (original) & Kiame Vivacity",

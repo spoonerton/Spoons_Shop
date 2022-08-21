@@ -1048,8 +1048,8 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 300,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
@@ -1068,8 +1068,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 120,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
@@ -1086,8 +1086,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 120,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
@@ -1104,8 +1104,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 120,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",
@@ -1192,8 +1192,8 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 200,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
@@ -1210,8 +1210,8 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 200,
       "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "ToolkitUtils"
@@ -1232,14 +1232,14 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitAddon - More Stuff"
+      "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Clean the Map",
-    "usage": "!cleanup",
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "cleanup"
+    "defName": "GiftCoins"
   },
   {
     "data": {

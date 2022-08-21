@@ -206,6 +206,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "militaryaid",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -374,32 +379,7 @@
 		"abr": "randomadulthood",
 		"price": 300,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "stalkingclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "gallatrosswanderin",
-		"price": 1400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "raidmechanoidsappers",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fungalhuskwandersin",
-		"price": 600,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 80
+	"total": 76
 }
