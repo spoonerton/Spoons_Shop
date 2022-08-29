@@ -8711,7 +8711,7 @@
       "defName": "TM_Gifted",
       "name": "magicallygifted",
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 1500,
       "removePrice": 500,
       "degree": 0
@@ -18349,7 +18349,7 @@
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 1500,
       "removePrice": 500,
       "degree": 0
