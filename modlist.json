@@ -66,6 +66,12 @@
     "version": null
   },
   {
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -196,12 +202,6 @@
     "name": "Colored deep resources",
     "steamId": "2791102835",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "MarvinKosh",
-    "name": "Combat Readiness Check (Continued)",
-    "steamId": "2314304057",
-    "version": "1.0.3.0"
   },
   {
     "author": "avilmask",
@@ -416,8 +416,8 @@
   {
     "author": "Aelanna",
     "name": "Heruan Race",
-    "steamId": null,
-    "version": null
+    "steamId": "2810613161",
+    "version": "1.2.0.0"
   },
   {
     "author": "Gouda quiche",
@@ -477,7 +477,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.4"
+    "version": "2.5.8.7"
   },
   {
     "author": "Kure",
@@ -831,7 +831,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8259.23517"
+    "version": "1.0.8276.17836"
   },
   {
     "author": "Sandy",

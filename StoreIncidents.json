@@ -196,54 +196,9 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 1500,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "predators",
@@ -262,7 +217,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 5000,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -287,7 +242,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 60,
 		"karmatype": "Neutral"
 	},
 	{
@@ -307,7 +262,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 5000,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -317,7 +272,7 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -336,8 +291,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rescueme",
-		"price": 1200,
+		"abr": "replacetrait",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -381,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 76
+	"total": 67
 }
