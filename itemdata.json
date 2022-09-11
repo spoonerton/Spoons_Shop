@@ -36220,7 +36220,7 @@
     "KarmaType": null
   },
   "GooSlimeRed": {
-    "CustomName": null,
+    "CustomName": "medicalredgoo",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
