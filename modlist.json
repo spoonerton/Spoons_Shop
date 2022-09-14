@@ -90,6 +90,12 @@
     "version": "1.3.7862.41411"
   },
   {
+    "author": "avilmask",
+    "name": "Animal Controls",
+    "steamId": "2426119067",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dorsai",
     "name": "Animals Are Smart",
     "steamId": null,
@@ -135,7 +141,7 @@
     "author": "m00nl1ght-dev",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.4.4.0"
+    "version": "1.4.5.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -229,6 +235,12 @@
   },
   {
     "author": "Dubwise",
+    "name": "Dubs Bad Hygiene Lite",
+    "steamId": "2570319432",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
     "version": "1.0.0"
@@ -302,12 +314,6 @@
   {
     "author": "Zylle",
     "name": "Gemstones",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
     "steamId": null,
     "version": null
   },
@@ -399,7 +405,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.7"
+    "version": "2.5.8.8"
   },
   {
     "author": "Kure",
@@ -681,7 +687,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8286.3424"
+    "version": "1.0.8289.39793"
   },
   {
     "author": "Sandy",
@@ -712,6 +718,12 @@
     "name": "Recipe icons",
     "steamId": "1616643195",
     "version": "1.0.379.0018"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
   },
   {
     "author": "jeonggihun",
@@ -993,7 +1005,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.2"
+    "version": "6.2.1.3"
   },
   {
     "author": "Densevoid",
@@ -1066,6 +1078,12 @@
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.0.0.1"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JI_Won",

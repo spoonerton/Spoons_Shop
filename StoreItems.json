@@ -5902,13 +5902,13 @@
       "abr": "arcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemofholding",
       "category": "Refined magicyte",
       "defname": "TM_EStone_maxMP_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemofregeneration",
@@ -5920,13 +5920,13 @@
       "abr": "arcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemofregeneration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpRegenRate_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemofconservation",
@@ -5938,13 +5938,13 @@
       "abr": "arcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemofconservation",
       "category": "Refined magicyte",
       "defname": "TM_EStone_mpCost_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemofacceleration",
@@ -5956,13 +5956,13 @@
       "abr": "arcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemoflearning",
@@ -5974,13 +5974,13 @@
       "abr": "arcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemoflearning",
       "category": "Refined magicyte",
       "defname": "TM_EStone_xpGain_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemofresistance",
@@ -5992,13 +5992,13 @@
       "abr": "arcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemofresistance",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneRes_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemofforce",
@@ -6010,31 +6010,31 @@
       "abr": "arcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "majorarcanegemofforce",
       "category": "Refined magicyte",
       "defname": "TM_EStone_arcaneDmg_major",
-      "price": 1592
+      "price": -10
     },
     {
       "abr": "minorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_minor",
-      "price": 1983
+      "price": -10
     },
     {
       "abr": "arcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder",
-      "price": 4417
+      "price": -10
     },
     {
       "abr": "majorarcanegemofwonder",
       "category": "Refined magicyte",
       "defname": "TM_EStone_wonder_major",
-      "price": 10917
+      "price": -10
     },
     {
       "abr": "unrefinedmagicyte",
@@ -6880,13 +6880,13 @@
       "abr": "gemofarcaneinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Magic",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "gemofphysicalinsight",
       "category": "Magic artifacts",
       "defname": "GemstoneOfInsight_Might",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "elephantspear",
@@ -17176,7 +17176,7 @@
       "abr": "pickaxe",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_Pickaxe",
-      "price": 163
+      "price": -10
     },
     {
       "abr": "militarypick",
@@ -19708,19 +19708,19 @@
       "abr": "stone",
       "category": "Meat",
       "defname": "Meat_TM_Lesser_SentinelR",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "stone",
       "category": "Meat",
       "defname": "Meat_TM_SentinelR",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "stone",
       "category": "Meat",
       "defname": "Meat_TM_Greater_SentinelR",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "skeletonlichmeat",
@@ -20543,7 +20543,103 @@
       "category": "Infusers",
       "defname": "Infusion_Infuser_Legendary",
       "price": -10
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": 52
+    },
+    {
+      "abr": "bathmat",
+      "category": "Furniture",
+      "defname": "BathMat",
+      "price": 71
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": 124
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": 725
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": 675
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": 800
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": 55
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": 52
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": 9
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": 85
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52
     }
   ],
-  "total": 3424
+  "total": 3440
 }

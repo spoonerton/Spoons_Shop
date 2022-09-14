@@ -870,8 +870,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 30,
       "mod": "ToolkitUtils"
     },
     "description": null,
