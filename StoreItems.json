@@ -20639,7 +20639,121 @@
       "category": "Hygiene",
       "defname": "WashBucket",
       "price": 52
+    },
+    {
+      "abr": "askholmen",
+      "category": "Furniture",
+      "defname": "LTS_Askholmen",
+      "price": 102
+    },
+    {
+      "abr": "darkastrid",
+      "category": "Furniture",
+      "defname": "LTS_DarkAstrid",
+      "price": 102
+    },
+    {
+      "abr": "darkelectriclantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkElectricLantern",
+      "price": 68
+    },
+    {
+      "abr": "darklantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkLantern",
+      "price": 68
+    },
+    {
+      "abr": "darklantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkTableLantern",
+      "price": 68
+    },
+    {
+      "abr": "darklantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkElectricTableLantern",
+      "price": 68
+    },
+    {
+      "abr": "darklanternpost",
+      "category": "Furniture",
+      "defname": "LTS_DarkLightpost",
+      "price": 129
+    },
+    {
+      "abr": "darkoillamp",
+      "category": "Furniture",
+      "defname": "LTS_DarkOilLamp",
+      "price": 51
+    },
+    {
+      "abr": "darkvidja",
+      "category": "Furniture",
+      "defname": "LTS_DarkVidja",
+      "price": 102
+    },
+    {
+      "abr": "darkligtlanternpost",
+      "category": "Furniture",
+      "defname": "LTS_DarkLanternpost",
+      "price": 169
+    },
+    {
+      "abr": "electriclantern",
+      "category": "Furniture",
+      "defname": "LTS_ElectricLantern",
+      "price": 68
+    },
+    {
+      "abr": "gamlared",
+      "category": "Furniture",
+      "defname": "LTS_Gamlared",
+      "price": 136
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_Lantern",
+      "price": 68
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_TableLantern",
+      "price": 68
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_ElectricTableLantern",
+      "price": 68
+    },
+    {
+      "abr": "nordviken",
+      "category": "Furniture",
+      "defname": "LTS_NordvikenB",
+      "price": 205
+    },
+    {
+      "abr": "nordviken",
+      "category": "Furniture",
+      "defname": "LTS_NordvikenW",
+      "price": 205
+    },
+    {
+      "abr": "oillamp",
+      "category": "Furniture",
+      "defname": "LTS_OilLamp",
+      "price": 51
+    },
+    {
+      "abr": "skogsta",
+      "category": "Furniture",
+      "defname": "LTS_Skogsta",
+      "price": 305
     }
   ],
-  "total": 3440
+  "total": 3459
 }

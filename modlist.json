@@ -222,6 +222,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dracoix",
     "name": "Door Mat",
     "steamId": null,
@@ -363,7 +369,7 @@
     "author": "Aelanna",
     "name": "Heruan Race",
     "steamId": "2810613161",
-    "version": "1.2.0.0"
+    "version": "1.2.1.0"
   },
   {
     "author": "Gouda quiche",
@@ -570,12 +576,6 @@
     "version": null
   },
   {
-    "author": "wagon",
-    "name": "More Monster Girls Enhanced Patch",
-    "steamId": "2014872486",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Zylle",
     "name": "More Vanilla Biomes",
     "steamId": "1931453053",
@@ -687,7 +687,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8289.39793"
+    "version": "1.0.8294.38895"
   },
   {
     "author": "Sandy",
