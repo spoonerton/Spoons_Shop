@@ -4096,7 +4096,7 @@
       "abr": "goblinarrowquiver",
       "category": "Apparel",
       "defname": "Goblin_Quiver",
-      "price": 139
+      "price": -10
     },
     {
       "abr": "goblinleatherhelmet",
@@ -14782,7 +14782,7 @@
       "abr": "boots",
       "category": "Footwear",
       "defname": "DankPyon_Footwear_BootsLeather",
-      "price": 173
+      "price": -10
     },
     {
       "abr": "splintedboots",
@@ -14794,7 +14794,7 @@
       "abr": "plateboots",
       "category": "Footwear",
       "defname": "DankPyon_Footwear_BootsPlate",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "gloves",
@@ -14812,7 +14812,7 @@
       "abr": "plategloves",
       "category": "Handwear",
       "defname": "DankPyon_Handwear_GlovesPlate",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "brigandine",
@@ -15004,7 +15004,7 @@
       "abr": "quiver",
       "category": "Utility",
       "defname": "DankPyon_Apparel_Quiver",
-      "price": 194
+      "price": -10
     },
     {
       "abr": "redbandana",

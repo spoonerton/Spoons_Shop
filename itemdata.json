@@ -49360,7 +49360,7 @@
     "KarmaType": null
   },
   "DankPyon_Footwear_BootsLeather": {
-    "CustomName": null,
+    "CustomName": "medievalboots",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -49400,7 +49400,7 @@
     "KarmaType": null
   },
   "DankPyon_Footwear_BootsPlate": {
-    "CustomName": null,
+    "CustomName": "medievalplateboots",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
