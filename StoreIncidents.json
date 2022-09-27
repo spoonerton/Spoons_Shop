@@ -222,7 +222,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2500,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -287,7 +287,7 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -337,12 +337,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 300,
+		"price": 3000,
 		"karmatype": "Neutral"
 	},
 	{

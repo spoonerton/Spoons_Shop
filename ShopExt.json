@@ -61001,102 +61001,6 @@
       "addPrice": 1000,
       "removePrice": 500,
       "degree": 0
-    },
-    {
-      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
-      "stats": [
-        "+2.0 shooting accuracy",
-        "-15% aiming time",
-        "+4.0 melee hit chance",
-        "+6.0 melee dodge chance",
-        "-10% incoming damage multiplier",
-        "-10% trap spring chance",
-        "-90% mental break threshold",
-        "+10% pain shock threshold",
-        "x5% global certainty loss factor"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2.0 shooting accuracy",
-          "-15% aiming time",
-          "+4.0 melee hit chance",
-          "+6.0 melee dodge chance",
-          "-10% incoming damage multiplier",
-          "-10% trap spring chance",
-          "-90% mental break threshold",
-          "+10% pain shock threshold",
-          "x5% global certainty loss factor"
-        ]
-      },
-      "defName": "DankPyon_Fighter",
-      "name": "fighter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man. ",
-      "stats": [
-        "+6.0 shooting accuracy",
-        "-25% aiming time",
-        "+8.0 melee hit chance",
-        "+12.0 melee dodge chance",
-        "+10% medical tend quality",
-        "-30% incoming damage multiplier",
-        "+0.30 move speed",
-        "-20% trap spring chance",
-        "-15% mental break threshold",
-        "+30% pain shock threshold",
-        "x25% global certainty loss factor"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Medieval Overhaul",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+6.0 shooting accuracy",
-          "-25% aiming time",
-          "+8.0 melee hit chance",
-          "+12.0 melee dodge chance",
-          "+10% medical tend quality",
-          "-30% incoming damage multiplier",
-          "+0.30 move speed",
-          "-20% trap spring chance",
-          "-15% mental break threshold",
-          "+30% pain shock threshold",
-          "x25% global certainty loss factor"
-        ]
-      },
-      "defName": "DankPyon_Veteran",
-      "name": "veteran",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
     }
   ],
   "races": [
@@ -61109,7 +61013,7 @@
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
-          "+0 Leather amount",
+          "+75 Leather amount",
           "+3 Honor value"
         ],
         "mod": "Unknown",
@@ -61184,7 +61088,7 @@
           "+5.40 Move speed",
           "+10.0C Minimum comfortable temperature",
           "+36.0C Maximum comfortable temperature",
-          "+0 Leather amount",
+          "+75 Leather amount",
           "+3 Honor value",
           "+110% Global learning factor"
         ],
@@ -62181,7 +62085,7 @@
           "+90% Toxic sensitivity",
           "+130% Immunity gain speed",
           "+130 Carrying capacity",
-          "+50% Incoming damage multiplier",
+          "+70% Incoming damage multiplier",
           "+125% Mining speed",
           "+125% Construction speed"
         ],
@@ -62213,7 +62117,7 @@
           "+70.00% Negotiation ability",
           "+70.00% Arrest success chance",
           "+70.00% Trade price improvement",
-          "+40% Incoming damage multiplier",
+          "+65% Incoming damage multiplier",
           "+150% Mining speed",
           "+150% Construction speed",
           "+130 Meat amount",
@@ -62719,6 +62623,96 @@
       "enabled": true,
       "name": "seren",
       "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-50.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+20% Toxic sensitivity",
+          "+135% Immunity gain speed",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+300.0C Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+500.0C Maximum comfortable temperature",
+          "+0% Toxic sensitivity",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "-0.4 Melee dodge chance",
+          "+100.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "price": 3167
     }
   ]
 }

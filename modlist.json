@@ -36,6 +36,30 @@
     "version": "1.3.7862.41411"
   },
   {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "avilmask",
     "name": "Animal Controls",
     "steamId": "2426119067",
@@ -100,24 +124,6 @@
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Spanky_H",
@@ -210,8 +216,44 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jeonggihun",
+    "name": "EPOE retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Aelanna",
     "name": "Eccentric Extras - Angel Hairs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Angel Apparel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Cosmetic Modifications 2.0",
     "steamId": null,
     "version": null
   },
@@ -228,16 +270,16 @@
     "version": "1.0.8275.42636"
   },
   {
+    "author": "erdelf",
+    "name": "Export Agency",
+    "steamId": "1467209473",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Vagabond and  Barsimmon",
     "name": "Fantasy Goblins Updated",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "ssulunge",
-    "name": "FemaleBB BodyType Support",
-    "steamId": "1792668502",
-    "version": "1.0.0.0"
   },
   {
     "author": "ssulunge",
@@ -351,13 +393,19 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.8.8"
+    "version": "2.5.8.9"
   },
   {
     "author": "Kure",
     "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
   },
   {
     "author": "Jecrell and lbmaian",
@@ -462,28 +510,10 @@
     "version": "3.4.91"
   },
   {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Lighting and Heat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nunahur Al-Shamikh",
-    "name": "Medieval Medicines",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NotFood",
-    "name": "MendAndRecycle",
-    "steamId": "735241897",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "Bishop",
-    "name": "Mending Medieval",
-    "steamId": null,
-    "version": null
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
+    "steamId": "2503894706",
+    "version": "0.0.0.0"
   },
   {
     "author": "Razar1",
@@ -594,18 +624,6 @@
     "version": "1.0.15"
   },
   {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry",
-    "steamId": "2007576583",
-    "version": "2.0.0"
-  },
-  {
-    "author": "jeonggihun",
-    "name": "Quarry retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
@@ -646,6 +664,12 @@
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
     "version": "2.0.1.0"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
   },
   {
     "author": "jeonggihun",
@@ -720,12 +744,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval",
-    "steamId": "2516523040",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "bdew",
     "name": "Romance Tweaks",
     "steamId": null,
@@ -762,6 +780,12 @@
     "version": null
   },
   {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
@@ -782,6 +806,12 @@
   {
     "author": "VexedTrees",
     "name": "Rim-Hivers!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
     "steamId": null,
     "version": null
   },
@@ -978,30 +1008,6 @@
     "version": "1.3.0.3"
   },
   {
-    "author": "Dametri",
-    "name": "[D] Ignorance Is Bliss",
-    "steamId": "2554423472",
-    "version": "1.3.0.2"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "2633514537",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "2553700067",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and  Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": null,
@@ -1093,15 +1099,15 @@
   },
   {
     "author": "Syrchalis",
-    "name": "[SYR] Set Up Camp",
-    "steamId": "1470065926",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
     "version": "1.0.0.0"
   },
   {
-    "author": "Telkir",
-    "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
   },
   {
     "author": "Krkr",
