@@ -1729,12 +1729,6 @@
       "price": 333
     },
     {
-      "abr": "megaspider",
-      "category": "Animals",
-      "defname": "Megaspider",
-      "price": 833
-    },
-    {
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
@@ -16975,5 +16969,5 @@
       "price": 65
     }
   ],
-  "total": 2829
+  "total": 2828
 }
