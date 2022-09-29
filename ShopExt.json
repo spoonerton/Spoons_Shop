@@ -62645,7 +62645,7 @@
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "Android",
-      "price": 2500
+      "price": 2000
     },
     {
       "data": {
@@ -62676,7 +62676,7 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Droid",
       "price": 1417
     },
@@ -62710,7 +62710,7 @@
       },
       "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Battle droid",
       "price": 3167
     }
