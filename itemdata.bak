@@ -27520,7 +27520,7 @@
     "KarmaType": null
   },
   "LotRE_DeerMallorn": {
-    "CustomName": null,
+    "CustomName": "loriendeer",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -32040,7 +32040,7 @@
     "KarmaType": null
   },
   "MG_Catgirl": {
-    "CustomName": null,
+    "CustomName": "xcatgirl",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -32080,7 +32080,7 @@
     "KarmaType": null
   },
   "MG_Cowgirl": {
-    "CustomName": null,
+    "CustomName": "xcowgirl",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -32140,7 +32140,7 @@
     "KarmaType": null
   },
   "MG_Foxgirl": {
-    "CustomName": null,
+    "CustomName": "xfoxgirl",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -32920,7 +32920,7 @@
     "KarmaType": "Neutral"
   },
   "Cowgirl": {
-    "CustomName": null,
+    "CustomName": "cowgirl",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -56577,6 +56577,66 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "[LTS]Furnishing",
+    "KarmaType": null
+  },
+  "SpellOf_ConsumeCorpse_Mass": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "A RimWorld of Magic",
+    "KarmaType": null
+  },
+  "MLH_Lantern": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Medieval Lighting and Heat",
+    "KarmaType": null
+  },
+  "MLH_LargeBrazier": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Medieval Lighting and Heat",
     "KarmaType": null
   }
 }
