@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -58546,9 +58546,9 @@
       "conflicts": [
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Supreme Melee (Continued)",

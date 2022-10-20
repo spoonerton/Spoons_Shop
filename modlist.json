@@ -91,7 +91,7 @@
   },
   {
     "author": "Machine",
-    "name": "Better Infestations 1.3",
+    "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
   },
@@ -108,7 +108,7 @@
     "version": "0.5.0.0"
   },
   {
-    "author": "m00nl1ght-dev",
+    "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.4.5.0"
@@ -372,6 +372,18 @@
     "version": null
   },
   {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": "927155256",
+    "version": "1.4.6.0"
+  },
+  {
+    "author": "Netrve",
+    "name": "Hunters Use Melee!",
+    "steamId": "2062709324",
+    "version": "1.2.1.0"
+  },
+  {
     "author": "latta",
     "name": "FSharp.Core",
     "steamId": null,
@@ -405,7 +417,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.3.0.1"
+    "version": "1.4.0.1"
   },
   {
     "author": "Jecrell and lbmaian",
@@ -436,6 +448,12 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.5.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Spoon",
@@ -630,10 +648,22 @@
     "version": "1.0.15"
   },
   {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "Quarry retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8297.28632"
+    "version": "1.0.8316.26385"
   },
   {
     "author": "Sandy",
@@ -768,12 +798,6 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "avilmask",
     "name": "Self Dyeing",
     "steamId": "2562859859",
@@ -792,16 +816,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": "927155256",
-    "version": "1.4.6.0"
-  },
-  {
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.3.5"
+    "version": "1.4.1"
   },
   {
     "author": "Sarg",
@@ -861,7 +879,7 @@
     "author": "ChJees",
     "name": "Supreme Melee (Continued)",
     "steamId": "2311299987",
-    "version": "1.0.5.0"
+    "version": "1.4.1"
   },
   {
     "author": "RSev",
@@ -922,6 +940,12 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.2.1.3"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
   },
   {
     "author": "Densevoid",
@@ -994,6 +1018,12 @@
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
     "version": "1.0.0.1"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
   },
   {
     "author": "bodlosh",
@@ -1071,6 +1101,12 @@
     "author": "Fuu Chan",
     "name": "[Fuu] Auto Strip on Haul",
     "steamId": "2560725133",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Call Trade Ships",
+    "steamId": "2431840021",
     "version": "1.0.0.0"
   },
   {

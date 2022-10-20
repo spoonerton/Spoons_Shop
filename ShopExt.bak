@@ -58546,9 +58546,9 @@
       "conflicts": [
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Supreme Melee (Continued)",
