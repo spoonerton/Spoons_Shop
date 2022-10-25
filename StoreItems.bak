@@ -1352,19 +1352,19 @@
 	},
 	{
 		"abr": "revolver",
-		"price": 226,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
 	{
 		"abr": "autopistol",
-		"price": 232,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
 	{
 		"abr": "machinepistol",
-		"price": 367,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
@@ -1388,49 +1388,49 @@
 	},
 	{
 		"abr": "bolt-actionrifle",
-		"price": 425,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
 		"abr": "pumpshotgun",
-		"price": 425,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
 		"abr": "chainshotgun",
-		"price": 675,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "heavysmg",
-		"price": 592,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG"
 	},
 	{
 		"abr": "lmg",
-		"price": 708,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "assaultrifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
 		"abr": "sniperrifle",
-		"price": 883,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
 	{
 		"abr": "minigun",
-		"price": 1933,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
@@ -1454,37 +1454,37 @@
 	},
 	{
 		"abr": "shortbow",
-		"price": 114,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
 	},
 	{
 		"abr": "pila",
-		"price": 182,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Pila"
 	},
 	{
 		"abr": "recurvebow",
-		"price": 160,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
 	},
 	{
 		"abr": "greatbow",
-		"price": 244,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great"
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
@@ -3074,7 +3074,7 @@
 	},
 	{
 		"abr": "anti-materialrifle",
-		"price": 1717,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_AntiMaterialRifle"
 	},
@@ -3188,7 +3188,7 @@
 	},
 	{
 		"abr": "arachnesmg",
-		"price": 2667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "ArachnePninety"
 	},
@@ -3704,7 +3704,7 @@
 	},
 	{
 		"abr": "atlatl",
-		"price": 116,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VBY_Atlatl"
 	},
@@ -3914,7 +3914,7 @@
 	},
 	{
 		"abr": "battlerifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_BattleRifle"
 	},
@@ -3998,7 +3998,7 @@
 	},
 	{
 		"abr": "bfr3000",
-		"price": 3133,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_BFR"
 	},
@@ -4424,7 +4424,7 @@
 	},
 	{
 		"abr": "boomerang",
-		"price": 57,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VBY_Boomerang"
 	},
@@ -4676,7 +4676,7 @@
 	},
 	{
 		"abr": "carbine",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Carbine"
 	},
@@ -4832,43 +4832,43 @@
 	},
 	{
 		"abr": "chargelmg",
-		"price": 2833,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeLMG"
 	},
 	{
 		"abr": "chargeminigun",
-		"price": 5458,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeMinigun"
 	},
 	{
 		"abr": "chargepistol",
-		"price": 1008,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargePistol"
 	},
 	{
 		"abr": "chargerocketlauncher",
-		"price": 11667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeRocketLauncher"
 	},
 	{
 		"abr": "chargeshotgun",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeShotgun"
 	},
 	{
 		"abr": "chargesmg",
-		"price": 1508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSMG"
 	},
 	{
 		"abr": "chargesniperrifle",
-		"price": 2050,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSniperRifle"
 	},
@@ -4892,7 +4892,7 @@
 	},
 	{
 		"abr": "chatoyansniperrifle",
-		"price": 1783,
+		"price": -10,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_ChRifle"
 	},
@@ -5324,7 +5324,7 @@
 	},
 	{
 		"abr": "combathandgun",
-		"price": 291,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_CombatHandgun"
 	},
@@ -5468,7 +5468,7 @@
 	},
 	{
 		"abr": "compoundbow",
-		"price": 240,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Bow_Compound"
 	},
@@ -5504,7 +5504,7 @@
 	},
 	{
 		"abr": "corelauncher",
-		"price": 2283,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChjCoreLauncher"
 	},
@@ -5636,7 +5636,7 @@
 	},
 	{
 		"abr": "cribitepistol",
-		"price": 367,
+		"price": -10,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_CriPistol"
 	},
@@ -5654,7 +5654,7 @@
 	},
 	{
 		"abr": "crossbow",
-		"price": 358,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Bow_Crossbow"
 	},
@@ -6104,7 +6104,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -6284,7 +6284,7 @@
 	},
 	{
 		"abr": "dribblingcappoisondart",
-		"price": 7,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "AB_WeaponPoisonDart"
 	},
@@ -6494,7 +6494,7 @@
 	},
 	{
 		"abr": "dwarfcrossbow",
-		"price": 238,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "LotRD_Bow_DwarvenCross"
 	},
@@ -6506,7 +6506,7 @@
 	},
 	{
 		"abr": "dwarfhornbow",
-		"price": 186,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "LotRD_Bow_Dwarven"
 	},
@@ -6806,7 +6806,7 @@
 	},
 	{
 		"abr": "elephantbow",
-		"price": 2083,
+		"price": -10,
 		"category": "Ranged",
 		"defname": "TM_ElephantBow"
 	},
@@ -7424,7 +7424,7 @@
 	},
 	{
 		"abr": "fireextinguisher",
-		"price": 508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_FireExtinguisher"
 	},
@@ -7526,7 +7526,7 @@
 	},
 	{
 		"abr": "flamethrower",
-		"price": 667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flamethrower"
 	},
@@ -7544,7 +7544,7 @@
 	},
 	{
 		"abr": "flashgrenades",
-		"price": 525,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "VWE_FlashGrenade"
 	},
@@ -7616,7 +7616,7 @@
 	},
 	{
 		"abr": "flintlock",
-		"price": 319,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flintlock"
 	},
@@ -7808,7 +7808,7 @@
 	},
 	{
 		"abr": "galadhrim-elfbow",
-		"price": 467,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "LotRE_Bow_Galadhrim"
 	},
@@ -8078,7 +8078,7 @@
 	},
 	{
 		"abr": "goblinassaultrifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Goblin_AssaultRifle"
 	},
@@ -8096,7 +8096,7 @@
 	},
 	{
 		"abr": "goblinbow",
-		"price": 74,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Goblin_Bow"
 	},
@@ -8132,7 +8132,7 @@
 	},
 	{
 		"abr": "goblinlaserrifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Goblin_LaserRifle"
 	},
@@ -8156,7 +8156,7 @@
 	},
 	{
 		"abr": "goblinmachinepistol",
-		"price": 367,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Goblin_MachinePistol"
 	},
@@ -8186,7 +8186,7 @@
 	},
 	{
 		"abr": "goblinplumbata",
-		"price": 72,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Goblin_Plumbata"
 	},
@@ -8444,7 +8444,7 @@
 	},
 	{
 		"abr": "grenadelauncher",
-		"price": 508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_GrenadeLauncher"
 	},
@@ -8666,7 +8666,7 @@
 	},
 	{
 		"abr": "handcannon",
-		"price": 232,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HandCannon"
 	},
@@ -8828,7 +8828,7 @@
 	},
 	{
 		"abr": "heavycrossbow",
-		"price": 417,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VFEM_Bow_HeavyCrossbow"
 	},
@@ -8906,7 +8906,7 @@
 	},
 	{
 		"abr": "heruansolarlance",
-		"price": 2508,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "Heruan_SolarLance"
 	},
@@ -8954,7 +8954,7 @@
 	},
 	{
 		"abr": "heyranblastcrossbow",
-		"price": 1008,
+		"price": -10,
 		"category": "Heyran weaponry",
 		"defname": "Heyra_Blastcrossbow"
 	},
@@ -8978,7 +8978,7 @@
 	},
 	{
 		"abr": "heyrancrossbow",
-		"price": 255,
+		"price": -10,
 		"category": "Heyran weaponry",
 		"defname": "Heyra_Crossbow"
 	},
@@ -9296,7 +9296,7 @@
 	},
 	{
 		"abr": "hmg",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HMG"
 	},
@@ -9848,13 +9848,13 @@
 	},
 	{
 		"abr": "kijinfan",
-		"price": 650,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Kijin_Fan"
 	},
 	{
 		"abr": "kijinflamebow",
-		"price": 260,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kijin_FlameBow"
 	},
@@ -9872,7 +9872,7 @@
 	},
 	{
 		"abr": "kijinparalysisbow",
-		"price": 600,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kijin_PosionBow"
 	},
@@ -9896,7 +9896,7 @@
 	},
 	{
 		"abr": "kijinsmokebomb",
-		"price": 592,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Kijin_SmokeBomb"
 	},
@@ -10004,7 +10004,7 @@
 	},
 	{
 		"abr": "kurinassaultrifle",
-		"price": 792,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kurin_Gun_Assault_Rifle"
 	},
@@ -10034,7 +10034,7 @@
 	},
 	{
 		"abr": "kurincarbine",
-		"price": 792,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kurin_Gun_Carbine"
 	},
@@ -10070,7 +10070,7 @@
 	},
 	{
 		"abr": "kurinchargerifle",
-		"price": 3083,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kurin_Gun_Charge_Rifle"
 	},
@@ -10244,7 +10244,7 @@
 	},
 	{
 		"abr": "kurinsniperrifle",
-		"price": 842,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kurin_Gun_Sniper_Rifle"
 	},
@@ -10262,7 +10262,7 @@
 	},
 	{
 		"abr": "kurinsurigum",
-		"price": 206,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Kurin_Gun_Surigum"
 	},
@@ -10598,7 +10598,7 @@
 	},
 	{
 		"abr": "lever-actionrifle",
-		"price": 408,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_LeverActionRifle"
 	},
@@ -10622,7 +10622,7 @@
 	},
 	{
 		"abr": "lightsmg",
-		"price": 383,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_LightSMG"
 	},
@@ -10682,7 +10682,7 @@
 	},
 	{
 		"abr": "longbow",
-		"price": 197,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Bow_Long"
 	},
@@ -10742,7 +10742,7 @@
 	},
 	{
 		"abr": "machairodus",
-		"price": 3333,
+		"price": -10,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_FlakCaster"
 	},
@@ -11078,7 +11078,7 @@
 	},
 	{
 		"abr": "marksmanrifle",
-		"price": 1183,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_MarksmanRifle"
 	},
@@ -11342,7 +11342,7 @@
 	},
 	{
 		"abr": "minifoldpdw",
-		"price": 625,
+		"price": -10,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_MfoldPdw"
 	},
@@ -11492,7 +11492,7 @@
 	},
 	{
 		"abr": "mirkwood-elfbow",
-		"price": 260,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "LotRE_Bow_Mirkwood"
 	},
@@ -11594,7 +11594,7 @@
 	},
 	{
 		"abr": "moyoautocannon",
-		"price": 2900,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_AutoCannon"
 	},
@@ -11636,13 +11636,13 @@
 	},
 	{
 		"abr": "moyochargerifle",
-		"price": 1883,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_ChargeRifle"
 	},
 	{
 		"abr": "moyochargesmg",
-		"price": 1500,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_ChargeSMG"
 	},
@@ -11762,7 +11762,7 @@
 	},
 	{
 		"abr": "moyonailgun",
-		"price": 600,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_Pistol"
 	},
@@ -11786,13 +11786,13 @@
 	},
 	{
 		"abr": "moyoprecisionrifle",
-		"price": 1800,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_PrecisionRifle"
 	},
 	{
 		"abr": "moyoroyalautocannon",
-		"price": 3717,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_HeavyAutoCannon"
 	},
@@ -11810,7 +11810,7 @@
 	},
 	{
 		"abr": "moyoroyalchargerifle",
-		"price": 2683,
+		"price": -10,
 		"category": "Moyo ranged weapons",
 		"defname": "Moyo_HeavyChargeRifle"
 	},
@@ -11954,7 +11954,7 @@
 	},
 	{
 		"abr": "musket",
-		"price": 442,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Musket"
 	},
@@ -12014,7 +12014,7 @@
 	},
 	{
 		"abr": "n.p.crifle",
-		"price": 1483,
+		"price": -10,
 		"category": "Nyaron ranged weapons",
 		"defname": "Nr_NpcRifle"
 	},
@@ -12320,7 +12320,7 @@
 	},
 	{
 		"abr": "nyaronstalkbow",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Nr_Stkbow"
 	},
@@ -13166,7 +13166,7 @@
 	},
 	{
 		"abr": "rabbitstick",
-		"price": 57,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VBY_RabbitStick"
 	},
@@ -13322,7 +13322,7 @@
 	},
 	{
 		"abr": "ratkinautocrossbow",
-		"price": 550,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_AutoCrossBow"
 	},
@@ -13406,7 +13406,7 @@
 	},
 	{
 		"abr": "ratkincrossbow",
-		"price": 158,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_Crossbow"
 	},
@@ -13436,7 +13436,7 @@
 	},
 	{
 		"abr": "ratkinenhancedcrossbow",
-		"price": 263,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_EnhanceCrossBow"
 	},
@@ -13454,13 +13454,13 @@
 	},
 	{
 		"abr": "ratkinflechetterifle",
-		"price": 658,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_FlechetteRifle"
 	},
 	{
 		"abr": "ratkinflechettesniperrifle",
-		"price": 775,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_FlechetteSniperRifle"
 	},
@@ -13496,13 +13496,13 @@
 	},
 	{
 		"abr": "ratkingunlance(normal)",
-		"price": 1283,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "RK_Gunlance_NormalType"
 	},
 	{
 		"abr": "ratkingunlance(spread)",
-		"price": 1283,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "RK_Gunlance_SpreadType"
 	},
@@ -13652,7 +13652,7 @@
 	},
 	{
 		"abr": "ratkinrifle",
-		"price": 467,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_Rifle"
 	},
@@ -13670,13 +13670,13 @@
 	},
 	{
 		"abr": "ratkinshotgun",
-		"price": 567,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_Rifle_line"
 	},
 	{
 		"abr": "ratkinsniperrifle",
-		"price": 592,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_SniperRifle"
 	},
@@ -13742,7 +13742,7 @@
 	},
 	{
 		"abr": "ratkin-prototypepulserifle",
-		"price": 2150,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "RK_PrototypePulseRifle"
 	},
@@ -13802,13 +13802,13 @@
 	},
 	{
 		"abr": "rebelpistol",
-		"price": 323,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "ChjAndroidGun_Rebelpistol"
 	},
 	{
 		"abr": "rebelrifle",
-		"price": 925,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "ChjAndroidGun_RebelRifle"
 	},
@@ -13874,7 +13874,7 @@
 	},
 	{
 		"abr": "repeatingcrossbow",
-		"price": 733,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "ReviaRepeatingCrossbow"
 	},
@@ -13946,7 +13946,7 @@
 	},
 	{
 		"abr": "rivendell-elfbow",
-		"price": 775,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "LotRE_Bow_Rivendell"
 	},
@@ -13964,7 +13964,7 @@
 	},
 	{
 		"abr": "rocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_RocketLauncher"
 	},
@@ -14024,7 +14024,7 @@
 	},
 	{
 		"abr": "ronggunblade",
-		"price": 1617,
+		"price": -10,
 		"category": "Heyran weaponry",
 		"defname": "Heyra_Gunblade"
 	},
@@ -14336,7 +14336,7 @@
 	},
 	{
 		"abr": "sawed-offshotgun",
-		"price": 297,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_SawedOffShotgun"
 	},
@@ -14432,7 +14432,7 @@
 	},
 	{
 		"abr": "semi-automaticrifle",
-		"price": 408,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SemiAutomaticRifle"
 	},
@@ -14498,7 +14498,7 @@
 	},
 	{
 		"abr": "servicerifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ServiceRifle"
 	},
@@ -14588,7 +14588,7 @@
 	},
 	{
 		"abr": "shardcannon",
-		"price": 2083,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "ReviaFlechetteCannon"
 	},
@@ -15008,7 +15008,7 @@
 	},
 	{
 		"abr": "smg",
-		"price": 558,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SMG"
 	},
@@ -15020,7 +15020,7 @@
 	},
 	{
 		"abr": "smokegrenades",
-		"price": 215,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "VWE_SmokeGrenade"
 	},
@@ -15206,13 +15206,13 @@
 	},
 	{
 		"abr": "staffofblazingpower",
-		"price": 6250,
+		"price": -10,
 		"category": "Magic foci",
 		"defname": "TM_BlazingPowerStaff"
 	},
 	{
 		"abr": "staffofthedefender",
-		"price": 5583,
+		"price": -10,
 		"category": "Magic foci",
 		"defname": "TM_DefenderStaff"
 	},
@@ -15842,31 +15842,31 @@
 	},
 	{
 		"abr": "throwingknife",
-		"price": 141,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "ReviaThrowingKnife"
 	},
 	{
 		"abr": "throwingknives",
-		"price": 161,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Throwing_Knives"
 	},
 	{
 		"abr": "throwingrocks",
-		"price": 3,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VBY_ThrowingRocks"
 	},
 	{
 		"abr": "throwingrocks",
-		"price": 11,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Throwing_Rocks"
 	},
 	{
 		"abr": "thrumbow",
-		"price": 7467,
+		"price": -10,
 		"category": "Ranged",
 		"defname": "TM_ThrumBow"
 	},
@@ -16226,7 +16226,7 @@
 	},
 	{
 		"abr": "toxicgrenades",
-		"price": 1417,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "VWE_ToxicGrenade"
 	},
@@ -16262,7 +16262,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -16280,13 +16280,13 @@
 	},
 	{
 		"abr": "triunepistol",
-		"price": 1225,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Heruan_TriunePistol"
 	},
 	{
 		"abr": "triunerifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Heruan_TriuneRifle"
 	},
@@ -16610,19 +16610,19 @@
 	},
 	{
 		"abr": "wandoffire",
-		"price": 800,
+		"price": -10,
 		"category": "Magic foci",
 		"defname": "TM_FireWand"
 	},
 	{
 		"abr": "wandofice",
-		"price": 800,
+		"price": -10,
 		"category": "Magic foci",
 		"defname": "TM_IceWand"
 	},
 	{
 		"abr": "wandoflightning",
-		"price": 800,
+		"price": -10,
 		"category": "Magic foci",
 		"defname": "TM_LightningWand"
 	},
@@ -16748,7 +16748,7 @@
 	},
 	{
 		"abr": "whip",
-		"price": 203,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Tool_Whip"
 	},
@@ -16826,7 +16826,7 @@
 	},
 	{
 		"abr": "winter'sreign",
-		"price": 7500,
+		"price": -10,
 		"category": "Magic foci",
 		"defname": "TM_WinterStaff"
 	},
