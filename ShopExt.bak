@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -1866,8 +1866,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100,
-      "removePrice": 50,
+      "addPrice": 1,
+      "removePrice": 1,
       "degree": 2
     },
     {
@@ -53483,156 +53483,6 @@
       "degree": 0
     },
     {
-      "description": "This is what a common trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoCommon",
-      "name": "traitdemo:common",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
-    },
-    {
-      "description": "This is what an uncommon trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoUncommon",
-      "name": "traitdemo:uncommon",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
-    },
-    {
-      "description": "This is what a rare trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoRare",
-      "name": "traitdemo:rare",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
-    },
-    {
-      "description": "This is what an epic trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoEpic",
-      "name": "traitdemo:epic",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
-    },
-    {
-      "description": "This is what a legendary trait would look like when paired with RimTraits: Vanilla Trait Colours.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "RT_DemoLegendary",
-      "name": "traitdemo:legendary",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 1000,
-      "removePrice": 500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is naturally talented, he gets a headstart before everyone else.",
       "stats": [
         "+4 shooting",
@@ -60326,8 +60176,8 @@
       "name": "prisonguard",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60362,8 +60212,8 @@
       "name": "psychicprodigy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60398,8 +60248,8 @@
       "name": "giftedpsychic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60428,8 +60278,8 @@
       "name": "fasthands",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60458,8 +60308,8 @@
       "name": "crackshot",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60488,8 +60338,8 @@
       "name": "marksman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60522,8 +60372,8 @@
       "name": "swordsman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60560,8 +60410,8 @@
       "name": "foreman",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60596,8 +60446,8 @@
       "name": "deepdriller",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60634,8 +60484,8 @@
       "name": "sous-chef",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60668,8 +60518,8 @@
       "name": "pharmacist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60706,8 +60556,8 @@
       "name": "botanist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60750,8 +60600,8 @@
       "name": "rancher",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60784,8 +60634,8 @@
       "name": "artisan",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60822,8 +60672,8 @@
       "name": "fieldmedic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60858,8 +60708,8 @@
       "name": "smith",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60892,8 +60742,8 @@
       "name": "socialworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60926,8 +60776,8 @@
       "name": "naturalgenius",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60964,8 +60814,8 @@
       "name": "wise",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     },
     {
@@ -60998,8 +60848,8 @@
       "name": "peasant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 500,
       "degree": 0
     }
   ],
@@ -61697,6 +61547,7 @@
           "+5.0% Armor - Sharp",
           "+5.0% Armor - Blunt",
           "+0.0% Armor - Heat",
+          "+120% Toxic sensitivity",
           "+110% Eating speed",
           "+25 Leather amount",
           "+5.0 Melee dodge chance",
