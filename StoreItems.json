@@ -4750,7 +4750,7 @@
       "abr": "celestialwhisper",
       "category": "Heyran Masterpieces",
       "defname": "Heyra_Celestialwhisper",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "centaur",
@@ -17506,7 +17506,7 @@
       "abr": "beeswax",
       "category": "Beeswax",
       "defname": "RB_Beeswax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "biointerfacecomponents",
@@ -17536,7 +17536,7 @@
       "abr": "blackbeeswax",
       "category": "Beeswax",
       "defname": "RB_BlackBeeswax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "blackdrone",
@@ -17566,7 +17566,7 @@
       "abr": "bluebeeswax",
       "category": "Beeswax",
       "defname": "RB_BlueBeeswax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "bluehoney",
@@ -17578,7 +17578,7 @@
       "abr": "brittlebeeswax",
       "category": "Beeswax",
       "defname": "RB_Brittlewax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "cactusdrone",
@@ -17932,7 +17932,7 @@
       "abr": "heavywax",
       "category": "Beeswax",
       "defname": "RB_HeavyWax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "highdrone",
@@ -18424,7 +18424,7 @@
       "abr": "redbeeswax",
       "category": "Beeswax",
       "defname": "RB_RedBeeswax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "salvagedlaserpistol",
@@ -18574,7 +18574,7 @@
       "abr": "steelwax",
       "category": "Beeswax",
       "defname": "RB_Steelwax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "stonerdrone",
@@ -18778,7 +18778,7 @@
       "abr": "whitebeeswax",
       "category": "Beeswax",
       "defname": "RB_WhiteBeeswax",
-      "price": 8
+      "price": 2
     },
     {
       "abr": "whitehoney",

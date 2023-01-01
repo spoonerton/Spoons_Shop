@@ -481,9 +481,9 @@
   },
   "genderswap": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 1,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -681,17 +681,17 @@
   },
   "randomchildhood": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 1,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "randomadulthood": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 1,
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },

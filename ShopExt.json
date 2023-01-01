@@ -2691,7 +2691,7 @@
       "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
-      "removePrice": 500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -13677,7 +13677,7 @@
       "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
-      "removePrice": 500,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -52563,9 +52563,9 @@
         "trigger-happy",
         "wimp"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "NewRatkinPlus",

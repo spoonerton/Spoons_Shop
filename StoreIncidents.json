@@ -126,11 +126,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -337,12 +332,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 3000,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 3000,
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
@@ -356,5 +351,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 71
+	"total": 70
 }
