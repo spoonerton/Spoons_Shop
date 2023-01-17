@@ -2635,12 +2635,6 @@
       "price": -10
     },
     {
-      "abr": "adobeblocks",
-      "category": "Stone blocks",
-      "defname": "VBY_BlocksAdobe",
-      "price": 2
-    },
-    {
       "abr": "adrenalineribreplacement",
       "category": "Bionic",
       "defname": "AdrenalineRib",
@@ -3035,18 +3029,6 @@
       "category": "Furniture",
       "defname": "VFE_AnimalFeeder",
       "price": 87
-    },
-    {
-      "abr": "animaltotem",
-      "category": "Recreation",
-      "defname": "VBY_AnimalTotem",
-      "price": 542
-    },
-    {
-      "abr": "animalwisdomtotem",
-      "category": "Recreation",
-      "defname": "VBY_AnimalRimTotem",
-      "price": 542
     },
     {
       "abr": "animalisk",
@@ -3701,12 +3683,6 @@
       "category": "Meat",
       "defname": "Meat_AA_Atispec",
       "price": 3
-    },
-    {
-      "abr": "atlatl",
-      "category": "Ranged weapons",
-      "defname": "VBY_Atlatl",
-      "price": 116
     },
     {
       "abr": "auroracore",
@@ -4423,12 +4399,6 @@
       "price": 3
     },
     {
-      "abr": "boomerang",
-      "category": "Ranged weapons",
-      "defname": "VBY_Boomerang",
-      "price": 57
-    },
-    {
       "abr": "boomratmeat",
       "category": "Meat",
       "defname": "Meat_Boomrat",
@@ -4511,12 +4481,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_SpiritOfLight",
       "price": 3767
-    },
-    {
-      "abr": "broom",
-      "category": "Melee weapons",
-      "defname": "VBY_NeoBroom",
-      "price": 44
     },
     {
       "abr": "brownbarrelcactus",
@@ -4691,12 +4655,6 @@
       "category": "Gemstones",
       "defname": "RF_Carnelian",
       "price": 42
-    },
-    {
-      "abr": "carnivoreteeth",
-      "category": "Items",
-      "defname": "VBY_CarnivoreTeeth",
-      "price": 3
     },
     {
       "abr": "casualt-shirt",
@@ -6127,12 +6085,6 @@
       "price": 8
     },
     {
-      "abr": "doormat(haycloth)",
-      "category": "Furniture",
-      "defname": "VBY_DoorMatHayCloth",
-      "price": 8
-    },
-    {
       "abr": "doormat(orange)",
       "category": "Furniture",
       "defname": "LT_DoorMatOrange",
@@ -6149,18 +6101,6 @@
       "category": "Furniture",
       "defname": "LT_DoorMatTeal",
       "price": 8
-    },
-    {
-      "abr": "doublehaybed",
-      "category": "Furniture",
-      "defname": "VBY_DoubleHaybed",
-      "price": 99
-    },
-    {
-      "abr": "doubleleatherbed",
-      "category": "Furniture",
-      "defname": "VBY_DoubleLeatherbed",
-      "price": 231
     },
     {
       "abr": "doubleshelf",
@@ -7213,12 +7153,6 @@
       "price": 86
     },
     {
-      "abr": "fangclub",
-      "category": "Melee weapons",
-      "defname": "VBY_FangClub",
-      "price": 183
-    },
-    {
       "abr": "fedora",
       "category": "Headgear",
       "defname": "VAE_Headgear_Fedora",
@@ -7565,54 +7499,6 @@
       "category": "Animal",
       "defname": "TM_FleshGolem",
       "price": -10
-    },
-    {
-      "abr": "flint",
-      "category": "Raw resources",
-      "defname": "VBY_PrimitiveFlint",
-      "price": 2
-    },
-    {
-      "abr": "flintadze",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintAdze",
-      "price": 137
-    },
-    {
-      "abr": "flintaxe",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintAxe",
-      "price": 136
-    },
-    {
-      "abr": "flinthandaxe",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintHandAxe",
-      "price": 42
-    },
-    {
-      "abr": "flintknife",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintKnife",
-      "price": 69
-    },
-    {
-      "abr": "flintscraper",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintScraper",
-      "price": 28
-    },
-    {
-      "abr": "flintsickle",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintSickle",
-      "price": 109
-    },
-    {
-      "abr": "flintspear",
-      "category": "Melee weapons",
-      "defname": "VBY_FlintSpear",
-      "price": 191
     },
     {
       "abr": "flintlock",
@@ -8653,12 +8539,6 @@
       "price": 281
     },
     {
-      "abr": "hammerstone",
-      "category": "Melee weapons",
-      "defname": "VBY_HammerStone",
-      "price": 1
-    },
-    {
       "abr": "hampers",
       "category": "Furniture",
       "defname": "LWM_FabricHamper",
@@ -8785,18 +8665,6 @@
       "price": 425
     },
     {
-      "abr": "haybed",
-      "category": "Furniture",
-      "defname": "VBY_Haybed",
-      "price": 58
-    },
-    {
-      "abr": "haycloth",
-      "category": "Textiles",
-      "defname": "VBY_Haycloth",
-      "price": 2
-    },
-    {
       "abr": "hayloft",
       "category": "Furniture",
       "defname": "LWM_Hayloft",
@@ -8873,12 +8741,6 @@
       "category": "Furniture",
       "defname": "LTS_HemnesDouble",
       "price": 442
-    },
-    {
-      "abr": "herbalistandspiritmakingtable",
-      "category": "Production",
-      "defname": "VBY_PrimitiveBrewery_HerbalistBench",
-      "price": 333
     },
     {
       "abr": "heruan",
@@ -9683,12 +9545,6 @@
       "category": "Meat",
       "defname": "Meat_Megaspider",
       "price": 1
-    },
-    {
-      "abr": "insecttotem",
-      "category": "Recreation",
-      "defname": "VBY_InsectTotem",
-      "price": 542
     },
     {
       "abr": "insightfulmemorysculpture",
@@ -10513,12 +10369,6 @@
       "price": 1717
     },
     {
-      "abr": "leatherbed",
-      "category": "Furniture",
-      "defname": "VBY_Leatherbed",
-      "price": 142
-    },
-    {
       "abr": "leg",
       "category": "Natural",
       "defname": "Leg",
@@ -11095,12 +10945,6 @@
       "price": -10
     },
     {
-      "abr": "masonrytable",
-      "category": "Production",
-      "defname": "VBY_PrimitiveStoneCuttingTable",
-      "price": 266
-    },
-    {
       "abr": "maturefleshbeast",
       "category": "Animals",
       "defname": "AA_MatureFleshbeast",
@@ -11209,12 +11053,6 @@
       "price": 203
     },
     {
-      "abr": "mediumceramicvase",
-      "category": "Art",
-      "defname": "VBY_PotteryMed",
-      "price": 167
-    },
-    {
       "abr": "megalouse",
       "category": "Animals",
       "defname": "AA_MegaLouse",
@@ -11255,12 +11093,6 @@
       "category": "Books",
       "defname": "VBE_BookMelee",
       "price": 2258
-    },
-    {
-      "abr": "meleeweaponbench",
-      "category": "Production",
-      "defname": "VBY_PrimitiveMeleeWeaponTable",
-      "price": 315
     },
     {
       "abr": "memoryrecorder",
@@ -12823,42 +12655,6 @@
       "price": 950
     },
     {
-      "abr": "primitivecraftingtable",
-      "category": "Production",
-      "defname": "VBY_PrimitiveCraftingTable",
-      "price": 285
-    },
-    {
-      "abr": "primitiveresearchtable",
-      "category": "Production",
-      "defname": "VBY_PrimitiveResearchTable",
-      "price": 257
-    },
-    {
-      "abr": "primitivestylingstation",
-      "category": "Furniture",
-      "defname": "VBY_PrimitiveStylingStation",
-      "price": 358
-    },
-    {
-      "abr": "primitivetablettable",
-      "category": "Misc",
-      "defname": "VBY_PrimitiveTabletTable",
-      "price": 111
-    },
-    {
-      "abr": "primitivetailoringtable",
-      "category": "Production",
-      "defname": "VBY_PrimitiveTailoringTable",
-      "price": 311
-    },
-    {
-      "abr": "primitivetooltable",
-      "category": "Misc",
-      "defname": "VBY_PrimitiveToolBench",
-      "price": 135
-    },
-    {
       "abr": "processedresin",
       "category": "Raw resources",
       "defname": "AB_ProcessedResin",
@@ -13165,12 +12961,6 @@
       "price": 525
     },
     {
-      "abr": "rabbitstick",
-      "category": "Ranged weapons",
-      "defname": "VBY_RabbitStick",
-      "price": 57
-    },
-    {
       "abr": "rabbittail",
       "category": "Bionic",
       "defname": "EccentricTailRabbit",
@@ -13259,12 +13049,6 @@
       "category": "Utility",
       "defname": "VAEA_Apparel_RangedShieldBelt",
       "price": 650
-    },
-    {
-      "abr": "rangedweaponbench",
-      "category": "Production",
-      "defname": "VBY_PrimitiveRangedWeaponTable",
-      "price": 358
     },
     {
       "abr": "rangerskill:hunter'sshot",
@@ -14599,12 +14383,6 @@
       "price": 1167
     },
     {
-      "abr": "sharpenedstick",
-      "category": "Melee weapons",
-      "defname": "VBY_SharpStick",
-      "price": 72
-    },
-    {
       "abr": "shatterer",
       "category": "Melee weapons",
       "defname": "ReviaWarPick",
@@ -15001,12 +14779,6 @@
       "price": 8275
     },
     {
-      "abr": "smallceramicvase",
-      "category": "Art",
-      "defname": "VBY_PotterySmall",
-      "price": 98
-    },
-    {
       "abr": "smg",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_SMG",
@@ -15307,40 +15079,10 @@
       "price": 3
     },
     {
-      "abr": "stonebutchertable",
-      "category": "Production",
-      "defname": "VBY_PrimitiveButcherTable",
-      "price": 108
-    },
-    {
       "abr": "stonegolem",
       "category": "Animal",
       "defname": "TM_StoneGolem",
       "price": -10
-    },
-    {
-      "abr": "stonehammer",
-      "category": "Melee weapons",
-      "defname": "VBY_StoneHammer",
-      "price": 27
-    },
-    {
-      "abr": "stonekiln(h)",
-      "category": "Production",
-      "defname": "VBY_PrimitiveKiln",
-      "price": 156
-    },
-    {
-      "abr": "stonekiln(v)",
-      "category": "Production",
-      "defname": "VBY_PrimitiveKiln_Rotated",
-      "price": 156
-    },
-    {
-      "abr": "stonemallet",
-      "category": "Melee weapons",
-      "defname": "VBY_StoneMallet",
-      "price": 24
     },
     {
       "abr": "stonemill",
@@ -15353,12 +15095,6 @@
       "category": "Headgear",
       "defname": "VAE_Headgear_StoneWarMask",
       "price": 127
-    },
-    {
-      "abr": "stonewastebin",
-      "category": "Furniture",
-      "defname": "VBY_Clay_Pot_TwoWaste",
-      "price": 118
     },
     {
       "abr": "stoneskingland",
@@ -15593,12 +15329,6 @@
       "category": "Furniture",
       "defname": "LWM_VeryBigShelf",
       "price": 550
-    },
-    {
-      "abr": "tallystick",
-      "category": "Melee weapons",
-      "defname": "VBY_CountingStick",
-      "price": 18
     },
     {
       "abr": "tanktop",
@@ -15855,12 +15585,6 @@
     {
       "abr": "throwingrocks",
       "category": "Ranged weapons",
-      "defname": "VBY_ThrowingRocks",
-      "price": 3
-    },
-    {
-      "abr": "throwingrocks",
-      "category": "Ranged weapons",
       "defname": "VWE_Throwing_Rocks",
       "price": 11
     },
@@ -15875,12 +15599,6 @@
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
       "price": 7750
-    },
-    {
-      "abr": "thrumbochopper",
-      "category": "Melee weapons",
-      "defname": "VBY_ThrumboChopper",
-      "price": 1450
     },
     {
       "abr": "thrumbohorn",
@@ -16007,18 +15725,6 @@
       "category": "Utility",
       "defname": "VAEA_Apparel_ToolBelt",
       "price": 166
-    },
-    {
-      "abr": "toothaxe",
-      "category": "Melee weapons",
-      "defname": "VBY_ToothAxe",
-      "price": 119
-    },
-    {
-      "abr": "toothclub",
-      "category": "Melee weapons",
-      "defname": "VBY_ToothClub",
-      "price": 119
     },
     {
       "abr": "tornscript:arbormancer",
@@ -16597,12 +16303,6 @@
       "price": 100
     },
     {
-      "abr": "walkingstick",
-      "category": "Melee weapons",
-      "defname": "VBY_WalkingStick",
-      "price": 22
-    },
-    {
       "abr": "walmartcarpet",
       "category": "Misc",
       "defname": "LTS_WalmartCarpet",
@@ -16739,12 +16439,6 @@
       "category": "Manufactured",
       "defname": "LTSWeaponsToolkit",
       "price": 37
-    },
-    {
-      "abr": "wetclayclumps",
-      "category": "Manufactured",
-      "defname": "VBY_ClayPaste",
-      "price": -10
     },
     {
       "abr": "whip",
@@ -16919,12 +16613,6 @@
       "category": "Production",
       "defname": "BenchWoolLoom",
       "price": 148
-    },
-    {
-      "abr": "wovenwastebin",
-      "category": "Furniture",
-      "defname": "VBY_Woven_BasketWaste",
-      "price": 77
     },
     {
       "abr": "wrench",
@@ -18851,7 +18539,331 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Wooly_Queen",
       "price": 0
+    },
+    {
+      "abr": "braincrystal",
+      "category": "Drugs",
+      "defname": "RB_Braincrystal",
+      "price": 33
+    },
+    {
+      "abr": "dualrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
+    },
+    {
+      "abr": "moonmachiningtable",
+      "category": "Production",
+      "defname": "RB_MoonTableMachining",
+      "price": 758
+    },
+    {
+      "abr": "moontailorbench",
+      "category": "Production",
+      "defname": "RB_MoonTailoringBench",
+      "price": 517
+    },
+    {
+      "abr": "moonthread",
+      "category": "Textiles",
+      "defname": "Moonthread",
+      "price": 8
+    },
+    {
+      "abr": "planetarium",
+      "category": "Drugs",
+      "defname": "RefinedPlanetarium",
+      "price": 100
+    },
+    {
+      "abr": "planetariumtea",
+      "category": "Drugs",
+      "defname": "PlanetariumTea",
+      "price": 100
+    },
+    {
+      "abr": "quadrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
+    },
+    {
+      "abr": "rabbie",
+      "category": "Animal",
+      "defname": "Rabbie",
+      "price": -10
+    },
+    {
+      "abr": "rabbieblazer",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Blazer",
+      "price": 330
+    },
+    {
+      "abr": "rabbiecamisole",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Camisole",
+      "price": 39
+    },
+    {
+      "abr": "rabbiecasualtshirts",
+      "category": "Rabbie Apparel",
+      "defname": "RB_CasualTshirt",
+      "price": 286
+    },
+    {
+      "abr": "rabbiecommandercap",
+      "category": "Rabbie Apparel",
+      "defname": "RB_SeniorOfficerhat",
+      "price": 392
+    },
+    {
+      "abr": "rabbiecommandercloak",
+      "category": "Rabbie Apparel",
+      "defname": "RB_HighCloak",
+      "price": 508
+    },
+    {
+      "abr": "rabbiecommanderuniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_SeniorOfficer",
+      "price": 900
+    },
+    {
+      "abr": "rabbiecooktuque",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Cookhat",
+      "price": 206
+    },
+    {
+      "abr": "rabbiecookwear",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Cookwear",
+      "price": 750
+    },
+    {
+      "abr": "rabbiedept.energygown",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Energygown",
+      "price": 500
+    },
+    {
+      "abr": "rabbiedept.energysplyuniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Energymanager",
+      "price": 625
+    },
+    {
+      "abr": "rabbiedoctorgown",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Inteligown",
+      "price": 508
+    },
+    {
+      "abr": "rabbieearhoodjacket",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Earjacket",
+      "price": 392
+    },
+    {
+      "abr": "rabbiefashionhat",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Fashionhat",
+      "price": 113
+    },
+    {
+      "abr": "rabbiefieldarmyflakvest",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryvest",
+      "price": 783
+    },
+    {
+      "abr": "rabbiefieldarmyhelmet",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Infantryhelmet",
+      "price": 583
+    },
+    {
+      "abr": "rabbiefieldarmysuittypea",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantryuniform",
+      "price": 1225
+    },
+    {
+      "abr": "rabbiefieldarmysuittypeb",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Infantrynewuniform",
+      "price": 1225
+    },
+    {
+      "abr": "rabbiehairribbon",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Headribbon",
+      "price": 59
+    },
+    {
+      "abr": "rabbiehandyapron",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Apron",
+      "price": 209
+    },
+    {
+      "abr": "rabbieintelliglasses",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Glasses",
+      "price": 105
+    },
+    {
+      "abr": "rabbiemeat",
+      "category": "Meat",
+      "defname": "Meat_Rabbie",
+      "price": 3
+    },
+    {
+      "abr": "rabbiemetalpot",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Metalpot",
+      "price": 62
+    },
+    {
+      "abr": "rabbienecktieshirts",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Casualtieshirt",
+      "price": 342
+    },
+    {
+      "abr": "rabbieofficerberet",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Subofficerhat",
+      "price": 260
+    },
+    {
+      "abr": "rabbieofficeruniform",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Subofficer",
+      "price": 633
+    },
+    {
+      "abr": "rabbiepdw",
+      "category": "Ranged weapons",
+      "defname": "RB_F_PDW",
+      "price": 458
+    },
+    {
+      "abr": "rabbieregularamrypowerhelmet",
+      "category": "Rabbie Headgear",
+      "defname": "RB_RegularInfantryhelmet",
+      "price": 1758
+    },
+    {
+      "abr": "rabbieregulararmypowerarmor",
+      "category": "Rabbie Apparel",
+      "defname": "RB_RegularInfantrySuit",
+      "price": 4583
+    },
+    {
+      "abr": "rabbieribbonshirts",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Casualribbonshirt",
+      "price": 342
+    },
+    {
+      "abr": "rabbiesafehelmet",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Safehelmet",
+      "price": 152
+    },
+    {
+      "abr": "rabbiestarjacket",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Starjacket",
+      "price": 392
+    },
+    {
+      "abr": "rabbiesummercardigan",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerouter",
+      "price": 683
+    },
+    {
+      "abr": "rabbiesummerhat",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Summerhat",
+      "price": 238
+    },
+    {
+      "abr": "rabbiesummerfit",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Summerfit",
+      "price": 342
+    },
+    {
+      "abr": "rabbietechnicianjumpsuit",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Technician",
+      "price": 533
+    },
+    {
+      "abr": "rabbiewinterflockhat",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Winterhat",
+      "price": 110
+    },
+    {
+      "abr": "rabbiewintermuffler",
+      "category": "Rabbie Headgear",
+      "defname": "RB_Neckscarf",
+      "price": 130
+    },
+    {
+      "abr": "rabbiewinterparka",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterouter",
+      "price": 425
+    },
+    {
+      "abr": "rabbiewintersweater",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Winterknit",
+      "price": 375
+    },
+    {
+      "abr": "rabbieworkergirlwear",
+      "category": "Rabbie Apparel",
+      "defname": "RB_Handygirl",
+      "price": 533
+    },
+    {
+      "abr": "singlerefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "walldualrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_WallRefrigerator",
+      "price": 186
+    },
+    {
+      "abr": "wallsinglerefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "달비단",
+      "category": "Textiles",
+      "defname": "Moonsilk",
+      "price": 20
+    },
+    {
+      "abr": "생체공학래비꼬리",
+      "category": "Bionic",
+      "defname": "RB_BionicTail",
+      "price": 1717
     }
   ],
-  "total": 3142
+  "total": 3144
 }
