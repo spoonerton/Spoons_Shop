@@ -11344,7 +11344,7 @@
       "abr": "monkskill:touchofdeath",
       "category": "Scrolls",
       "defname": "SkillOf_TouchOfDeathC",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "monkskill:whistlingwind",
