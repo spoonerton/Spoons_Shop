@@ -174,12 +174,6 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "latta",
     "name": "FSharp.Core",
     "steamId": null,
@@ -432,18 +426,6 @@
     "version": null
   },
   {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Systems",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Furnishing",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "RSev",
     "name": "Synergistic Traits",
     "steamId": null,
@@ -582,8 +564,26 @@
     "version": null
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "BJInternetSupervision",
     "name": "[SS]Lovely Hair Style",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   }
