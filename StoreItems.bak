@@ -3913,12 +3913,6 @@
 		"defname": "LTS_BearRug"
 	},
 	{
-		"abr": "beartail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailBear"
-	},
-	{
 		"abr": "bearberries",
 		"price": 2,
 		"category": "Raw fruits",
@@ -4127,12 +4121,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Bison"
-	},
-	{
-		"abr": "blackbearear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarBlackBear"
 	},
 	{
 		"abr": "blackharpy",
@@ -4489,28 +4477,10 @@
 		"defname": "AB_RawBrownBarrelCactus"
 	},
 	{
-		"abr": "brownbearear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarBrownBear"
-	},
-	{
 		"abr": "builder'sjacket",
 		"price": 122,
 		"category": "Apparel",
 		"defname": "VAE_Apparel_BuildersJacket"
-	},
-	{
-		"abr": "bullhorn",
-		"price": 517,
-		"category": "Bionic",
-		"defname": "EccentricHornBull"
-	},
-	{
-		"abr": "bulltail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailBull"
 	},
 	{
 		"abr": "bulletproofvest",
@@ -4663,22 +4633,10 @@
 		"defname": "VAE_Apparel_CasualTShirt"
 	},
 	{
-		"abr": "catear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarCat"
-	},
-	{
 		"abr": "catmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cat"
-	},
-	{
-		"abr": "cattail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailCat"
 	},
 	{
 		"abr": "catgirl",
@@ -7561,22 +7519,10 @@
 		"defname": "VCEF_ForsakenAnglerfish"
 	},
 	{
-		"abr": "foxear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarFox"
-	},
-	{
 		"abr": "foxmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Fox_Fennec"
-	},
-	{
-		"abr": "foxtail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailFox"
 	},
 	{
 		"abr": "foxgirl",
@@ -8297,12 +8243,6 @@
 		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_GreatDevourerEggUnfertilized"
-	},
-	{
-		"abr": "greathornedowltuft",
-		"price": 517,
-		"category": "Bionic",
-		"defname": "EccentricHornGreatHornedOwl"
 	},
 	{
 		"abr": "greaterbloodrune",
@@ -9319,12 +9259,6 @@
 		"defname": "LotR_HorseRace"
 	},
 	{
-		"abr": "horseear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarHorse"
-	},
-	{
 		"abr": "horsemeat",
 		"price": 3,
 		"category": "Meat",
@@ -9335,12 +9269,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_LotR_HorseRace"
-	},
-	{
-		"abr": "horsetail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailHorse"
 	},
 	{
 		"abr": "hotcrystalbowl",
@@ -10219,18 +10147,6 @@
 		"defname": "VAE_Apparel_LabCoat"
 	},
 	{
-		"abr": "labradordogear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarLabrador"
-	},
-	{
-		"abr": "labradordogtail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailLabrador"
-	},
-	{
 		"abr": "labradorretrievermeat",
 		"price": 3,
 		"category": "Meat",
@@ -10789,18 +10705,6 @@
 		"defname": "ChjAndroidMaidOutfit"
 	},
 	{
-		"abr": "mainecooncattail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailMaineCoon"
-	},
-	{
-		"abr": "mainecoonear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarMaineCoon"
-	},
-	{
 		"abr": "majorarcanegemofacceleration",
 		"price": -10,
 		"category": "Refined magicyte",
@@ -11342,7 +11246,7 @@
 	},
 	{
 		"abr": "monkskill:touchofdeath",
-		"price": -10,
+		"price": 2667,
 		"category": "Scrolls",
 		"defname": "SkillOf_TouchOfDeathC"
 	},
@@ -11405,18 +11309,6 @@
 		"price": -10,
 		"category": "Melee weapons",
 		"defname": "LotRD_MoriaBattleShield"
-	},
-	{
-		"abr": "mouseear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarMouse"
-	},
-	{
-		"abr": "mousetail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailMouse"
 	},
 	{
 		"abr": "moyo",
@@ -12205,12 +12097,6 @@
 		"defname": "VAE_Headgear_NightVisionGoggles"
 	},
 	{
-		"abr": "onihorn",
-		"price": 517,
-		"category": "Bionic",
-		"defname": "EccentricHornOni"
-	},
-	{
 		"abr": "onions",
 		"price": 2,
 		"category": "Vegetarian",
@@ -12299,12 +12185,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_OvergrownColossus"
-	},
-	{
-		"abr": "owltail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailOwl"
 	},
 	{
 		"abr": "painkillerribreplacement",
@@ -12955,18 +12835,6 @@
 		"defname": "VAEA_Apparel_Quiver"
 	},
 	{
-		"abr": "rabbitear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarRabbit"
-	},
-	{
-		"abr": "rabbittail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailRabbit"
-	},
-	{
 		"abr": "raccoonmeat",
 		"price": 3,
 		"category": "Meat",
@@ -13037,12 +12905,6 @@
 		"price": 517,
 		"category": "Bionic",
 		"defname": "RS_Thermostat"
-	},
-	{
-		"abr": "ramhorn",
-		"price": 517,
-		"category": "Bionic",
-		"defname": "EccentricHornRam"
 	},
 	{
 		"abr": "rangedshieldbelt",
@@ -14407,18 +14269,6 @@
 		"defname": "Meat_Shek_"
 	},
 	{
-		"abr": "shepherddogear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarShepherd"
-	},
-	{
-		"abr": "shepherddogtail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailShepherd"
-	},
-	{
 		"abr": "sheriffshirt",
 		"price": 213,
 		"category": "Apparel",
@@ -14465,18 +14315,6 @@
 		"price": -10,
 		"category": "Melee weapons",
 		"defname": "ReviaChainSword"
-	},
-	{
-		"abr": "siamesecatear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarSiamese"
-	},
-	{
-		"abr": "siamesecattail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailSiamese"
 	},
 	{
 		"abr": "siegebreakerarmor",
@@ -15499,18 +15337,6 @@
 		"defname": "AA_Terramorph"
 	},
 	{
-		"abr": "terrierdogear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarTerrier"
-	},
-	{
-		"abr": "terrierdogtail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailTerrier"
-	},
-	{
 		"abr": "tetraslug",
 		"price": 6667,
 		"category": "Animals",
@@ -15599,12 +15425,6 @@
 		"price": -10,
 		"category": "Melee",
 		"defname": "TM_ThrumboAxe"
-	},
-	{
-		"abr": "thrumbohorn",
-		"price": 517,
-		"category": "Bionic",
-		"defname": "EccentricHornThrumbo"
 	},
 	{
 		"abr": "thrumbomeat",
@@ -16213,12 +16033,6 @@
 		"defname": "UnfinishedArcane"
 	},
 	{
-		"abr": "unicornhorn",
-		"price": 517,
-		"category": "Bionic",
-		"defname": "EccentricHornUnicorn"
-	},
-	{
 		"abr": "unrefinedmagicyte",
 		"price": 8,
 		"category": "Refined magicyte",
@@ -16531,22 +16345,10 @@
 		"defname": "TM_WizardHat"
 	},
 	{
-		"abr": "wolfear",
-		"price": 525,
-		"category": "Bionic",
-		"defname": "EccentricEarWolf"
-	},
-	{
 		"abr": "wolfmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Wolf_Timber"
-	},
-	{
-		"abr": "wolftail",
-		"price": 442,
-		"category": "Bionic",
-		"defname": "EccentricTailWolf"
 	},
 	{
 		"abr": "wolfgirl",
@@ -17399,7 +17201,37 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "RB_BionicTail"
+	},
+	{
+		"abr": "builder(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
+	},
+	{
+		"abr": "builder(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_II"
+	},
+	{
+		"abr": "builder(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
 	}
 	],
-	"total": 2900
+	"total": 2905
 }

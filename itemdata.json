@@ -42779,7 +42779,7 @@
     "Mod": "Kijin Race 2.0",
     "KarmaType": null
   },
-  "EccentricTailOwl": {
+  "RPP_Component": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42796,10 +42796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailBull": {
+  "Table_RPP_RoboticsBench": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42816,10 +42816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailHorse": {
+  "RPP_RechargeStation_Omni_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42836,10 +42836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailRabbit": {
+  "RPP_RechargeStation_Kitchen_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42856,10 +42856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailMouse": {
+  "RPP_RechargeStation_Kitchen_IV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42876,10 +42876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailBear": {
+  "RPP_RechargeStation_Kitchen_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42896,10 +42896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailWolf": {
+  "RPP_RechargeStation_Kitchen_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42916,10 +42916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailTerrier": {
+  "RPP_RechargeStation_Kitchen_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42936,10 +42936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailShepherd": {
+  "RPP_RechargeStation_ER_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42956,10 +42956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailLabrador": {
+  "RPP_RechargeStation_ER_IV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42976,10 +42976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailFox": {
+  "RPP_RechargeStation_ER_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42996,10 +42996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailSiamese": {
+  "RPP_RechargeStation_ER_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43016,10 +43016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailMaineCoon": {
+  "RPP_RechargeStation_ER_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43036,10 +43036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricTailCat": {
+  "RPP_RechargeStation_Crafter_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43056,10 +43056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricHornGreatHornedOwl": {
+  "RPP_RechargeStation_Crafter_IV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43076,10 +43076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricHornOni": {
+  "RPP_RechargeStation_Crafter_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43096,10 +43096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricHornRam": {
+  "RPP_RechargeStation_Crafter_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43116,10 +43116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricHornBull": {
+  "RPP_RechargeStation_Crafter_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43136,10 +43136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricHornUnicorn": {
+  "RPP_RechargeStation_Builder_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43156,10 +43156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricHornThrumbo": {
+  "RPP_RechargeStation_Builder_IV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43176,10 +43176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarHorse": {
+  "RPP_RechargeStation_Builder_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43196,10 +43196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarRabbit": {
+  "RPP_RechargeStation_Builder_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43216,10 +43216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarMouse": {
+  "RPP_RechargeStation_Builder_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43236,10 +43236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarBrownBear": {
+  "AIRobot_RechargeStation_Cleaner_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43256,10 +43256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarBlackBear": {
+  "AIRobot_RechargeStation_Cleaner_IV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43276,10 +43276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarWolf": {
+  "AIRobot_RechargeStation_Cleaner_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43296,10 +43296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarTerrier": {
+  "AIRobot_RechargeStation_Cleaner_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43316,10 +43316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarShepherd": {
+  "AIRobot_RechargeStation_Cleaner": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43336,10 +43336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarLabrador": {
+  "AIRobot_RechargeStation_Hauler_V": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43356,10 +43356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarFox": {
+  "AIRobot_RechargeStation_Hauler_IV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43376,10 +43376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarSiamese": {
+  "AIRobot_RechargeStation_Hauler_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43396,10 +43396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarMaineCoon": {
+  "AIRobot_RechargeStation_Hauler_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43416,10 +43416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
-  "EccentricEarCat": {
+  "AIRobot_RechargeStation_Hauler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -43436,7 +43436,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   },
   "EccentricUniformTech": {
@@ -57997,6 +57997,106 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Rabbie The Moonrabbit race",
+    "KarmaType": null
+  },
+  "RPP_Matrix_I": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Misc. Robots++",
+    "KarmaType": null
+  },
+  "RPP_Matrix_II": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Misc. Robots++",
+    "KarmaType": null
+  },
+  "RPP_Matrix_III": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Misc. Robots++",
+    "KarmaType": null
+  },
+  "RPP_Matrix_IV": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Misc. Robots++",
+    "KarmaType": null
+  },
+  "RPP_Matrix_V": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Misc. Robots++",
     "KarmaType": null
   }
 }
