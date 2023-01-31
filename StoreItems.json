@@ -1372,19 +1372,19 @@
       "abr": "incendiarylauncher",
       "category": "Ranged weapons",
       "defname": "Gun_IncendiaryLauncher",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "smokelauncher",
       "category": "Ranged weapons",
       "defname": "Gun_SmokeLauncher",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "emplauncher",
       "category": "Ranged weapons",
       "defname": "Gun_EmpLauncher",
-      "price": 842
+      "price": -10
     },
     {
       "abr": "bolt-actionrifle",
@@ -1438,19 +1438,19 @@
       "abr": "fraggrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeFrag",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "molotovcocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "empgrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeEMP",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "shortbow",
@@ -4666,7 +4666,7 @@
       "abr": "celestialwhisper",
       "category": "Heyran Masterpieces",
       "defname": "Heyra_Celestialwhisper",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "centaur",
@@ -4768,7 +4768,7 @@
       "abr": "chargerocketlauncher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeRocketLauncher",
-      "price": 11667
+      "price": -10
     },
     {
       "abr": "chargeshotgun",
@@ -5422,7 +5422,7 @@
       "abr": "corelauncher",
       "category": "Ranged weapons",
       "defname": "Gun_ChjCoreLauncher",
-      "price": 2283
+      "price": -10
     },
     {
       "abr": "coresampledrill",
@@ -6022,7 +6022,7 @@
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "doormat",
@@ -7318,7 +7318,7 @@
       "abr": "fireextinguisher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_FireExtinguisher",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "firepit",
@@ -7420,7 +7420,7 @@
       "abr": "flamethrower",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_Flamethrower",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "flamingophoenix",
@@ -7438,7 +7438,7 @@
       "abr": "flashgrenades",
       "category": "Grenades",
       "defname": "VWE_FlashGrenade",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "flatscreentv",
@@ -8272,7 +8272,7 @@
       "abr": "grenadelauncher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_GrenadeLauncher",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "grey-coatedmouflon",
@@ -8758,7 +8758,7 @@
       "abr": "heyranblastcrossbow",
       "category": "Heyran weaponry",
       "defname": "Heyra_Blastcrossbow",
-      "price": 1008
+      "price": -10
     },
     {
       "abr": "heyranbreachhammer",
@@ -9634,7 +9634,7 @@
       "abr": "kijinfan",
       "category": "Grenades",
       "defname": "Kijin_Fan",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "kijinflamebow",
@@ -9682,7 +9682,7 @@
       "abr": "kijinsmokebomb",
       "category": "Grenades",
       "defname": "Kijin_SmokeBomb",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "kinghamster",
@@ -10240,7 +10240,7 @@
       "abr": "lastpunishmentincinerator",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_Punishment",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "lattecoffee",
@@ -10510,7 +10510,7 @@
       "abr": "machairodus",
       "category": "Nyaron ranged weapons",
       "defname": "Nr_FlakCaster",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "machiningcabinet",
@@ -11386,7 +11386,7 @@
       "abr": "moyocryoblaster",
       "category": "Moyo ranged weapons",
       "defname": "Moyo_CryoBlaster",
-      "price": 2783
+      "price": -10
     },
     {
       "abr": "moyodeepdivinggear",
@@ -13612,7 +13612,7 @@
       "abr": "rocketlauncher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_RocketLauncher",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "rodian",
@@ -14632,7 +14632,7 @@
       "abr": "smokegrenades",
       "category": "Grenades",
       "defname": "VWE_SmokeGrenade",
-      "price": 215
+      "price": -10
     },
     {
       "abr": "smokebombbelt",
@@ -14878,7 +14878,7 @@
       "abr": "stickbombs",
       "category": "Grenades",
       "defname": "Goblin_StickBomb",
-      "price": 322
+      "price": -10
     },
     {
       "abr": "stockholm",
@@ -15754,7 +15754,7 @@
       "abr": "toxicgrenades",
       "category": "Grenades",
       "defname": "VWE_ToxicGrenade",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "trapperhat",
@@ -15790,7 +15790,7 @@
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "triunecirclet",
@@ -16336,7 +16336,7 @@
       "abr": "winter'sreign",
       "category": "Magic foci",
       "defname": "TM_WinterStaff",
-      "price": 7500
+      "price": -10
     },
     {
       "abr": "wizardhat",
