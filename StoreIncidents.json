@@ -126,6 +126,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "meteor",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -188,6 +193,46 @@
 	{
 		"abr": "alphabeavers",
 		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -351,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 70
+	"total": 79
 }
