@@ -1,11 +1,5 @@
 ﻿[
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "plaxen",
     "name": "Malang Bodies ",
     "steamId": null,
@@ -30,6 +24,12 @@
     "version": null
   },
   {
+    "author": "RSev",
+    "name": "Synergistic Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -38,12 +38,6 @@
   {
     "author": "Alan Dariva and  Usagirei",
     "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RSev",
-    "name": "Synergistic Traits",
     "steamId": null,
     "version": null
   },
@@ -308,12 +302,6 @@
   {
     "author": "VexedTrees",
     "name": "Rim-Skeletons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spoon",
-    "name": "Magic AI Enhancement",
     "steamId": null,
     "version": null
   },
