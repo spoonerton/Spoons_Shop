@@ -6,22 +6,16 @@
     "version": "2.4.2.0"
   },
   {
-    "author": "RimWorld Multiplayer Team",
-    "name": "Multiplayer",
-    "steamId": "2606448745",
-    "version": "1.0.0+20f67dab18fd72e9c4cd56d25e502734763f1895"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "3513789221",
-    "version": "11.0.5"
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -100,6 +94,12 @@
     "name": "The Sims Traits",
     "steamId": "3604588393",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "PeteTimesSix",
@@ -226,5 +226,41 @@
     "name": "Achtung!",
     "steamId": "730936602",
     "version": "4.1.8.0"
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "vin",
+    "name": "LWM's Adaptive Deep Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NuanKi",
+    "name": "Adaptive Storage - Global Settings",
+    "steamId": "3530785055",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.8.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "3512466087",
+    "version": "1.0.17"
+  },
+  {
+    "author": "GrumpyGremlin",
+    "name": "Simple Buildable Terrain",
+    "steamId": null,
+    "version": null
   }
 ]

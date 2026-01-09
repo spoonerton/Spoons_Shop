@@ -5026,211 +5026,211 @@
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "haulingbot",
       "category": "Animal",
       "defname": "AIRobot_Hauler_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "cleaningbot",
       "category": "Animal",
       "defname": "AIRobot_Cleaner_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "builderbot",
       "category": "Animal",
       "defname": "RPP_Bot_Builder_I",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "builderbot",
       "category": "Animal",
       "defname": "RPP_Bot_Builder_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "builderbot",
       "category": "Animal",
       "defname": "RPP_Bot_Builder_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "builderbot",
       "category": "Animal",
       "defname": "RPP_Bot_Builder_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "builderbot",
       "category": "Animal",
       "defname": "RPP_Bot_Builder_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "crafterbot",
       "category": "Animal",
       "defname": "RPP_Bot_Crafter_I",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "crafterbot",
       "category": "Animal",
       "defname": "RPP_Bot_Crafter_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "crafterbot",
       "category": "Animal",
       "defname": "RPP_Bot_Crafter_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "crafterbot",
       "category": "Animal",
       "defname": "RPP_Bot_Crafter_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "crafterbot",
       "category": "Animal",
       "defname": "RPP_Bot_Crafter_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "erbot",
       "category": "Animal",
       "defname": "RPP_Bot_ER_I",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "erbot",
       "category": "Animal",
       "defname": "RPP_Bot_ER_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "erbot",
       "category": "Animal",
       "defname": "RPP_Bot_ER_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "erbot",
       "category": "Animal",
       "defname": "RPP_Bot_ER_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "erbot",
       "category": "Animal",
       "defname": "RPP_Bot_ER_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_I",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "kitchenbot",
       "category": "Animal",
       "defname": "RPP_Bot_Kitchen_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_I",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_II",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_III",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_IV",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "omnibot",
       "category": "Animal",
       "defname": "RPP_Bot_Omni_V",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "roboticcomponent",

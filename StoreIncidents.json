@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1000,
-		"karmatype": "Doom"
+		"price": 8000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 3333,
-		"karmatype": "Doom"
+		"price": 26000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -127,8 +127,13 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 300,
+		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -158,6 +163,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -197,42 +207,42 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 2000,
+		"price": 1900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2000,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "militaryaid",
-		"price": 3000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -291,6 +301,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -312,17 +327,17 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 10000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2500,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 2500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -342,7 +357,17 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -352,11 +377,26 @@
 	},
 	{
 		"abr": "passion",
-		"price": 2000,
-		"karmatype": "Good"
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "removepassion",
+		"price": 500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -377,12 +417,12 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 300,
+		"price": 200,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 300,
+		"price": 200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 87
 }

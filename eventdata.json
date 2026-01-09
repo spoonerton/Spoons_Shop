@@ -1,17 +1,17 @@
 {
   "tornado": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 5,
+    "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "tornados": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 5,
+    "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -210,9 +210,9 @@
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 1,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -402,9 +402,9 @@
   "infestation": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 10,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "manhunterpack": {
@@ -442,9 +442,9 @@
   "reviveanypawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 10,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "pawn": {
@@ -458,9 +458,9 @@
   "levelskill": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 1,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "trait": {
@@ -481,9 +481,9 @@
   },
   "genderswap": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
+    "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 1,
+    "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -681,18 +681,18 @@
   },
   "randomchildhood": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 1,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 20,
     "Mod": "ToolkitUtils"
   },
   "randomadulthood": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 1,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 10,
     "Mod": "ToolkitUtils"
   },
   "smite": {
